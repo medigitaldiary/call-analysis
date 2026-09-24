@@ -1,1 +1,72 @@
-{"data":"LyoqCiAqIFF1aWNrIHNjcmlwdCB0byBmaW5kIGFuZCBjYW5jZWwgU2hhcmlrJ3MgYWN0aXZlIHNlc3Npb24uCiAqIFJ1bjogbm9kZSBzY3JpcHRzL2NhbmNlbC1zZXNzaW9uLm1qcwogKi8KaW1wb3J0IHsgbmVvbiB9IGZyb20gJ0BuZW9uZGF0YWJhc2Uvc2VydmVybGVzcyc7CmltcG9ydCB7IHJlYWRGaWxlU3luYyB9IGZyb20gJ2ZzJzsKaW1wb3J0IHsgcmVzb2x2ZSwgZGlybmFtZSB9IGZyb20gJ3BhdGgnOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoIH0gZnJvbSAndXJsJzsKCmNvbnN0IF9fZGlybmFtZSA9IGRpcm5hbWUoZmlsZVVSTFRvUGF0aChpbXBvcnQubWV0YS51cmwpKTsKCi8vIExvYWQgLmVudi5sb2NhbApjb25zdCBlbnZQYXRoID0gcmVzb2x2ZShfX2Rpcm5hbWUsICcuLi8uZW52LmxvY2FsJyk7CmNvbnN0IGVudlRleHQgPSByZWFkRmlsZVN5bmMoZW52UGF0aCwgJ3V0ZjgnKTsKZm9yIChjb25zdCBsaW5lIG9mIGVudlRleHQuc3BsaXQoJ1xuJykpIHsKICBjb25zdCB0cmltbWVkID0gbGluZS50cmltKCk7CiAgaWYgKCF0cmltbWVkIHx8IHRyaW1tZWQuc3RhcnRzV2l0aCgnIycpKSBjb250aW51ZTsKICBjb25zdCBlcUlkeCA9IHRyaW1tZWQuaW5kZXhPZignPScpOwogIGlmIChlcUlkeCA9PT0gLTEpIGNvbnRpbnVlOwogIGNvbnN0IGsgPSB0cmltbWVkLnNsaWNlKDAsIGVxSWR4KS50cmltKCk7CiAgLy8gU3RyaXAgc3Vycm91bmRpbmcgcXVvdGVzLCBsaXRlcmFsIFxuIHNlcXVlbmNlcywgYW5kIHRyYWlsaW5nIHF1b3RlCiAgbGV0IHYgPSB0cmltbWVkLnNsaWNlKGVxSWR4ICsgMSkudHJpbSgpOwogIHYgPSB2LnJlcGxhY2UoL14iLywgJycpLnJlcGxhY2UoLyIkLywgJycpOyAgLy8gc3RyaXAgc3Vycm91bmRpbmcgZG91YmxlIHF1b3RlcwogIHYgPSB2LnJlcGxhY2UoL1xcbi9nLCAnJyk7ICAgICAgICAgICAgICAgICAgIC8vIHJlbW92ZSBsaXRlcmFsIFxuIHNlcXVlbmNlcwogIHByb2Nlc3MuZW52W2tdID0gdjsKfQoKY29uc3Qgc3FsID0gbmVvbihwcm9jZXNzLmVudi5EQVRBQkFTRV9VUkwpOwoKLy8gRmluZCBTaGFyaWsncyBhY3RpdmUvcHJvY2Vzc2luZyBzZXNzaW9uCmNvbnN0IHNlc3Npb25zID0gYXdhaXQgc3FsYAogIFNFTEVDVCBpZCwgcm1fbmFtZSwgc2Vzc2lvbl9kYXRlLCBzdGF0dXMsIHRvdGFsX2ZpbGVzLCBwcm9jZXNzZWRfZmlsZXMsIGNyZWF0ZWRfYXQKICBGUk9NIGJ1bGtfc2Vzc2lvbnMKICBXSEVSRSBybV9uYW1lIElMSUtFICclc2hhcmlrJScKICAgIEFORCBzdGF0dXMgTk9UIElOICgnZG9uZScsICdjYW5jZWxsZWQnLCAnYXJjaGl2ZWQnKQogIE9SREVSIEJZIGNyZWF0ZWRfYXQgREVTQwogIExJTUlUIDUKYDsKCmlmIChzZXNzaW9ucy5sZW5ndGggPT09IDApIHsKICAvLyBTaG93IGFsbCByZWNlbnQgU2hhcmlrIHNlc3Npb25zIHNvIHdlIGNhbiBwaWNrIHRoZSByaWdodCBvbmUKICBjb25zdCBhbGwgPSBhd2FpdCBzcWxgCiAgICBTRUxFQ1QgaWQsIHJtX25hbWUsIHNlc3Npb25fZGF0ZSwgc3RhdHVzLCB0b3RhbF9maWxlcywgcHJvY2Vzc2VkX2ZpbGVzLCBjcmVhdGVkX2F0CiAgICBGUk9NIGJ1bGtfc2Vzc2lvbnMKICAgIFdIRVJFIHJtX25hbWUgSUxJS0UgJyVzaGFyaWslJwogICAgT1JERVIgQlkgY3JlYXRlZF9hdCBERVNDCiAgICBMSU1JVCA1CiAgYDsKICBjb25zb2xlLmxvZygnTm8gYWN0aXZlIHNlc3Npb25zIGZvdW5kLiBSZWNlbnQgc2Vzc2lvbnM6Jyk7CiAgY29uc29sZS50YWJsZShhbGwpOwogIHByb2Nlc3MuZXhpdCgwKTsKfQoKY29uc29sZS5sb2coJ0FjdGl2ZS9wcm9jZXNzaW5nIHNlc3Npb25zIGZvdW5kOicpOwpjb25zb2xlLnRhYmxlKHNlc3Npb25zKTsKCmNvbnN0IHRhcmdldCA9IHNlc3Npb25zWzBdOwpjb25zb2xlLmxvZyhgXG5DYW5jZWxsaW5nIHNlc3Npb246ICR7dGFyZ2V0LmlkfSAoJHt0YXJnZXQucm1fbmFtZX0sICR7dGFyZ2V0LnNlc3Npb25fZGF0ZX0sICR7dGFyZ2V0LnN0YXR1c30pYCk7CgovLyBDYW5jZWwgcGVuZGluZyBjYWxscyAodXNlICdlcnJvcicg4oCUIHRoZSBEQiBjb25zdHJhaW50IGFsbG93cyBpdCkKY29uc3QgY2FuY2VsbGVkID0gYXdhaXQgc3FsYAogIFVQREFURSBjYWxscwogIFNFVCBzdGF0dXMgPSAnZXJyb3InLCBlcnJvcl9tc2cgPSAnQ2FuY2VsbGVkIGJ5IGFkbWluJwogIFdIRVJFIHNlc3Npb25faWQgPSAke3RhcmdldC5pZH0KICAgIEFORCBzdGF0dXMgPSAndXBsb2FkZWQnCiAgUkVUVVJOSU5HIGlkCmA7Cgphd2FpdCBzcWxgVVBEQVRFIGJ1bGtfc2Vzc2lvbnMgU0VUIHN0YXR1cyA9ICdlcnJvcicgV0hFUkUgaWQgPSAke3RhcmdldC5pZH1gOwoKY29uc29sZS5sb2coYOKchSBDYW5jZWxsZWQgJHtjYW5jZWxsZWQubGVuZ3RofSBxdWV1ZWQgY2FsbChzKS4gU2Vzc2lvbiBtYXJrZWQgY2FuY2VsbGVkLmApOwpjb25zb2xlLmxvZygnTm90ZTogQW55IGNhbGwgY3VycmVudGx5IG1pZC10cmFuc2NyaXB0aW9uL2FuYWx5c2lzIHdpbGwgZmluaXNoLCB0aGVuIHN0b3AuJyk7Cg=="}
+/**
+ * Quick script to find and cancel Sharik's active session.
+ * Run: node scripts/cancel-session.mjs
+ */
+import { neon } from '@neondatabase/serverless';
+import { readFileSync } from 'fs';
+import { resolve, dirname } from 'path';
+import { fileURLToPath } from 'url';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+
+// Load .env.local
+const envPath = resolve(__dirname, '../.env.local');
+const envText = readFileSync(envPath, 'utf8');
+for (const line of envText.split('\n')) {
+  const trimmed = line.trim();
+  if (!trimmed || trimmed.startsWith('#')) continue;
+  const eqIdx = trimmed.indexOf('=');
+  if (eqIdx === -1) continue;
+  const k = trimmed.slice(0, eqIdx).trim();
+  // Strip surrounding quotes, literal \n sequences, and trailing quote
+  let v = trimmed.slice(eqIdx + 1).trim();
+  v = v.replace(/^"/, '').replace(/"$/, '');  // strip surrounding double quotes
+  v = v.replace(/\\n/g, '');                   // remove literal \n sequences
+  process.env[k] = v;
+}
+
+const sql = neon(process.env.DATABASE_URL);
+
+// Find Sharik's active/processing session
+const sessions = await sql`
+  SELECT id, rm_name, session_date, status, total_files, processed_files, created_at
+  FROM bulk_sessions
+  WHERE rm_name ILIKE '%sharik%'
+    AND status NOT IN ('done', 'cancelled', 'archived')
+  ORDER BY created_at DESC
+  LIMIT 5
+`;
+
+if (sessions.length === 0) {
+  // Show all recent Sharik sessions so we can pick the right one
+  const all = await sql`
+    SELECT id, rm_name, session_date, status, total_files, processed_files, created_at
+    FROM bulk_sessions
+    WHERE rm_name ILIKE '%sharik%'
+    ORDER BY created_at DESC
+    LIMIT 5
+  `;
+  console.log('No active sessions found. Recent sessions:');
+  console.table(all);
+  process.exit(0);
+}
+
+console.log('Active/processing sessions found:');
+console.table(sessions);
+
+const target = sessions[0];
+console.log(`\nCancelling session: ${target.id} (${target.rm_name}, ${target.session_date}, ${target.status})`);
+
+// Cancel pending calls (use 'error' — the DB constraint allows it)
+const cancelled = await sql`
+  UPDATE calls
+  SET status = 'error', error_msg = 'Cancelled by admin'
+  WHERE session_id = ${target.id}
+    AND status = 'uploaded'
+  RETURNING id
+`;
+
+await sql`UPDATE bulk_sessions SET status = 'error' WHERE id = ${target.id}`;
+
+console.log(`✅ Cancelled ${cancelled.length} queued call(s). Session marked cancelled.`);
+console.log('Note: Any call currently mid-transcription/analysis will finish, then stop.');

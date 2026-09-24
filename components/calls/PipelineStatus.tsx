@@ -1,1 +1,152 @@
-{"data":"J3VzZSBjbGllbnQnOwoKaW1wb3J0IHsgUGlwZWxpbmVTdGVwIH0gZnJvbSAnQC90eXBlcyc7CgppbnRlcmZhY2UgUGlwZWxpbmVMb2cgewogIHRpbWU6IHN0cmluZzsKICBtZXNzYWdlOiBzdHJpbmc7Cn0KCmludGVyZmFjZSBQcm9wcyB7CiAgc3RlcDogUGlwZWxpbmVTdGVwOwogIGxvZ3M6IFBpcGVsaW5lTG9nW107Cn0KCmNvbnN0IFNURVBTOiB7IGtleTogUGlwZWxpbmVTdGVwOyBsYWJlbDogc3RyaW5nIH1bXSA9IFsKICB7IGtleTogJ3VwbG9hZGluZycsIGxhYmVsOiAnVXBsb2FkJyB9LAogIHsga2V5OiAndHJhbnNjcmliaW5nJywgbGFiZWw6ICdUcmFuc2NyaWJlJyB9LAogIHsga2V5OiAnYW5hbHlzaW5nJywgbGFiZWw6ICdBbmFseXNlJyB9LAogIHsga2V5OiAnZ2VuZXJhdGluZycsIGxhYmVsOiAnR2VuZXJhdGUnIH0sCiAgeyBrZXk6ICdyZWFkeScsIGxhYmVsOiAnUmVhZHknIH0sCl07Cgpjb25zdCBzdGVwT3JkZXI6IFBpcGVsaW5lU3RlcFtdID0gWyd1cGxvYWRpbmcnLCAndHJhbnNjcmliaW5nJywgJ2FuYWx5c2luZycsICdnZW5lcmF0aW5nJywgJ3JlYWR5J107CgpmdW5jdGlvbiBnZXRTdGVwU3RhdHVzKGtleTogUGlwZWxpbmVTdGVwLCBjdXJyZW50OiBQaXBlbGluZVN0ZXApOiAnY29tcGxldGVkJyB8ICdhY3RpdmUnIHwgJ2lkbGUnIHwgJ2Vycm9yJyB7CiAgaWYgKGN1cnJlbnQgPT09ICdlcnJvcicpIHJldHVybiAnaWRsZSc7CiAgY29uc3QgY3VycmVudElkeCA9IHN0ZXBPcmRlci5pbmRleE9mKGN1cnJlbnQpOwogIGNvbnN0IGtleUlkeCA9IHN0ZXBPcmRlci5pbmRleE9mKGtleSk7CiAgaWYgKGtleUlkeCA8IGN1cnJlbnRJZHgpIHJldHVybiAnY29tcGxldGVkJzsKICBpZiAoa2V5SWR4ID09PSBjdXJyZW50SWR4KSByZXR1cm4gJ2FjdGl2ZSc7CiAgcmV0dXJuICdpZGxlJzsKfQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gUGlwZWxpbmVTdGF0dXMoeyBzdGVwLCBsb2dzIH06IFByb3BzKSB7CiAgcmV0dXJuICgKICAgIDxkaXYKICAgICAgc3R5bGU9e3sKICAgICAgICBiYWNrZ3JvdW5kOiAndmFyKC0tY2FyZC1iZyknLAogICAgICAgIGJvcmRlcjogJzFweCBzb2xpZCB2YXIoLS1jYXJkLWJvcmRlciknLAogICAgICAgIGJvcmRlclJhZGl1czogMTAsCiAgICAgICAgcGFkZGluZzogJzIwcHggMjRweCcsCiAgICAgIH19CiAgICA+CiAgICAgIDxoMyBzdHlsZT17eyBtYXJnaW46ICcwIDAgMjBweCcsIGZvbnRTaXplOiAxNCwgZm9udFdlaWdodDogNjAwLCBjb2xvcjogJyNmMWY1ZjknIH19PgogICAgICAgIFBpcGVsaW5lIFN0YXR1cwogICAgICA8L2gzPgoKICAgICAgey8qIFN0ZXBwZXIgKi99CiAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogJ2ZsZXgnLCBhbGlnbkl0ZW1zOiAnY2VudGVyJywgbWFyZ2luQm90dG9tOiAyMCB9fT4KICAgICAgICB7U1RFUFMubWFwKChzLCBpZHgpID0+IHsKICAgICAgICAgIGNvbnN0IHN0YXR1cyA9IGdldFN0ZXBTdGF0dXMocy5rZXksIHN0ZXApOwogICAgICAgICAgY29uc3QgaXNMYXN0ID0gaWR4ID09PSBTVEVQUy5sZW5ndGggLSAxOwoKICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIDxkaXYga2V5PXtzLmtleX0gc3R5bGU9e3sgZGlzcGxheTogJ2ZsZXgnLCBhbGlnbkl0ZW1zOiAnY2VudGVyJywgZmxleDogaXNMYXN0ID8gMCA6IDEgfX0+CiAgICAgICAgICAgICAgey8qIFN0ZXAgZG90ICovfQogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogJ2ZsZXgnLCBmbGV4RGlyZWN0aW9uOiAnY29sdW1uJywgYWxpZ25JdGVtczogJ2NlbnRlcicsIGdhcDogNiB9fT4KICAgICAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtzdGF0dXMgPT09ICdhY3RpdmUnID8gJ3B1bHNlLXJpbmcnIDogJyd9CiAgICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDIwLAogICAgICAgICAgICAgICAgICAgIGhlaWdodDogMjAsCiAgICAgICAgICAgICAgICAgICAgYm9yZGVyUmFkaXVzOiAnNTAlJywKICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kOgogICAgICAgICAgICAgICAgICAgICAgc3RhdHVzID09PSAnY29tcGxldGVkJyA/ICcjMjJjNTVlJyA6CiAgICAgICAgICAgICAgICAgICAgICBzdGF0dXMgPT09ICdhY3RpdmUnICAgID8gJyMzYjgyZjYnIDoKICAgICAgICAgICAgICAgICAgICAgICcjMjUzODcwJywKICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiAnZmxleCcsCiAgICAgICAgICAgICAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAogICAgICAgICAgICAgICAgICAgIGJvcmRlcjogc3RhdHVzID09PSAnYWN0aXZlJyA/ICcycHggc29saWQgIzNiODJmNicgOiAnbm9uZScsCiAgICAgICAgICAgICAgICAgICAgdHJhbnNpdGlvbjogJ2JhY2tncm91bmQgMC4zcycsCiAgICAgICAgICAgICAgICAgICAgZmxleFNocmluazogMCwKICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAge3N0YXR1cyA9PT0gJ2NvbXBsZXRlZCcgJiYgKAogICAgICAgICAgICAgICAgICAgIDxzdmcgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiB2aWV3Qm94PSIwIDAgMTAgMTAiIGZpbGw9Im5vbmUiPgogICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTIgNWwyLjUgMi41TDggMyIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlV2lkdGg9IjEuNSIgc3Ryb2tlTGluZWNhcD0icm91bmQiIHN0cm9rZUxpbmVqb2luPSJyb3VuZCIgLz4KICAgICAgICAgICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgZm9udFNpemU6IDExLAogICAgICAgICAgICAgICAgICBjb2xvcjogc3RhdHVzID09PSAnY29tcGxldGVkJyA/ICcjMjJjNTVlJyA6IHN0YXR1cyA9PT0gJ2FjdGl2ZScgPyAnIzNiODJmNicgOiAndmFyKC0tdGV4dC1kaW0pJywKICAgICAgICAgICAgICAgICAgZm9udFdlaWdodDogc3RhdHVzID09PSAnYWN0aXZlJyA/IDYwMCA6IDQwMCwKICAgICAgICAgICAgICAgICAgd2hpdGVTcGFjZTogJ25vd3JhcCcsCiAgICAgICAgICAgICAgICB9fT4KICAgICAgICAgICAgICAgICAge3MubGFiZWx9CiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgIHsvKiBDb25uZWN0b3IgbGluZSAqL30KICAgICAgICAgICAgICB7IWlzTGFzdCAmJiAoCiAgICAgICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgZmxleDogMSwKICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDIsCiAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZDogc3RhdHVzID09PSAnY29tcGxldGVkJyA/ICcjMjJjNTVlJyA6ICcjMWUzMDU4JywKICAgICAgICAgICAgICAgICAgICBtYXJnaW46ICcwIDRweCcsCiAgICAgICAgICAgICAgICAgICAgbWFyZ2luQm90dG9tOiAyMiwKICAgICAgICAgICAgICAgICAgICB0cmFuc2l0aW9uOiAnYmFja2dyb3VuZCAwLjNzJywKICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICApOwogICAgICAgIH0pfQogICAgICA8L2Rpdj4KCiAgICAgIHsvKiBFcnJvciBiYWRnZSAqL30KICAgICAge3N0ZXAgPT09ICdlcnJvcicgJiYgKAogICAgICAgIDxkaXYgc3R5bGU9e3sKICAgICAgICAgIHBhZGRpbmc6ICc4cHggMTJweCcsCiAgICAgICAgICBiYWNrZ3JvdW5kOiAncmdiYSgyMzksNjgsNjgsMC4wOCknLAogICAgICAgICAgYm9yZGVyOiAnMXB4IHNvbGlkIHJnYmEoMjM5LDY4LDY4LDAuMiknLAogICAgICAgICAgYm9yZGVyUmFkaXVzOiA2LAogICAgICAgICAgY29sb3I6ICcjZWY0NDQ0JywKICAgICAgICAgIGZvbnRTaXplOiAxMywKICAgICAgICAgIG1hcmdpbkJvdHRvbTogMTIsCiAgICAgICAgfX0+CiAgICAgICAgICBQaXBlbGluZSBlbmNvdW50ZXJlZCBhbiBlcnJvci4gU2VlIGxvZyBiZWxvdy4KICAgICAgICA8L2Rpdj4KICAgICAgKX0KCiAgICAgIHsvKiBMaXZlIGxvZyAqL30KICAgICAgPGRpdgogICAgICAgIHN0eWxlPXt7CiAgICAgICAgICBiYWNrZ3JvdW5kOiAnIzBjMTAyMScsCiAgICAgICAgICBib3JkZXI6ICcxcHggc29saWQgdmFyKC0tY2FyZC1ib3JkZXIpJywKICAgICAgICAgIGJvcmRlclJhZGl1czogOCwKICAgICAgICAgIHBhZGRpbmc6ICcxMnB4IDE0cHgnLAogICAgICAgICAgbWF4SGVpZ2h0OiAxNjAsCiAgICAgICAgICBvdmVyZmxvd1k6ICdhdXRvJywKICAgICAgICAgIGZvbnRGYW1pbHk6ICdtb25vc3BhY2UnLAogICAgICAgIH19CiAgICAgID4KICAgICAgICB7bG9ncy5sZW5ndGggPT09IDAgPyAoCiAgICAgICAgICA8c3BhbiBzdHlsZT17eyBjb2xvcjogJ3ZhcigtLXRleHQtZGltKScsIGZvbnRTaXplOiAxMiB9fT5XYWl0aW5nIHRvIHN0YXJ04oCmPC9zcGFuPgogICAgICAgICkgOiAoCiAgICAgICAgICBsb2dzLm1hcCgobG9nLCBpKSA9PiAoCiAgICAgICAgICAgIDxkaXYga2V5PXtpfSBzdHlsZT17eyBmb250U2l6ZTogMTIsIG1hcmdpbkJvdHRvbTogNCwgZGlzcGxheTogJ2ZsZXgnLCBnYXA6IDEwIH19PgogICAgICAgICAgICAgIDxzcGFuIHN0eWxlPXt7IGNvbG9yOiAndmFyKC0tdGV4dC1kaW0pJywgZmxleFNocmluazogMCB9fT57bG9nLnRpbWV9PC9zcGFuPgogICAgICAgICAgICAgIDxzcGFuIHN0eWxlPXt7IGNvbG9yOiBsb2cubWVzc2FnZS5zdGFydHNXaXRoKCdFcnJvcicpID8gJyNlZjQ0NDQnIDogJ3ZhcigtLXRleHQtbXV0ZWQpJyB9fT4KICAgICAgICAgICAgICAgIHtsb2cubWVzc2FnZX0KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKSkKICAgICAgICApfQogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K"}
+'use client';
+
+import { PipelineStep } from '@/types';
+
+interface PipelineLog {
+  time: string;
+  message: string;
+}
+
+interface Props {
+  step: PipelineStep;
+  logs: PipelineLog[];
+}
+
+const STEPS: { key: PipelineStep; label: string }[] = [
+  { key: 'uploading', label: 'Upload' },
+  { key: 'transcribing', label: 'Transcribe' },
+  { key: 'analysing', label: 'Analyse' },
+  { key: 'generating', label: 'Generate' },
+  { key: 'ready', label: 'Ready' },
+];
+
+const stepOrder: PipelineStep[] = ['uploading', 'transcribing', 'analysing', 'generating', 'ready'];
+
+function getStepStatus(key: PipelineStep, current: PipelineStep): 'completed' | 'active' | 'idle' | 'error' {
+  if (current === 'error') return 'idle';
+  const currentIdx = stepOrder.indexOf(current);
+  const keyIdx = stepOrder.indexOf(key);
+  if (keyIdx < currentIdx) return 'completed';
+  if (keyIdx === currentIdx) return 'active';
+  return 'idle';
+}
+
+export default function PipelineStatus({ step, logs }: Props) {
+  return (
+    <div
+      style={{
+        background: 'var(--card-bg)',
+        border: '1px solid var(--card-border)',
+        borderRadius: 10,
+        padding: '20px 24px',
+      }}
+    >
+      <h3 style={{ margin: '0 0 20px', fontSize: 14, fontWeight: 600, color: '#f1f5f9' }}>
+        Pipeline Status
+      </h3>
+
+      {/* Stepper */}
+      <div style={{ display: 'flex', alignItems: 'center', marginBottom: 20 }}>
+        {STEPS.map((s, idx) => {
+          const status = getStepStatus(s.key, step);
+          const isLast = idx === STEPS.length - 1;
+
+          return (
+            <div key={s.key} style={{ display: 'flex', alignItems: 'center', flex: isLast ? 0 : 1 }}>
+              {/* Step dot */}
+              <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 6 }}>
+                <div
+                  className={status === 'active' ? 'pulse-ring' : ''}
+                  style={{
+                    width: 20,
+                    height: 20,
+                    borderRadius: '50%',
+                    background:
+                      status === 'completed' ? '#22c55e' :
+                      status === 'active'    ? '#3b82f6' :
+                      '#253870',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    border: status === 'active' ? '2px solid #3b82f6' : 'none',
+                    transition: 'background 0.3s',
+                    flexShrink: 0,
+                  }}
+                >
+                  {status === 'completed' && (
+                    <svg width="10" height="10" viewBox="0 0 10 10" fill="none">
+                      <path d="M2 5l2.5 2.5L8 3" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+                    </svg>
+                  )}
+                </div>
+                <span style={{
+                  fontSize: 11,
+                  color: status === 'completed' ? '#22c55e' : status === 'active' ? '#3b82f6' : 'var(--text-dim)',
+                  fontWeight: status === 'active' ? 600 : 400,
+                  whiteSpace: 'nowrap',
+                }}>
+                  {s.label}
+                </span>
+              </div>
+
+              {/* Connector line */}
+              {!isLast && (
+                <div
+                  style={{
+                    flex: 1,
+                    height: 2,
+                    background: status === 'completed' ? '#22c55e' : '#1e3058',
+                    margin: '0 4px',
+                    marginBottom: 22,
+                    transition: 'background 0.3s',
+                  }}
+                />
+              )}
+            </div>
+          );
+        })}
+      </div>
+
+      {/* Error badge */}
+      {step === 'error' && (
+        <div style={{
+          padding: '8px 12px',
+          background: 'rgba(239,68,68,0.08)',
+          border: '1px solid rgba(239,68,68,0.2)',
+          borderRadius: 6,
+          color: '#ef4444',
+          fontSize: 13,
+          marginBottom: 12,
+        }}>
+          Pipeline encountered an error. See log below.
+        </div>
+      )}
+
+      {/* Live log */}
+      <div
+        style={{
+          background: '#0c1021',
+          border: '1px solid var(--card-border)',
+          borderRadius: 8,
+          padding: '12px 14px',
+          maxHeight: 160,
+          overflowY: 'auto',
+          fontFamily: 'monospace',
+        }}
+      >
+        {logs.length === 0 ? (
+          <span style={{ color: 'var(--text-dim)', fontSize: 12 }}>Waiting to start…</span>
+        ) : (
+          logs.map((log, i) => (
+            <div key={i} style={{ fontSize: 12, marginBottom: 4, display: 'flex', gap: 10 }}>
+              <span style={{ color: 'var(--text-dim)', flexShrink: 0 }}>{log.time}</span>
+              <span style={{ color: log.message.startsWith('Error') ? '#ef4444' : 'var(--text-muted)' }}>
+                {log.message}
+              </span>
+            </div>
+          ))
+        )}
+      </div>
+    </div>
+  );
+}

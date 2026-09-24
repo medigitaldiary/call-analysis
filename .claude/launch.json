@@ -1,1 +1,11 @@
-{"data":"ewogICJ2ZXJzaW9uIjogIjAuMC4xIiwKICAiY29uZmlndXJhdGlvbnMiOiBbCiAgICB7CiAgICAgICJuYW1lIjogInNpZ251cC1jYWxsLWZsb3cgKE5leHQuanMgZGV2KSIsCiAgICAgICJydW50aW1lRXhlY3V0YWJsZSI6ICJucG0iLAogICAgICAicnVudGltZUFyZ3MiOiBbInJ1biIsICJkZXYiLCAiLS1wcmVmaXgiLCAiL1VzZXJzL2RlZWtzaGl0aGFhZHVyYWkvRG9jdW1lbnRzL3NpZ251cC1jYWxsLWZsb3ciXSwKICAgICAgInBvcnQiOiAzMDAwCiAgICB9CiAgXQp9Cg=="}
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "signup-call-flow (Next.js dev)",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "/Users/deekshithaadurai/Documents/signup-call-flow"],
+      "port": 3000
+    }
+  ]
+}

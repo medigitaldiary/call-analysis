@@ -1,1 +1,11 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgZ2V0RGIgfSBmcm9tICdAL2xpYi9kYic7CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gR0VUKHJlcTogTmV4dFJlcXVlc3QpIHsKICBjb25zdCBzZXNzaW9uSWQgPSByZXEubmV4dFVybC5zZWFyY2hQYXJhbXMuZ2V0KCdzZXNzaW9uSWQnKTsKICBpZiAoIXNlc3Npb25JZCkgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgZXJyb3I6ICdzZXNzaW9uSWQgcmVxdWlyZWQnIH0sIHsgc3RhdHVzOiA0MDAgfSk7CiAgY29uc3Qgc3FsID0gZ2V0RGIoKTsKICBjb25zdCBbc2Vzc2lvbl0gPSBhd2FpdCBzcWxgU0VMRUNUICogRlJPTSBidWxrX3Nlc3Npb25zIFdIRVJFIGlkID0gJHtzZXNzaW9uSWR9YDsKICBpZiAoIXNlc3Npb24pIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IGVycm9yOiAnU2Vzc2lvbiBub3QgZm91bmQnIH0sIHsgc3RhdHVzOiA0MDQgfSk7CiAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgc2Vzc2lvbiB9KTsKfQo="}
+import { NextRequest, NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+
+export async function GET(req: NextRequest) {
+  const sessionId = req.nextUrl.searchParams.get('sessionId');
+  if (!sessionId) return NextResponse.json({ error: 'sessionId required' }, { status: 400 });
+  const sql = getDb();
+  const [session] = await sql`SELECT * FROM bulk_sessions WHERE id = ${sessionId}`;
+  if (!session) return NextResponse.json({ error: 'Session not found' }, { status: 404 });
+  return NextResponse.json({ session });
+}

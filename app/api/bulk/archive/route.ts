@@ -1,1 +1,11 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgZ2V0RGIgfSBmcm9tICdAL2xpYi9kYic7CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gUE9TVChyZXE6IE5leHRSZXF1ZXN0KSB7CiAgY29uc3QgeyBzZXNzaW9uSWQgfSA9IGF3YWl0IHJlcS5qc29uKCk7CiAgaWYgKCFzZXNzaW9uSWQpIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IGVycm9yOiAnc2Vzc2lvbklkIHJlcXVpcmVkJyB9LCB7IHN0YXR1czogNDAwIH0pOwoKICBjb25zdCBzcWwgPSBnZXREYigpOwogIGF3YWl0IHNxbGBVUERBVEUgYnVsa19zZXNzaW9ucyBTRVQgYXJjaGl2ZWRfYXQgPSBOT1coKSBXSEVSRSBpZCA9ICR7c2Vzc2lvbklkfWA7CiAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgb2s6IHRydWUgfSk7Cn0K"}
+import { NextRequest, NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+
+export async function POST(req: NextRequest) {
+  const { sessionId } = await req.json();
+  if (!sessionId) return NextResponse.json({ error: 'sessionId required' }, { status: 400 });
+
+  const sql = getDb();
+  await sql`UPDATE bulk_sessions SET archived_at = NOW() WHERE id = ${sessionId}`;
+  return NextResponse.json({ ok: true });
+}

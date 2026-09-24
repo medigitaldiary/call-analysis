@@ -1,1 +1,29 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgZ2V0RGIgfSBmcm9tICdAL2xpYi9kYic7CmltcG9ydCB7IHRyYW5zY3JpYmVBdWRpbyB9IGZyb20gJ0AvbGliL3RyYW5zY3JpYmUnOwoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIFBPU1QocmVxOiBOZXh0UmVxdWVzdCkgewogIGNvbnN0IHsgY2FsbElkIH0gPSBhd2FpdCByZXEuanNvbigpOwogIGNvbnN0IHNxbCA9IGdldERiKCk7CgogIHRyeSB7CiAgICBjb25zdCBbY2FsbF0gPSBhd2FpdCBzcWxgU0VMRUNUICogRlJPTSBjYWxscyBXSEVSRSBpZCA9ICR7Y2FsbElkfWA7CiAgICBpZiAoIWNhbGwpIHRocm93IG5ldyBFcnJvcignQ2FsbCBub3QgZm91bmQnKTsKCiAgICBjb25zdCBhdWRpb1VybCA9IGNhbGwucmVjb3JkaW5nX3VybCA/PyBjYWxsLmRyaXZlX3VybDsKICAgIGlmICghYXVkaW9VcmwpIHRocm93IG5ldyBFcnJvcignTm8gcmVjb3JkaW5nIFVSTCBmb3VuZCBmb3IgdGhpcyBjYWxsJyk7CgogICAgYXdhaXQgc3FsYFVQREFURSBjYWxscyBTRVQgc3RhdHVzID0gJ3RyYW5zY3JpYmluZycgV0hFUkUgaWQgPSAke2NhbGxJZH1gOwoKICAgIGNvbnN0IHsgdGV4dCwgZHVyYXRpb24gfSA9IGF3YWl0IHRyYW5zY3JpYmVBdWRpbyhhdWRpb1VybCk7CgogICAgYXdhaXQgc3FsYFVQREFURSBjYWxscyBTRVQgc3RhdHVzID0gJ2FuYWx5c2luZycsIGR1cmF0aW9uX3NlYyA9ICR7TWF0aC5yb3VuZChkdXJhdGlvbil9IFdIRVJFIGlkID0gJHtjYWxsSWR9YDsKICAgIGF3YWl0IHNxbGBVUERBVEUgcmVwb3J0cyBTRVQgdHJhbnNjcmlwdCA9ICR7dGV4dH0sIHNhcnZhbV9kdXJhdGlvbl9zZWMgPSAke01hdGgucm91bmQoZHVyYXRpb24pfSBXSEVSRSBjYWxsX2lkID0gJHtjYWxsSWR9YDsKCiAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyB0ZXh0LCBkdXJhdGlvbiB9KTsKICB9IGNhdGNoIChlcnI6IHVua25vd24pIHsKICAgIGNvbnN0IG1lc3NhZ2UgPSBlcnIgaW5zdGFuY2VvZiBFcnJvciA/IGVyci5tZXNzYWdlIDogJ1RyYW5zY3JpcHRpb24gZmFpbGVkJzsKICAgIGF3YWl0IHNxbGBVUERBVEUgY2FsbHMgU0VUIHN0YXR1cyA9ICdlcnJvcicsIGVycm9yX21zZyA9ICR7bWVzc2FnZX0gV0hFUkUgaWQgPSAke2NhbGxJZH1gOwogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgZXJyb3I6IG1lc3NhZ2UgfSwgeyBzdGF0dXM6IDUwMCB9KTsKICB9Cn0K"}
+import { NextRequest, NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+import { transcribeAudio } from '@/lib/transcribe';
+
+export async function POST(req: NextRequest) {
+  const { callId } = await req.json();
+  const sql = getDb();
+
+  try {
+    const [call] = await sql`SELECT * FROM calls WHERE id = ${callId}`;
+    if (!call) throw new Error('Call not found');
+
+    const audioUrl = call.recording_url ?? call.drive_url;
+    if (!audioUrl) throw new Error('No recording URL found for this call');
+
+    await sql`UPDATE calls SET status = 'transcribing' WHERE id = ${callId}`;
+
+    const { text, duration } = await transcribeAudio(audioUrl);
+
+    await sql`UPDATE calls SET status = 'analysing', duration_sec = ${Math.round(duration)} WHERE id = ${callId}`;
+    await sql`UPDATE reports SET transcript = ${text}, sarvam_duration_sec = ${Math.round(duration)} WHERE call_id = ${callId}`;
+
+    return NextResponse.json({ text, duration });
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : 'Transcription failed';
+    await sql`UPDATE calls SET status = 'error', error_msg = ${message} WHERE id = ${callId}`;
+    return NextResponse.json({ error: message }, { status: 500 });
+  }
+}

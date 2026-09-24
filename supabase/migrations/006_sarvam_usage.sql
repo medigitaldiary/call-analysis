@@ -1,1 +1,7 @@
-{"data":"LS0gVHJhY2sgU2FydmFtIEFJIHRyYW5zY3JpcHRpb24gZHVyYXRpb24gcGVyIGNhbGwKQUxURVIgVEFCTEUgcmVwb3J0cwogIEFERCBDT0xVTU4gSUYgTk9UIEVYSVNUUyBzYXJ2YW1fZHVyYXRpb25fc2VjIElOVCBERUZBVUxUIDA7CgotLSBUcmFjayBhZ2dyZWdhdGVkIFNhcnZhbSBkdXJhdGlvbiBwZXIgYnVsayBzZXNzaW9uCkFMVEVSIFRBQkxFIGJ1bGtfc2Vzc2lvbnMKICBBREQgQ09MVU1OIElGIE5PVCBFWElTVFMgc2FydmFtX2R1cmF0aW9uX3NlYyBJTlQgREVGQVVMVCAwOwo="}
+-- Track Sarvam AI transcription duration per call
+ALTER TABLE reports
+  ADD COLUMN IF NOT EXISTS sarvam_duration_sec INT DEFAULT 0;
+
+-- Track aggregated Sarvam duration per bulk session
+ALTER TABLE bulk_sessions
+  ADD COLUMN IF NOT EXISTS sarvam_duration_sec INT DEFAULT 0;

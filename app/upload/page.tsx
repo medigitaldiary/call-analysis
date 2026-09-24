@@ -1,1 +1,166 @@
-{"data":"J3VzZSBjbGllbnQnOwoKaW1wb3J0IHsgdXNlUmVmLCB1c2VTdGF0ZSB9IGZyb20gJ3JlYWN0JzsKCmludGVyZmFjZSBJbXBvcnRSZXN1bHQgewogIHN1Y2Nlc3M6IGJvb2xlYW47CiAgdG90YWw6IG51bWJlcjsKICBpbnNlcnRlZDogbnVtYmVyOwogIHVwZGF0ZWQ6IG51bWJlcjsKICBza2lwcGVkOiBudW1iZXI7CiAgZGV0ZWN0ZWRDb2x1bW5zOiB7IHBob25lOiBzdHJpbmc7IG5hbWU6IHN0cmluZzsgdXNlcklkOiBzdHJpbmcgfTsKfQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gVXBsb2FkUGFnZSgpIHsKICBjb25zdCBbZmlsZSwgc2V0RmlsZV0gPSB1c2VTdGF0ZTxGaWxlIHwgbnVsbD4obnVsbCk7CiAgY29uc3QgW2RyYWdnaW5nLCBzZXREcmFnZ2luZ10gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW2xvYWRpbmcsIHNldExvYWRpbmddID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IFtyZXN1bHQsIHNldFJlc3VsdF0gPSB1c2VTdGF0ZTxJbXBvcnRSZXN1bHQgfCBudWxsPihudWxsKTsKICBjb25zdCBbZXJyb3IsIHNldEVycm9yXSA9IHVzZVN0YXRlKCcnKTsKICBjb25zdCBpbnB1dFJlZiA9IHVzZVJlZjxIVE1MSW5wdXRFbGVtZW50PihudWxsKTsKCiAgZnVuY3Rpb24gaGFuZGxlRmlsZShmOiBGaWxlKSB7CiAgICBpZiAoIWYubmFtZS5lbmRzV2l0aCgnLmNzdicpKSB7IHNldEVycm9yKCdQbGVhc2UgdXBsb2FkIGEgLmNzdiBmaWxlLicpOyByZXR1cm47IH0KICAgIHNldEZpbGUoZik7CiAgICBzZXRSZXN1bHQobnVsbCk7CiAgICBzZXRFcnJvcignJyk7CiAgfQoKICBhc3luYyBmdW5jdGlvbiBydW5JbXBvcnQoKSB7CiAgICBpZiAoIWZpbGUpIHJldHVybjsKICAgIHNldExvYWRpbmcodHJ1ZSk7CiAgICBzZXRFcnJvcignJyk7CiAgICBzZXRSZXN1bHQobnVsbCk7CiAgICB0cnkgewogICAgICBjb25zdCBmZCA9IG5ldyBGb3JtRGF0YSgpOwogICAgICBmZC5hcHBlbmQoJ2ZpbGUnLCBmaWxlKTsKICAgICAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goJy9hcGkvY3VzdG9tZXJzL2ltcG9ydCcsIHsgbWV0aG9kOiAnUE9TVCcsIGJvZHk6IGZkIH0pOwogICAgICBjb25zdCBkYXRhID0gYXdhaXQgcmVzLmpzb24oKTsKICAgICAgaWYgKCFyZXMub2spIHRocm93IG5ldyBFcnJvcihkYXRhLmVycm9yID8/ICdJbXBvcnQgZmFpbGVkJyk7CiAgICAgIHNldFJlc3VsdChkYXRhKTsKICAgIH0gY2F0Y2ggKGU6IHVua25vd24pIHsKICAgICAgc2V0RXJyb3IoZSBpbnN0YW5jZW9mIEVycm9yID8gZS5tZXNzYWdlIDogJ0ltcG9ydCBmYWlsZWQnKTsKICAgIH0gZmluYWxseSB7CiAgICAgIHNldExvYWRpbmcoZmFsc2UpOwogICAgfQogIH0KCiAgcmV0dXJuICgKICAgIDxkaXYgc3R5bGU9e3sgbWluSGVpZ2h0OiAnMTAwdmgnLCBiYWNrZ3JvdW5kOiAnIzBjMTAyMScsIHBhZGRpbmc6ICczMnB4IDI0cHgnLCBmb250RmFtaWx5OiAnSW50ZXIsIHNhbnMtc2VyaWYnIH19PgoKICAgICAgey8qIEhlYWRlciAqL30KICAgICAgPGRpdiBzdHlsZT17eyBtYXhXaWR0aDogNjgwLCBtYXJnaW46ICcwIGF1dG8gMzJweCcgfX0+CiAgICAgICAgPGgxIHN0eWxlPXt7IG1hcmdpbjogMCwgZm9udFNpemU6IDIyLCBmb250V2VpZ2h0OiA3MDAsIGNvbG9yOiAnI2YxZjVmOScgfX0+Q3VzdG9tZXIgRGF0YSBJbXBvcnQ8L2gxPgogICAgICAgIDxwIHN0eWxlPXt7IG1hcmdpbjogJzZweCAwIDAnLCBmb250U2l6ZTogMTMsIGNvbG9yOiAnIzdlOTViOCcgfX0+CiAgICAgICAgICBVcGxvYWQgYSBDU1YgdG8gbWFwIHBob25lIG51bWJlcnMgdG8gY3VzdG9tZXIgbmFtZXMgJmFtcDsgdXNlciBJRHMuIEV4aXN0aW5nIHJlY29yZHMgYXJlIHVwZGF0ZWQ7IG5ldyBvbmVzIGFyZSBpbnNlcnRlZC4KICAgICAgICA8L3A+CiAgICAgIDwvZGl2PgoKICAgICAgPGRpdiBzdHlsZT17eyBtYXhXaWR0aDogNjgwLCBtYXJnaW46ICcwIGF1dG8nLCBkaXNwbGF5OiAnZmxleCcsIGZsZXhEaXJlY3Rpb246ICdjb2x1bW4nLCBnYXA6IDIwIH19PgoKICAgICAgICB7LyogRm9ybWF0IGd1aWRlICovfQogICAgICAgIDxkaXYgc3R5bGU9e3sgYmFja2dyb3VuZDogJyMxMzFkMzUnLCBib3JkZXI6ICcxcHggc29saWQgIzFlMzA1OCcsIGJvcmRlclJhZGl1czogMTAsIHBhZGRpbmc6ICcxNnB4IDIwcHgnIH19PgogICAgICAgICAgPHAgc3R5bGU9e3sgbWFyZ2luOiAnMCAwIDEwcHgnLCBmb250U2l6ZTogMTIsIGZvbnRXZWlnaHQ6IDYwMCwgY29sb3I6ICcjN2U5NWI4JywgdGV4dFRyYW5zZm9ybTogJ3VwcGVyY2FzZScsIGxldHRlclNwYWNpbmc6IDAuNSB9fT5FeHBlY3RlZCBDU1YgZm9ybWF0PC9wPgogICAgICAgICAgPGNvZGUgc3R5bGU9e3sgZGlzcGxheTogJ2Jsb2NrJywgYmFja2dyb3VuZDogJyMwYzEwMjEnLCBib3JkZXJSYWRpdXM6IDYsIHBhZGRpbmc6ICcxMHB4IDE0cHgnLCBmb250U2l6ZTogMTIsIGNvbG9yOiAnI2YxZjVmOScsIGxpbmVIZWlnaHQ6IDEuOCB9fT4KICAgICAgICAgICAgdXNlcl9pZCxuYW1lLHBob25lPGJyIC8+CiAgICAgICAgICAgIFVTUjAwMSxSYWh1bCBNZWh0YSw5ODc2NTQzMjEwPGJyIC8+CiAgICAgICAgICAgIFVTUjAwMixQcml5YSBTaGFybWEsOTEyMzQ1Njc4OQogICAgICAgICAgPC9jb2RlPgogICAgICAgICAgPHAgc3R5bGU9e3sgbWFyZ2luOiAnMTBweCAwIDAnLCBmb250U2l6ZTogMTEsIGNvbG9yOiAnIzRhNjA4MCcsIGxpbmVIZWlnaHQ6IDEuNiB9fT4KICAgICAgICAgICAgQ29sdW1uIG5hbWVzIGFyZSBhdXRvLWRldGVjdGVkIOKAlCA8Y29kZSBzdHlsZT17eyBjb2xvcjogJyM3ZTk1YjgnIH19PnBob25lIC8gbW9iaWxlIC8gY29udGFjdDwvY29kZT4gYW5kIDxjb2RlIHN0eWxlPXt7IGNvbG9yOiAnIzdlOTViOCcgfX0+bmFtZSAvIGZ1bGxfbmFtZSAvIGN1c3RvbWVyX25hbWU8L2NvZGU+IGFyZSBhbGwgcmVjb2duaXNlZC4KICAgICAgICAgICAgUGhvbmUgbnVtYmVycyB3aXRoIGNvdW50cnkgY29kZSAoKzkxIC8gOTEpIGFyZSBub3JtYWxpc2VkIHRvIDEwIGRpZ2l0cyBhdXRvbWF0aWNhbGx5LgogICAgICAgICAgICA8YnIgLz4KICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3sgY29sb3I6ICcjNGE2MDgwJyB9fT4KICAgICAgICAgICAgICA8c3Ryb25nIHN0eWxlPXt7IGNvbG9yOiAnIzdlOTViOCcgfX0+TmFtZSBpcyBvcHRpb25hbDwvc3Ryb25nPiDigJQgcm93cyB3aXRoIG9ubHkgYSBwaG9uZSArIHVzZXJfaWQgYXJlIGltcG9ydGVkIGZpbmUuIElmIGEgbmFtZSBhbHJlYWR5IGV4aXN0cyBpbiB0aGUgREIgaXQgd29uJ3QgYmUgb3ZlcndyaXR0ZW4gYnkgYSBibGFuay4KICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgPC9wPgogICAgICAgIDwvZGl2PgoKICAgICAgICB7LyogRHJvcCB6b25lICovfQogICAgICAgIDxkaXYKICAgICAgICAgIG9uRHJhZ092ZXI9e2UgPT4geyBlLnByZXZlbnREZWZhdWx0KCk7IHNldERyYWdnaW5nKHRydWUpOyB9fQogICAgICAgICAgb25EcmFnTGVhdmU9eygpID0+IHNldERyYWdnaW5nKGZhbHNlKX0KICAgICAgICAgIG9uRHJvcD17ZSA9PiB7IGUucHJldmVudERlZmF1bHQoKTsgc2V0RHJhZ2dpbmcoZmFsc2UpOyBjb25zdCBmID0gZS5kYXRhVHJhbnNmZXIuZmlsZXNbMF07IGlmIChmKSBoYW5kbGVGaWxlKGYpOyB9fQogICAgICAgICAgb25DbGljaz17KCkgPT4gaW5wdXRSZWYuY3VycmVudD8uY2xpY2soKX0KICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgIGJhY2tncm91bmQ6IGRyYWdnaW5nID8gJyMxZTMwNTgnIDogJyMxMzFkMzUnLAogICAgICAgICAgICBib3JkZXI6IGAycHggZGFzaGVkICR7ZHJhZ2dpbmcgPyAnIzNiODJmNicgOiAnIzFlMzA1OCd9YCwKICAgICAgICAgICAgYm9yZGVyUmFkaXVzOiAxMCwgcGFkZGluZzogJzQwcHggMjRweCcsCiAgICAgICAgICAgIHRleHRBbGlnbjogJ2NlbnRlcicsIGN1cnNvcjogJ3BvaW50ZXInLAogICAgICAgICAgICB0cmFuc2l0aW9uOiAnYWxsIDAuMTVzJywKICAgICAgICAgIH19CiAgICAgICAgPgogICAgICAgICAgPGlucHV0IHJlZj17aW5wdXRSZWZ9IHR5cGU9ImZpbGUiIGFjY2VwdD0iLmNzdiIgc3R5bGU9e3sgZGlzcGxheTogJ25vbmUnIH19IG9uQ2hhbmdlPXtlID0+IHsgY29uc3QgZiA9IGUudGFyZ2V0LmZpbGVzPy5bMF07IGlmIChmKSBoYW5kbGVGaWxlKGYpOyB9fSAvPgogICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMzIsIG1hcmdpbkJvdHRvbTogMTIgfX0+8J+ThDwvZGl2PgogICAgICAgICAge2ZpbGUgPyAoCiAgICAgICAgICAgIDw+CiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMTQsIGZvbnRXZWlnaHQ6IDYwMCwgY29sb3I6ICcjZjFmNWY5JywgbWFyZ2luQm90dG9tOiA0IH19PntmaWxlLm5hbWV9PC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMTIsIGNvbG9yOiAnIzdlOTViOCcgfX0+eyhmaWxlLnNpemUgLyAxMDI0KS50b0ZpeGVkKDEpfSBLQiDigJQgY2xpY2sgdG8gY2hhbmdlPC9kaXY+CiAgICAgICAgICAgIDwvPgogICAgICAgICAgKSA6ICgKICAgICAgICAgICAgPD4KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRTaXplOiAxNCwgZm9udFdlaWdodDogNjAwLCBjb2xvcjogJyNmMWY1ZjknLCBtYXJnaW5Cb3R0b206IDQgfX0+RHJvcCB5b3VyIENTViBoZXJlPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMTIsIGNvbG9yOiAnIzdlOTViOCcgfX0+b3IgY2xpY2sgdG8gYnJvd3NlPC9kaXY+CiAgICAgICAgICAgIDwvPgogICAgICAgICAgKX0KICAgICAgICA8L2Rpdj4KCiAgICAgICAge2Vycm9yICYmICgKICAgICAgICAgIDxkaXYgc3R5bGU9e3sgcGFkZGluZzogJzEwcHggMTRweCcsIGJhY2tncm91bmQ6ICdyZ2JhKDIzOSw2OCw2OCwwLjA4KScsIGJvcmRlcjogJzFweCBzb2xpZCByZ2JhKDIzOSw2OCw2OCwwLjIpJywgYm9yZGVyUmFkaXVzOiA4LCBjb2xvcjogJyNlZjQ0NDQnLCBmb250U2l6ZTogMTMgfX0+CiAgICAgICAgICAgIHtlcnJvcn0KICAgICAgICAgIDwvZGl2PgogICAgICAgICl9CgogICAgICAgIHsvKiBJbXBvcnQgYnV0dG9uICovfQogICAgICAgIHtmaWxlICYmICFyZXN1bHQgJiYgKAogICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICBvbkNsaWNrPXtydW5JbXBvcnR9CiAgICAgICAgICAgIGRpc2FibGVkPXtsb2FkaW5nfQogICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgIHBhZGRpbmc6ICcxMnB4IDI0cHgnLCBiYWNrZ3JvdW5kOiBsb2FkaW5nID8gJyMyNTM4NzAnIDogJyMzYjgyZjYnLAogICAgICAgICAgICAgIGNvbG9yOiAnI2ZmZicsIGJvcmRlcjogJ25vbmUnLCBib3JkZXJSYWRpdXM6IDgsCiAgICAgICAgICAgICAgZm9udFNpemU6IDE0LCBmb250V2VpZ2h0OiA2MDAsIGN1cnNvcjogbG9hZGluZyA/ICdub3QtYWxsb3dlZCcgOiAncG9pbnRlcicsCiAgICAgICAgICAgIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIHtsb2FkaW5nID8gJ+KPsyBJbXBvcnRpbmfigKYnIDogJ+KshiBJbXBvcnQgQ3VzdG9tZXIgRGF0YSd9CiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICApfQoKICAgICAgICB7LyogUmVzdWx0ICovfQogICAgICAgIHtyZXN1bHQgJiYgKAogICAgICAgICAgPGRpdiBzdHlsZT17eyBiYWNrZ3JvdW5kOiAnIzEzMWQzNScsIGJvcmRlcjogJzFweCBzb2xpZCAjMjJjNTVlMzAnLCBib3JkZXJSYWRpdXM6IDEwLCBwYWRkaW5nOiAnMjBweCAyNHB4JyB9fT4KICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMTUsIGZvbnRXZWlnaHQ6IDcwMCwgY29sb3I6ICcjMjJjNTVlJywgbWFyZ2luQm90dG9tOiAxNiB9fT7inJMgSW1wb3J0IENvbXBsZXRlPC9kaXY+CgogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICdncmlkJywgZ3JpZFRlbXBsYXRlQ29sdW1uczogJ3JlcGVhdCg0LCAxZnIpJywgZ2FwOiAxMiwgbWFyZ2luQm90dG9tOiAxNiB9fT4KICAgICAgICAgICAgICB7WwogICAgICAgICAgICAgICAgeyBsYWJlbDogJ1RvdGFsIFJvd3MnLCAgdmFsdWU6IHJlc3VsdC50b3RhbCwgICAgY29sb3I6ICcjZjFmNWY5JyB9LAogICAgICAgICAgICAgICAgeyBsYWJlbDogJ0luc2VydGVkJywgICAgdmFsdWU6IHJlc3VsdC5pbnNlcnRlZCwgIGNvbG9yOiAnIzIyYzU1ZScgfSwKICAgICAgICAgICAgICAgIHsgbGFiZWw6ICdVcGRhdGVkJywgICAgIHZhbHVlOiByZXN1bHQudXBkYXRlZCwgICBjb2xvcjogJyMzYjgyZjYnIH0sCiAgICAgICAgICAgICAgICB7IGxhYmVsOiAnU2tpcHBlZCcsICAgICB2YWx1ZTogcmVzdWx0LnNraXBwZWQsICAgY29sb3I6ICcjZjU5ZTBiJyB9LAogICAgICAgICAgICAgIF0ubWFwKCh7IGxhYmVsLCB2YWx1ZSwgY29sb3IgfSkgPT4gKAogICAgICAgICAgICAgICAgPGRpdiBrZXk9e2xhYmVsfSBzdHlsZT17eyBiYWNrZ3JvdW5kOiAnIzBjMTAyMScsIGJvcmRlclJhZGl1czogOCwgcGFkZGluZzogJzEycHggMTRweCcsIGJvcmRlcjogJzFweCBzb2xpZCAjMWUzMDU4JywgdGV4dEFsaWduOiAnY2VudGVyJyB9fT4KICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMTAsIGNvbG9yOiAnIzRhNjA4MCcsIHRleHRUcmFuc2Zvcm06ICd1cHBlcmNhc2UnLCBtYXJnaW5Cb3R0b206IDYgfX0+e2xhYmVsfTwvZGl2PgogICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRTaXplOiAyNCwgZm9udFdlaWdodDogNzAwLCBjb2xvciB9fT57dmFsdWV9PC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRTaXplOiAxMiwgY29sb3I6ICcjN2U5NWI4JywgYm9yZGVyVG9wOiAnMXB4IHNvbGlkICMxZTMwNTgnLCBwYWRkaW5nVG9wOiAxMiB9fT4KICAgICAgICAgICAgICA8c3BhbiBzdHlsZT17eyBtYXJnaW5SaWdodDogMTYgfX0+8J+TjCBQaG9uZSBjb2x1bW46IDxzdHJvbmcgc3R5bGU9e3sgY29sb3I6ICcjZjFmNWY5JyB9fT57cmVzdWx0LmRldGVjdGVkQ29sdW1ucy5waG9uZX08L3N0cm9uZz48L3NwYW4+CiAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3sgbWFyZ2luUmlnaHQ6IDE2IH19PvCfk4wgTmFtZSBjb2x1bW46IDxzdHJvbmcgc3R5bGU9e3sgY29sb3I6ICcjZjFmNWY5JyB9fT57cmVzdWx0LmRldGVjdGVkQ29sdW1ucy5uYW1lfTwvc3Ryb25nPjwvc3Bhbj4KICAgICAgICAgICAgICA8c3Bhbj7wn5OMIFVzZXIgSUQgY29sdW1uOiA8c3Ryb25nIHN0eWxlPXt7IGNvbG9yOiAnI2YxZjVmOScgfX0+e3Jlc3VsdC5kZXRlY3RlZENvbHVtbnMudXNlcklkfTwvc3Ryb25nPjwvc3Bhbj4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4geyBzZXRGaWxlKG51bGwpOyBzZXRSZXN1bHQobnVsbCk7IGlmIChpbnB1dFJlZi5jdXJyZW50KSBpbnB1dFJlZi5jdXJyZW50LnZhbHVlID0gJyc7IH19CiAgICAgICAgICAgICAgc3R5bGU9e3sgbWFyZ2luVG9wOiAxNCwgcGFkZGluZzogJzhweCAxOHB4JywgYmFja2dyb3VuZDogJyMxZTMwNTgnLCBjb2xvcjogJyNmMWY1ZjknLCBib3JkZXI6ICdub25lJywgYm9yZGVyUmFkaXVzOiA4LCBmb250U2l6ZTogMTMsIGN1cnNvcjogJ3BvaW50ZXInIH19CiAgICAgICAgICAgID4KICAgICAgICAgICAgICBVcGxvYWQgQW5vdGhlciBGaWxlCiAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKX0KCiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQo="}
+'use client';
+
+import { useRef, useState } from 'react';
+
+interface ImportResult {
+  success: boolean;
+  total: number;
+  inserted: number;
+  updated: number;
+  skipped: number;
+  detectedColumns: { phone: string; name: string; userId: string };
+}
+
+export default function UploadPage() {
+  const [file, setFile] = useState<File | null>(null);
+  const [dragging, setDragging] = useState(false);
+  const [loading, setLoading] = useState(false);
+  const [result, setResult] = useState<ImportResult | null>(null);
+  const [error, setError] = useState('');
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  function handleFile(f: File) {
+    if (!f.name.endsWith('.csv')) { setError('Please upload a .csv file.'); return; }
+    setFile(f);
+    setResult(null);
+    setError('');
+  }
+
+  async function runImport() {
+    if (!file) return;
+    setLoading(true);
+    setError('');
+    setResult(null);
+    try {
+      const fd = new FormData();
+      fd.append('file', file);
+      const res = await fetch('/api/customers/import', { method: 'POST', body: fd });
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.error ?? 'Import failed');
+      setResult(data);
+    } catch (e: unknown) {
+      setError(e instanceof Error ? e.message : 'Import failed');
+    } finally {
+      setLoading(false);
+    }
+  }
+
+  return (
+    <div style={{ minHeight: '100vh', background: '#0c1021', padding: '32px 24px', fontFamily: 'Inter, sans-serif' }}>
+
+      {/* Header */}
+      <div style={{ maxWidth: 680, margin: '0 auto 32px' }}>
+        <h1 style={{ margin: 0, fontSize: 22, fontWeight: 700, color: '#f1f5f9' }}>Customer Data Import</h1>
+        <p style={{ margin: '6px 0 0', fontSize: 13, color: '#7e95b8' }}>
+          Upload a CSV to map phone numbers to customer names &amp; user IDs. Existing records are updated; new ones are inserted.
+        </p>
+      </div>
+
+      <div style={{ maxWidth: 680, margin: '0 auto', display: 'flex', flexDirection: 'column', gap: 20 }}>
+
+        {/* Format guide */}
+        <div style={{ background: '#131d35', border: '1px solid #1e3058', borderRadius: 10, padding: '16px 20px' }}>
+          <p style={{ margin: '0 0 10px', fontSize: 12, fontWeight: 600, color: '#7e95b8', textTransform: 'uppercase', letterSpacing: 0.5 }}>Expected CSV format</p>
+          <code style={{ display: 'block', background: '#0c1021', borderRadius: 6, padding: '10px 14px', fontSize: 12, color: '#f1f5f9', lineHeight: 1.8 }}>
+            user_id,name,phone<br />
+            USR001,Rahul Mehta,9876543210<br />
+            USR002,Priya Sharma,9123456789
+          </code>
+          <p style={{ margin: '10px 0 0', fontSize: 11, color: '#4a6080', lineHeight: 1.6 }}>
+            Column names are auto-detected — <code style={{ color: '#7e95b8' }}>phone / mobile / contact</code> and <code style={{ color: '#7e95b8' }}>name / full_name / customer_name</code> are all recognised.
+            Phone numbers with country code (+91 / 91) are normalised to 10 digits automatically.
+            <br />
+            <span style={{ color: '#4a6080' }}>
+              <strong style={{ color: '#7e95b8' }}>Name is optional</strong> — rows with only a phone + user_id are imported fine. If a name already exists in the DB it won't be overwritten by a blank.
+            </span>
+          </p>
+        </div>
+
+        {/* Drop zone */}
+        <div
+          onDragOver={e => { e.preventDefault(); setDragging(true); }}
+          onDragLeave={() => setDragging(false)}
+          onDrop={e => { e.preventDefault(); setDragging(false); const f = e.dataTransfer.files[0]; if (f) handleFile(f); }}
+          onClick={() => inputRef.current?.click()}
+          style={{
+            background: dragging ? '#1e3058' : '#131d35',
+            border: `2px dashed ${dragging ? '#3b82f6' : '#1e3058'}`,
+            borderRadius: 10, padding: '40px 24px',
+            textAlign: 'center', cursor: 'pointer',
+            transition: 'all 0.15s',
+          }}
+        >
+          <input ref={inputRef} type="file" accept=".csv" style={{ display: 'none' }} onChange={e => { const f = e.target.files?.[0]; if (f) handleFile(f); }} />
+          <div style={{ fontSize: 32, marginBottom: 12 }}>📄</div>
+          {file ? (
+            <>
+              <div style={{ fontSize: 14, fontWeight: 600, color: '#f1f5f9', marginBottom: 4 }}>{file.name}</div>
+              <div style={{ fontSize: 12, color: '#7e95b8' }}>{(file.size / 1024).toFixed(1)} KB — click to change</div>
+            </>
+          ) : (
+            <>
+              <div style={{ fontSize: 14, fontWeight: 600, color: '#f1f5f9', marginBottom: 4 }}>Drop your CSV here</div>
+              <div style={{ fontSize: 12, color: '#7e95b8' }}>or click to browse</div>
+            </>
+          )}
+        </div>
+
+        {error && (
+          <div style={{ padding: '10px 14px', background: 'rgba(239,68,68,0.08)', border: '1px solid rgba(239,68,68,0.2)', borderRadius: 8, color: '#ef4444', fontSize: 13 }}>
+            {error}
+          </div>
+        )}
+
+        {/* Import button */}
+        {file && !result && (
+          <button
+            onClick={runImport}
+            disabled={loading}
+            style={{
+              padding: '12px 24px', background: loading ? '#253870' : '#3b82f6',
+              color: '#fff', border: 'none', borderRadius: 8,
+              fontSize: 14, fontWeight: 600, cursor: loading ? 'not-allowed' : 'pointer',
+            }}
+          >
+            {loading ? '⏳ Importing…' : '⬆ Import Customer Data'}
+          </button>
+        )}
+
+        {/* Result */}
+        {result && (
+          <div style={{ background: '#131d35', border: '1px solid #22c55e30', borderRadius: 10, padding: '20px 24px' }}>
+            <div style={{ fontSize: 15, fontWeight: 700, color: '#22c55e', marginBottom: 16 }}>✓ Import Complete</div>
+
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 12, marginBottom: 16 }}>
+              {[
+                { label: 'Total Rows',  value: result.total,    color: '#f1f5f9' },
+                { label: 'Inserted',    value: result.inserted,  color: '#22c55e' },
+                { label: 'Updated',     value: result.updated,   color: '#3b82f6' },
+                { label: 'Skipped',     value: result.skipped,   color: '#f59e0b' },
+              ].map(({ label, value, color }) => (
+                <div key={label} style={{ background: '#0c1021', borderRadius: 8, padding: '12px 14px', border: '1px solid #1e3058', textAlign: 'center' }}>
+                  <div style={{ fontSize: 10, color: '#4a6080', textTransform: 'uppercase', marginBottom: 6 }}>{label}</div>
+                  <div style={{ fontSize: 24, fontWeight: 700, color }}>{value}</div>
+                </div>
+              ))}
+            </div>
+
+            <div style={{ fontSize: 12, color: '#7e95b8', borderTop: '1px solid #1e3058', paddingTop: 12 }}>
+              <span style={{ marginRight: 16 }}>📌 Phone column: <strong style={{ color: '#f1f5f9' }}>{result.detectedColumns.phone}</strong></span>
+              <span style={{ marginRight: 16 }}>📌 Name column: <strong style={{ color: '#f1f5f9' }}>{result.detectedColumns.name}</strong></span>
+              <span>📌 User ID column: <strong style={{ color: '#f1f5f9' }}>{result.detectedColumns.userId}</strong></span>
+            </div>
+
+            <button
+              onClick={() => { setFile(null); setResult(null); if (inputRef.current) inputRef.current.value = ''; }}
+              style={{ marginTop: 14, padding: '8px 18px', background: '#1e3058', color: '#f1f5f9', border: 'none', borderRadius: 8, fontSize: 13, cursor: 'pointer' }}
+            >
+              Upload Another File
+            </button>
+          </div>
+        )}
+
+      </div>
+    </div>
+  );
+}

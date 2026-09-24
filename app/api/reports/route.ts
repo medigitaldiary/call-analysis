@@ -1,1 +1,18 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgZ2V0RGIgfSBmcm9tICdAL2xpYi9kYic7CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gR0VUKHJlcTogTmV4dFJlcXVlc3QpIHsKICB0cnkgewogICAgY29uc3QgY2FsbElkID0gcmVxLm5leHRVcmwuc2VhcmNoUGFyYW1zLmdldCgnY2FsbElkJyk7CiAgICBpZiAoIWNhbGxJZCkgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgZXJyb3I6ICdjYWxsSWQgcmVxdWlyZWQnIH0sIHsgc3RhdHVzOiA0MDAgfSk7CgogICAgY29uc3Qgc3FsID0gZ2V0RGIoKTsKICAgIGNvbnN0IFtyZXBvcnRdID0gYXdhaXQgc3FsYFNFTEVDVCAqIEZST00gcmVwb3J0cyBXSEVSRSBjYWxsX2lkID0gJHtjYWxsSWR9YDsKICAgIGlmICghcmVwb3J0KSByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBlcnJvcjogJ1JlcG9ydCBub3QgZm91bmQnIH0sIHsgc3RhdHVzOiA0MDQgfSk7CgogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgcmVwb3J0IH0pOwogIH0gY2F0Y2ggKGVycjogdW5rbm93bikgewogICAgY29uc3QgbWVzc2FnZSA9IGVyciBpbnN0YW5jZW9mIEVycm9yID8gZXJyLm1lc3NhZ2UgOiAnRmFpbGVkIHRvIGZldGNoIHJlcG9ydCc7CiAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBlcnJvcjogbWVzc2FnZSB9LCB7IHN0YXR1czogNTAwIH0pOwogIH0KfQo="}
+import { NextRequest, NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+
+export async function GET(req: NextRequest) {
+  try {
+    const callId = req.nextUrl.searchParams.get('callId');
+    if (!callId) return NextResponse.json({ error: 'callId required' }, { status: 400 });
+
+    const sql = getDb();
+    const [report] = await sql`SELECT * FROM reports WHERE call_id = ${callId}`;
+    if (!report) return NextResponse.json({ error: 'Report not found' }, { status: 404 });
+
+    return NextResponse.json({ report });
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : 'Failed to fetch report';
+    return NextResponse.json({ error: message }, { status: 500 });
+  }
+}

@@ -1,1 +1,125 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgZ2V0RGIgfSBmcm9tICdAL2xpYi9kYic7CmltcG9ydCB7IGdlbmVyYXRlRGF5UmVwb3J0IH0gZnJvbSAnQC9saWIvZGF5LWFuYWx5c2UnOwppbXBvcnQgdHlwZSB7IEFjdGlvbkl0ZW0gfSBmcm9tICdAL3R5cGVzJzsKCmV4cG9ydCBjb25zdCBtYXhEdXJhdGlvbiA9IDEyMDsKCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBQT1NUKHJlcTogTmV4dFJlcXVlc3QpIHsKICBjb25zdCB7IGRhdGUgfSA9IGF3YWl0IHJlcS5qc29uKCk7IC8vIGV4cGVjdHMgIllZWVktTU0tREQiCiAgaWYgKCFkYXRlKSByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBlcnJvcjogJ2RhdGUgaXMgcmVxdWlyZWQnIH0sIHsgc3RhdHVzOiA0MDAgfSk7CgogIGNvbnN0IHNxbCA9IGdldERiKCk7CgogIHRyeSB7CiAgICAvLyDilIDilIAgR3VhcmQ6IGFsbCBSTSBzZXNzaW9ucyBmb3IgdGhpcyBkYXRlIG11c3QgYmUgaW4gJ3JlYWR5JyBzdGF0ZSDilIDilIDilIDilIDilIDilIDilIDilIAKICAgIGNvbnN0IHNlc3Npb25zID0gYXdhaXQgc3FsYAogICAgICBTRUxFQ1Qgcm1fbmFtZSwgc3RhdHVzLCBybV9yZXBvcnQKICAgICAgRlJPTSBidWxrX3Nlc3Npb25zCiAgICAgIFdIRVJFIERBVEUoc2Vzc2lvbl9kYXRlKSA9ICR7ZGF0ZX06OmRhdGUKICAgICAgICBBTkQgYXJjaGl2ZWRfYXQgSVMgTlVMTAogICAgYDsKCiAgICBpZiAoc2Vzc2lvbnMubGVuZ3RoID4gMCkgewogICAgICBjb25zdCBub3RSZWFkeSA9IHNlc3Npb25zLmZpbHRlcigKICAgICAgICAoczogUmVjb3JkPHN0cmluZywgdW5rbm93bj4pID0+IHMuc3RhdHVzICE9PSAncmVhZHknIHx8ICFzLnJtX3JlcG9ydAogICAgICApOwogICAgICBpZiAobm90UmVhZHkubGVuZ3RoID4gMCkgewogICAgICAgIGNvbnN0IG5hbWVzID0gbm90UmVhZHkKICAgICAgICAgIC5tYXAoKHM6IFJlY29yZDxzdHJpbmcsIHVua25vd24+KSA9PiBgJHtzLnJtX25hbWV9ICgke3Muc3RhdHVzfSlgKQogICAgICAgICAgLmpvaW4oJywgJyk7CiAgICAgICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKAogICAgICAgICAgeyBlcnJvcjogYENhbm5vdCBnZW5lcmF0ZSBkYXkgcmVwb3J0IOKAlCBSTSByZXBvcnQocykgbm90IHJlYWR5IHlldDogJHtuYW1lc30uIFBsZWFzZSB3YWl0IGZvciBhbGwgc2Vzc2lvbnMgdG8gZmluaXNoIHByb2Nlc3NpbmcuYCB9LAogICAgICAgICAgeyBzdGF0dXM6IDQwMCB9CiAgICAgICAgKTsKICAgICAgfQogICAgfQogICAgLy8g4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACgogICAgLy8gRmV0Y2ggYWxsIGNvbXBsZXRlZCBjYWxscyArIHJlcG9ydHMgZm9yIHRoZSBnaXZlbiBkYXRlIChleGNsdWRlIGFyY2hpdmVkIHNlc3Npb25zKQogICAgLy8gRm9yIGJ1bGsgc2Vzc2lvbiBjYWxsczogbWF0Y2ggb24gc2Vzc2lvbl9kYXRlICh0aGUgYWN0dWFsIGNhbGwgZGF0ZSwgc2V0IGJ5IHRoZSB1c2VyKQogICAgLy8gRm9yIGluZGl2aWR1YWwgY2FsbHM6IG1hdGNoIG9uIGNyZWF0ZWRfYXQgaW4gSVNUCiAgICBjb25zdCByb3dzID0gYXdhaXQgc3FsYAogICAgICBTRUxFQ1QKICAgICAgICBjLnJlcF9uYW1lLAogICAgICAgIGMuZHVyYXRpb25fc2VjLAogICAgICAgIHIuY3VzdG9tZXJfbmFtZSwKICAgICAgICByLnBob25lLAogICAgICAgIHIuZHVyYXRpb24sCiAgICAgICAgci5vdXRjb21lLAogICAgICAgIHIuc3VtbWFyeSwKICAgICAgICByLmtleXdvcmRzLAogICAgICAgIHIudG9waWNzLAogICAgICAgIHIuYWN0aW9uX2l0ZW1zLAogICAgICAgIHIuc2VudGltZW50LAogICAgICAgIHIuc3BlYWtlcl9icmVha2Rvd24sCiAgICAgICAgci5jYWxsX3F1YWxpdHksCiAgICAgICAgci5hZ2VudF9wZXJmb3JtYW5jZQogICAgICBGUk9NIGNhbGxzIGMKICAgICAgTEVGVCBKT0lOIHJlcG9ydHMgciBPTiByLmNhbGxfaWQgPSBjLmlkCiAgICAgIExFRlQgSk9JTiBidWxrX3Nlc3Npb25zIGJzIE9OIGJzLmlkID0gYy5zZXNzaW9uX2lkCiAgICAgIFdIRVJFIGMuc3RhdHVzIElOICgncmVhZHknLCAnc2VudCcpCiAgICAgICAgQU5EIChjLnNlc3Npb25faWQgSVMgTlVMTCBPUiBicy5hcmNoaXZlZF9hdCBJUyBOVUxMKQogICAgICAgIEFORCAoCiAgICAgICAgICAoYy5zZXNzaW9uX2lkIElTIE5PVCBOVUxMIEFORCBEQVRFKGJzLnNlc3Npb25fZGF0ZSkgPSAke2RhdGV9OjpkYXRlKQogICAgICAgICAgT1IKICAgICAgICAgIChjLnNlc3Npb25faWQgSVMgTlVMTCBBTkQgREFURShjLmNyZWF0ZWRfYXQgQVQgVElNRSBaT05FICdBc2lhL0tvbGthdGEnKSA9ICR7ZGF0ZX06OmRhdGUpCiAgICAgICAgKQogICAgICBPUkRFUiBCWSBjLmNyZWF0ZWRfYXQgQVNDCiAgICBgOwoKICAgIGlmIChyb3dzLmxlbmd0aCA9PT0gMCkgewogICAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBlcnJvcjogYE5vIGNvbXBsZXRlZCBjYWxscyBmb3VuZCBmb3IgJHtkYXRlfWAgfSwgeyBzdGF0dXM6IDQwNCB9KTsKICAgIH0KCiAgICBjb25zdCBjYWxsRGF0YSA9IHJvd3MubWFwKChjOiBSZWNvcmQ8c3RyaW5nLCB1bmtub3duPiwgaTogbnVtYmVyKSA9PiAoewogICAgICBjYWxsX251bWJlcjogICAgICBpICsgMSwKICAgICAgcmVwX25hbWU6ICAgICAgICAgYy5yZXBfbmFtZSBhcyBzdHJpbmcgfCBudWxsLAogICAgICBjdXN0b21lcl9uYW1lOiAgICBjLmN1c3RvbWVyX25hbWUgYXMgc3RyaW5nIHwgbnVsbCwKICAgICAgcGhvbmU6ICAgICAgICAgICAgYy5waG9uZSBhcyBzdHJpbmcgfCBudWxsLAogICAgICBkdXJhdGlvbjogICAgICAgICBjLmR1cmF0aW9uIGFzIHN0cmluZyB8IG51bGwsCiAgICAgIGR1cmF0aW9uX3NlYzogICAgIGMuZHVyYXRpb25fc2VjIGFzIG51bWJlciB8IG51bGwsCiAgICAgIG91dGNvbWU6ICAgICAgICAgIGMub3V0Y29tZSBhcyBzdHJpbmcgfCBudWxsLAogICAgICBzdW1tYXJ5OiAgICAgICAgICAoYy5zdW1tYXJ5IGFzIHN0cmluZyB8IG51bGwpPy5zbGljZSgwLCAzMDApID8/IG51bGwsCiAgICAgIGtleXdvcmRzOiAgICAgICAgIGMua2V5d29yZHMgYXMgc3RyaW5nW10gfCBudWxsLAogICAgICB0b3BpY3M6ICAgICAgICAgICBjLnRvcGljcyBhcyBzdHJpbmdbXSB8IG51bGwsCiAgICAgIGFjdGlvbl9pdGVtczogICAgIGMuYWN0aW9uX2l0ZW1zIGFzIEFjdGlvbkl0ZW1bXSB8IG51bGwsCiAgICAgIHNlbnRpbWVudDogICAgICAgIGMuc2VudGltZW50IGFzIHsgb3ZlcmFsbDogc3RyaW5nOyBhZ2VudDogc3RyaW5nOyBjdXN0b21lcjogc3RyaW5nIH0gfCBudWxsLAogICAgICBzcGVha2VyX2JyZWFrZG93bjogYy5zcGVha2VyX2JyZWFrZG93biBhcyB7IGxhbmd1YWdlOiBzdHJpbmc7IGFnZW50X3BlcmNlbnRhZ2U6IG51bWJlcjsgY3VzdG9tZXJfcGVyY2VudGFnZTogbnVtYmVyIH0gfCBudWxsLAogICAgICBjYWxsX3F1YWxpdHk6ICAgICBjLmNhbGxfcXVhbGl0eSBhcyBzdHJpbmcgfCBudWxsLAogICAgICBhZ2VudF9wZXJmb3JtYW5jZTogYy5hZ2VudF9wZXJmb3JtYW5jZSBhcyBzdHJpbmcgfCBudWxsLAogICAgfSkpOwoKICAgIC8vIENvbXB1dGUgdG90YWwgdGFsayB0aW1lCiAgICBjb25zdCB0b3RhbFNlYyA9IGNhbGxEYXRhLnJlZHVjZSgocywgYykgPT4gcyArIChOdW1iZXIoYy5kdXJhdGlvbl9zZWMpIHx8IDApLCAwKTsKICAgIGNvbnN0IHRvdGFsTWluID0gdG90YWxTZWMgLyA2MDsKICAgIGNvbnN0IGNvbXB1dGVkVGFsa1RpbWUgPQogICAgICB0b3RhbFNlYyA9PT0gMCA/ICcwIG1pbicgOgogICAgICB0b3RhbE1pbiA8IDEgICA/IGAke3RvdGFsU2VjfXNgIDoKICAgICAgdG90YWxNaW4gPCA2MCAgPyBgfiR7dG90YWxNaW4udG9GaXhlZCgxKX0gbWluYCA6CiAgICAgICAgICAgICAgICAgICAgICAgYH4ke01hdGguZmxvb3IodG90YWxNaW4gLyA2MCl9aCAke01hdGgucm91bmQodG90YWxNaW4gJSA2MCl9bWluYDsKCiAgICBjb25zdCB7IHJlcG9ydCwgaW5wdXRfdG9rZW5zLCBvdXRwdXRfdG9rZW5zIH0gPSBhd2FpdCBnZW5lcmF0ZURheVJlcG9ydChkYXRlLCBjYWxsRGF0YSk7CgogICAgLy8gT3ZlcnJpZGUgdGFsayB0aW1lIHdpdGggY29tcHV0ZWQgdmFsdWUKICAgIHJlcG9ydC5vdmVydmlldy50b3RhbF90YWxrX3RpbWUgPSBjb21wdXRlZFRhbGtUaW1lOwoKICAgIC8vIFVwc2VydCBpbnRvIGRheV9yZXBvcnRzIChyZWdlbmVyYXRpbmcgZm9yIHNhbWUgZGF0ZSBvdmVyd3JpdGVzKQogICAgLy8gRW5zdXJlIHRva2VuIGNvbHVtbnMgZXhpc3QgKGlkZW1wb3RlbnQgbWlncmF0aW9uKQogICAgYXdhaXQgc3FsYAogICAgICBJTlNFUlQgSU5UTyBkYXlfcmVwb3J0cyAocmVwb3J0X2RhdGUsIHJlcG9ydCwgdG90YWxfY2FsbHMsIGlucHV0X3Rva2Vucywgb3V0cHV0X3Rva2VucykKICAgICAgVkFMVUVTICgke2RhdGV9LCAke3NxbC5qc29uKHJlcG9ydCBhcyB1bmtub3duIGFzIGltcG9ydCgncG9zdGdyZXMnKS5KU09OVmFsdWUpfSwgJHtyb3dzLmxlbmd0aH0sICR7aW5wdXRfdG9rZW5zfSwgJHtvdXRwdXRfdG9rZW5zfSkKICAgICAgT04gQ09ORkxJQ1QgKHJlcG9ydF9kYXRlKQogICAgICBETyBVUERBVEUgU0VUCiAgICAgICAgcmVwb3J0ICAgICAgICA9ICR7c3FsLmpzb24ocmVwb3J0IGFzIHVua25vd24gYXMgaW1wb3J0KCdwb3N0Z3JlcycpLkpTT05WYWx1ZSl9LAogICAgICAgIHRvdGFsX2NhbGxzICAgPSAke3Jvd3MubGVuZ3RofSwKICAgICAgICBpbnB1dF90b2tlbnMgID0gJHtpbnB1dF90b2tlbnN9LAogICAgICAgIG91dHB1dF90b2tlbnMgPSAke291dHB1dF90b2tlbnN9CiAgICBgOwoKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IHJlcG9ydCwgZGF0ZSwgdG90YWxfY2FsbHM6IHJvd3MubGVuZ3RoLCBpbnB1dF90b2tlbnMsIG91dHB1dF90b2tlbnMgfSk7CiAgfSBjYXRjaCAoZXJyOiB1bmtub3duKSB7CiAgICBjb25zdCBtZXNzYWdlID0gZXJyIGluc3RhbmNlb2YgRXJyb3IgPyBlcnIubWVzc2FnZSA6ICdEYXkgcmVwb3J0IGdlbmVyYXRpb24gZmFpbGVkJzsKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IGVycm9yOiBtZXNzYWdlIH0sIHsgc3RhdHVzOiA1MDAgfSk7CiAgfQp9Cg=="}
+import { NextRequest, NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+import { generateDayReport } from '@/lib/day-analyse';
+import type { ActionItem } from '@/types';
+
+export const maxDuration = 120;
+
+export async function POST(req: NextRequest) {
+  const { date } = await req.json(); // expects "YYYY-MM-DD"
+  if (!date) return NextResponse.json({ error: 'date is required' }, { status: 400 });
+
+  const sql = getDb();
+
+  try {
+    // ── Guard: all RM sessions for this date must be in 'ready' state ────────
+    const sessions = await sql`
+      SELECT rm_name, status, rm_report
+      FROM bulk_sessions
+      WHERE DATE(session_date) = ${date}::date
+        AND archived_at IS NULL
+    `;
+
+    if (sessions.length > 0) {
+      const notReady = sessions.filter(
+        (s: Record<string, unknown>) => s.status !== 'ready' || !s.rm_report
+      );
+      if (notReady.length > 0) {
+        const names = notReady
+          .map((s: Record<string, unknown>) => `${s.rm_name} (${s.status})`)
+          .join(', ');
+        return NextResponse.json(
+          { error: `Cannot generate day report — RM report(s) not ready yet: ${names}. Please wait for all sessions to finish processing.` },
+          { status: 400 }
+        );
+      }
+    }
+    // ─────────────────────────────────────────────────────────────────────────
+
+    // Fetch all completed calls + reports for the given date (exclude archived sessions)
+    // For bulk session calls: match on session_date (the actual call date, set by the user)
+    // For individual calls: match on created_at in IST
+    const rows = await sql`
+      SELECT
+        c.rep_name,
+        c.duration_sec,
+        r.customer_name,
+        r.phone,
+        r.duration,
+        r.outcome,
+        r.summary,
+        r.keywords,
+        r.topics,
+        r.action_items,
+        r.sentiment,
+        r.speaker_breakdown,
+        r.call_quality,
+        r.agent_performance
+      FROM calls c
+      LEFT JOIN reports r ON r.call_id = c.id
+      LEFT JOIN bulk_sessions bs ON bs.id = c.session_id
+      WHERE c.status IN ('ready', 'sent')
+        AND (c.session_id IS NULL OR bs.archived_at IS NULL)
+        AND (
+          (c.session_id IS NOT NULL AND DATE(bs.session_date) = ${date}::date)
+          OR
+          (c.session_id IS NULL AND DATE(c.created_at AT TIME ZONE 'Asia/Kolkata') = ${date}::date)
+        )
+      ORDER BY c.created_at ASC
+    `;
+
+    if (rows.length === 0) {
+      return NextResponse.json({ error: `No completed calls found for ${date}` }, { status: 404 });
+    }
+
+    const callData = rows.map((c: Record<string, unknown>, i: number) => ({
+      call_number:      i + 1,
+      rep_name:         c.rep_name as string | null,
+      customer_name:    c.customer_name as string | null,
+      phone:            c.phone as string | null,
+      duration:         c.duration as string | null,
+      duration_sec:     c.duration_sec as number | null,
+      outcome:          c.outcome as string | null,
+      summary:          (c.summary as string | null)?.slice(0, 300) ?? null,
+      keywords:         c.keywords as string[] | null,
+      topics:           c.topics as string[] | null,
+      action_items:     c.action_items as ActionItem[] | null,
+      sentiment:        c.sentiment as { overall: string; agent: string; customer: string } | null,
+      speaker_breakdown: c.speaker_breakdown as { language: string; agent_percentage: number; customer_percentage: number } | null,
+      call_quality:     c.call_quality as string | null,
+      agent_performance: c.agent_performance as string | null,
+    }));
+
+    // Compute total talk time
+    const totalSec = callData.reduce((s, c) => s + (Number(c.duration_sec) || 0), 0);
+    const totalMin = totalSec / 60;
+    const computedTalkTime =
+      totalSec === 0 ? '0 min' :
+      totalMin < 1   ? `${totalSec}s` :
+      totalMin < 60  ? `~${totalMin.toFixed(1)} min` :
+                       `~${Math.floor(totalMin / 60)}h ${Math.round(totalMin % 60)}min`;
+
+    const { report, input_tokens, output_tokens } = await generateDayReport(date, callData);
+
+    // Override talk time with computed value
+    report.overview.total_talk_time = computedTalkTime;
+
+    // Upsert into day_reports (regenerating for same date overwrites)
+    // Ensure token columns exist (idempotent migration)
+    await sql`
+      INSERT INTO day_reports (report_date, report, total_calls, input_tokens, output_tokens)
+      VALUES (${date}, ${sql.json(report as unknown as import('postgres').JSONValue)}, ${rows.length}, ${input_tokens}, ${output_tokens})
+      ON CONFLICT (report_date)
+      DO UPDATE SET
+        report        = ${sql.json(report as unknown as import('postgres').JSONValue)},
+        total_calls   = ${rows.length},
+        input_tokens  = ${input_tokens},
+        output_tokens = ${output_tokens}
+    `;
+
+    return NextResponse.json({ report, date, total_calls: rows.length, input_tokens, output_tokens });
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : 'Day report generation failed';
+    return NextResponse.json({ error: message }, { status: 500 });
+  }
+}

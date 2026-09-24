@@ -1,1 +1,114 @@
-{"data":"Y29uc3QgU0FSVkFNX0JBU0UgPSAnaHR0cHM6Ly9hcGkuc2FydmFtLmFpL3NwZWVjaC10by10ZXh0L2pvYi92MSc7CgpmdW5jdGlvbiBzYXJ2YW1IZWFkZXJzKGNvbnRlbnRUeXBlID0gJ2FwcGxpY2F0aW9uL2pzb24nKSB7CiAgcmV0dXJuIHsKICAgICdhcGktc3Vic2NyaXB0aW9uLWtleSc6IHByb2Nlc3MuZW52LlNBUlZBTV9BUElfS0VZISwKICAgICdDb250ZW50LVR5cGUnOiBjb250ZW50VHlwZSwKICB9Owp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gdHJhbnNjcmliZUF1ZGlvKGF1ZGlvVXJsOiBzdHJpbmcpOiBQcm9taXNlPHsgdGV4dDogc3RyaW5nOyBkdXJhdGlvbjogbnVtYmVyIH0+IHsKICAvLyDilIDilIAgMS4gRmV0Y2ggYXVkaW8g4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACiAgY29uc3QgaXNCbG9iID0gYXVkaW9VcmwuaW5jbHVkZXMoJ3ZlcmNlbC1zdG9yYWdlLmNvbScpIHx8IGF1ZGlvVXJsLmluY2x1ZGVzKCdibG9iLnZlcmNlbCcpOwogIGNvbnN0IGF1ZGlvUmVzID0gYXdhaXQgZmV0Y2goYXVkaW9VcmwsIGlzQmxvYgogICAgPyB7IGhlYWRlcnM6IHsgQXV0aG9yaXphdGlvbjogYEJlYXJlciAke3Byb2Nlc3MuZW52LkJMT0JfUkVBRF9XUklURV9UT0tFTn1gIH0gfQogICAgOiB7IHJlZGlyZWN0OiAnZm9sbG93JyB9KTsgLy8gZm9sbG93IHJlZGlyZWN0cyBmb3IgR29vZ2xlIERyaXZlIGV4cG9ydCBVUkxzCiAgaWYgKCFhdWRpb1Jlcy5vaykgdGhyb3cgbmV3IEVycm9yKGBGYWlsZWQgdG8gZmV0Y2ggYXVkaW86ICR7YXVkaW9SZXMuc3RhdHVzfSAke2F1ZGlvUmVzLnN0YXR1c1RleHR9YCk7CiAgY29uc3QgYXVkaW9CdWZmZXIgPSBhd2FpdCBhdWRpb1Jlcy5hcnJheUJ1ZmZlcigpOwogIGNvbnN0IGZpbGVOYW1lID0gKGF1ZGlvVXJsLnNwbGl0KCcvJykucG9wKCk/LnNwbGl0KCc/JylbMF0gPz8gJ2F1ZGlvLm1wMycpOwoKICAvLyDilIDilIAgMi4gQ3JlYXRlIGJhdGNoIGpvYiDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKICBjb25zdCBjcmVhdGVSZXMgPSBhd2FpdCBmZXRjaChTQVJWQU1fQkFTRSwgewogICAgbWV0aG9kOiAnUE9TVCcsCiAgICBoZWFkZXJzOiBzYXJ2YW1IZWFkZXJzKCksCiAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7CiAgICAgIGpvYl9wYXJhbWV0ZXJzOiB7CiAgICAgICAgbGFuZ3VhZ2VfY29kZTogJ2VuLUlOJywKICAgICAgICBtb2RlbDogJ3NhYXJpa2E6djIuNScsCiAgICAgICAgbW9kZTogJ3RyYW5zY3JpYmUnLAogICAgICAgIHdpdGhfdGltZXN0YW1wczogdHJ1ZSwKICAgICAgfSwKICAgIH0pLAogIH0pOwogIGlmICghY3JlYXRlUmVzLm9rKSB0aHJvdyBuZXcgRXJyb3IoYFNhcnZhbSBqb2IgY3JlYXRpb24gZmFpbGVkOiAke2F3YWl0IGNyZWF0ZVJlcy50ZXh0KCl9YCk7CiAgY29uc3QgeyBqb2JfaWQgfSA9IGF3YWl0IGNyZWF0ZVJlcy5qc29uKCk7CgogIC8vIOKUgOKUgCAzLiBHZXQgcHJlc2lnbmVkIHVwbG9hZCBVUkwg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACiAgY29uc3QgdXBsb2FkVXJsUmVzID0gYXdhaXQgZmV0Y2goYCR7U0FSVkFNX0JBU0V9L3VwbG9hZC1maWxlc2AsIHsKICAgIG1ldGhvZDogJ1BPU1QnLAogICAgaGVhZGVyczogc2FydmFtSGVhZGVycygpLAogICAgYm9keTogSlNPTi5zdHJpbmdpZnkoeyBqb2JfaWQsIGZpbGVzOiBbZmlsZU5hbWVdIH0pLAogIH0pOwogIGlmICghdXBsb2FkVXJsUmVzLm9rKSB0aHJvdyBuZXcgRXJyb3IoYFNhcnZhbSB1cGxvYWQgVVJMIGZhaWxlZDogJHthd2FpdCB1cGxvYWRVcmxSZXMudGV4dCgpfWApOwogIGNvbnN0IHsgdXBsb2FkX3VybHMgfSA9IGF3YWl0IHVwbG9hZFVybFJlcy5qc29uKCk7CiAgY29uc3QgZmlsZVVybDogc3RyaW5nID0gdXBsb2FkX3VybHNbZmlsZU5hbWVdPy5maWxlX3VybDsKICBpZiAoIWZpbGVVcmwpIHRocm93IG5ldyBFcnJvcihgTm8gdXBsb2FkIFVSTCByZXR1cm5lZCBmb3IgJHtmaWxlTmFtZX1gKTsKCiAgLy8g4pSA4pSAIDQuIFVwbG9hZCBhdWRpbyB0byBwcmVzaWduZWQgVVJMIChQVVQgZGlyZWN0bHkgdG8gQXp1cmUgQmxvYiBTdG9yYWdlKSDilIDilIAKICAvLyBBenVyZSByZXF1aXJlcyB4LW1zLWJsb2ItdHlwZSBoZWFkZXIg4oCUIHdpdGhvdXQgaXQgdGhlIFBVVCBpcyByZWplY3RlZAogIGNvbnN0IHB1dFJlcyA9IGF3YWl0IGZldGNoKGZpbGVVcmwsIHsKICAgIG1ldGhvZDogJ1BVVCcsCiAgICBib2R5OiBhdWRpb0J1ZmZlciwKICAgIGhlYWRlcnM6IHsKICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhdWRpby9tcGVnJywKICAgICAgJ3gtbXMtYmxvYi10eXBlJzogJ0Jsb2NrQmxvYicsCiAgICB9LAogIH0pOwogIGlmICghcHV0UmVzLm9rKSB0aHJvdyBuZXcgRXJyb3IoYFNhcnZhbSBmaWxlIHVwbG9hZCBmYWlsZWQ6ICR7cHV0UmVzLnN0YXR1c1RleHR9YCk7CgogIC8vIOKUgOKUgCA1LiBTdGFydCB0aGUgam9iIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAogIGNvbnN0IHN0YXJ0UmVzID0gYXdhaXQgZmV0Y2goYCR7U0FSVkFNX0JBU0V9LyR7am9iX2lkfS9zdGFydGAsIHsKICAgIG1ldGhvZDogJ1BPU1QnLAogICAgaGVhZGVyczogc2FydmFtSGVhZGVycygpLAogICAgYm9keTogSlNPTi5zdHJpbmdpZnkoe30pLAogIH0pOwogIGlmICghc3RhcnRSZXMub2spIHRocm93IG5ldyBFcnJvcihgU2FydmFtIGpvYiBzdGFydCBmYWlsZWQ6ICR7YXdhaXQgc3RhcnRSZXMudGV4dCgpfWApOwoKICAvLyDilIDilIAgNi4gUG9sbCB1bnRpbCBDb21wbGV0ZWQgKG1heCA0IG1pbiwgY2hlY2sgZXZlcnkgNXMpIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAogIGNvbnN0IE1BWF9XQUlUX01TICA9IDQgKiA2MCAqIDEwMDA7CiAgY29uc3QgUE9MTF9JTlRFUlZBTCA9IDVfMDAwOwogIGNvbnN0IHN0YXJ0VGltZSA9IERhdGUubm93KCk7CgogIHdoaWxlIChEYXRlLm5vdygpIC0gc3RhcnRUaW1lIDwgTUFYX1dBSVRfTVMpIHsKICAgIGF3YWl0IG5ldyBQcm9taXNlKHIgPT4gc2V0VGltZW91dChyLCBQT0xMX0lOVEVSVkFMKSk7CgogICAgY29uc3Qgc3RhdHVzUmVzID0gYXdhaXQgZmV0Y2goYCR7U0FSVkFNX0JBU0V9LyR7am9iX2lkfS9zdGF0dXNgLCB7CiAgICAgIGhlYWRlcnM6IHsgJ2FwaS1zdWJzY3JpcHRpb24ta2V5JzogcHJvY2Vzcy5lbnYuU0FSVkFNX0FQSV9LRVkhIH0sCiAgICB9KTsKICAgIGlmICghc3RhdHVzUmVzLm9rKSB0aHJvdyBuZXcgRXJyb3IoYFNhcnZhbSBzdGF0dXMgY2hlY2sgZmFpbGVkOiAke3N0YXR1c1Jlcy5zdGF0dXNUZXh0fWApOwogICAgY29uc3Qgc3RhdHVzID0gYXdhaXQgc3RhdHVzUmVzLmpzb24oKTsKCiAgICBpZiAoc3RhdHVzLmpvYl9zdGF0ZSA9PT0gJ0ZhaWxlZCcpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKGBTYXJ2YW0gYmF0Y2ggam9iIGZhaWxlZDogJHtzdGF0dXMuZXJyb3JfbWVzc2FnZSA/PyAndW5rbm93biBlcnJvcid9YCk7CiAgICB9CgogICAgaWYgKHN0YXR1cy5qb2Jfc3RhdGUgPT09ICdDb21wbGV0ZWQnKSB7CiAgICAgIC8vIFRyYW5zY3JpcHQgaXMgaW4gYSBzZXBhcmF0ZSBvdXRwdXQgZmlsZSDigJQgZG93bmxvYWQgaXQgdmlhIHByZXNpZ25lZCBVUkwKICAgICAgY29uc3Qgb3V0cHV0RmlsZUlkOiBzdHJpbmcgPSBzdGF0dXMuam9iX2RldGFpbHM/LlswXT8ub3V0cHV0cz8uWzBdPy5maWxlX2lkID8/ICcwLmpzb24nOwoKICAgICAgY29uc3QgZGxSZXMgPSBhd2FpdCBmZXRjaChgJHtTQVJWQU1fQkFTRX0vZG93bmxvYWQtZmlsZXNgLCB7CiAgICAgICAgbWV0aG9kOiAnUE9TVCcsCiAgICAgICAgaGVhZGVyczogc2FydmFtSGVhZGVycygpLAogICAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsgam9iX2lkLCBmaWxlczogW291dHB1dEZpbGVJZF0gfSksCiAgICAgIH0pOwogICAgICBpZiAoIWRsUmVzLm9rKSB0aHJvdyBuZXcgRXJyb3IoYFNhcnZhbSBkb3dubG9hZC1maWxlcyBmYWlsZWQ6ICR7ZGxSZXMuc3RhdHVzVGV4dH1gKTsKICAgICAgY29uc3QgZGxEYXRhID0gYXdhaXQgZGxSZXMuanNvbigpOwoKICAgICAgY29uc3QgcHJlc2lnbmVkVXJsOiBzdHJpbmcgPSBkbERhdGEuZG93bmxvYWRfdXJscz8uW291dHB1dEZpbGVJZF0/LmZpbGVfdXJsOwogICAgICBpZiAoIXByZXNpZ25lZFVybCkgdGhyb3cgbmV3IEVycm9yKCdObyBwcmVzaWduZWQgZG93bmxvYWQgVVJMIHJldHVybmVkIGJ5IFNhcnZhbScpOwoKICAgICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgZmV0Y2gocHJlc2lnbmVkVXJsKS50aGVuKHIgPT4gci5qc29uKCkpOwogICAgICBjb25zdCB0ZXh0OiBzdHJpbmcgPSByZXN1bHQudHJhbnNjcmlwdCA/PyAnJzsKCiAgICAgIC8vIER1cmF0aW9uIGZyb20gbGFzdCBlbmRfdGltZV9zZWNvbmRzIHRpbWVzdGFtcAogICAgICBjb25zdCBlbmRUaW1lczogbnVtYmVyW10gPSByZXN1bHQudGltZXN0YW1wcz8uZW5kX3RpbWVfc2Vjb25kcyA/PyBbXTsKICAgICAgY29uc3QgZHVyYXRpb24gPSBlbmRUaW1lcy5sZW5ndGggPiAwID8gZW5kVGltZXNbZW5kVGltZXMubGVuZ3RoIC0gMV0gOiAwOwoKICAgICAgcmV0dXJuIHsgdGV4dCwgZHVyYXRpb24gfTsKICAgIH0KCiAgICAvLyBTdGlsbCBBY2NlcHRlZCAvIFBlbmRpbmcgLyBSdW5uaW5nIOKAlCBrZWVwIHBvbGxpbmcKICB9CgogIHRocm93IG5ldyBFcnJvcignU2FydmFtIGJhdGNoIHRyYW5zY3JpcHRpb24gdGltZWQgb3V0IGFmdGVyIDQgbWludXRlcycpOwp9Cg=="}
+const SARVAM_BASE = 'https://api.sarvam.ai/speech-to-text/job/v1';
+
+function sarvamHeaders(contentType = 'application/json') {
+  return {
+    'api-subscription-key': process.env.SARVAM_API_KEY!,
+    'Content-Type': contentType,
+  };
+}
+
+export async function transcribeAudio(audioUrl: string): Promise<{ text: string; duration: number }> {
+  // ── 1. Fetch audio ───────────────────────────────────────────────────────
+  const isBlob = audioUrl.includes('vercel-storage.com') || audioUrl.includes('blob.vercel');
+  const audioRes = await fetch(audioUrl, isBlob
+    ? { headers: { Authorization: `Bearer ${process.env.BLOB_READ_WRITE_TOKEN}` } }
+    : { redirect: 'follow' }); // follow redirects for Google Drive export URLs
+  if (!audioRes.ok) throw new Error(`Failed to fetch audio: ${audioRes.status} ${audioRes.statusText}`);
+  const audioBuffer = await audioRes.arrayBuffer();
+  const fileName = (audioUrl.split('/').pop()?.split('?')[0] ?? 'audio.mp3');
+
+  // ── 2. Create batch job ──────────────────────────────────────────────────
+  const createRes = await fetch(SARVAM_BASE, {
+    method: 'POST',
+    headers: sarvamHeaders(),
+    body: JSON.stringify({
+      job_parameters: {
+        language_code: 'en-IN',
+        model: 'saarika:v2.5',
+        mode: 'transcribe',
+        with_timestamps: true,
+      },
+    }),
+  });
+  if (!createRes.ok) throw new Error(`Sarvam job creation failed: ${await createRes.text()}`);
+  const { job_id } = await createRes.json();
+
+  // ── 3. Get presigned upload URL ──────────────────────────────────────────
+  const uploadUrlRes = await fetch(`${SARVAM_BASE}/upload-files`, {
+    method: 'POST',
+    headers: sarvamHeaders(),
+    body: JSON.stringify({ job_id, files: [fileName] }),
+  });
+  if (!uploadUrlRes.ok) throw new Error(`Sarvam upload URL failed: ${await uploadUrlRes.text()}`);
+  const { upload_urls } = await uploadUrlRes.json();
+  const fileUrl: string = upload_urls[fileName]?.file_url;
+  if (!fileUrl) throw new Error(`No upload URL returned for ${fileName}`);
+
+  // ── 4. Upload audio to presigned URL (PUT directly to Azure Blob Storage) ──
+  // Azure requires x-ms-blob-type header — without it the PUT is rejected
+  const putRes = await fetch(fileUrl, {
+    method: 'PUT',
+    body: audioBuffer,
+    headers: {
+      'Content-Type': 'audio/mpeg',
+      'x-ms-blob-type': 'BlockBlob',
+    },
+  });
+  if (!putRes.ok) throw new Error(`Sarvam file upload failed: ${putRes.statusText}`);
+
+  // ── 5. Start the job ─────────────────────────────────────────────────────
+  const startRes = await fetch(`${SARVAM_BASE}/${job_id}/start`, {
+    method: 'POST',
+    headers: sarvamHeaders(),
+    body: JSON.stringify({}),
+  });
+  if (!startRes.ok) throw new Error(`Sarvam job start failed: ${await startRes.text()}`);
+
+  // ── 6. Poll until Completed (max 4 min, check every 5s) ─────────────────
+  const MAX_WAIT_MS  = 4 * 60 * 1000;
+  const POLL_INTERVAL = 5_000;
+  const startTime = Date.now();
+
+  while (Date.now() - startTime < MAX_WAIT_MS) {
+    await new Promise(r => setTimeout(r, POLL_INTERVAL));
+
+    const statusRes = await fetch(`${SARVAM_BASE}/${job_id}/status`, {
+      headers: { 'api-subscription-key': process.env.SARVAM_API_KEY! },
+    });
+    if (!statusRes.ok) throw new Error(`Sarvam status check failed: ${statusRes.statusText}`);
+    const status = await statusRes.json();
+
+    if (status.job_state === 'Failed') {
+      throw new Error(`Sarvam batch job failed: ${status.error_message ?? 'unknown error'}`);
+    }
+
+    if (status.job_state === 'Completed') {
+      // Transcript is in a separate output file — download it via presigned URL
+      const outputFileId: string = status.job_details?.[0]?.outputs?.[0]?.file_id ?? '0.json';
+
+      const dlRes = await fetch(`${SARVAM_BASE}/download-files`, {
+        method: 'POST',
+        headers: sarvamHeaders(),
+        body: JSON.stringify({ job_id, files: [outputFileId] }),
+      });
+      if (!dlRes.ok) throw new Error(`Sarvam download-files failed: ${dlRes.statusText}`);
+      const dlData = await dlRes.json();
+
+      const presignedUrl: string = dlData.download_urls?.[outputFileId]?.file_url;
+      if (!presignedUrl) throw new Error('No presigned download URL returned by Sarvam');
+
+      const result = await fetch(presignedUrl).then(r => r.json());
+      const text: string = result.transcript ?? '';
+
+      // Duration from last end_time_seconds timestamp
+      const endTimes: number[] = result.timestamps?.end_time_seconds ?? [];
+      const duration = endTimes.length > 0 ? endTimes[endTimes.length - 1] : 0;
+
+      return { text, duration };
+    }
+
+    // Still Accepted / Pending / Running — keep polling
+  }
+
+  throw new Error('Sarvam batch transcription timed out after 4 minutes');
+}

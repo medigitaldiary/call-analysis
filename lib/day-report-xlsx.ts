@@ -1,1 +1,115 @@
-{"data":"aW1wb3J0ICogYXMgWExTWCBmcm9tICd4bHN4JzsKCmV4cG9ydCBpbnRlcmZhY2UgVHJhbnNjcmlwdENhbGxSb3cgewogIHBob25lOiAgICAgICAgICAgICBzdHJpbmcgfCBudWxsOwogIGN1c3RvbWVyX25hbWU6ICAgICBzdHJpbmcgfCBudWxsOwogIGR1cmF0aW9uOiAgICAgICAgICBzdHJpbmcgfCBudWxsOwogIG91dGNvbWU6ICAgICAgICAgICBzdHJpbmcgfCBudWxsOwogIGNhbGxfcXVhbGl0eTogICAgICBzdHJpbmcgfCBudWxsOwogIGFnZW50X3BlcmZvcm1hbmNlOiBzdHJpbmcgfCBudWxsOwogIHN1bW1hcnk6ICAgICAgICAgICBzdHJpbmcgfCBudWxsOwogIHNlbnRpbWVudDogICAgICAgICB7IG92ZXJhbGw6IHN0cmluZzsgYWdlbnQ6IHN0cmluZzsgY3VzdG9tZXI6IHN0cmluZyB9IHwgbnVsbDsKICBhY3Rpb25faXRlbXM6ICAgICAgQXJyYXk8eyBwcmlvcml0eTogc3RyaW5nOyB0YXNrOiBzdHJpbmc7IG93bmVyOiBzdHJpbmc7IGRlYWRsaW5lOiBzdHJpbmcgfT4gfCBudWxsOwogIGNvbXBsaWFuY2U6ICAgICAgICBzdHJpbmcgfCBudWxsOwogIHRyYW5zY3JpcHQ6ICAgICAgICBzdHJpbmcgfCBudWxsOwp9CgpleHBvcnQgaW50ZXJmYWNlIFJNVHJhbnNjcmlwdERhdGEgewogIHJtTmFtZTogIHN0cmluZzsKICBkYXRlOiAgICBzdHJpbmc7CiAgY2FsbHM6ICAgVHJhbnNjcmlwdENhbGxSb3dbXTsKfQoKZnVuY3Rpb24gYnVpbGRBbmFseXNpc1RleHQoYzogVHJhbnNjcmlwdENhbGxSb3cpOiBzdHJpbmcgewogIGNvbnN0IGxpbmVzOiBzdHJpbmdbXSA9IFtdOwoKICBpZiAoYy5zdW1tYXJ5KSAgICAgICAgICAgbGluZXMucHVzaChgU1VNTUFSWVxuJHtjLnN1bW1hcnl9YCk7CiAgaWYgKGMub3V0Y29tZSkgICAgICAgICAgIGxpbmVzLnB1c2goYE91dGNvbWU6ICR7Yy5vdXRjb21lfWApOwogIGlmIChjLmNhbGxfcXVhbGl0eSkgICAgICBsaW5lcy5wdXNoKGBDYWxsIFF1YWxpdHk6ICR7Yy5jYWxsX3F1YWxpdHl9YCk7CiAgaWYgKGMuYWdlbnRfcGVyZm9ybWFuY2UpIGxpbmVzLnB1c2goYEFnZW50IFBlcmZvcm1hbmNlOiAke2MuYWdlbnRfcGVyZm9ybWFuY2V9YCk7CgogIGlmIChjLnNlbnRpbWVudCkgewogICAgbGluZXMucHVzaChgU2VudGltZW50IOKAlCBPdmVyYWxsOiAke2Muc2VudGltZW50Lm92ZXJhbGx9ICB8ICBBZ2VudDogJHtjLnNlbnRpbWVudC5hZ2VudH0gIHwgIEN1c3RvbWVyOiAke2Muc2VudGltZW50LmN1c3RvbWVyfWApOwogIH0KCiAgaWYgKGMuY29tcGxpYW5jZSAmJiBjLmNvbXBsaWFuY2UudG9Mb3dlckNhc2UoKSAhPT0gJ25vbmUnKSB7CiAgICBsaW5lcy5wdXNoKGDimqAgQ29tcGxpYW5jZTogJHtjLmNvbXBsaWFuY2V9YCk7CiAgfQoKICBsZXQgYWN0aW9uSXRlbXM6IEFycmF5PHsgcHJpb3JpdHk6IHN0cmluZzsgdGFzazogc3RyaW5nOyBvd25lcjogc3RyaW5nOyBkZWFkbGluZTogc3RyaW5nIH0+IHwgbnVsbCA9IG51bGw7CiAgaWYgKEFycmF5LmlzQXJyYXkoYy5hY3Rpb25faXRlbXMpKSB7CiAgICBhY3Rpb25JdGVtcyA9IGMuYWN0aW9uX2l0ZW1zOwogIH0gZWxzZSBpZiAodHlwZW9mIGMuYWN0aW9uX2l0ZW1zID09PSAnc3RyaW5nJykgewogICAgdHJ5IHsKICAgICAgY29uc3QgcGFyc2VkID0gSlNPTi5wYXJzZShjLmFjdGlvbl9pdGVtcyk7CiAgICAgIGlmIChBcnJheS5pc0FycmF5KHBhcnNlZCkpIGFjdGlvbkl0ZW1zID0gcGFyc2VkOwogICAgICBlbHNlIGlmICh0eXBlb2YgcGFyc2VkID09PSAnc3RyaW5nJykgewogICAgICAgIC8vIERvdWJsZS1lbmNvZGVkIHN0cmluZyDigJQgcGFyc2Ugb25jZSBtb3JlCiAgICAgICAgdHJ5IHsgY29uc3QgYWdhaW4gPSBKU09OLnBhcnNlKHBhcnNlZCk7IGlmIChBcnJheS5pc0FycmF5KGFnYWluKSkgYWN0aW9uSXRlbXMgPSBhZ2FpbjsgfSBjYXRjaCB7IC8qIGlnbm9yZSAqLyB9CiAgICAgIH0KICAgIH0gY2F0Y2ggeyAvKiBpZ25vcmUgKi8gfQogIH0KICBpZiAoYWN0aW9uSXRlbXMgJiYgYWN0aW9uSXRlbXMubGVuZ3RoID4gMCkgewogICAgY29uc3QgaXRlbXMgPSBhY3Rpb25JdGVtcy5tYXAoKGE6IHsgcHJpb3JpdHk6IHN0cmluZzsgdGFzazogc3RyaW5nOyBvd25lcjogc3RyaW5nOyBkZWFkbGluZTogc3RyaW5nIH0sIGk6IG51bWJlcikgPT4KICAgICAgYCR7aSArIDF9LiBbJHthLnByaW9yaXR5fV0gJHthLnRhc2t9IOKAlCAke2Eub3duZXJ9ICgke2EuZGVhZGxpbmV9KWAKICAgICkuam9pbignXG4nKTsKICAgIGxpbmVzLnB1c2goYEFDVElPTiBJVEVNU1xuJHtpdGVtc31gKTsKICB9CgogIHJldHVybiBsaW5lcy5qb2luKCdcblxuJyk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBnZW5lcmF0ZUNvbWJpbmVkVHJhbnNjcmlwdFhsc3gocm1zOiBSTVRyYW5zY3JpcHREYXRhW10pOiBCdWZmZXIgewogIGNvbnN0IHdiID0gWExTWC51dGlscy5ib29rX25ldygpOwoKICBmb3IgKGNvbnN0IHJtIG9mIHJtcykgewogICAgLy8gU2hlZXQgbmFtZTogUk0gbmFtZSAobWF4IDMxIGNoYXJzLCBFeGNlbCBsaW1pdCkKICAgIGNvbnN0IHNoZWV0TmFtZSA9IHJtLnJtTmFtZS5zbGljZSgwLCAzMSk7CgogICAgLy8gQ2FwIHRyYW5zY3JpcHQgYXQgMSA1MDAgY2hhcnMgcGVyIGNhbGwg4oCUIGtlZXBzIHhsc3ggY29tcGFjdCBmb3IgbGFyZ2Ugc2Vzc2lvbnMKICAgIGNvbnN0IE1BWF9UUkFOU0NSSVBUID0gMTUwMDsKICAgIGNvbnN0IHJvd3MgPSBybS5jYWxscy5tYXAoKGMsIGkpID0+IHsKICAgICAgY29uc3QgcmF3ID0gYy50cmFuc2NyaXB0ID8/ICcnOwogICAgICBjb25zdCB0cmFuc2NyaXB0ID0gcmF3Lmxlbmd0aCA+IE1BWF9UUkFOU0NSSVBUCiAgICAgICAgPyByYXcuc2xpY2UoMCwgTUFYX1RSQU5TQ1JJUFQpICsgJ1xu4oCmW3RydW5jYXRlZF0nCiAgICAgICAgOiByYXc7CiAgICAgIHJldHVybiB7CiAgICAgICAgJyMnOiAgICAgICAgICAgICAgICBpICsgMSwKICAgICAgICAnUGhvbmUgTnVtYmVyJzogICAgIGMucGhvbmUgICAgICAgICAgPz8gJycsCiAgICAgICAgJ0N1c3RvbWVyJzogICAgICAgICBjLmN1c3RvbWVyX25hbWUgID8/ICcnLAogICAgICAgICdEdXJhdGlvbic6ICAgICAgICAgYy5kdXJhdGlvbiAgICAgICA/PyAnJywKICAgICAgICAnQ2FsbCBUcmFuc2NyaXB0JzogIHRyYW5zY3JpcHQsCiAgICAgICAgJ0NhbGwgQW5hbHlzaXMnOiAgICBidWlsZEFuYWx5c2lzVGV4dChjKSwKICAgICAgfTsKICAgIH0pOwoKICAgIGNvbnN0IHdzID0gWExTWC51dGlscy5qc29uX3RvX3NoZWV0KHJvd3MubGVuZ3RoID8gcm93cyA6IFsKICAgICAgeyAnIyc6ICcnLCAnUGhvbmUgTnVtYmVyJzogJycsICdDdXN0b21lcic6ICcnLCAnRHVyYXRpb24nOiAnJywgJ0NhbGwgVHJhbnNjcmlwdCc6ICdObyBjYWxscyBmb3VuZCcsICdDYWxsIEFuYWx5c2lzJzogJycgfQogICAgXSk7CgogICAgLy8gU2V0IGNvbHVtbiB3aWR0aHMKICAgIHdzWychY29scyddID0gWwogICAgICB7IHdjaDogNCAgfSwgIC8vICMKICAgICAgeyB3Y2g6IDE2IH0sICAvLyBQaG9uZSBOdW1iZXIKICAgICAgeyB3Y2g6IDIyIH0sICAvLyBDdXN0b21lcgogICAgICB7IHdjaDogMTAgfSwgIC8vIER1cmF0aW9uCiAgICAgIHsgd2NoOiA4MCB9LCAgLy8gQ2FsbCBUcmFuc2NyaXB0CiAgICAgIHsgd2NoOiA2MCB9LCAgLy8gQ2FsbCBBbmFseXNpcwogICAgXTsKCiAgICAvLyBFbmFibGUgdGV4dCB3cmFwIG9uIFRyYW5zY3JpcHQgJiBBbmFseXNpcyBjb2x1bW5zIChjb2xzIEUgYW5kIEYgPSBpbmRleCA0LCA1KQogICAgY29uc3QgcmFuZ2UgPSBYTFNYLnV0aWxzLmRlY29kZV9yYW5nZSh3c1snIXJlZiddID8/ICdBMScpOwogICAgZm9yIChsZXQgUiA9IHJhbmdlLnMuciArIDE7IFIgPD0gcmFuZ2UuZS5yOyBSKyspIHsKICAgICAgZm9yIChjb25zdCBDIG9mIFs0LCA1XSkgewogICAgICAgIGNvbnN0IGNlbGxfYWRkcmVzcyA9IFhMU1gudXRpbHMuZW5jb2RlX2NlbGwoeyByOiBSLCBjOiBDIH0pOwogICAgICAgIGlmICghd3NbY2VsbF9hZGRyZXNzXSkgY29udGludWU7CiAgICAgICAgd3NbY2VsbF9hZGRyZXNzXS5zID0geyBhbGlnbm1lbnQ6IHsgd3JhcFRleHQ6IHRydWUsIHZlcnRpY2FsOiAndG9wJyB9IH07CiAgICAgIH0KICAgIH0KCiAgICBYTFNYLnV0aWxzLmJvb2tfYXBwZW5kX3NoZWV0KHdiLCB3cywgc2hlZXROYW1lKTsKICB9CgogIGNvbnN0IGJ1ZiA9IFhMU1gud3JpdGUod2IsIHsgdHlwZTogJ2J1ZmZlcicsIGJvb2tUeXBlOiAneGxzeCcgfSk7CiAgcmV0dXJuIEJ1ZmZlci5mcm9tKGJ1Zik7Cn0K"}
+import * as XLSX from 'xlsx';
+
+export interface TranscriptCallRow {
+  phone:             string | null;
+  customer_name:     string | null;
+  duration:          string | null;
+  outcome:           string | null;
+  call_quality:      string | null;
+  agent_performance: string | null;
+  summary:           string | null;
+  sentiment:         { overall: string; agent: string; customer: string } | null;
+  action_items:      Array<{ priority: string; task: string; owner: string; deadline: string }> | null;
+  compliance:        string | null;
+  transcript:        string | null;
+}
+
+export interface RMTranscriptData {
+  rmName:  string;
+  date:    string;
+  calls:   TranscriptCallRow[];
+}
+
+function buildAnalysisText(c: TranscriptCallRow): string {
+  const lines: string[] = [];
+
+  if (c.summary)           lines.push(`SUMMARY\n${c.summary}`);
+  if (c.outcome)           lines.push(`Outcome: ${c.outcome}`);
+  if (c.call_quality)      lines.push(`Call Quality: ${c.call_quality}`);
+  if (c.agent_performance) lines.push(`Agent Performance: ${c.agent_performance}`);
+
+  if (c.sentiment) {
+    lines.push(`Sentiment — Overall: ${c.sentiment.overall}  |  Agent: ${c.sentiment.agent}  |  Customer: ${c.sentiment.customer}`);
+  }
+
+  if (c.compliance && c.compliance.toLowerCase() !== 'none') {
+    lines.push(`⚠ Compliance: ${c.compliance}`);
+  }
+
+  let actionItems: Array<{ priority: string; task: string; owner: string; deadline: string }> | null = null;
+  if (Array.isArray(c.action_items)) {
+    actionItems = c.action_items;
+  } else if (typeof c.action_items === 'string') {
+    try {
+      const parsed = JSON.parse(c.action_items);
+      if (Array.isArray(parsed)) actionItems = parsed;
+      else if (typeof parsed === 'string') {
+        // Double-encoded string — parse once more
+        try { const again = JSON.parse(parsed); if (Array.isArray(again)) actionItems = again; } catch { /* ignore */ }
+      }
+    } catch { /* ignore */ }
+  }
+  if (actionItems && actionItems.length > 0) {
+    const items = actionItems.map((a: { priority: string; task: string; owner: string; deadline: string }, i: number) =>
+      `${i + 1}. [${a.priority}] ${a.task} — ${a.owner} (${a.deadline})`
+    ).join('\n');
+    lines.push(`ACTION ITEMS\n${items}`);
+  }
+
+  return lines.join('\n\n');
+}
+
+export function generateCombinedTranscriptXlsx(rms: RMTranscriptData[]): Buffer {
+  const wb = XLSX.utils.book_new();
+
+  for (const rm of rms) {
+    // Sheet name: RM name (max 31 chars, Excel limit)
+    const sheetName = rm.rmName.slice(0, 31);
+
+    // Cap transcript at 1 500 chars per call — keeps xlsx compact for large sessions
+    const MAX_TRANSCRIPT = 1500;
+    const rows = rm.calls.map((c, i) => {
+      const raw = c.transcript ?? '';
+      const transcript = raw.length > MAX_TRANSCRIPT
+        ? raw.slice(0, MAX_TRANSCRIPT) + '\n…[truncated]'
+        : raw;
+      return {
+        '#':                i + 1,
+        'Phone Number':     c.phone          ?? '',
+        'Customer':         c.customer_name  ?? '',
+        'Duration':         c.duration       ?? '',
+        'Call Transcript':  transcript,
+        'Call Analysis':    buildAnalysisText(c),
+      };
+    });
+
+    const ws = XLSX.utils.json_to_sheet(rows.length ? rows : [
+      { '#': '', 'Phone Number': '', 'Customer': '', 'Duration': '', 'Call Transcript': 'No calls found', 'Call Analysis': '' }
+    ]);
+
+    // Set column widths
+    ws['!cols'] = [
+      { wch: 4  },  // #
+      { wch: 16 },  // Phone Number
+      { wch: 22 },  // Customer
+      { wch: 10 },  // Duration
+      { wch: 80 },  // Call Transcript
+      { wch: 60 },  // Call Analysis
+    ];
+
+    // Enable text wrap on Transcript & Analysis columns (cols E and F = index 4, 5)
+    const range = XLSX.utils.decode_range(ws['!ref'] ?? 'A1');
+    for (let R = range.s.r + 1; R <= range.e.r; R++) {
+      for (const C of [4, 5]) {
+        const cell_address = XLSX.utils.encode_cell({ r: R, c: C });
+        if (!ws[cell_address]) continue;
+        ws[cell_address].s = { alignment: { wrapText: true, vertical: 'top' } };
+      }
+    }
+
+    XLSX.utils.book_append_sheet(wb, ws, sheetName);
+  }
+
+  const buf = XLSX.write(wb, { type: 'buffer', bookType: 'xlsx' });
+  return Buffer.from(buf);
+}

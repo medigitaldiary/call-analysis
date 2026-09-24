@@ -1,1 +1,173 @@
-{"data":"J3VzZSBjbGllbnQnOwoKaW1wb3J0IHsgdXNlU3RhdGUsIHVzZVJlZiwgRHJhZ0V2ZW50LCBDaGFuZ2VFdmVudCB9IGZyb20gJ3JlYWN0JzsKCmludGVyZmFjZSBVcGxvYWRab25lUHJvcHMgewogIG9uRmlsZVNlbGVjdDogKGZpbGU6IEZpbGUpID0+IHZvaWQ7CiAgb25Ecml2ZVVybDogKHVybDogc3RyaW5nKSA9PiB2b2lkOwogIGRpc2FibGVkPzogYm9vbGVhbjsKfQoKY29uc3QgQUNDRVBURURfVFlQRVMgPSBbJy5tcDMnLCAnLm1wNCcsICcubTRhJywgJy53YXYnLCAnLndlYm0nXTsKY29uc3QgTUFYX1NJWkVfR0IgPSAyOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gVXBsb2FkWm9uZSh7IG9uRmlsZVNlbGVjdCwgb25Ecml2ZVVybCwgZGlzYWJsZWQgfTogVXBsb2FkWm9uZVByb3BzKSB7CiAgY29uc3QgW2lzRHJhZ2dpbmcsIHNldElzRHJhZ2dpbmddID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IFtzZWxlY3RlZEZpbGUsIHNldFNlbGVjdGVkRmlsZV0gPSB1c2VTdGF0ZTxGaWxlIHwgbnVsbD4obnVsbCk7CiAgY29uc3QgW2RyaXZlVXJsLCBzZXREcml2ZVVybF0gPSB1c2VTdGF0ZSgnJyk7CiAgY29uc3QgW2Vycm9yLCBzZXRFcnJvcl0gPSB1c2VTdGF0ZSgnJyk7CiAgY29uc3QgaW5wdXRSZWYgPSB1c2VSZWY8SFRNTElucHV0RWxlbWVudD4obnVsbCk7CgogIGZ1bmN0aW9uIGhhbmRsZUZpbGUoZmlsZTogRmlsZSkgewogICAgc2V0RXJyb3IoJycpOwogICAgaWYgKGZpbGUuc2l6ZSA+IE1BWF9TSVpFX0dCICogMTAyNCAqIDEwMjQgKiAxMDI0KSB7CiAgICAgIHNldEVycm9yKCdGaWxlIGV4Y2VlZHMgMkdCIGxpbWl0Jyk7CiAgICAgIHJldHVybjsKICAgIH0KICAgIHNldFNlbGVjdGVkRmlsZShmaWxlKTsKICAgIHNldERyaXZlVXJsKCcnKTsKICAgIG9uRmlsZVNlbGVjdChmaWxlKTsKICB9CgogIGZ1bmN0aW9uIG9uRHJvcChlOiBEcmFnRXZlbnQpIHsKICAgIGUucHJldmVudERlZmF1bHQoKTsKICAgIHNldElzRHJhZ2dpbmcoZmFsc2UpOwogICAgY29uc3QgZmlsZSA9IGUuZGF0YVRyYW5zZmVyLmZpbGVzWzBdOwogICAgaWYgKGZpbGUpIGhhbmRsZUZpbGUoZmlsZSk7CiAgfQoKICBmdW5jdGlvbiBvbklucHV0Q2hhbmdlKGU6IENoYW5nZUV2ZW50PEhUTUxJbnB1dEVsZW1lbnQ+KSB7CiAgICBjb25zdCBmaWxlID0gZS50YXJnZXQuZmlsZXM/LlswXTsKICAgIGlmIChmaWxlKSBoYW5kbGVGaWxlKGZpbGUpOwogIH0KCiAgZnVuY3Rpb24gbG9hZERyaXZlVXJsKCkgewogICAgaWYgKCFkcml2ZVVybC50cmltKCkpIHJldHVybjsKICAgIHNldFNlbGVjdGVkRmlsZShudWxsKTsKICAgIG9uRHJpdmVVcmwoZHJpdmVVcmwudHJpbSgpKTsKICB9CgogIGNvbnN0IGZvcm1hdFNpemUgPSAoYnl0ZXM6IG51bWJlcikgPT4gewogICAgaWYgKGJ5dGVzID4gMWU5KSByZXR1cm4gYCR7KGJ5dGVzIC8gMWU5KS50b0ZpeGVkKDEpfSBHQmA7CiAgICBpZiAoYnl0ZXMgPiAxZTYpIHJldHVybiBgJHsoYnl0ZXMgLyAxZTYpLnRvRml4ZWQoMSl9IE1CYDsKICAgIHJldHVybiBgJHsoYnl0ZXMgLyAxZTMpLnRvRml4ZWQoMCl9IEtCYDsKICB9OwoKICByZXR1cm4gKAogICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGZsZXhEaXJlY3Rpb246ICdjb2x1bW4nLCBnYXA6IDEyIH19PgogICAgICB7LyogRHJvcCB6b25lICovfQogICAgICA8ZGl2CiAgICAgICAgb25DbGljaz17KCkgPT4gIWRpc2FibGVkICYmIGlucHV0UmVmLmN1cnJlbnQ/LmNsaWNrKCl9CiAgICAgICAgb25EcmFnT3Zlcj17KGUpID0+IHsgZS5wcmV2ZW50RGVmYXVsdCgpOyBzZXRJc0RyYWdnaW5nKHRydWUpOyB9fQogICAgICAgIG9uRHJhZ0xlYXZlPXsoKSA9PiBzZXRJc0RyYWdnaW5nKGZhbHNlKX0KICAgICAgICBvbkRyb3A9e29uRHJvcH0KICAgICAgICBzdHlsZT17ewogICAgICAgICAgYm9yZGVyOiBgMnB4IGRhc2hlZCAke2lzRHJhZ2dpbmcgPyAnIzNiODJmNicgOiBzZWxlY3RlZEZpbGUgPyAnIzIyYzU1ZScgOiAnIzFlMzA1OCd9YCwKICAgICAgICAgIGJvcmRlclJhZGl1czogMTAsCiAgICAgICAgICBwYWRkaW5nOiAnMzJweCAyNHB4JywKICAgICAgICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICAgICAgICBjdXJzb3I6IGRpc2FibGVkID8gJ25vdC1hbGxvd2VkJyA6ICdwb2ludGVyJywKICAgICAgICAgIGJhY2tncm91bmQ6IGlzRHJhZ2dpbmcgPyAncmdiYSg1OSwxMzAsMjQ2LDAuMDUpJyA6IHNlbGVjdGVkRmlsZSA/ICdyZ2JhKDM0LDE5Nyw5NCwwLjA0KScgOiAndHJhbnNwYXJlbnQnLAogICAgICAgICAgdHJhbnNpdGlvbjogJ2FsbCAwLjJzJywKICAgICAgICAgIG9wYWNpdHk6IGRpc2FibGVkID8gMC42IDogMSwKICAgICAgICB9fQogICAgICA+CiAgICAgICAgPGlucHV0CiAgICAgICAgICByZWY9e2lucHV0UmVmfQogICAgICAgICAgdHlwZT0iZmlsZSIKICAgICAgICAgIGFjY2VwdD17QUNDRVBURURfVFlQRVMuam9pbignLCcpfQogICAgICAgICAgc3R5bGU9e3sgZGlzcGxheTogJ25vbmUnIH19CiAgICAgICAgICBvbkNoYW5nZT17b25JbnB1dENoYW5nZX0KICAgICAgICAgIGRpc2FibGVkPXtkaXNhYmxlZH0KICAgICAgICAvPgoKICAgICAgICB7c2VsZWN0ZWRGaWxlID8gKAogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMjgsIG1hcmdpbkJvdHRvbTogOCB9fT7inIU8L2Rpdj4KICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBjb2xvcjogJyMyMmM1NWUnLCBmb250V2VpZ2h0OiA2MDAsIGZvbnRTaXplOiAxNCB9fT57c2VsZWN0ZWRGaWxlLm5hbWV9PC9kaXY+CiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgY29sb3I6ICd2YXIoLS10ZXh0LWRpbSknLCBmb250U2l6ZTogMTIsIG1hcmdpblRvcDogNCB9fT4KICAgICAgICAgICAgICB7Zm9ybWF0U2l6ZShzZWxlY3RlZEZpbGUuc2l6ZSl9CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGNvbG9yOiAndmFyKC0tdGV4dC1kaW0pJywgZm9udFNpemU6IDEyLCBtYXJnaW5Ub3A6IDQgfX0+CiAgICAgICAgICAgICAgQ2xpY2sgdG8gY2hhbmdlIGZpbGUKICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApIDogKAogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMzIsIG1hcmdpbkJvdHRvbTogMTIgfX0+8J+Ome+4jzwvZGl2PgogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGNvbG9yOiAnI2YxZjVmOScsIGZvbnRXZWlnaHQ6IDUwMCwgZm9udFNpemU6IDE0LCBtYXJnaW5Cb3R0b206IDQgfX0+CiAgICAgICAgICAgICAgRHJvcCB5b3VyIHJlY29yZGluZyBoZXJlCiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGNvbG9yOiAndmFyKC0tdGV4dC1tdXRlZCknLCBmb250U2l6ZTogMTIsIG1hcmdpbkJvdHRvbTogOCB9fT4KICAgICAgICAgICAgICBNUDMsIE1QNCwgTTRBLCBXQVYsIFdlYk0gJm5ic3A7wrcmbmJzcDsgTWF4IDJHQgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICBkaXNwbGF5OiAnaW5saW5lLWJsb2NrJywKICAgICAgICAgICAgICAgIHBhZGRpbmc6ICc2cHggMTZweCcsCiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kOiAnIzFiMjc0OCcsCiAgICAgICAgICAgICAgICBib3JkZXI6ICcxcHggc29saWQgdmFyKC0tY2FyZC1ib3JkZXIpJywKICAgICAgICAgICAgICAgIGJvcmRlclJhZGl1czogNiwKICAgICAgICAgICAgICAgIGZvbnRTaXplOiAxMiwKICAgICAgICAgICAgICAgIGNvbG9yOiAndmFyKC0tdGV4dC1tdXRlZCknLAogICAgICAgICAgICAgIH19CiAgICAgICAgICAgID4KICAgICAgICAgICAgICBCcm93c2UgZmlsZXMKICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApfQogICAgICA8L2Rpdj4KCiAgICAgIHsvKiBEaXZpZGVyICovfQogICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICdmbGV4JywgYWxpZ25JdGVtczogJ2NlbnRlcicsIGdhcDogMTIgfX0+CiAgICAgICAgPGRpdiBzdHlsZT17eyBmbGV4OiAxLCBoZWlnaHQ6IDEsIGJhY2tncm91bmQ6ICd2YXIoLS1jYXJkLWJvcmRlciknIH19IC8+CiAgICAgICAgPHNwYW4gc3R5bGU9e3sgY29sb3I6ICd2YXIoLS10ZXh0LWRpbSknLCBmb250U2l6ZTogMTIgfX0+b3I8L3NwYW4+CiAgICAgICAgPGRpdiBzdHlsZT17eyBmbGV4OiAxLCBoZWlnaHQ6IDEsIGJhY2tncm91bmQ6ICd2YXIoLS1jYXJkLWJvcmRlciknIH19IC8+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIERyaXZlIFVSTCBpbnB1dCAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9ImRyaXZlLXJvdyIgc3R5bGU9e3sgZGlzcGxheTogJ2ZsZXgnLCBnYXA6IDggfX0+CiAgICAgICAgPGlucHV0CiAgICAgICAgICB0eXBlPSJ1cmwiCiAgICAgICAgICBwbGFjZWhvbGRlcj0iR29vZ2xlIERyaXZlIHJlY29yZGluZyBVUkwuLi4iCiAgICAgICAgICB2YWx1ZT17ZHJpdmVVcmx9CiAgICAgICAgICBvbkNoYW5nZT17KGUpID0+IHsgc2V0RHJpdmVVcmwoZS50YXJnZXQudmFsdWUpOyBzZXRTZWxlY3RlZEZpbGUobnVsbCk7IH19CiAgICAgICAgICBkaXNhYmxlZD17ZGlzYWJsZWR9CiAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICBmbGV4OiAxLAogICAgICAgICAgICBiYWNrZ3JvdW5kOiAnIzEzMWQzNScsCiAgICAgICAgICAgIGJvcmRlcjogJzFweCBzb2xpZCB2YXIoLS1jYXJkLWJvcmRlciknLAogICAgICAgICAgICBib3JkZXJSYWRpdXM6IDgsCiAgICAgICAgICAgIHBhZGRpbmc6ICc4cHggMTRweCcsCiAgICAgICAgICAgIGZvbnRTaXplOiAxMywKICAgICAgICAgICAgY29sb3I6ICcjZjFmNWY5JywKICAgICAgICAgICAgb3V0bGluZTogJ25vbmUnLAogICAgICAgICAgfX0KICAgICAgICAvPgogICAgICAgIDxidXR0b24KICAgICAgICAgIG9uQ2xpY2s9e2xvYWREcml2ZVVybH0KICAgICAgICAgIGRpc2FibGVkPXshZHJpdmVVcmwudHJpbSgpIHx8IGRpc2FibGVkfQogICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgYmFja2dyb3VuZDogZHJpdmVVcmwudHJpbSgpID8gJyMzYjgyZjYnIDogJyMxYjI3NDgnLAogICAgICAgICAgICBjb2xvcjogJyNmZmYnLAogICAgICAgICAgICBib3JkZXI6ICdub25lJywKICAgICAgICAgICAgYm9yZGVyUmFkaXVzOiA4LAogICAgICAgICAgICBwYWRkaW5nOiAnOHB4IDE2cHgnLAogICAgICAgICAgICBmb250U2l6ZTogMTMsCiAgICAgICAgICAgIGZvbnRXZWlnaHQ6IDUwMCwKICAgICAgICAgICAgY3Vyc29yOiBkcml2ZVVybC50cmltKCkgJiYgIWRpc2FibGVkID8gJ3BvaW50ZXInIDogJ25vdC1hbGxvd2VkJywKICAgICAgICAgICAgb3BhY2l0eTogZHJpdmVVcmwudHJpbSgpICYmICFkaXNhYmxlZCA/IDEgOiAwLjUsCiAgICAgICAgICB9fQogICAgICAgID4KICAgICAgICAgIExvYWQKICAgICAgICA8L2J1dHRvbj4KICAgICAgPC9kaXY+CgogICAgICB7ZXJyb3IgJiYgKAogICAgICAgIDxkaXYgc3R5bGU9e3sgY29sb3I6ICcjZWY0NDQ0JywgZm9udFNpemU6IDEyLCBwYWRkaW5nOiAnNnB4IDEycHgnLCBiYWNrZ3JvdW5kOiAncmdiYSgyMzksNjgsNjgsMC4wOCknLCBib3JkZXJSYWRpdXM6IDYgfX0+CiAgICAgICAgICB7ZXJyb3J9CiAgICAgICAgPC9kaXY+CiAgICAgICl9CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+'use client';
+
+import { useState, useRef, DragEvent, ChangeEvent } from 'react';
+
+interface UploadZoneProps {
+  onFileSelect: (file: File) => void;
+  onDriveUrl: (url: string) => void;
+  disabled?: boolean;
+}
+
+const ACCEPTED_TYPES = ['.mp3', '.mp4', '.m4a', '.wav', '.webm'];
+const MAX_SIZE_GB = 2;
+
+export default function UploadZone({ onFileSelect, onDriveUrl, disabled }: UploadZoneProps) {
+  const [isDragging, setIsDragging] = useState(false);
+  const [selectedFile, setSelectedFile] = useState<File | null>(null);
+  const [driveUrl, setDriveUrl] = useState('');
+  const [error, setError] = useState('');
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  function handleFile(file: File) {
+    setError('');
+    if (file.size > MAX_SIZE_GB * 1024 * 1024 * 1024) {
+      setError('File exceeds 2GB limit');
+      return;
+    }
+    setSelectedFile(file);
+    setDriveUrl('');
+    onFileSelect(file);
+  }
+
+  function onDrop(e: DragEvent) {
+    e.preventDefault();
+    setIsDragging(false);
+    const file = e.dataTransfer.files[0];
+    if (file) handleFile(file);
+  }
+
+  function onInputChange(e: ChangeEvent<HTMLInputElement>) {
+    const file = e.target.files?.[0];
+    if (file) handleFile(file);
+  }
+
+  function loadDriveUrl() {
+    if (!driveUrl.trim()) return;
+    setSelectedFile(null);
+    onDriveUrl(driveUrl.trim());
+  }
+
+  const formatSize = (bytes: number) => {
+    if (bytes > 1e9) return `${(bytes / 1e9).toFixed(1)} GB`;
+    if (bytes > 1e6) return `${(bytes / 1e6).toFixed(1)} MB`;
+    return `${(bytes / 1e3).toFixed(0)} KB`;
+  };
+
+  return (
+    <div style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
+      {/* Drop zone */}
+      <div
+        onClick={() => !disabled && inputRef.current?.click()}
+        onDragOver={(e) => { e.preventDefault(); setIsDragging(true); }}
+        onDragLeave={() => setIsDragging(false)}
+        onDrop={onDrop}
+        style={{
+          border: `2px dashed ${isDragging ? '#3b82f6' : selectedFile ? '#22c55e' : '#1e3058'}`,
+          borderRadius: 10,
+          padding: '32px 24px',
+          textAlign: 'center',
+          cursor: disabled ? 'not-allowed' : 'pointer',
+          background: isDragging ? 'rgba(59,130,246,0.05)' : selectedFile ? 'rgba(34,197,94,0.04)' : 'transparent',
+          transition: 'all 0.2s',
+          opacity: disabled ? 0.6 : 1,
+        }}
+      >
+        <input
+          ref={inputRef}
+          type="file"
+          accept={ACCEPTED_TYPES.join(',')}
+          style={{ display: 'none' }}
+          onChange={onInputChange}
+          disabled={disabled}
+        />
+
+        {selectedFile ? (
+          <div>
+            <div style={{ fontSize: 28, marginBottom: 8 }}>✅</div>
+            <div style={{ color: '#22c55e', fontWeight: 600, fontSize: 14 }}>{selectedFile.name}</div>
+            <div style={{ color: 'var(--text-dim)', fontSize: 12, marginTop: 4 }}>
+              {formatSize(selectedFile.size)}
+            </div>
+            <div style={{ color: 'var(--text-dim)', fontSize: 12, marginTop: 4 }}>
+              Click to change file
+            </div>
+          </div>
+        ) : (
+          <div>
+            <div style={{ fontSize: 32, marginBottom: 12 }}>🎙️</div>
+            <div style={{ color: '#f1f5f9', fontWeight: 500, fontSize: 14, marginBottom: 4 }}>
+              Drop your recording here
+            </div>
+            <div style={{ color: 'var(--text-muted)', fontSize: 12, marginBottom: 8 }}>
+              MP3, MP4, M4A, WAV, WebM &nbsp;·&nbsp; Max 2GB
+            </div>
+            <div
+              style={{
+                display: 'inline-block',
+                padding: '6px 16px',
+                background: '#1b2748',
+                border: '1px solid var(--card-border)',
+                borderRadius: 6,
+                fontSize: 12,
+                color: 'var(--text-muted)',
+              }}
+            >
+              Browse files
+            </div>
+          </div>
+        )}
+      </div>
+
+      {/* Divider */}
+      <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+        <div style={{ flex: 1, height: 1, background: 'var(--card-border)' }} />
+        <span style={{ color: 'var(--text-dim)', fontSize: 12 }}>or</span>
+        <div style={{ flex: 1, height: 1, background: 'var(--card-border)' }} />
+      </div>
+
+      {/* Drive URL input */}
+      <div className="drive-row" style={{ display: 'flex', gap: 8 }}>
+        <input
+          type="url"
+          placeholder="Google Drive recording URL..."
+          value={driveUrl}
+          onChange={(e) => { setDriveUrl(e.target.value); setSelectedFile(null); }}
+          disabled={disabled}
+          style={{
+            flex: 1,
+            background: '#131d35',
+            border: '1px solid var(--card-border)',
+            borderRadius: 8,
+            padding: '8px 14px',
+            fontSize: 13,
+            color: '#f1f5f9',
+            outline: 'none',
+          }}
+        />
+        <button
+          onClick={loadDriveUrl}
+          disabled={!driveUrl.trim() || disabled}
+          style={{
+            background: driveUrl.trim() ? '#3b82f6' : '#1b2748',
+            color: '#fff',
+            border: 'none',
+            borderRadius: 8,
+            padding: '8px 16px',
+            fontSize: 13,
+            fontWeight: 500,
+            cursor: driveUrl.trim() && !disabled ? 'pointer' : 'not-allowed',
+            opacity: driveUrl.trim() && !disabled ? 1 : 0.5,
+          }}
+        >
+          Load
+        </button>
+      </div>
+
+      {error && (
+        <div style={{ color: '#ef4444', fontSize: 12, padding: '6px 12px', background: 'rgba(239,68,68,0.08)', borderRadius: 6 }}>
+          {error}
+        </div>
+      )}
+    </div>
+  );
+}

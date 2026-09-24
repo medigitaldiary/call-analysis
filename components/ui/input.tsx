@@ -1,1 +1,20 @@
-{"data":"aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAicmVhY3QiCmltcG9ydCB7IElucHV0IGFzIElucHV0UHJpbWl0aXZlIH0gZnJvbSAiQGJhc2UtdWkvcmVhY3QvaW5wdXQiCgppbXBvcnQgeyBjbiB9IGZyb20gIkAvbGliL3V0aWxzIgoKZnVuY3Rpb24gSW5wdXQoeyBjbGFzc05hbWUsIHR5cGUsIC4uLnByb3BzIH06IFJlYWN0LkNvbXBvbmVudFByb3BzPCJpbnB1dCI+KSB7CiAgcmV0dXJuICgKICAgIDxJbnB1dFByaW1pdGl2ZQogICAgICB0eXBlPXt0eXBlfQogICAgICBkYXRhLXNsb3Q9ImlucHV0IgogICAgICBjbGFzc05hbWU9e2NuKAogICAgICAgICJoLTggdy1mdWxsIG1pbi13LTAgcm91bmRlZC1sZyBib3JkZXIgYm9yZGVyLWlucHV0IGJnLXRyYW5zcGFyZW50IHB4LTIuNSBweS0xIHRleHQtYmFzZSB0cmFuc2l0aW9uLWNvbG9ycyBvdXRsaW5lLW5vbmUgZmlsZTppbmxpbmUtZmxleCBmaWxlOmgtNiBmaWxlOmJvcmRlci0wIGZpbGU6YmctdHJhbnNwYXJlbnQgZmlsZTp0ZXh0LXNtIGZpbGU6Zm9udC1tZWRpdW0gZmlsZTp0ZXh0LWZvcmVncm91bmQgcGxhY2Vob2xkZXI6dGV4dC1tdXRlZC1mb3JlZ3JvdW5kIGZvY3VzLXZpc2libGU6Ym9yZGVyLXJpbmcgZm9jdXMtdmlzaWJsZTpyaW5nLTMgZm9jdXMtdmlzaWJsZTpyaW5nLXJpbmcvNTAgZGlzYWJsZWQ6cG9pbnRlci1ldmVudHMtbm9uZSBkaXNhYmxlZDpjdXJzb3Itbm90LWFsbG93ZWQgZGlzYWJsZWQ6YmctaW5wdXQvNTAgZGlzYWJsZWQ6b3BhY2l0eS01MCBhcmlhLWludmFsaWQ6Ym9yZGVyLWRlc3RydWN0aXZlIGFyaWEtaW52YWxpZDpyaW5nLTMgYXJpYS1pbnZhbGlkOnJpbmctZGVzdHJ1Y3RpdmUvMjAgbWQ6dGV4dC1zbSBkYXJrOmJnLWlucHV0LzMwIGRhcms6ZGlzYWJsZWQ6YmctaW5wdXQvODAgZGFyazphcmlhLWludmFsaWQ6Ym9yZGVyLWRlc3RydWN0aXZlLzUwIGRhcms6YXJpYS1pbnZhbGlkOnJpbmctZGVzdHJ1Y3RpdmUvNDAiLAogICAgICAgIGNsYXNzTmFtZQogICAgICApfQogICAgICB7Li4ucHJvcHN9CiAgICAvPgogICkKfQoKZXhwb3J0IHsgSW5wdXQgfQo="}
+import * as React from "react"
+import { Input as InputPrimitive } from "@base-ui/react/input"
+
+import { cn } from "@/lib/utils"
+
+function Input({ className, type, ...props }: React.ComponentProps<"input">) {
+  return (
+    <InputPrimitive
+      type={type}
+      data-slot="input"
+      className={cn(
+        "h-8 w-full min-w-0 rounded-lg border border-input bg-transparent px-2.5 py-1 text-base transition-colors outline-none file:inline-flex file:h-6 file:border-0 file:bg-transparent file:text-sm file:font-medium file:text-foreground placeholder:text-muted-foreground focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 disabled:pointer-events-none disabled:cursor-not-allowed disabled:bg-input/50 disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 md:text-sm dark:bg-input/30 dark:disabled:bg-input/80 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40",
+        className
+      )}
+      {...props}
+    />
+  )
+}
+
+export { Input }

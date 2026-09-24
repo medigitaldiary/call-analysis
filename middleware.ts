@@ -1,1 +1,10 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKCmV4cG9ydCBmdW5jdGlvbiBtaWRkbGV3YXJlKHJlcTogTmV4dFJlcXVlc3QpIHsKICAvLyBBdXRoIGVuZm9yY2VtZW50IHBsYWNlaG9sZGVyIOKAlCBhZGQgeW91ciBzZXNzaW9uIGxvZ2ljIGhlcmUKICByZXR1cm4gTmV4dFJlc3BvbnNlLm5leHQoKTsKfQoKZXhwb3J0IGNvbnN0IGNvbmZpZyA9IHsKICBtYXRjaGVyOiBbJy8oKD8hX25leHQvc3RhdGljfF9uZXh0L2ltYWdlfGZhdmljb24uaWNvKS4qKSddLAp9Owo="}
+import { NextRequest, NextResponse } from 'next/server';
+
+export function middleware(req: NextRequest) {
+  // Auth enforcement placeholder — add your session logic here
+  return NextResponse.next();
+}
+
+export const config = {
+  matcher: ['/((?!_next/static|_next/image|favicon.ico).*)'],
+};

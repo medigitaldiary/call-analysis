@@ -1,1 +1,138 @@
-{"data":"LyoqCiAqIFJlLWZldGNoZXMgdGhlIERyaXZlIGZvbGRlciBmb3IgU2hhcmlrJ3MgQXByIDMwIHNlc3Npb24gYW5kIGlkZW50aWZpZXMKICogZmlsZXMgd2hvc2UgZmlsZW5hbWUgY29udGFpbnMgYSAyMDI2MDQyOSB0aW1lc3RhbXAgKEFwciAyOSByZWNvcmRpbmdzCiAqIGFjY2lkZW50YWxseSBhZGRlZCB0byB0aGUgQXByIDMwIGZvbGRlcikuCiAqLwppbXBvcnQgeyBuZW9uIH0gZnJvbSAnQG5lb25kYXRhYmFzZS9zZXJ2ZXJsZXNzJzsKaW1wb3J0IHsgcmVhZEZpbGVTeW5jIH0gZnJvbSAnZnMnOwppbXBvcnQgeyByZXNvbHZlLCBkaXJuYW1lIH0gZnJvbSAncGF0aCc7CmltcG9ydCB7IGZpbGVVUkxUb1BhdGggfSBmcm9tICd1cmwnOwoKY29uc3QgX19kaXJuYW1lID0gZGlybmFtZShmaWxlVVJMVG9QYXRoKGltcG9ydC5tZXRhLnVybCkpOwpjb25zdCBlbnZQYXRoID0gcmVzb2x2ZShfX2Rpcm5hbWUsICcuLi8uZW52LmxvY2FsJyk7CmNvbnN0IGVudlRleHQgPSByZWFkRmlsZVN5bmMoZW52UGF0aCwgJ3V0ZjgnKTsKZm9yIChjb25zdCBsaW5lIG9mIGVudlRleHQuc3BsaXQoJ1xuJykpIHsKICBjb25zdCB0cmltbWVkID0gbGluZS50cmltKCk7CiAgaWYgKCF0cmltbWVkIHx8IHRyaW1tZWQuc3RhcnRzV2l0aCgnIycpKSBjb250aW51ZTsKICBjb25zdCBlcUlkeCA9IHRyaW1tZWQuaW5kZXhPZignPScpOwogIGlmIChlcUlkeCA9PT0gLTEpIGNvbnRpbnVlOwogIGNvbnN0IGsgPSB0cmltbWVkLnNsaWNlKDAsIGVxSWR4KS50cmltKCk7CiAgbGV0IHYgPSB0cmltbWVkLnNsaWNlKGVxSWR4ICsgMSkudHJpbSgpLnJlcGxhY2UoL14iLywgJycpLnJlcGxhY2UoLyIkLywgJycpLnJlcGxhY2UoL1xcbi9nLCAnJyk7CiAgcHJvY2Vzcy5lbnZba10gPSB2Owp9Cgpjb25zdCBzcWwgPSBuZW9uKHByb2Nlc3MuZW52LkRBVEFCQVNFX1VSTCk7Cgpjb25zdCBBUFIzMF9TRVNTSU9OID0gJzI5ODIxMTI3LTdlODEtNDQ0ZC04OTJhLWQ4ZTE0NTI3OTRiYic7CgovLyBHZXQgc2Vzc2lvbiBmb2xkZXIgVVJMCmNvbnN0IFtzZXNzaW9uXSA9IGF3YWl0IHNxbGBTRUxFQ1QgKiBGUk9NIGJ1bGtfc2Vzc2lvbnMgV0hFUkUgaWQgPSAke0FQUjMwX1NFU1NJT059YDsKY29uc29sZS5sb2coYFNlc3Npb246ICR7c2Vzc2lvbi5ybV9uYW1lfSwgJHtzZXNzaW9uLnNlc3Npb25fZGF0ZX0sIGZvbGRlcjogJHtzZXNzaW9uLmZvbGRlcl91cmx9YCk7CgovLyBQYXJzZSBmb2xkZXIgSUQgZnJvbSBVUkwgKHNhbWUgYXMgYXBwJ3MgbGliL2RyaXZlLnRzKQpmdW5jdGlvbiBwYXJzZUZvbGRlcklkRnJvbVVybCh1cmwpIHsKICBjb25zdCBtYXRjaCA9IHVybC5tYXRjaCgvXC9mb2xkZXJzXC8oW2EtekEtWjAtOV8tXSspLyk7CiAgaWYgKCFtYXRjaCkgdGhyb3cgbmV3IEVycm9yKCdDb3VsZCBub3QgcGFyc2UgZm9sZGVyIElEIGZyb20gVVJMJyk7CiAgcmV0dXJuIG1hdGNoWzFdOwp9CgovLyBMaXN0IGFsbCBmaWxlcyBpbiB0aGUgRHJpdmUgZm9sZGVyIChzYW1lIHF1ZXJ5IGFzIGFwcCkKYXN5bmMgZnVuY3Rpb24gbGlzdERyaXZlRmlsZXMoZm9sZGVySWQpIHsKICBjb25zdCBhcGlLZXkgPSBwcm9jZXNzLmVudi5HT09HTEVfQVBJX0tFWTsKICBjb25zdCB1cmwgPSBgaHR0cHM6Ly93d3cuZ29vZ2xlYXBpcy5jb20vZHJpdmUvdjMvZmlsZXM/cT0nJHtmb2xkZXJJZH0nK2luK3BhcmVudHMmZmllbGRzPWZpbGVzKGlkLG5hbWUsbWltZVR5cGUpJmtleT0ke2FwaUtleX0mcGFnZVNpemU9MjAwYDsKICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaCh1cmwpOwogIGlmICghcmVzLm9rKSB7IGNvbnN0IGUgPSBhd2FpdCByZXMudGV4dCgpOyB0aHJvdyBuZXcgRXJyb3IoYERyaXZlIEFQSTogJHtlfWApOyB9CiAgY29uc3QgZGF0YSA9IGF3YWl0IHJlcy5qc29uKCk7CiAgcmV0dXJuIGRhdGEuZmlsZXMgPz8gW107Cn0KCi8vIEV4dHJhY3QgcGhvbmUgZnJvbSBmaWxlbmFtZSAoc2FtZSBsb2dpYyBhcyB0aGUgYXBwKQpmdW5jdGlvbiBzdHJpcEludGVybmF0aW9uYWxQcmVmaXgoZGlnaXRzKSB7CiAgaWYgKGRpZ2l0cy5zdGFydHNXaXRoKCcwMCcpICYmIGRpZ2l0cy5sZW5ndGggPT09IDE0KSByZXR1cm4gZGlnaXRzLnNsaWNlKDQpOwogIHJldHVybiBudWxsOwp9CmZ1bmN0aW9uIGV4dHJhY3RQaG9uZUZyb21GaWxlbmFtZShmaWxlbmFtZSkgewogIGNvbnN0IG5hbWUgPSBmaWxlbmFtZS5yZXBsYWNlKC9cLlteLl0rJC8sICcnKTsKICBpZiAoL15cZC8udGVzdChuYW1lKSkgewogICAgY29uc3QgcmF3ID0gbmFtZS5tYXRjaCgvXihcZCspLyk/LlsxXSA/PyAnJzsKICAgIGlmIChyYXcuc3RhcnRzV2l0aCgnMDAnKSkgcmV0dXJuIHN0cmlwSW50ZXJuYXRpb25hbFByZWZpeChyYXcpOwogICAgcmV0dXJuIHJhdy5sZW5ndGggPj0gMTAgPyByYXcuc2xpY2UoMCwgMTApIDogbnVsbDsKICB9IGVsc2UgewogICAgY29uc3QgcmF3ID0gbmFtZS5tYXRjaCgvXCgoXGQrKVwpKD89W14oXSokKS8pPy5bMV0gPz8gJyc7CiAgICBpZiAoIXJhdykgcmV0dXJuIG51bGw7CiAgICBpZiAocmF3LnN0YXJ0c1dpdGgoJzAwJykpIHJldHVybiBzdHJpcEludGVybmF0aW9uYWxQcmVmaXgocmF3KTsKICAgIHJldHVybiByYXcubGVuZ3RoID09PSAxMCA/IHJhdyA6IG51bGw7CiAgfQp9Cgpjb25zdCBmb2xkZXJJZCA9IHBhcnNlRm9sZGVySWRGcm9tVXJsKHNlc3Npb24uZm9sZGVyX3VybCk7CmNvbnN0IGZpbGVzID0gYXdhaXQgbGlzdERyaXZlRmlsZXMoZm9sZGVySWQpOwoKY29uc29sZS5sb2coYFxuVG90YWwgZmlsZXMgaW4gZm9sZGVyOiAke2ZpbGVzLmxlbmd0aH1gKTsKCi8vIFNlcGFyYXRlIEFwciAyOSBmcm9tIEFwciAzMCBieSBmaWxlbmFtZSB0aW1lc3RhbXAKY29uc3QgYXByMjlGaWxlcyA9IGZpbGVzLmZpbHRlcihmID0+IGYubmFtZS5pbmNsdWRlcygnMjAyNjA0MjknKSk7CmNvbnN0IGFwcjMwRmlsZXMgPSBmaWxlcy5maWx0ZXIoZiA9PiBmLm5hbWUuaW5jbHVkZXMoJzIwMjYwNDMwJykpOwpjb25zdCBvdGhlciAgICAgID0gZmlsZXMuZmlsdGVyKGYgPT4gIWYubmFtZS5pbmNsdWRlcygnMjAyNjA0MjknKSAmJiAhZi5uYW1lLmluY2x1ZGVzKCcyMDI2MDQzMCcpKTsKCmNvbnNvbGUubG9nKGBcbvCfk4UgQXByIDMwIGZpbGVzOiAke2FwcjMwRmlsZXMubGVuZ3RofWApOwpjb25zb2xlLmxvZyhg8J+ThSBBcHIgMjkgZmlsZXMgKGV4dHJhKTogJHthcHIyOUZpbGVzLmxlbmd0aH1gKTsKY29uc29sZS5sb2coYOKdkyBPdGhlci91bmRhdGVkIGZpbGVzOiAke290aGVyLmxlbmd0aH1gKTsKCmlmIChhcHIyOUZpbGVzLmxlbmd0aCA+IDApIHsKICBjb25zb2xlLmxvZygnXG49PT0gQXByIDI5IGZpbGVzIHRoYXQgc2hvdWxkIE5PVCBiZSBpbiB0aGlzIHNlc3Npb24gPT09Jyk7CiAgZm9yIChjb25zdCBmIG9mIGFwcjI5RmlsZXMpIHsKICAgIGNvbnN0IHBob25lID0gZXh0cmFjdFBob25lRnJvbUZpbGVuYW1lKGYubmFtZSk7CiAgICBjb25zb2xlLmxvZyhgICDwn5OeICR7cGhvbmUgPz8gJz8nfSB8ICR7Zi5uYW1lfWApOwogIH0KfQoKaWYgKG90aGVyLmxlbmd0aCA+IDApIHsKICBjb25zb2xlLmxvZygnXG49PT0gVW5kYXRlZCBmaWxlcyA9PT0nKTsKICBmb3IgKGNvbnN0IGYgb2Ygb3RoZXIpIHsKICAgIGNvbnN0IHBob25lID0gZXh0cmFjdFBob25lRnJvbUZpbGVuYW1lKGYubmFtZSk7CiAgICBjb25zb2xlLmxvZyhgICDwn5OeICR7cGhvbmUgPz8gJz8nfSB8ICR7Zi5uYW1lfWApOwogIH0KfQoKLy8gTm93IG1hdGNoIEFwciAyOSBmaWxlcyB0byBjYWxsIHJlY29yZHMgaW4gdGhlIHNlc3Npb24gYnkgcGhvbmUgbnVtYmVyCmlmIChhcHIyOUZpbGVzLmxlbmd0aCA+IDApIHsKICBjb25zdCBhcHIyOVBob25lcyA9IGFwcjI5RmlsZXMubWFwKGYgPT4gZXh0cmFjdFBob25lRnJvbUZpbGVuYW1lKGYubmFtZSkpLmZpbHRlcihCb29sZWFuKTsKICAvLyBBbHNvIGdyYWIgZnVsbCBmaWxlbmFtZXMgZm9yIG9uZXMgd2l0aG91dCBwaG9uZQogIGNvbnN0IGFwcjI5TmFtZXMgID0gYXByMjlGaWxlcy5tYXAoZiA9PiBmLm5hbWUucmVwbGFjZSgvXC5bXi5dKyQvLCAnJykpOwoKICBjb25zdCBhbGxDYWxscyA9IGF3YWl0IHNxbGAKICAgIFNFTEVDVCBjLmlkLCBjLnByb3NwZWN0X25hbWUsIGMuc3RhdHVzLCBjLmVycm9yX21zZywgci5waG9uZSwgci5jdXN0b21lcl9uYW1lCiAgICBGUk9NIGNhbGxzIGMKICAgIExFRlQgSk9JTiByZXBvcnRzIHIgT04gci5jYWxsX2lkID0gYy5pZAogICAgV0hFUkUgYy5zZXNzaW9uX2lkID0gJHtBUFIzMF9TRVNTSU9OfQogIGA7CgogIGNvbnN0IHRvRGVsZXRlID0gYWxsQ2FsbHMuZmlsdGVyKGMgPT4gewogICAgY29uc3QgcGhvbmVNYXRjaCA9IGMucGhvbmUgJiYgYXByMjlQaG9uZXMuaW5jbHVkZXMoYy5waG9uZSk7CiAgICBjb25zdCBuYW1lTWF0Y2ggID0gYXByMjlOYW1lcy5zb21lKG4gPT4gYy5wcm9zcGVjdF9uYW1lICYmIGMucHJvc3BlY3RfbmFtZS5pbmNsdWRlcyhjLnBob25lID8/ICcnKSk7CiAgICByZXR1cm4gcGhvbmVNYXRjaCB8fCBuYW1lTWF0Y2g7CiAgfSk7CgogIGNvbnNvbGUubG9nKGBcbj09PSBDYWxscyB0byBERUxFVEUgZnJvbSBBcHIgMzAgc2Vzc2lvbjogJHt0b0RlbGV0ZS5sZW5ndGh9ID09PWApOwogIGNvbnNvbGUudGFibGUodG9EZWxldGUubWFwKGMgPT4gKHsKICAgIGNhbGxfaWQ6IGMuaWQsIHBob25lOiBjLnBob25lLCBjdXN0b21lcjogYy5jdXN0b21lcl9uYW1lLCBzdGF0dXM6IGMuc3RhdHVzCiAgfSkpKTsKCiAgaWYgKHByb2Nlc3MuYXJndi5pbmNsdWRlcygnLS1kZWxldGUnKSAmJiB0b0RlbGV0ZS5sZW5ndGggPiAwKSB7CiAgICBmb3IgKGNvbnN0IGMgb2YgdG9EZWxldGUpIHsKICAgICAgYXdhaXQgc3FsYERFTEVURSBGUk9NIHJlcG9ydHMgV0hFUkUgY2FsbF9pZCA9ICR7Yy5pZH1gOwogICAgICBhd2FpdCBzcWxgREVMRVRFIEZST00gY2FsbHMgV0hFUkUgaWQgPSAke2MuaWR9YDsKICAgICAgY29uc29sZS5sb2coYCAg4pyFIERlbGV0ZWQgY2FsbDogJHtjLnBob25lfSAoJHtjLmN1c3RvbWVyX25hbWUgPz8gJ3Vua25vd24nfSlgKTsKICAgIH0KICAgIGF3YWl0IHNxbGAKICAgICAgVVBEQVRFIGJ1bGtfc2Vzc2lvbnMKICAgICAgU0VUIHRvdGFsX2ZpbGVzID0gdG90YWxfZmlsZXMgLSAke3RvRGVsZXRlLmxlbmd0aH0KICAgICAgV0hFUkUgaWQgPSAke0FQUjMwX1NFU1NJT059CiAgICBgOwogICAgY29uc29sZS5sb2coYFxu4pyFIERvbmUuIFJlbW92ZWQgJHt0b0RlbGV0ZS5sZW5ndGh9IEFwciAyOSBjYWxscyBmcm9tIEFwciAzMCBzZXNzaW9uLmApOwogIH0gZWxzZSBpZiAodG9EZWxldGUubGVuZ3RoID4gMCkgewogICAgY29uc29sZS5sb2coJ1xuUnVuIHdpdGggLS1kZWxldGUgdG8gcmVtb3ZlIHRoZXNlIGNhbGxzOicpOwogICAgY29uc29sZS5sb2coJyAgbm9kZSBzY3JpcHRzL2ZpbmQtYXByMjktYnktZmlsZW5hbWUubWpzIC0tZGVsZXRlJyk7CiAgfQp9Cg=="}
+/**
+ * Re-fetches the Drive folder for Sharik's Apr 30 session and identifies
+ * files whose filename contains a 20260429 timestamp (Apr 29 recordings
+ * accidentally added to the Apr 30 folder).
+ */
+import { neon } from '@neondatabase/serverless';
+import { readFileSync } from 'fs';
+import { resolve, dirname } from 'path';
+import { fileURLToPath } from 'url';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const envPath = resolve(__dirname, '../.env.local');
+const envText = readFileSync(envPath, 'utf8');
+for (const line of envText.split('\n')) {
+  const trimmed = line.trim();
+  if (!trimmed || trimmed.startsWith('#')) continue;
+  const eqIdx = trimmed.indexOf('=');
+  if (eqIdx === -1) continue;
+  const k = trimmed.slice(0, eqIdx).trim();
+  let v = trimmed.slice(eqIdx + 1).trim().replace(/^"/, '').replace(/"$/, '').replace(/\\n/g, '');
+  process.env[k] = v;
+}
+
+const sql = neon(process.env.DATABASE_URL);
+
+const APR30_SESSION = '29821127-7e81-444d-892a-d8e1452794bb';
+
+// Get session folder URL
+const [session] = await sql`SELECT * FROM bulk_sessions WHERE id = ${APR30_SESSION}`;
+console.log(`Session: ${session.rm_name}, ${session.session_date}, folder: ${session.folder_url}`);
+
+// Parse folder ID from URL (same as app's lib/drive.ts)
+function parseFolderIdFromUrl(url) {
+  const match = url.match(/\/folders\/([a-zA-Z0-9_-]+)/);
+  if (!match) throw new Error('Could not parse folder ID from URL');
+  return match[1];
+}
+
+// List all files in the Drive folder (same query as app)
+async function listDriveFiles(folderId) {
+  const apiKey = process.env.GOOGLE_API_KEY;
+  const url = `https://www.googleapis.com/drive/v3/files?q='${folderId}'+in+parents&fields=files(id,name,mimeType)&key=${apiKey}&pageSize=200`;
+  const res = await fetch(url);
+  if (!res.ok) { const e = await res.text(); throw new Error(`Drive API: ${e}`); }
+  const data = await res.json();
+  return data.files ?? [];
+}
+
+// Extract phone from filename (same logic as the app)
+function stripInternationalPrefix(digits) {
+  if (digits.startsWith('00') && digits.length === 14) return digits.slice(4);
+  return null;
+}
+function extractPhoneFromFilename(filename) {
+  const name = filename.replace(/\.[^.]+$/, '');
+  if (/^\d/.test(name)) {
+    const raw = name.match(/^(\d+)/)?.[1] ?? '';
+    if (raw.startsWith('00')) return stripInternationalPrefix(raw);
+    return raw.length >= 10 ? raw.slice(0, 10) : null;
+  } else {
+    const raw = name.match(/\((\d+)\)(?=[^(]*$)/)?.[1] ?? '';
+    if (!raw) return null;
+    if (raw.startsWith('00')) return stripInternationalPrefix(raw);
+    return raw.length === 10 ? raw : null;
+  }
+}
+
+const folderId = parseFolderIdFromUrl(session.folder_url);
+const files = await listDriveFiles(folderId);
+
+console.log(`\nTotal files in folder: ${files.length}`);
+
+// Separate Apr 29 from Apr 30 by filename timestamp
+const apr29Files = files.filter(f => f.name.includes('20260429'));
+const apr30Files = files.filter(f => f.name.includes('20260430'));
+const other      = files.filter(f => !f.name.includes('20260429') && !f.name.includes('20260430'));
+
+console.log(`\n📅 Apr 30 files: ${apr30Files.length}`);
+console.log(`📅 Apr 29 files (extra): ${apr29Files.length}`);
+console.log(`❓ Other/undated files: ${other.length}`);
+
+if (apr29Files.length > 0) {
+  console.log('\n=== Apr 29 files that should NOT be in this session ===');
+  for (const f of apr29Files) {
+    const phone = extractPhoneFromFilename(f.name);
+    console.log(`  📞 ${phone ?? '?'} | ${f.name}`);
+  }
+}
+
+if (other.length > 0) {
+  console.log('\n=== Undated files ===');
+  for (const f of other) {
+    const phone = extractPhoneFromFilename(f.name);
+    console.log(`  📞 ${phone ?? '?'} | ${f.name}`);
+  }
+}
+
+// Now match Apr 29 files to call records in the session by phone number
+if (apr29Files.length > 0) {
+  const apr29Phones = apr29Files.map(f => extractPhoneFromFilename(f.name)).filter(Boolean);
+  // Also grab full filenames for ones without phone
+  const apr29Names  = apr29Files.map(f => f.name.replace(/\.[^.]+$/, ''));
+
+  const allCalls = await sql`
+    SELECT c.id, c.prospect_name, c.status, c.error_msg, r.phone, r.customer_name
+    FROM calls c
+    LEFT JOIN reports r ON r.call_id = c.id
+    WHERE c.session_id = ${APR30_SESSION}
+  `;
+
+  const toDelete = allCalls.filter(c => {
+    const phoneMatch = c.phone && apr29Phones.includes(c.phone);
+    const nameMatch  = apr29Names.some(n => c.prospect_name && c.prospect_name.includes(c.phone ?? ''));
+    return phoneMatch || nameMatch;
+  });
+
+  console.log(`\n=== Calls to DELETE from Apr 30 session: ${toDelete.length} ===`);
+  console.table(toDelete.map(c => ({
+    call_id: c.id, phone: c.phone, customer: c.customer_name, status: c.status
+  })));
+
+  if (process.argv.includes('--delete') && toDelete.length > 0) {
+    for (const c of toDelete) {
+      await sql`DELETE FROM reports WHERE call_id = ${c.id}`;
+      await sql`DELETE FROM calls WHERE id = ${c.id}`;
+      console.log(`  ✅ Deleted call: ${c.phone} (${c.customer_name ?? 'unknown'})`);
+    }
+    await sql`
+      UPDATE bulk_sessions
+      SET total_files = total_files - ${toDelete.length}
+      WHERE id = ${APR30_SESSION}
+    `;
+    console.log(`\n✅ Done. Removed ${toDelete.length} Apr 29 calls from Apr 30 session.`);
+  } else if (toDelete.length > 0) {
+    console.log('\nRun with --delete to remove these calls:');
+    console.log('  node scripts/find-apr29-by-filename.mjs --delete');
+  }
+}

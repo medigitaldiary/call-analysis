@@ -1,1 +1,41 @@
-{"data":"ewogICJuYW1lIjogInNpZ251cC1jYWxsLWZsb3ciLAogICJ2ZXJzaW9uIjogIjAuMS4wIiwKICAicHJpdmF0ZSI6IHRydWUsCiAgInNjcmlwdHMiOiB7CiAgICAiZGV2IjogIm5leHQgZGV2IiwKICAgICJidWlsZCI6ICJuZXh0IGJ1aWxkIiwKICAgICJzdGFydCI6ICJuZXh0IHN0YXJ0IgogIH0sCiAgImRlcGVuZGVuY2llcyI6IHsKICAgICJAYW50aHJvcGljLWFpL3NkayI6ICJeMC44Mi4wIiwKICAgICJAYmFzZS11aS9yZWFjdCI6ICJeMS4zLjAiLAogICAgIkBuZW9uZGF0YWJhc2Uvc2VydmVybGVzcyI6ICJeMS4wLjIiLAogICAgIkB0eXBlcy9ub2RlbWFpbGVyIjogIl44LjAuMCIsCiAgICAiQHZlcmNlbC9ibG9iIjogIl4yLjMuMSIsCiAgICAiY2xhc3MtdmFyaWFuY2UtYXV0aG9yaXR5IjogIl4wLjcuMSIsCiAgICAiY2xzeCI6ICJeMi4xLjEiLAogICAgImRvY3giOiAiXjkuNi4xIiwKICAgICJsdWNpZGUtcmVhY3QiOiAiXjEuNi4wIiwKICAgICJuZXh0IjogIjE2LjIuMSIsCiAgICAibm9kZW1haWxlciI6ICJeOC4wLjciLAogICAgInBvc3RncmVzIjogIl4zLjQuOSIsCiAgICAicmVhY3QiOiAiMTkuMi40IiwKICAgICJyZWFjdC1kb20iOiAiMTkuMi40IiwKICAgICJyZXNlbmQiOiAiXjYuOS40IiwKICAgICJzaGFkY24iOiAiXjQuMS4wIiwKICAgICJ0YWlsd2luZC1tZXJnZSI6ICJeMy41LjAiLAogICAgInR3LWFuaW1hdGUtY3NzIjogIl4xLjQuMCIsCiAgICAieGxzeCI6ICJeMC4xOC41IgogIH0sCiAgImRldkRlcGVuZGVuY2llcyI6IHsKICAgICJAdGFpbHdpbmRjc3MvcG9zdGNzcyI6ICJeNCIsCiAgICAiQHR5cGVzL25vZGUiOiAiXjIwIiwKICAgICJAdHlwZXMvcmVhY3QiOiAiXjE5IiwKICAgICJAdHlwZXMvcmVhY3QtZG9tIjogIl4xOSIsCiAgICAiaW1hcGZsb3ciOiAiXjEuMy4zIiwKICAgICJtYWlscGFyc2VyIjogIl4zLjkuOCIsCiAgICAidGFpbHdpbmRjc3MiOiAiXjQiLAogICAgInR5cGVzY3JpcHQiOiAiXjUiCiAgfQp9Cg=="}
+{
+  "name": "signup-call-flow",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.82.0",
+    "@base-ui/react": "^1.3.0",
+    "@neondatabase/serverless": "^1.0.2",
+    "@types/nodemailer": "^8.0.0",
+    "@vercel/blob": "^2.3.1",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "docx": "^9.6.1",
+    "lucide-react": "^1.6.0",
+    "next": "16.2.1",
+    "nodemailer": "^8.0.7",
+    "postgres": "^3.4.9",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "resend": "^6.9.4",
+    "shadcn": "^4.1.0",
+    "tailwind-merge": "^3.5.0",
+    "tw-animate-css": "^1.4.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "imapflow": "^1.3.3",
+    "mailparser": "^3.9.8",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

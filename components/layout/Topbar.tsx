@@ -1,1 +1,44 @@
-{"data":"J3VzZSBjbGllbnQnOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gVG9wYmFyKHsgdGl0bGUgPSAnQ2FsbCBBbmFseXNpcycgfTogeyB0aXRsZT86IHN0cmluZyB9KSB7CiAgcmV0dXJuICgKICAgIDxoZWFkZXIKICAgICAgc3R5bGU9e3sKICAgICAgICBoZWlnaHQ6ICd2YXIoLS10b3BiYXItaCknLAogICAgICAgIGJhY2tncm91bmQ6ICd2YXIoLS10b3BiYXItYmcpJywKICAgICAgICBib3JkZXJCb3R0b206ICcxcHggc29saWQgdmFyKC0tY2FyZC1ib3JkZXIpJywKICAgICAgICBkaXNwbGF5OiAnZmxleCcsCiAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgcGFkZGluZzogJzAgMjRweCcsCiAgICAgICAgZ2FwOiAxNiwKICAgICAgICBwb3NpdGlvbjogJ3N0aWNreScsCiAgICAgICAgdG9wOiAwLAogICAgICAgIHpJbmRleDogMTAsCiAgICAgIH19CiAgICA+CiAgICAgIDxzcGFuIHN0eWxlPXt7IGNvbG9yOiAnI2YxZjVmOScsIGZvbnRXZWlnaHQ6IDYwMCwgZm9udFNpemU6IDE1IH19Pnt0aXRsZX08L3NwYW4+CgogICAgICA8ZGl2IHN0eWxlPXt7IGZsZXg6IDEgfX0gLz4KCiAgICAgIHsvKiBBdmF0YXIgKi99CiAgICAgIDxkaXYKICAgICAgICBzdHlsZT17ewogICAgICAgICAgd2lkdGg6IDMyLAogICAgICAgICAgaGVpZ2h0OiAzMiwKICAgICAgICAgIGJvcmRlclJhZGl1czogJzUwJScsCiAgICAgICAgICBiYWNrZ3JvdW5kOiAnIzI1Mzg3MCcsCiAgICAgICAgICBib3JkZXI6ICcycHggc29saWQgdmFyKC0tY2FyZC1ib3JkZXIpJywKICAgICAgICAgIGRpc3BsYXk6ICdmbGV4JywKICAgICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAogICAgICAgICAgZm9udFNpemU6IDEzLAogICAgICAgICAgZm9udFdlaWdodDogNjAwLAogICAgICAgICAgY29sb3I6ICcjZjFmNWY5JywKICAgICAgICAgIGN1cnNvcjogJ3BvaW50ZXInLAogICAgICAgIH19CiAgICAgID4KICAgICAgICBSCiAgICAgIDwvZGl2PgogICAgPC9oZWFkZXI+CiAgKTsKfQo="}
+'use client';
+
+export default function Topbar({ title = 'Call Analysis' }: { title?: string }) {
+  return (
+    <header
+      style={{
+        height: 'var(--topbar-h)',
+        background: 'var(--topbar-bg)',
+        borderBottom: '1px solid var(--card-border)',
+        display: 'flex',
+        alignItems: 'center',
+        padding: '0 24px',
+        gap: 16,
+        position: 'sticky',
+        top: 0,
+        zIndex: 10,
+      }}
+    >
+      <span style={{ color: '#f1f5f9', fontWeight: 600, fontSize: 15 }}>{title}</span>
+
+      <div style={{ flex: 1 }} />
+
+      {/* Avatar */}
+      <div
+        style={{
+          width: 32,
+          height: 32,
+          borderRadius: '50%',
+          background: '#253870',
+          border: '2px solid var(--card-border)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          fontSize: 13,
+          fontWeight: 600,
+          color: '#f1f5f9',
+          cursor: 'pointer',
+        }}
+      >
+        R
+      </div>
+    </header>
+  );
+}

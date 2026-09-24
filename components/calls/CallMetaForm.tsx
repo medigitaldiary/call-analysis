@@ -1,1 +1,204 @@
-{"data":"J3VzZSBjbGllbnQnOwoKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCc7CmltcG9ydCBVcGxvYWRab25lIGZyb20gJy4vVXBsb2FkWm9uZSc7CmltcG9ydCBQaXBlbGluZVN0YXR1cyBmcm9tICcuL1BpcGVsaW5lU3RhdHVzJzsKaW1wb3J0IFJlcG9ydFByZXZpZXcgZnJvbSAnLi9SZXBvcnRQcmV2aWV3JzsKaW1wb3J0IHsgQ2FsbEZvcm1EYXRhLCBQaXBlbGluZVN0ZXAsIFJlcG9ydCB9IGZyb20gJ0AvdHlwZXMnOwoKaW50ZXJmYWNlIFBpcGVsaW5lTG9nIHsKICB0aW1lOiBzdHJpbmc7CiAgbWVzc2FnZTogc3RyaW5nOwp9CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBDYWxsTWV0YUZvcm0oeyByZXBFbWFpbCB9OiB7IHJlcEVtYWlsPzogc3RyaW5nIH0pIHsKICBjb25zdCBbcmVwTmFtZSwgc2V0UmVwTmFtZV0gPSB1c2VTdGF0ZShyZXBFbWFpbCA/IHJlcEVtYWlsLnNwbGl0KCdAJylbMF0gOiAnJyk7CiAgY29uc3QgW3BpcGVsaW5lU3RlcCwgc2V0UGlwZWxpbmVTdGVwXSA9IHVzZVN0YXRlPFBpcGVsaW5lU3RlcD4oJ2lkbGUnKTsKICBjb25zdCBbbG9ncywgc2V0TG9nc10gPSB1c2VTdGF0ZTxQaXBlbGluZUxvZ1tdPihbXSk7CiAgY29uc3QgW3JlcG9ydCwgc2V0UmVwb3J0XSA9IHVzZVN0YXRlPFJlcG9ydCB8IG51bGw+KG51bGwpOwogIGNvbnN0IFtjYWxsSWQsIHNldENhbGxJZF0gPSB1c2VTdGF0ZTxzdHJpbmcgfCBudWxsPihudWxsKTsKICBjb25zdCBbZXJyb3IsIHNldEVycm9yXSA9IHVzZVN0YXRlKCcnKTsKICBjb25zdCBbZHJpdmVVcmwsIHNldERyaXZlVXJsXSA9IHVzZVN0YXRlKCcnKTsKICBjb25zdCBbZmlsZSwgc2V0RmlsZV0gPSB1c2VTdGF0ZTxGaWxlIHwgbnVsbD4obnVsbCk7CgogIGNvbnN0IGlzUnVubmluZyA9IFsndXBsb2FkaW5nJywgJ3RyYW5zY3JpYmluZycsICdhbmFseXNpbmcnLCAnZ2VuZXJhdGluZyddLmluY2x1ZGVzKHBpcGVsaW5lU3RlcCk7CgogIGZ1bmN0aW9uIGFkZExvZyhtZXNzYWdlOiBzdHJpbmcpIHsKICAgIHNldExvZ3MoKHByZXYpID0+IFsuLi5wcmV2LCB7IHRpbWU6IG5ldyBEYXRlKCkudG9Mb2NhbGVUaW1lU3RyaW5nKCksIG1lc3NhZ2UgfV0pOwogIH0KCiAgYXN5bmMgZnVuY3Rpb24gcnVuUGlwZWxpbmUoKSB7CiAgICBzZXRFcnJvcignJyk7CiAgICBzZXRMb2dzKFtdKTsKICAgIHNldFJlcG9ydChudWxsKTsKCiAgICBpZiAoIXJlcE5hbWUudHJpbSgpKSB7CiAgICAgIHNldEVycm9yKCdQbGVhc2UgZW50ZXIgeW91ciBSZXAgTmFtZS4nKTsKICAgICAgcmV0dXJuOwogICAgfQogICAgaWYgKCFmaWxlICYmICFkcml2ZVVybCkgewogICAgICBzZXRFcnJvcignUGxlYXNlIHVwbG9hZCBhIHJlY29yZGluZyBvciBwcm92aWRlIGEgR29vZ2xlIERyaXZlIFVSTC4nKTsKICAgICAgcmV0dXJuOwogICAgfQoKICAgIHRyeSB7CiAgICAgIHNldFBpcGVsaW5lU3RlcCgndXBsb2FkaW5nJyk7CiAgICAgIGFkZExvZygnVXBsb2FkaW5nIHJlY29yZGluZ+KApicpOwoKICAgICAgY29uc3QgZm9ybURhdGEgPSBuZXcgRm9ybURhdGEoKTsKICAgICAgZm9ybURhdGEuYXBwZW5kKCdwcm9zcGVjdF9uYW1lJywgJycpOwogICAgICBmb3JtRGF0YS5hcHBlbmQoJ2NvbXBhbnknLCAnLScpOwogICAgICBmb3JtRGF0YS5hcHBlbmQoJ3JlcF9uYW1lJywgcmVwTmFtZS50cmltKCkpOwogICAgICBmb3JtRGF0YS5hcHBlbmQoJ2NhbGxfdHlwZScsICdJbnRybyBDYWxsJyk7CiAgICAgIGZvcm1EYXRhLmFwcGVuZCgnc3Rha2Vob2xkZXJzJywgJycpOwogICAgICBpZiAoZmlsZSkgZm9ybURhdGEuYXBwZW5kKCdmaWxlJywgZmlsZSk7CiAgICAgIGlmIChkcml2ZVVybCkgZm9ybURhdGEuYXBwZW5kKCdkcml2ZV91cmwnLCBkcml2ZVVybCk7CgogICAgICBjb25zdCB1cGxvYWRSZXMgPSBhd2FpdCBmZXRjaCgnL2FwaS91cGxvYWQnLCB7IG1ldGhvZDogJ1BPU1QnLCBib2R5OiBmb3JtRGF0YSB9KTsKICAgICAgY29uc3QgdXBsb2FkRGF0YSA9IGF3YWl0IHVwbG9hZFJlcy5qc29uKCk7CiAgICAgIGlmICghdXBsb2FkUmVzLm9rKSB0aHJvdyBuZXcgRXJyb3IodXBsb2FkRGF0YS5lcnJvciA/PyAnVXBsb2FkIGZhaWxlZCcpOwoKICAgICAgY29uc3QgbmV3Q2FsbElkID0gdXBsb2FkRGF0YS5jYWxsSWQ7CiAgICAgIHNldENhbGxJZChuZXdDYWxsSWQpOwogICAgICBhZGRMb2coYFVwbG9hZCBjb21wbGV0ZS4gQ2FsbCBJRDogJHtuZXdDYWxsSWR9YCk7CgogICAgICBzZXRQaXBlbGluZVN0ZXAoJ3RyYW5zY3JpYmluZycpOwogICAgICBhZGRMb2coJ1RyYW5zY3JpYmluZyBhdWRpbyB3aXRoIFNhcnZhbSBBSSAodGhpcyBtYXkgdGFrZSAx4oCTMyBtaW4p4oCmJyk7CgogICAgICBjb25zdCB0cmFuc2NyaWJlUmVzID0gYXdhaXQgZmV0Y2goJy9hcGkvdHJhbnNjcmliZScsIHsKICAgICAgICBtZXRob2Q6ICdQT1NUJywKICAgICAgICBoZWFkZXJzOiB7ICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicgfSwKICAgICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7IGNhbGxJZDogbmV3Q2FsbElkIH0pLAogICAgICB9KTsKICAgICAgY29uc3QgdHJhbnNjcmliZURhdGEgPSBhd2FpdCB0cmFuc2NyaWJlUmVzLmpzb24oKTsKICAgICAgaWYgKCF0cmFuc2NyaWJlUmVzLm9rKSB0aHJvdyBuZXcgRXJyb3IodHJhbnNjcmliZURhdGEuZXJyb3IgPz8gJ1RyYW5zY3JpcHRpb24gZmFpbGVkJyk7CiAgICAgIGFkZExvZygnVHJhbnNjcmlwdGlvbiBjb21wbGV0ZS4nKTsKCiAgICAgIHNldFBpcGVsaW5lU3RlcCgnYW5hbHlzaW5nJyk7CiAgICAgIGFkZExvZygnQW5hbHlzaW5nIHRyYW5zY3JpcHQgd2l0aCBDbGF1ZGXigKYnKTsKCiAgICAgIGNvbnN0IGFuYWx5c2VSZXMgPSBhd2FpdCBmZXRjaCgnL2FwaS9hbmFseXNlJywgewogICAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICAgIGhlYWRlcnM6IHsgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9LAogICAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsgY2FsbElkOiBuZXdDYWxsSWQgfSksCiAgICAgIH0pOwogICAgICBjb25zdCBhbmFseXNlRGF0YSA9IGF3YWl0IGFuYWx5c2VSZXMuanNvbigpOwogICAgICBpZiAoIWFuYWx5c2VSZXMub2spIHRocm93IG5ldyBFcnJvcihhbmFseXNlRGF0YS5lcnJvciA/PyAnQW5hbHlzaXMgZmFpbGVkJyk7CiAgICAgIGFkZExvZygnQW5hbHlzaXMgY29tcGxldGUuJyk7CgogICAgICBzZXRQaXBlbGluZVN0ZXAoJ2dlbmVyYXRpbmcnKTsKICAgICAgYWRkTG9nKCdHZW5lcmF0aW5nIC5kb2N4IHJlcG9ydCBhbmQgLnhsc3ggc2hlZXTigKYnKTsKCiAgICAgIGNvbnN0IFtkb2NSZXMsIHNoZWV0UmVzXSA9IGF3YWl0IFByb21pc2UuYWxsKFsKICAgICAgICBmZXRjaCgnL2FwaS9nZW5lcmF0ZS1kb2MnLCB7CiAgICAgICAgICBtZXRob2Q6ICdQT1NUJywKICAgICAgICAgIGhlYWRlcnM6IHsgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9LAogICAgICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoeyBjYWxsSWQ6IG5ld0NhbGxJZCB9KSwKICAgICAgICB9KSwKICAgICAgICBmZXRjaCgnL2FwaS9nZW5lcmF0ZS1zaGVldCcsIHsKICAgICAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICAgICAgaGVhZGVyczogeyAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0sCiAgICAgICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7IGNhbGxJZDogbmV3Q2FsbElkIH0pLAogICAgICAgIH0pLAogICAgICBdKTsKCiAgICAgIGlmICghZG9jUmVzLm9rKSB0aHJvdyBuZXcgRXJyb3IoKGF3YWl0IGRvY1Jlcy5qc29uKCkpLmVycm9yID8/ICdEb2MgZ2VuZXJhdGlvbiBmYWlsZWQnKTsKICAgICAgaWYgKCFzaGVldFJlcy5vaykgdGhyb3cgbmV3IEVycm9yKChhd2FpdCBzaGVldFJlcy5qc29uKCkpLmVycm9yID8/ICdTaGVldCBnZW5lcmF0aW9uIGZhaWxlZCcpOwogICAgICBhZGRMb2coJ0RvY3VtZW50cyBnZW5lcmF0ZWQgYW5kIHVwbG9hZGVkLicpOwoKICAgICAgY29uc3QgcmVwb3J0UmVzID0gYXdhaXQgZmV0Y2goYC9hcGkvcmVwb3J0cz9jYWxsSWQ9JHtuZXdDYWxsSWR9YCk7CiAgICAgIGNvbnN0IHsgcmVwb3J0OiBmdWxsUmVwb3J0IH0gPSBhd2FpdCByZXBvcnRSZXMuanNvbigpOwoKICAgICAgc2V0UmVwb3J0KGZ1bGxSZXBvcnQpOwogICAgICBzZXRQaXBlbGluZVN0ZXAoJ3JlYWR5Jyk7CiAgICAgIGFkZExvZygnUGlwZWxpbmUgY29tcGxldGUhIFJlcG9ydCBpcyByZWFkeS4nKTsKICAgIH0gY2F0Y2ggKGVycjogdW5rbm93bikgewogICAgICBjb25zdCBtZXNzYWdlID0gZXJyIGluc3RhbmNlb2YgRXJyb3IgPyBlcnIubWVzc2FnZSA6ICdQaXBlbGluZSBmYWlsZWQnOwogICAgICBzZXRFcnJvcihtZXNzYWdlKTsKICAgICAgc2V0UGlwZWxpbmVTdGVwKCdlcnJvcicpOwogICAgICBhZGRMb2coYEVycm9yOiAke21lc3NhZ2V9YCk7CiAgICB9CiAgfQoKICByZXR1cm4gKAogICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGZsZXhEaXJlY3Rpb246ICdjb2x1bW4nLCBnYXA6IDIwIH19PgoKICAgICAgey8qIOKUgOKUgCBTaW5nbGUgdW5pZmllZCBjYXJkIOKUgOKUgCAqL30KICAgICAgPGRpdiBzdHlsZT17eyBiYWNrZ3JvdW5kOiAndmFyKC0tY2FyZC1iZyknLCBib3JkZXI6ICcxcHggc29saWQgdmFyKC0tY2FyZC1ib3JkZXIpJywgYm9yZGVyUmFkaXVzOiAxMCwgcGFkZGluZzogJzIwcHggMjRweCcgfX0+CiAgICAgICAgPGgzIHN0eWxlPXt7IG1hcmdpbjogJzAgMCA0cHgnLCBmb250U2l6ZTogMTQsIGZvbnRXZWlnaHQ6IDYwMCwgY29sb3I6ICcjZjFmNWY5JyB9fT5TaW5nbGUgQ2FsbCBVcGxvYWQ8L2gzPgogICAgICAgIDxwIHN0eWxlPXt7IG1hcmdpbjogJzAgMCAxNnB4JywgZm9udFNpemU6IDEyLCBjb2xvcjogJ3ZhcigtLXRleHQtbXV0ZWQpJywgbGluZUhlaWdodDogMS41IH19PgogICAgICAgICAgVXBsb2FkIGEgcmVjb3JkaW5nIG9yIHBhc3RlIGEgR29vZ2xlIERyaXZlIGxpbmsgdG8gYXV0by1nZW5lcmF0ZSBhIGNhbGwgcmVwb3J0LgogICAgICAgIDwvcD4KCiAgICAgICAgey8qIFVwbG9hZCB6b25lICovfQogICAgICAgIDxVcGxvYWRab25lCiAgICAgICAgICBvbkZpbGVTZWxlY3Q9eyhmKSA9PiB7IHNldEZpbGUoZik7IHNldERyaXZlVXJsKCcnKTsgfX0KICAgICAgICAgIG9uRHJpdmVVcmw9eyh1cmwpID0+IHsgc2V0RHJpdmVVcmwodXJsKTsgc2V0RmlsZShudWxsKTsgfX0KICAgICAgICAgIGRpc2FibGVkPXtpc1J1bm5pbmd9CiAgICAgICAgLz4KCiAgICAgICAgey8qIFJlcCBOYW1lICsgUnVuIGJ1dHRvbiByb3cgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImJ1bGstZm9ybS1ncmlkIiBzdHlsZT17eyBkaXNwbGF5OiAnZ3JpZCcsIGdyaWRUZW1wbGF0ZUNvbHVtbnM6ICcxZnIgYXV0bycsIGdhcDogMTIsIGFsaWduSXRlbXM6ICdlbmQnLCBtYXJnaW5Ub3A6IDE2IH19PgogICAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGZsZXhEaXJlY3Rpb246ICdjb2x1bW4nLCBnYXA6IDUgfX0+CiAgICAgICAgICAgIDxsYWJlbCBzdHlsZT17bGFiZWxTdHlsZX0+UmVwIE5hbWUgKjwvbGFiZWw+CiAgICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICAgIHZhbHVlPXtyZXBOYW1lfQogICAgICAgICAgICAgIG9uQ2hhbmdlPXtlID0+IHNldFJlcE5hbWUoZS50YXJnZXQudmFsdWUpfQogICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJZb3VyIG5hbWUiCiAgICAgICAgICAgICAgZGlzYWJsZWQ9e2lzUnVubmluZ30KICAgICAgICAgICAgICBzdHlsZT17aW5wdXRTdHlsZX0KICAgICAgICAgICAgLz4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICBvbkNsaWNrPXtydW5QaXBlbGluZX0KICAgICAgICAgICAgZGlzYWJsZWQ9e2lzUnVubmluZ30KICAgICAgICAgICAgY2xhc3NOYW1lPSJidWxrLXN0YXJ0LWJ0biIKICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICBwYWRkaW5nOiAnOXB4IDI0cHgnLAogICAgICAgICAgICAgIGJhY2tncm91bmQ6IGlzUnVubmluZyA/ICcjMjUzODcwJyA6ICcjM2I4MmY2JywKICAgICAgICAgICAgICBjb2xvcjogJyNmZmYnLCBib3JkZXI6ICdub25lJywgYm9yZGVyUmFkaXVzOiA4LAogICAgICAgICAgICAgIGZvbnRTaXplOiAxMywgZm9udFdlaWdodDogNjAwLAogICAgICAgICAgICAgIGN1cnNvcjogaXNSdW5uaW5nID8gJ25vdC1hbGxvd2VkJyA6ICdwb2ludGVyJywKICAgICAgICAgICAgICB3aGl0ZVNwYWNlOiAnbm93cmFwJywKICAgICAgICAgICAgICBkaXNwbGF5OiAnZmxleCcsIGFsaWduSXRlbXM6ICdjZW50ZXInLCBnYXA6IDgsCiAgICAgICAgICAgIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIHtpc1J1bm5pbmcgPyA8PjxzcGFuIGNsYXNzTmFtZT0iYmxpbmsiPuKXjzwvc3Bhbj4gUnVubmluZ+KApjwvPiA6ICfilrYgUnVuIFBpcGVsaW5lJ30KICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgIDwvZGl2PgoKICAgICAgICB7ZXJyb3IgJiYgKAogICAgICAgICAgPGRpdiBzdHlsZT17eyBtYXJnaW5Ub3A6IDEyLCBwYWRkaW5nOiAnMTBweCAxNHB4JywgYmFja2dyb3VuZDogJ3JnYmEoMjM5LDY4LDY4LDAuMDgpJywgYm9yZGVyOiAnMXB4IHNvbGlkIHJnYmEoMjM5LDY4LDY4LDAuMiknLCBib3JkZXJSYWRpdXM6IDgsIGNvbG9yOiAnI2VmNDQ0NCcsIGZvbnRTaXplOiAxMiB9fT4KICAgICAgICAgICAge2Vycm9yfQogICAgICAgICAgPC9kaXY+CiAgICAgICAgKX0KICAgICAgPC9kaXY+CgogICAgICB7LyogUGlwZWxpbmUgc3RhdHVzICovfQogICAgICB7cGlwZWxpbmVTdGVwICE9PSAnaWRsZScgJiYgKAogICAgICAgIDxQaXBlbGluZVN0YXR1cyBzdGVwPXtwaXBlbGluZVN0ZXB9IGxvZ3M9e2xvZ3N9IC8+CiAgICAgICl9CgogICAgICB7LyogUmVwb3J0IHByZXZpZXcgKi99CiAgICAgIHtyZXBvcnQgJiYgY2FsbElkICYmIHBpcGVsaW5lU3RlcCA9PT0gJ3JlYWR5JyAmJiAoCiAgICAgICAgPFJlcG9ydFByZXZpZXcgcmVwb3J0PXtyZXBvcnR9IGNhbGxJZD17Y2FsbElkfSAvPgogICAgICApfQogICAgPC9kaXY+CiAgKTsKfQoKY29uc3QgbGFiZWxTdHlsZTogUmVhY3QuQ1NTUHJvcGVydGllcyA9IHsKICBmb250U2l6ZTogMTIsIGZvbnRXZWlnaHQ6IDUwMCwgY29sb3I6ICd2YXIoLS10ZXh0LW11dGVkKScsCn07Cgpjb25zdCBpbnB1dFN0eWxlOiBSZWFjdC5DU1NQcm9wZXJ0aWVzID0gewogIGJhY2tncm91bmQ6ICcjMGMxMDIxJywKICBib3JkZXI6ICcxcHggc29saWQgdmFyKC0tY2FyZC1ib3JkZXIpJywKICBib3JkZXJSYWRpdXM6IDgsCiAgcGFkZGluZzogJzlweCAxMnB4JywKICBmb250U2l6ZTogMTMsCiAgY29sb3I6ICcjZjFmNWY5JywKICBvdXRsaW5lOiAnbm9uZScsCiAgd2lkdGg6ICcxMDAlJywKICBib3hTaXppbmc6ICdib3JkZXItYm94JywKfTsK"}
+'use client';
+
+import { useState } from 'react';
+import UploadZone from './UploadZone';
+import PipelineStatus from './PipelineStatus';
+import ReportPreview from './ReportPreview';
+import { CallFormData, PipelineStep, Report } from '@/types';
+
+interface PipelineLog {
+  time: string;
+  message: string;
+}
+
+export default function CallMetaForm({ repEmail }: { repEmail?: string }) {
+  const [repName, setRepName] = useState(repEmail ? repEmail.split('@')[0] : '');
+  const [pipelineStep, setPipelineStep] = useState<PipelineStep>('idle');
+  const [logs, setLogs] = useState<PipelineLog[]>([]);
+  const [report, setReport] = useState<Report | null>(null);
+  const [callId, setCallId] = useState<string | null>(null);
+  const [error, setError] = useState('');
+  const [driveUrl, setDriveUrl] = useState('');
+  const [file, setFile] = useState<File | null>(null);
+
+  const isRunning = ['uploading', 'transcribing', 'analysing', 'generating'].includes(pipelineStep);
+
+  function addLog(message: string) {
+    setLogs((prev) => [...prev, { time: new Date().toLocaleTimeString(), message }]);
+  }
+
+  async function runPipeline() {
+    setError('');
+    setLogs([]);
+    setReport(null);
+
+    if (!repName.trim()) {
+      setError('Please enter your Rep Name.');
+      return;
+    }
+    if (!file && !driveUrl) {
+      setError('Please upload a recording or provide a Google Drive URL.');
+      return;
+    }
+
+    try {
+      setPipelineStep('uploading');
+      addLog('Uploading recording…');
+
+      const formData = new FormData();
+      formData.append('prospect_name', '');
+      formData.append('company', '-');
+      formData.append('rep_name', repName.trim());
+      formData.append('call_type', 'Intro Call');
+      formData.append('stakeholders', '');
+      if (file) formData.append('file', file);
+      if (driveUrl) formData.append('drive_url', driveUrl);
+
+      const uploadRes = await fetch('/api/upload', { method: 'POST', body: formData });
+      const uploadData = await uploadRes.json();
+      if (!uploadRes.ok) throw new Error(uploadData.error ?? 'Upload failed');
+
+      const newCallId = uploadData.callId;
+      setCallId(newCallId);
+      addLog(`Upload complete. Call ID: ${newCallId}`);
+
+      setPipelineStep('transcribing');
+      addLog('Transcribing audio with Sarvam AI (this may take 1–3 min)…');
+
+      const transcribeRes = await fetch('/api/transcribe', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ callId: newCallId }),
+      });
+      const transcribeData = await transcribeRes.json();
+      if (!transcribeRes.ok) throw new Error(transcribeData.error ?? 'Transcription failed');
+      addLog('Transcription complete.');
+
+      setPipelineStep('analysing');
+      addLog('Analysing transcript with Claude…');
+
+      const analyseRes = await fetch('/api/analyse', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ callId: newCallId }),
+      });
+      const analyseData = await analyseRes.json();
+      if (!analyseRes.ok) throw new Error(analyseData.error ?? 'Analysis failed');
+      addLog('Analysis complete.');
+
+      setPipelineStep('generating');
+      addLog('Generating .docx report and .xlsx sheet…');
+
+      const [docRes, sheetRes] = await Promise.all([
+        fetch('/api/generate-doc', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ callId: newCallId }),
+        }),
+        fetch('/api/generate-sheet', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ callId: newCallId }),
+        }),
+      ]);
+
+      if (!docRes.ok) throw new Error((await docRes.json()).error ?? 'Doc generation failed');
+      if (!sheetRes.ok) throw new Error((await sheetRes.json()).error ?? 'Sheet generation failed');
+      addLog('Documents generated and uploaded.');
+
+      const reportRes = await fetch(`/api/reports?callId=${newCallId}`);
+      const { report: fullReport } = await reportRes.json();
+
+      setReport(fullReport);
+      setPipelineStep('ready');
+      addLog('Pipeline complete! Report is ready.');
+    } catch (err: unknown) {
+      const message = err instanceof Error ? err.message : 'Pipeline failed';
+      setError(message);
+      setPipelineStep('error');
+      addLog(`Error: ${message}`);
+    }
+  }
+
+  return (
+    <div style={{ display: 'flex', flexDirection: 'column', gap: 20 }}>
+
+      {/* ── Single unified card ── */}
+      <div style={{ background: 'var(--card-bg)', border: '1px solid var(--card-border)', borderRadius: 10, padding: '20px 24px' }}>
+        <h3 style={{ margin: '0 0 4px', fontSize: 14, fontWeight: 600, color: '#f1f5f9' }}>Single Call Upload</h3>
+        <p style={{ margin: '0 0 16px', fontSize: 12, color: 'var(--text-muted)', lineHeight: 1.5 }}>
+          Upload a recording or paste a Google Drive link to auto-generate a call report.
+        </p>
+
+        {/* Upload zone */}
+        <UploadZone
+          onFileSelect={(f) => { setFile(f); setDriveUrl(''); }}
+          onDriveUrl={(url) => { setDriveUrl(url); setFile(null); }}
+          disabled={isRunning}
+        />
+
+        {/* Rep Name + Run button row */}
+        <div className="bulk-form-grid" style={{ display: 'grid', gridTemplateColumns: '1fr auto', gap: 12, alignItems: 'end', marginTop: 16 }}>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 5 }}>
+            <label style={labelStyle}>Rep Name *</label>
+            <input
+              value={repName}
+              onChange={e => setRepName(e.target.value)}
+              placeholder="Your name"
+              disabled={isRunning}
+              style={inputStyle}
+            />
+          </div>
+          <button
+            onClick={runPipeline}
+            disabled={isRunning}
+            className="bulk-start-btn"
+            style={{
+              padding: '9px 24px',
+              background: isRunning ? '#253870' : '#3b82f6',
+              color: '#fff', border: 'none', borderRadius: 8,
+              fontSize: 13, fontWeight: 600,
+              cursor: isRunning ? 'not-allowed' : 'pointer',
+              whiteSpace: 'nowrap',
+              display: 'flex', alignItems: 'center', gap: 8,
+            }}
+          >
+            {isRunning ? <><span className="blink">●</span> Running…</> : '▶ Run Pipeline'}
+          </button>
+        </div>
+
+        {error && (
+          <div style={{ marginTop: 12, padding: '10px 14px', background: 'rgba(239,68,68,0.08)', border: '1px solid rgba(239,68,68,0.2)', borderRadius: 8, color: '#ef4444', fontSize: 12 }}>
+            {error}
+          </div>
+        )}
+      </div>
+
+      {/* Pipeline status */}
+      {pipelineStep !== 'idle' && (
+        <PipelineStatus step={pipelineStep} logs={logs} />
+      )}
+
+      {/* Report preview */}
+      {report && callId && pipelineStep === 'ready' && (
+        <ReportPreview report={report} callId={callId} />
+      )}
+    </div>
+  );
+}
+
+const labelStyle: React.CSSProperties = {
+  fontSize: 12, fontWeight: 500, color: 'var(--text-muted)',
+};
+
+const inputStyle: React.CSSProperties = {
+  background: '#0c1021',
+  border: '1px solid var(--card-border)',
+  borderRadius: 8,
+  padding: '9px 12px',
+  fontSize: 13,
+  color: '#f1f5f9',
+  outline: 'none',
+  width: '100%',
+  boxSizing: 'border-box',
+};

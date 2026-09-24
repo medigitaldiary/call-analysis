@@ -1,1 +1,67 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgZ2V0RGIgfSBmcm9tICdAL2xpYi9kYic7CmltcG9ydCB7IHRyYW5zY3JpYmVBdWRpbyB9IGZyb20gJ0AvbGliL3RyYW5zY3JpYmUnOwppbXBvcnQgeyBhbmFseXNlVHJhbnNjcmlwdCB9IGZyb20gJ0AvbGliL2FuYWx5c2UnOwoKZXhwb3J0IGNvbnN0IG1heER1cmF0aW9uID0gMzAwOyAvLyA1IG1pbnV0ZXMg4oCUIG5lZWRlZCBmb3IgYmF0Y2ggU1RUIHBvbGxpbmcKCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBQT1NUKHJlcTogTmV4dFJlcXVlc3QpIHsKICBjb25zdCB7IGNhbGxJZCwgc2Vzc2lvbklkLCBhdWRpb1VybE92ZXJyaWRlIH0gPSBhd2FpdCByZXEuanNvbigpOwogIGNvbnN0IHNxbCA9IGdldERiKCk7CgogIHRyeSB7CiAgICBjb25zdCBbY2FsbF0gPSBhd2FpdCBzcWxgU0VMRUNUICogRlJPTSBjYWxscyBXSEVSRSBpZCA9ICR7Y2FsbElkfWA7CiAgICBpZiAoIWNhbGwpIHRocm93IG5ldyBFcnJvcignQ2FsbCBub3QgZm91bmQnKTsKCiAgICAvLyBJZiB0aGlzIGNhbGwgd2FzIGNhbmNlbGxlZCBiZWZvcmUgcHJvY2Vzc2luZyBzdGFydGVkLCBza2lwIHNpbGVudGx5CiAgICBpZiAoY2FsbC5zdGF0dXMgPT09ICdlcnJvcicgJiYgY2FsbC5lcnJvcl9tc2cgPT09ICdDYW5jZWxsZWQgYnkgYWRtaW4nKSB7CiAgICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IHNraXBwZWQ6IHRydWUsIHJlYXNvbjogJ2NhbmNlbGxlZCcgfSk7CiAgICB9CgogICAgY29uc3QgYXVkaW9VcmwgPSBhdWRpb1VybE92ZXJyaWRlID8/IGNhbGwuZHJpdmVfdXJsID8/IGNhbGwucmVjb3JkaW5nX3VybDsKICAgIGlmICghYXVkaW9VcmwpIHRocm93IG5ldyBFcnJvcignTm8gYXVkaW8gVVJMJyk7CgogICAgLy8gVHJhbnNjcmliZQogICAgYXdhaXQgc3FsYFVQREFURSBjYWxscyBTRVQgc3RhdHVzID0gJ3RyYW5zY3JpYmluZycgV0hFUkUgaWQgPSAke2NhbGxJZH1gOwogICAgY29uc3QgeyB0ZXh0LCBkdXJhdGlvbiB9ID0gYXdhaXQgdHJhbnNjcmliZUF1ZGlvKGF1ZGlvVXJsKTsKICAgIGF3YWl0IHNxbGBVUERBVEUgY2FsbHMgU0VUIHN0YXR1cyA9ICdhbmFseXNpbmcnLCBkdXJhdGlvbl9zZWMgPSAke01hdGgucm91bmQoZHVyYXRpb24pfSBXSEVSRSBpZCA9ICR7Y2FsbElkfWA7CiAgICBhd2FpdCBzcWxgVVBEQVRFIHJlcG9ydHMgU0VUIHRyYW5zY3JpcHQgPSAke3RleHR9LCBzYXJ2YW1fZHVyYXRpb25fc2VjID0gJHtNYXRoLnJvdW5kKGR1cmF0aW9uKX0gV0hFUkUgY2FsbF9pZCA9ICR7Y2FsbElkfWA7CgogICAgLy8gQW5hbHlzZSAocGFzcyBkdXJhdGlvbiBzbyB0aGUgc2NvcmluZyBnYXRlIGNhbiBhcHBseTogPDYwcyDihpIgc2tpcCBzY29yZXM7IHF1YWxpdHk8NCDihpIgc2tpcCBhZ2VudF9wZXJmb3JtYW5jZSkKICAgIGNvbnN0IGFuYWx5c2lzID0gYXdhaXQgYW5hbHlzZVRyYW5zY3JpcHQodGV4dCwgTWF0aC5yb3VuZChkdXJhdGlvbikpOwogICAgYXdhaXQgc3FsYAogICAgICBVUERBVEUgcmVwb3J0cyBTRVQKICAgICAgICBkYXRlX2V4dHJhY3RlZCA9ICR7YW5hbHlzaXMuZGF0ZV9leHRyYWN0ZWQgPz8gbnVsbH0sCiAgICAgICAgdGltZV9leHRyYWN0ZWQgPSAke2FuYWx5c2lzLnRpbWVfZXh0cmFjdGVkID8/IG51bGx9LAogICAgICAgIGR1cmF0aW9uID0gJHthbmFseXNpcy5kdXJhdGlvbiA/PyBudWxsfSwKICAgICAgICBwaG9uZSA9IENPQUxFU0NFKHBob25lLCAke2FuYWx5c2lzLnBob25lID8/IG51bGx9KSwKICAgICAgICBjdXN0b21lcl9uYW1lID0gJHthbmFseXNpcy5jdXN0b21lcl9uYW1lID8/IG51bGx9LAogICAgICAgIG91dGNvbWUgPSAke2FuYWx5c2lzLm91dGNvbWUgPz8gbnVsbH0sCiAgICAgICAgY2FsbF9xdWFsaXR5ID0gJHthbmFseXNpcy5jYWxsX3F1YWxpdHkgPz8gbnVsbH0sCiAgICAgICAgYWdlbnRfcGVyZm9ybWFuY2UgPSAke2FuYWx5c2lzLmFnZW50X3BlcmZvcm1hbmNlID8/IG51bGx9LAogICAgICAgIHN1bW1hcnkgPSAke2FuYWx5c2lzLnN1bW1hcnkgPz8gbnVsbH0sCiAgICAgICAgc2VudGltZW50ID0gJHthbmFseXNpcy5zZW50aW1lbnQgPyBzcWwuanNvbihhbmFseXNpcy5zZW50aW1lbnQgYXMgdW5rbm93biBhcyBpbXBvcnQoJ3Bvc3RncmVzJykuSlNPTlZhbHVlKSA6IG51bGx9LAogICAgICAgIHNwZWFrZXJfYnJlYWtkb3duID0gJHthbmFseXNpcy5zcGVha2VyX2JyZWFrZG93biA/IHNxbC5qc29uKGFuYWx5c2lzLnNwZWFrZXJfYnJlYWtkb3duIGFzIHVua25vd24gYXMgaW1wb3J0KCdwb3N0Z3JlcycpLkpTT05WYWx1ZSkgOiBudWxsfSwKICAgICAgICBrZXl3b3JkcyA9ICR7YW5hbHlzaXMua2V5d29yZHMgPyBzcWwuanNvbihhbmFseXNpcy5rZXl3b3JkcyBhcyB1bmtub3duIGFzIGltcG9ydCgncG9zdGdyZXMnKS5KU09OVmFsdWUpIDogbnVsbH0sCiAgICAgICAgdG9waWNzID0gJHthbmFseXNpcy50b3BpY3MgPyBzcWwuanNvbihhbmFseXNpcy50b3BpY3MgYXMgdW5rbm93biBhcyBpbXBvcnQoJ3Bvc3RncmVzJykuSlNPTlZhbHVlKSA6IG51bGx9LAogICAgICAgIGNvbXBsaWFuY2UgPSAke2FuYWx5c2lzLmNvbXBsaWFuY2UgPz8gbnVsbH0sCiAgICAgICAgYWN0aW9uX2l0ZW1zID0gJHthbmFseXNpcy5hY3Rpb25faXRlbXMgPyBzcWwuanNvbihhbmFseXNpcy5hY3Rpb25faXRlbXMgYXMgdW5rbm93biBhcyBpbXBvcnQoJ3Bvc3RncmVzJykuSlNPTlZhbHVlKSA6IG51bGx9LAogICAgICAgIGlucHV0X3Rva2VucyA9ICR7YW5hbHlzaXMuaW5wdXRfdG9rZW5zID8/IDB9LAogICAgICAgIG91dHB1dF90b2tlbnMgPSAke2FuYWx5c2lzLm91dHB1dF90b2tlbnMgPz8gMH0sCiAgICAgICAgY2xhdWRlX2xhdGVuY3lfbXMgPSAke2FuYWx5c2lzLmNsYXVkZV9sYXRlbmN5X21zID8/IG51bGx9CiAgICAgIFdIRVJFIGNhbGxfaWQgPSAke2NhbGxJZH0KICAgIGA7CiAgICBhd2FpdCBzcWxgVVBEQVRFIGNhbGxzIFNFVCBzdGF0dXMgPSAncmVhZHknIFdIRVJFIGlkID0gJHtjYWxsSWR9YDsKCiAgICAvLyBJbmNyZW1lbnQgc2Vzc2lvbiBwcm9jZXNzZWQgY291bnQKICAgIGF3YWl0IHNxbGBVUERBVEUgYnVsa19zZXNzaW9ucyBTRVQgcHJvY2Vzc2VkX2ZpbGVzID0gcHJvY2Vzc2VkX2ZpbGVzICsgMSBXSEVSRSBpZCA9ICR7c2Vzc2lvbklkfWA7CgogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgc3VjY2VzczogdHJ1ZSwgYW5hbHlzaXMgfSk7CiAgfSBjYXRjaCAoZXJyOiB1bmtub3duKSB7CiAgICBjb25zdCBtZXNzYWdlID0gZXJyIGluc3RhbmNlb2YgRXJyb3IgPyBlcnIubWVzc2FnZSA6ICdQcm9jZXNzaW5nIGZhaWxlZCc7CiAgICBhd2FpdCBzcWxgVVBEQVRFIGNhbGxzIFNFVCBzdGF0dXMgPSAnZXJyb3InLCBlcnJvcl9tc2cgPSAke21lc3NhZ2V9IFdIRVJFIGlkID0gJHtjYWxsSWR9YDsKICAgIC8vIFN0aWxsIGluY3JlbWVudCBzbyB3ZSBkb24ndCBzdGFsbAogICAgYXdhaXQgc3FsYFVQREFURSBidWxrX3Nlc3Npb25zIFNFVCBwcm9jZXNzZWRfZmlsZXMgPSBwcm9jZXNzZWRfZmlsZXMgKyAxIFdIRVJFIGlkID0gJHtzZXNzaW9uSWR9YDsKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IGVycm9yOiBtZXNzYWdlIH0sIHsgc3RhdHVzOiA1MDAgfSk7CiAgfQp9Cg=="}
+import { NextRequest, NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+import { transcribeAudio } from '@/lib/transcribe';
+import { analyseTranscript } from '@/lib/analyse';
+
+export const maxDuration = 300; // 5 minutes — needed for batch STT polling
+
+export async function POST(req: NextRequest) {
+  const { callId, sessionId, audioUrlOverride } = await req.json();
+  const sql = getDb();
+
+  try {
+    const [call] = await sql`SELECT * FROM calls WHERE id = ${callId}`;
+    if (!call) throw new Error('Call not found');
+
+    // If this call was cancelled before processing started, skip silently
+    if (call.status === 'error' && call.error_msg === 'Cancelled by admin') {
+      return NextResponse.json({ skipped: true, reason: 'cancelled' });
+    }
+
+    const audioUrl = audioUrlOverride ?? call.drive_url ?? call.recording_url;
+    if (!audioUrl) throw new Error('No audio URL');
+
+    // Transcribe
+    await sql`UPDATE calls SET status = 'transcribing' WHERE id = ${callId}`;
+    const { text, duration } = await transcribeAudio(audioUrl);
+    await sql`UPDATE calls SET status = 'analysing', duration_sec = ${Math.round(duration)} WHERE id = ${callId}`;
+    await sql`UPDATE reports SET transcript = ${text}, sarvam_duration_sec = ${Math.round(duration)} WHERE call_id = ${callId}`;
+
+    // Analyse (pass duration so the scoring gate can apply: <60s → skip scores; quality<4 → skip agent_performance)
+    const analysis = await analyseTranscript(text, Math.round(duration));
+    await sql`
+      UPDATE reports SET
+        date_extracted = ${analysis.date_extracted ?? null},
+        time_extracted = ${analysis.time_extracted ?? null},
+        duration = ${analysis.duration ?? null},
+        phone = COALESCE(phone, ${analysis.phone ?? null}),
+        customer_name = ${analysis.customer_name ?? null},
+        outcome = ${analysis.outcome ?? null},
+        call_quality = ${analysis.call_quality ?? null},
+        agent_performance = ${analysis.agent_performance ?? null},
+        summary = ${analysis.summary ?? null},
+        sentiment = ${analysis.sentiment ? sql.json(analysis.sentiment as unknown as import('postgres').JSONValue) : null},
+        speaker_breakdown = ${analysis.speaker_breakdown ? sql.json(analysis.speaker_breakdown as unknown as import('postgres').JSONValue) : null},
+        keywords = ${analysis.keywords ? sql.json(analysis.keywords as unknown as import('postgres').JSONValue) : null},
+        topics = ${analysis.topics ? sql.json(analysis.topics as unknown as import('postgres').JSONValue) : null},
+        compliance = ${analysis.compliance ?? null},
+        action_items = ${analysis.action_items ? sql.json(analysis.action_items as unknown as import('postgres').JSONValue) : null},
+        input_tokens = ${analysis.input_tokens ?? 0},
+        output_tokens = ${analysis.output_tokens ?? 0},
+        claude_latency_ms = ${analysis.claude_latency_ms ?? null}
+      WHERE call_id = ${callId}
+    `;
+    await sql`UPDATE calls SET status = 'ready' WHERE id = ${callId}`;
+
+    // Increment session processed count
+    await sql`UPDATE bulk_sessions SET processed_files = processed_files + 1 WHERE id = ${sessionId}`;
+
+    return NextResponse.json({ success: true, analysis });
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : 'Processing failed';
+    await sql`UPDATE calls SET status = 'error', error_msg = ${message} WHERE id = ${callId}`;
+    // Still increment so we don't stall
+    await sql`UPDATE bulk_sessions SET processed_files = processed_files + 1 WHERE id = ${sessionId}`;
+    return NextResponse.json({ error: message }, { status: 500 });
+  }
+}

@@ -1,1 +1,59 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgZ2V0RGIgfSBmcm9tICdAL2xpYi9kYic7CmltcG9ydCB7IHNlbmRSTVJlcG9ydEVtYWlsIH0gZnJvbSAnQC9saWIvZW1haWwnOwppbXBvcnQgdHlwZSB7IFJNUmVwb3J0IH0gZnJvbSAnQC90eXBlcyc7CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gUE9TVChyZXE6IE5leHRSZXF1ZXN0KSB7CiAgY29uc3QgeyBzZXNzaW9uSWQsIHN0YWtlaG9sZGVycyB9ID0gYXdhaXQgcmVxLmpzb24oKTsKICBpZiAoIXNlc3Npb25JZCkgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgZXJyb3I6ICdzZXNzaW9uSWQgcmVxdWlyZWQnIH0sIHsgc3RhdHVzOiA0MDAgfSk7CiAgaWYgKCFzdGFrZWhvbGRlcnM/Lmxlbmd0aCkgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgZXJyb3I6ICdObyBzdGFrZWhvbGRlciBlbWFpbHMgcHJvdmlkZWQnIH0sIHsgc3RhdHVzOiA0MDAgfSk7CgogIGNvbnN0IHNxbCA9IGdldERiKCk7CiAgY29uc3QgW3Nlc3Npb25dID0gYXdhaXQgc3FsYFNFTEVDVCAqIEZST00gYnVsa19zZXNzaW9ucyBXSEVSRSBpZCA9ICR7c2Vzc2lvbklkfWA7CiAgaWYgKCFzZXNzaW9uKSByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBlcnJvcjogJ1Nlc3Npb24gbm90IGZvdW5kJyB9LCB7IHN0YXR1czogNDA0IH0pOwogIGlmICghc2Vzc2lvbi5ybV9yZXBvcnQpIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IGVycm9yOiAnUk0gcmVwb3J0IG5vdCByZWFkeSB5ZXQnIH0sIHsgc3RhdHVzOiA0MDAgfSk7CgogIHRyeSB7CiAgICBjb25zdCByYXdSbVJlcG9ydCA9IHNlc3Npb24ucm1fcmVwb3J0OwogICAgY29uc3QgcmVwb3J0ID0gKHR5cGVvZiByYXdSbVJlcG9ydCA9PT0gJ3N0cmluZycgPyBKU09OLnBhcnNlKHJhd1JtUmVwb3J0KSA6IHJhd1JtUmVwb3J0KSBhcyBSTVJlcG9ydDsKICAgIGNvbnN0IHNlc3Npb25EYXRlID0gbmV3IERhdGUoc2Vzc2lvbi5zZXNzaW9uX2RhdGUpLnRvTG9jYWxlRGF0ZVN0cmluZygnZW4tR0InLCB7CiAgICAgIGRheTogJzItZGlnaXQnLCBtb250aDogJ3Nob3J0JywgeWVhcjogJ251bWVyaWMnLAogICAgfSk7CgogICAgbGV0IGRvY0J1ZmZlcjogQnVmZmVyIHwgdW5kZWZpbmVkOwogICAgbGV0IHNoZWV0QnVmZmVyOiBCdWZmZXIgfCB1bmRlZmluZWQ7CgogICAgaWYgKHNlc3Npb24uZG9jX3VybCkgewogICAgICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChzZXNzaW9uLmRvY191cmwsIHsKICAgICAgICBoZWFkZXJzOiB7IEF1dGhvcml6YXRpb246IGBCZWFyZXIgJHtwcm9jZXNzLmVudi5CTE9CX1JFQURfV1JJVEVfVE9LRU59YCB9LAogICAgICB9KTsKICAgICAgaWYgKHJlcy5vaykgZG9jQnVmZmVyID0gQnVmZmVyLmZyb20oYXdhaXQgcmVzLmFycmF5QnVmZmVyKCkpOwogICAgfQogICAgaWYgKHNlc3Npb24uc2hlZXRfdXJsKSB7CiAgICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKHNlc3Npb24uc2hlZXRfdXJsLCB7CiAgICAgICAgaGVhZGVyczogeyBBdXRob3JpemF0aW9uOiBgQmVhcmVyICR7cHJvY2Vzcy5lbnYuQkxPQl9SRUFEX1dSSVRFX1RPS0VOfWAgfSwKICAgICAgfSk7CiAgICAgIGlmIChyZXMub2spIHNoZWV0QnVmZmVyID0gQnVmZmVyLmZyb20oYXdhaXQgcmVzLmFycmF5QnVmZmVyKCkpOwogICAgfQoKICAgIGNvbnN0IG1lc3NhZ2VJZCA9IGF3YWl0IHNlbmRSTVJlcG9ydEVtYWlsKAogICAgICBzZXNzaW9uLnJtX25hbWUsCiAgICAgIHNlc3Npb25EYXRlLAogICAgICByZXBvcnQsCiAgICAgIHN0YWtlaG9sZGVycywKICAgICAgZG9jQnVmZmVyLAogICAgICBzaGVldEJ1ZmZlciwKICAgICk7CgogICAgYXdhaXQgc3FsYAogICAgICBVUERBVEUgYnVsa19zZXNzaW9ucwogICAgICBTRVQgc3Rha2Vob2xkZXJzID0gJHtzdGFrZWhvbGRlcnN9LCBzdGF0dXMgPSAncmVhZHknCiAgICAgIFdIRVJFIGlkID0gJHtzZXNzaW9uSWR9CiAgICBgOwoKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IG1lc3NhZ2VJZCB9KTsKICB9IGNhdGNoIChlcnI6IHVua25vd24pIHsKICAgIGNvbnN0IG1lc3NhZ2UgPSBlcnIgaW5zdGFuY2VvZiBFcnJvciA/IGVyci5tZXNzYWdlIDogJ0VtYWlsIHNlbmQgZmFpbGVkJzsKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IGVycm9yOiBtZXNzYWdlIH0sIHsgc3RhdHVzOiA1MDAgfSk7CiAgfQp9Cg=="}
+import { NextRequest, NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+import { sendRMReportEmail } from '@/lib/email';
+import type { RMReport } from '@/types';
+
+export async function POST(req: NextRequest) {
+  const { sessionId, stakeholders } = await req.json();
+  if (!sessionId) return NextResponse.json({ error: 'sessionId required' }, { status: 400 });
+  if (!stakeholders?.length) return NextResponse.json({ error: 'No stakeholder emails provided' }, { status: 400 });
+
+  const sql = getDb();
+  const [session] = await sql`SELECT * FROM bulk_sessions WHERE id = ${sessionId}`;
+  if (!session) return NextResponse.json({ error: 'Session not found' }, { status: 404 });
+  if (!session.rm_report) return NextResponse.json({ error: 'RM report not ready yet' }, { status: 400 });
+
+  try {
+    const rawRmReport = session.rm_report;
+    const report = (typeof rawRmReport === 'string' ? JSON.parse(rawRmReport) : rawRmReport) as RMReport;
+    const sessionDate = new Date(session.session_date).toLocaleDateString('en-GB', {
+      day: '2-digit', month: 'short', year: 'numeric',
+    });
+
+    let docBuffer: Buffer | undefined;
+    let sheetBuffer: Buffer | undefined;
+
+    if (session.doc_url) {
+      const res = await fetch(session.doc_url, {
+        headers: { Authorization: `Bearer ${process.env.BLOB_READ_WRITE_TOKEN}` },
+      });
+      if (res.ok) docBuffer = Buffer.from(await res.arrayBuffer());
+    }
+    if (session.sheet_url) {
+      const res = await fetch(session.sheet_url, {
+        headers: { Authorization: `Bearer ${process.env.BLOB_READ_WRITE_TOKEN}` },
+      });
+      if (res.ok) sheetBuffer = Buffer.from(await res.arrayBuffer());
+    }
+
+    const messageId = await sendRMReportEmail(
+      session.rm_name,
+      sessionDate,
+      report,
+      stakeholders,
+      docBuffer,
+      sheetBuffer,
+    );
+
+    await sql`
+      UPDATE bulk_sessions
+      SET stakeholders = ${stakeholders}, status = 'ready'
+      WHERE id = ${sessionId}
+    `;
+
+    return NextResponse.json({ messageId });
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : 'Email send failed';
+    return NextResponse.json({ error: message }, { status: 500 });
+  }
+}

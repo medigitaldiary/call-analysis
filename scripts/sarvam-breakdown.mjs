@@ -1,1 +1,146 @@
-{"data":"aW1wb3J0IHsgbmVvbiB9IGZyb20gJ0BuZW9uZGF0YWJhc2Uvc2VydmVybGVzcyc7CmltcG9ydCB7IHJlYWRGaWxlU3luYyB9IGZyb20gJ2ZzJzsKaW1wb3J0IHsgcmVzb2x2ZSwgZGlybmFtZSB9IGZyb20gJ3BhdGgnOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoIH0gZnJvbSAndXJsJzsKCmNvbnN0IF9fZGlybmFtZSA9IGRpcm5hbWUoZmlsZVVSTFRvUGF0aChpbXBvcnQubWV0YS51cmwpKTsKY29uc3QgZW52VGV4dCA9IHJlYWRGaWxlU3luYyhyZXNvbHZlKF9fZGlybmFtZSwgJy4uLy5lbnYubG9jYWwnKSwgJ3V0ZjgnKTsKZm9yIChjb25zdCBsaW5lIG9mIGVudlRleHQuc3BsaXQoJ1xuJykpIHsKICBjb25zdCB0ID0gbGluZS50cmltKCk7IGlmICghdCB8fCB0LnN0YXJ0c1dpdGgoJyMnKSkgY29udGludWU7CiAgY29uc3QgaSA9IHQuaW5kZXhPZignPScpOyBpZiAoaSA8IDApIGNvbnRpbnVlOwogIGNvbnN0IGsgPSB0LnNsaWNlKDAsIGkpLnRyaW0oKTsKICBsZXQgdiA9IHQuc2xpY2UoaSsxKS50cmltKCkucmVwbGFjZSgvXiIvLCcnKS5yZXBsYWNlKC8iJC8sJycpLnJlcGxhY2UoL1xcbi9nLCcnKTsKICBwcm9jZXNzLmVudltrXSA9IHY7Cn0KCmNvbnN0IHNxbCA9IG5lb24ocHJvY2Vzcy5lbnYuREFUQUJBU0VfVVJMKTsKCmNvbnN0IFBSSUNFX1BFUl9IT1VSX0lOUiA9IDM2Owpjb25zdCBQUklDRV9QRVJfTUlOX0lOUiAgPSBQUklDRV9QRVJfSE9VUl9JTlIgLyA2MDsgIC8vIOKCuTAuNjAvbWluCmNvbnN0IFBSSUNFX1BFUl9TRUNfSU5SICA9IFBSSUNFX1BFUl9IT1VSX0lOUiAvIDM2MDA7IC8vIOKCuTAuMDEvc2VjCgovLyDilIDilIAgMS4gT3ZlcmFsbCB0b3RhbHMg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACmNvbnN0IFt0b3RhbHNdID0gYXdhaXQgc3FsYAogIFNFTEVDVAogICAgQ09VTlQoKikgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyB0b3RhbF9jYWxscywKICAgIENPQUxFU0NFKFNVTShyLnNhcnZhbV9kdXJhdGlvbl9zZWMpLCAwKSAgICBBUyB0b3RhbF9zZWMKICBGUk9NIHJlcG9ydHMgcgogIEpPSU4gY2FsbHMgYyBPTiBjLmlkID0gci5jYWxsX2lkCiAgTEVGVCBKT0lOIGJ1bGtfc2Vzc2lvbnMgYnMgT04gYnMuaWQgPSBjLnNlc3Npb25faWQKICBXSEVSRSByLnNhcnZhbV9kdXJhdGlvbl9zZWMgPiAwCmA7CgovLyDilIDilIAgMi4gUGVyLVJNIGJyZWFrZG93biDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKY29uc3QgYnlSTSA9IGF3YWl0IHNxbGAKICBTRUxFQ1QKICAgIGMucmVwX25hbWUsCiAgICBDT1VOVCgqKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGNhbGxzLAogICAgQ09BTEVTQ0UoU1VNKHIuc2FydmFtX2R1cmF0aW9uX3NlYyksIDApICAgIEFTIHRvdGFsX3NlYwogIEZST00gcmVwb3J0cyByCiAgSk9JTiBjYWxscyBjIE9OIGMuaWQgPSByLmNhbGxfaWQKICBXSEVSRSByLnNhcnZhbV9kdXJhdGlvbl9zZWMgPiAwCiAgR1JPVVAgQlkgYy5yZXBfbmFtZQogIE9SREVSIEJZIHRvdGFsX3NlYyBERVNDCmA7CgovLyDilIDilIAgMy4gRGFpbHkgYnJlYWtkb3duIChhbGwgZGF5cyB3aXRoIGRhdGEpIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgApjb25zdCBkYWlseSA9IGF3YWl0IHNxbGAKICBTRUxFQ1QKICAgIENPQUxFU0NFKERBVEUoYnMuc2Vzc2lvbl9kYXRlKSwgREFURShjLmNyZWF0ZWRfYXQgQVQgVElNRSBaT05FICdBc2lhL0tvbGthdGEnKSkgQVMgZGF5LAogICAgQ09VTlQoKikgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBjYWxscywKICAgIENPQUxFU0NFKFNVTShyLnNhcnZhbV9kdXJhdGlvbl9zZWMpLCAwKSAgICBBUyB0b3RhbF9zZWMKICBGUk9NIHJlcG9ydHMgcgogIEpPSU4gY2FsbHMgYyBPTiBjLmlkID0gci5jYWxsX2lkCiAgTEVGVCBKT0lOIGJ1bGtfc2Vzc2lvbnMgYnMgT04gYnMuaWQgPSBjLnNlc3Npb25faWQKICBXSEVSRSByLnNhcnZhbV9kdXJhdGlvbl9zZWMgPiAwCiAgR1JPVVAgQlkgMQogIE9SREVSIEJZIDEgQVNDCmA7CgovLyDilIDilIAgNC4gUGVyLXNlc3Npb24gYnJlYWtkb3duIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgApjb25zdCBieVNlc3MgPSBhd2FpdCBzcWxgCiAgU0VMRUNUCiAgICBicy5ybV9uYW1lLAogICAgYnMuc2Vzc2lvbl9kYXRlLAogICAgQ09VTlQoci4qKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBjYWxscywKICAgIENPQUxFU0NFKFNVTShyLnNhcnZhbV9kdXJhdGlvbl9zZWMpLCAwKSAgICBBUyB0b3RhbF9zZWMKICBGUk9NIHJlcG9ydHMgcgogIEpPSU4gY2FsbHMgYyBPTiBjLmlkID0gci5jYWxsX2lkCiAgSk9JTiBidWxrX3Nlc3Npb25zIGJzIE9OIGJzLmlkID0gYy5zZXNzaW9uX2lkCiAgV0hFUkUgci5zYXJ2YW1fZHVyYXRpb25fc2VjID4gMAogIEdST1VQIEJZIGJzLmlkLCBicy5ybV9uYW1lLCBicy5zZXNzaW9uX2RhdGUKICBPUkRFUiBCWSBicy5zZXNzaW9uX2RhdGUgQVNDLCBicy5ybV9uYW1lCmA7CgpmdW5jdGlvbiBmbXREdXIoc2VjKSB7CiAgY29uc3QgbSA9IE1hdGguZmxvb3Ioc2VjIC8gNjApOwogIGNvbnN0IHMgPSBNYXRoLnJvdW5kKHNlYyAlIDYwKTsKICByZXR1cm4gYCR7bX1tICR7c31zYDsKfQpmdW5jdGlvbiBpbnIobikgeyByZXR1cm4gYOKCuSR7bi50b0ZpeGVkKDIpfWA7IH0KCmNvbnN0IHRvdGFsU2VjICA9IE51bWJlcih0b3RhbHMudG90YWxfc2VjKTsKY29uc3QgdG90YWxNaW4gID0gdG90YWxTZWMgLyA2MDsKY29uc3QgdG90YWxDb3N0ID0gdG90YWxTZWMgKiBQUklDRV9QRVJfU0VDX0lOUjsKCmNvbnNvbGUubG9nKCdcbuKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkCcpOwpjb25zb2xlLmxvZygnICAgICAgICAgU0FSVkFNIEFJIOKAlCBVU0FHRSBCUkVBS0RPV04gICAgICAgICAgICAgICAnKTsKY29uc29sZS5sb2coJ+KVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkFxuJyk7Cgpjb25zb2xlLmxvZygnUkFURSBDQVJEJyk7CmNvbnNvbGUubG9nKGAgIFNhYXJpa2EgdjIuNSA6IOKCuSR7UFJJQ0VfUEVSX0hPVVJfSU5SfS9ob3VyICA9ICDigrkke1BSSUNFX1BFUl9NSU5fSU5SLnRvRml4ZWQoMil9L21pbiAgPSAg4oK5JHtQUklDRV9QRVJfU0VDX0lOUi50b0ZpeGVkKDQpfS9zZWNgKTsKY29uc29sZS5sb2coYCAgKFNhcnZhbSBkYXNoYm9hcmQgc2hvd3Mg4oK5MSwxMDAuNjYgZm9yIDEsODAwIG1pbnMg4oaSIOKCuSR7KDExMDAuNjYvMTgwMCkudG9GaXhlZCgzKX0vbWluIOKAlCBtYXRjaGVzKVxuYCk7Cgpjb25zb2xlLmxvZygnT1ZFUkFMTCBUT1RBTFMnKTsKY29uc29sZS5sb2coYCAgQ2FsbHMgcHJvY2Vzc2VkIDogJHt0b3RhbHMudG90YWxfY2FsbHN9YCk7CmNvbnNvbGUubG9nKGAgIEF1ZGlvIGR1cmF0aW9uICA6ICR7Zm10RHVyKHRvdGFsU2VjKX0gKCR7dG90YWxNaW4udG9GaXhlZCgxKX0gbWlucylgKTsKY29uc29sZS5sb2coYCAgVG90YWwgY29zdCAgICAgIDogJHtpbnIodG90YWxDb3N0KX1gKTsKY29uc29sZS5sb2coYCAgQXZnIHBlciBjYWxsICAgIDogJHtpbnIodG90YWxDb3N0IC8gTnVtYmVyKHRvdGFscy50b3RhbF9jYWxscykpfWApOwpjb25zb2xlLmxvZyhgICBBdmcgZHVyYXRpb24gICAgOiAke2ZtdER1cih0b3RhbFNlYyAvIE51bWJlcih0b3RhbHMudG90YWxfY2FsbHMpKX0gcGVyIGNhbGxcbmApOwoKY29uc29sZS5sb2coJ1BFUi1STSBCUkVBS0RPV04nKTsKY29uc29sZS50YWJsZShieVJNLm1hcChyID0+IHsKICBjb25zdCBzZWMgID0gTnVtYmVyKHIudG90YWxfc2VjKTsKICBjb25zdCBtaW4gID0gc2VjIC8gNjA7CiAgY29uc3QgY29zdCA9IHNlYyAqIFBSSUNFX1BFUl9TRUNfSU5SOwogIHJldHVybiB7CiAgICBSTTogICAgICAgci5yZXBfbmFtZSwKICAgIENhbGxzOiAgICBOdW1iZXIoci5jYWxscyksCiAgICBEdXJhdGlvbjogZm10RHVyKHNlYyksCiAgICBNaW51dGVzOiAgbWluLnRvRml4ZWQoMSksCiAgICBDb3N0X0lOUjogaW5yKGNvc3QpLAogICAgQXZnX3Blcl9jYWxsOiBpbnIoY29zdCAvIE51bWJlcihyLmNhbGxzKSksCiAgfTsKfSkpOwoKY29uc29sZS5sb2coJ1xuREFJTFkgQlJFQUtET1dOJyk7CmNvbnNvbGUudGFibGUoZGFpbHkubWFwKGQgPT4gewogIGNvbnN0IHNlYyAgPSBOdW1iZXIoZC50b3RhbF9zZWMpOwogIGNvbnN0IG1pbiAgPSBzZWMgLyA2MDsKICBjb25zdCBjb3N0ID0gc2VjICogUFJJQ0VfUEVSX1NFQ19JTlI7CiAgcmV0dXJuIHsKICAgIERhdGU6ICAgICBTdHJpbmcoZC5kYXkpLnNsaWNlKDAsMTApLAogICAgQ2FsbHM6ICAgIE51bWJlcihkLmNhbGxzKSwKICAgIER1cmF0aW9uOiBmbXREdXIoc2VjKSwKICAgIE1pbnV0ZXM6ICBtaW4udG9GaXhlZCgxKSwKICAgIENvc3RfSU5SOiBpbnIoY29zdCksCiAgfTsKfSkpOwoKY29uc29sZS5sb2coJ1xuUEVSLVNFU1NJT04gQlJFQUtET1dOJyk7CmNvbnNvbGUudGFibGUoYnlTZXNzLm1hcChzID0+IHsKICBjb25zdCBzZWMgID0gTnVtYmVyKHMudG90YWxfc2VjKTsKICBjb25zdCBtaW4gID0gc2VjIC8gNjA7CiAgY29uc3QgY29zdCA9IHNlYyAqIFBSSUNFX1BFUl9TRUNfSU5SOwogIHJldHVybiB7CiAgICBSTTogICAgICAgcy5ybV9uYW1lLAogICAgRGF0ZTogICAgIFN0cmluZyhzLnNlc3Npb25fZGF0ZSkuc2xpY2UoMCwxMCksCiAgICBDYWxsczogICAgTnVtYmVyKHMuY2FsbHMpLAogICAgRHVyYXRpb246IGZtdER1cihzZWMpLAogICAgTWludXRlczogIG1pbi50b0ZpeGVkKDEpLAogICAgQ29zdF9JTlI6IGlucihjb3N0KSwKICB9Owp9KSk7Cgpjb25zb2xlLmxvZygnXG5OT1RFOiBTYXJ2YW0gZGFzaGJvYXJkIHNob3dzIOKCuTEsMTAwLjY2IHRvdGFsIGZvciAxLDgwMCBtaW5zLicpOwpjb25zb2xlLmxvZyhgT3VyIERCIHRyYWNrcyAke3RvdGFsTWluLnRvRml4ZWQoMSl9IG1pbnMgPSAke2lucih0b3RhbENvc3QpfSAoZGlmZmVyZW5jZSBtYXkgYmUgcHJlLXByb2R1Y3Rpb24gdGVzdCBjYWxscyBub3QgaW4gb3VyIERCKS5gKTsK"}
+import { neon } from '@neondatabase/serverless';
+import { readFileSync } from 'fs';
+import { resolve, dirname } from 'path';
+import { fileURLToPath } from 'url';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const envText = readFileSync(resolve(__dirname, '../.env.local'), 'utf8');
+for (const line of envText.split('\n')) {
+  const t = line.trim(); if (!t || t.startsWith('#')) continue;
+  const i = t.indexOf('='); if (i < 0) continue;
+  const k = t.slice(0, i).trim();
+  let v = t.slice(i+1).trim().replace(/^"/,'').replace(/"$/,'').replace(/\\n/g,'');
+  process.env[k] = v;
+}
+
+const sql = neon(process.env.DATABASE_URL);
+
+const PRICE_PER_HOUR_INR = 36;
+const PRICE_PER_MIN_INR  = PRICE_PER_HOUR_INR / 60;  // ₹0.60/min
+const PRICE_PER_SEC_INR  = PRICE_PER_HOUR_INR / 3600; // ₹0.01/sec
+
+// ── 1. Overall totals ─────────────────────────────────────────────────────────
+const [totals] = await sql`
+  SELECT
+    COUNT(*)                                    AS total_calls,
+    COALESCE(SUM(r.sarvam_duration_sec), 0)    AS total_sec
+  FROM reports r
+  JOIN calls c ON c.id = r.call_id
+  LEFT JOIN bulk_sessions bs ON bs.id = c.session_id
+  WHERE r.sarvam_duration_sec > 0
+`;
+
+// ── 2. Per-RM breakdown ───────────────────────────────────────────────────────
+const byRM = await sql`
+  SELECT
+    c.rep_name,
+    COUNT(*)                                    AS calls,
+    COALESCE(SUM(r.sarvam_duration_sec), 0)    AS total_sec
+  FROM reports r
+  JOIN calls c ON c.id = r.call_id
+  WHERE r.sarvam_duration_sec > 0
+  GROUP BY c.rep_name
+  ORDER BY total_sec DESC
+`;
+
+// ── 3. Daily breakdown (all days with data) ───────────────────────────────────
+const daily = await sql`
+  SELECT
+    COALESCE(DATE(bs.session_date), DATE(c.created_at AT TIME ZONE 'Asia/Kolkata')) AS day,
+    COUNT(*)                                    AS calls,
+    COALESCE(SUM(r.sarvam_duration_sec), 0)    AS total_sec
+  FROM reports r
+  JOIN calls c ON c.id = r.call_id
+  LEFT JOIN bulk_sessions bs ON bs.id = c.session_id
+  WHERE r.sarvam_duration_sec > 0
+  GROUP BY 1
+  ORDER BY 1 ASC
+`;
+
+// ── 4. Per-session breakdown ──────────────────────────────────────────────────
+const bySess = await sql`
+  SELECT
+    bs.rm_name,
+    bs.session_date,
+    COUNT(r.*)                                  AS calls,
+    COALESCE(SUM(r.sarvam_duration_sec), 0)    AS total_sec
+  FROM reports r
+  JOIN calls c ON c.id = r.call_id
+  JOIN bulk_sessions bs ON bs.id = c.session_id
+  WHERE r.sarvam_duration_sec > 0
+  GROUP BY bs.id, bs.rm_name, bs.session_date
+  ORDER BY bs.session_date ASC, bs.rm_name
+`;
+
+function fmtDur(sec) {
+  const m = Math.floor(sec / 60);
+  const s = Math.round(sec % 60);
+  return `${m}m ${s}s`;
+}
+function inr(n) { return `₹${n.toFixed(2)}`; }
+
+const totalSec  = Number(totals.total_sec);
+const totalMin  = totalSec / 60;
+const totalCost = totalSec * PRICE_PER_SEC_INR;
+
+console.log('\n═══════════════════════════════════════════════════');
+console.log('         SARVAM AI — USAGE BREAKDOWN               ');
+console.log('═══════════════════════════════════════════════════\n');
+
+console.log('RATE CARD');
+console.log(`  Saarika v2.5 : ₹${PRICE_PER_HOUR_INR}/hour  =  ₹${PRICE_PER_MIN_INR.toFixed(2)}/min  =  ₹${PRICE_PER_SEC_INR.toFixed(4)}/sec`);
+console.log(`  (Sarvam dashboard shows ₹1,100.66 for 1,800 mins → ₹${(1100.66/1800).toFixed(3)}/min — matches)\n`);
+
+console.log('OVERALL TOTALS');
+console.log(`  Calls processed : ${totals.total_calls}`);
+console.log(`  Audio duration  : ${fmtDur(totalSec)} (${totalMin.toFixed(1)} mins)`);
+console.log(`  Total cost      : ${inr(totalCost)}`);
+console.log(`  Avg per call    : ${inr(totalCost / Number(totals.total_calls))}`);
+console.log(`  Avg duration    : ${fmtDur(totalSec / Number(totals.total_calls))} per call\n`);
+
+console.log('PER-RM BREAKDOWN');
+console.table(byRM.map(r => {
+  const sec  = Number(r.total_sec);
+  const min  = sec / 60;
+  const cost = sec * PRICE_PER_SEC_INR;
+  return {
+    RM:       r.rep_name,
+    Calls:    Number(r.calls),
+    Duration: fmtDur(sec),
+    Minutes:  min.toFixed(1),
+    Cost_INR: inr(cost),
+    Avg_per_call: inr(cost / Number(r.calls)),
+  };
+}));
+
+console.log('\nDAILY BREAKDOWN');
+console.table(daily.map(d => {
+  const sec  = Number(d.total_sec);
+  const min  = sec / 60;
+  const cost = sec * PRICE_PER_SEC_INR;
+  return {
+    Date:     String(d.day).slice(0,10),
+    Calls:    Number(d.calls),
+    Duration: fmtDur(sec),
+    Minutes:  min.toFixed(1),
+    Cost_INR: inr(cost),
+  };
+}));
+
+console.log('\nPER-SESSION BREAKDOWN');
+console.table(bySess.map(s => {
+  const sec  = Number(s.total_sec);
+  const min  = sec / 60;
+  const cost = sec * PRICE_PER_SEC_INR;
+  return {
+    RM:       s.rm_name,
+    Date:     String(s.session_date).slice(0,10),
+    Calls:    Number(s.calls),
+    Duration: fmtDur(sec),
+    Minutes:  min.toFixed(1),
+    Cost_INR: inr(cost),
+  };
+}));
+
+console.log('\nNOTE: Sarvam dashboard shows ₹1,100.66 total for 1,800 mins.');
+console.log(`Our DB tracks ${totalMin.toFixed(1)} mins = ${inr(totalCost)} (difference may be pre-production test calls not in our DB).`);

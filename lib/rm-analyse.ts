@@ -1,1 +1,150 @@
-{"data":"aW1wb3J0IEFudGhyb3BpYyBmcm9tICdAYW50aHJvcGljLWFpL3Nkayc7CmltcG9ydCB0eXBlIHsgUk1SZXBvcnQgfSBmcm9tICdAL3R5cGVzJzsKCmZ1bmN0aW9uIGdldENsYXVkZSgpIHsKICByZXR1cm4gbmV3IEFudGhyb3BpYyh7IGFwaUtleTogcHJvY2Vzcy5lbnYuQU5USFJPUElDX0FQSV9LRVkhIH0pOwp9Cgphc3luYyBmdW5jdGlvbiBjcmVhdGVXaXRoUmV0cnkocGFyYW1zOiBQYXJhbWV0ZXJzPFJldHVyblR5cGU8dHlwZW9mIGdldENsYXVkZT5bJ21lc3NhZ2VzJ11bJ2NyZWF0ZSddPlswXSwgbWF4UmV0cmllcyA9IDQpOiBQcm9taXNlPEFudGhyb3BpYy5NZXNzYWdlPiB7CiAgbGV0IGRlbGF5ID0gODAwMDsKICBmb3IgKGxldCBhdHRlbXB0ID0gMDsgYXR0ZW1wdCA8PSBtYXhSZXRyaWVzOyBhdHRlbXB0KyspIHsKICAgIHRyeSB7CiAgICAgIHJldHVybiBhd2FpdCBnZXRDbGF1ZGUoKS5tZXNzYWdlcy5jcmVhdGUocGFyYW1zKSBhcyBBbnRocm9waWMuTWVzc2FnZTsKICAgIH0gY2F0Y2ggKGVycjogdW5rbm93bikgewogICAgICBjb25zdCBpc092ZXJsb2FkZWQgPSBlcnIgaW5zdGFuY2VvZiBFcnJvciAmJiAoCiAgICAgICAgZXJyLm1lc3NhZ2UuaW5jbHVkZXMoJzUyOScpIHx8IGVyci5tZXNzYWdlLmluY2x1ZGVzKCdvdmVybG9hZGVkJykgfHwgZXJyLm1lc3NhZ2UuaW5jbHVkZXMoJ092ZXJsb2FkZWQnKQogICAgICApOwogICAgICBpZiAoaXNPdmVybG9hZGVkICYmIGF0dGVtcHQgPCBtYXhSZXRyaWVzKSB7CiAgICAgICAgYXdhaXQgbmV3IFByb21pc2UociA9PiBzZXRUaW1lb3V0KHIsIGRlbGF5KSk7CiAgICAgICAgZGVsYXkgPSBNYXRoLm1pbihkZWxheSAqIDIsIDYwMDAwKTsKICAgICAgICBjb250aW51ZTsKICAgICAgfQogICAgICB0aHJvdyBlcnI7CiAgICB9CiAgfQogIHRocm93IG5ldyBFcnJvcignQ2xhdWRlIEFQSSBzdGlsbCBvdmVybG9hZGVkIGFmdGVyIHJldHJpZXMnKTsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGdlbmVyYXRlUk1SZXBvcnQoCiAgcm1OYW1lOiBzdHJpbmcsCiAgc2Vzc2lvbkRhdGU6IHN0cmluZywKICBjYWxsczogQXJyYXk8ewogICAgY2FsbF9udW1iZXI6IG51bWJlcjsKICAgIGN1c3RvbWVyX25hbWU6IHN0cmluZyB8IG51bGw7CiAgICBwaG9uZTogc3RyaW5nIHwgbnVsbDsKICAgIGR1cmF0aW9uOiBzdHJpbmcgfCBudWxsOwogICAgZHVyYXRpb25fc2VjOiBudW1iZXIgfCBudWxsOwogICAgb3V0Y29tZTogc3RyaW5nIHwgbnVsbDsKICAgIHN1bW1hcnk6IHN0cmluZyB8IG51bGw7CiAgICBrZXl3b3Jkczogc3RyaW5nW10gfCBudWxsOwogICAgdG9waWNzOiBzdHJpbmdbXSB8IG51bGw7CiAgICBhY3Rpb25faXRlbXM6IEFycmF5PHsgcHJpb3JpdHk6IHN0cmluZzsgdGFzazogc3RyaW5nOyBvd25lcjogc3RyaW5nOyBkZWFkbGluZTogc3RyaW5nIH0+IHwgbnVsbDsKICAgIHNlbnRpbWVudDogeyBvdmVyYWxsOiBzdHJpbmc7IGFnZW50OiBzdHJpbmc7IGN1c3RvbWVyOiBzdHJpbmcgfSB8IG51bGw7CiAgICBzcGVha2VyX2JyZWFrZG93bjogeyBsYW5ndWFnZTogc3RyaW5nOyBhZ2VudF9wZXJjZW50YWdlOiBudW1iZXI7IGN1c3RvbWVyX3BlcmNlbnRhZ2U6IG51bWJlcjsgZGVzY3JpcHRpb246IHN0cmluZyB9IHwgbnVsbDsKICAgIGNvbXBsaWFuY2U6IHN0cmluZyB8IG51bGw7CiAgICBjYWxsX3F1YWxpdHk6IHN0cmluZyB8IG51bGw7CiAgICBhZ2VudF9wZXJmb3JtYW5jZTogc3RyaW5nIHwgbnVsbDsKICB9PgopOiBQcm9taXNlPHsgcmVwb3J0OiBSTVJlcG9ydDsgaW5wdXRfdG9rZW5zOiBudW1iZXI7IG91dHB1dF90b2tlbnM6IG51bWJlciB9PiB7CiAgY29uc3QgcHJvbXB0ID0gYFlvdSBhcmUgYW4gZXhwZXJ0IHNhbGVzIGFuYWx5dGljcyBhc3Npc3RhbnQuIEFuYWx5c2UgdGhlIGZvbGxvd2luZyBjYWxsIGRhdGEgZm9yIFJNICR7cm1OYW1lfSBvbiAke3Nlc3Npb25EYXRlfSBhbmQgcmV0dXJuIGEgSlNPTiBvYmplY3Qgd2l0aCBFWEFDVExZIHRoaXMgc3RydWN0dXJlIChyYXcgSlNPTiBvbmx5LCBubyBtYXJrZG93biBmZW5jZXMpOgoKewogICJvdmVydmlldyI6IHsKICAgICJ0b3RhbF9jYWxscyI6IDxudW1iZXI+LAogICAgInVuaXF1ZV9jdXN0b21lcnMiOiA8bnVtYmVyIC0gY291bnQgdW5pcXVlIHBob25lIG51bWJlcnM+LAogICAgInRvdGFsX3RhbGtfdGltZSI6ICI8ZS5nLiB+NzUgbWluPiIsCiAgICAicmVwX29uX2R1dHkiOiAiJHtybU5hbWV9IiwKICAgICJkZWFsc19kaXNjdXNzZWQiOiAiPGUuZy4gOSBjYWxscyAoMjAlKT4iCiAgfSwKICAib3V0Y29tZXMiOiBbCiAgICB7ICJvdXRjb21lIjogIjxvdXRjb21lIGxhYmVsPiIsICJjb3VudCI6IDxudW1iZXI+LCAicGVyY2VudGFnZSI6ICI8ZS5nLiAzOCU+IiB9CiAgXSwKICAiZGVhbHNfZGlzY3Vzc2VkIjogewogICAgIndpdGhfZGVhbHMiOiA8bnVtYmVyPiwKICAgICJ3aXRob3V0X2RlYWxzIjogPG51bWJlcj4sCiAgICAiZGVhbF9jYWxscyI6ICI8Y29tbWEtc2VwYXJhdGVkIGxpc3Qgb2YgY2FsbCBudW1iZXJzIHdoZXJlIGRlYWxzIHdlcmUgZGlzY3Vzc2VkLCBlLmcuICMyIChBZGFyc2ggSGlyZW1hdCksICMyMSAoTmFnYXJhaik+IgogIH0sCiAgImhpZ2hsaWdodHMiOiBbCiAgICB7CiAgICAgICJyYW5rIjogIjxCZXN0IENhbGwgLyBTZWNvbmQgQmVzdCAvIEV4aXN0aW5nIEludmVzdG9yIFJlc29sdmVkIC8gU3VwcG9ydCBSZXNvbHV0aW9uIC0gcGljayB0b3AgMy00IG1lYW5pbmdmdWwgY2FsbHM+IiwKICAgICAgImNhbGxfbnVtYmVyIjogPG51bWJlcj4sCiAgICAgICJjdXN0b21lcl9uYW1lIjogIjxuYW1lPiIsCiAgICAgICJwaG9uZSI6ICI8cGhvbmU+IiwKICAgICAgImR1cmF0aW9uIjogIjxlLmcuIDEwOjM1IG1pbj4iLAogICAgICAiZGVzY3JpcHRpb24iOiAiPDItMyBzZW50ZW5jZSBkZXNjcmlwdGlvbiBvZiB3aHkgdGhpcyBjYWxsIHN0YW5kcyBvdXQ+IgogICAgfQogIF0sCiAgImFjdGlvbl9pdGVtcyI6IFsKICAgIHsKICAgICAgInByaW9yaXR5IjogIkhJR0ggfCBNRURJVU0gfCBMT1ciLAogICAgICAiYWN0aW9uIjogIjxzcGVjaWZpYyBhY3Rpb24+IiwKICAgICAgIm93bmVyIjogIjxvd25lciBuYW1lIG9yIHRlYW0+IiwKICAgICAgImRlYWRsaW5lIjogIjxERC1Nb24+IgogICAgfQogIF0sCiAgImltcHJvdmVtZW50cyI6IFsKICAgIHsKICAgICAgInBvaW50IjogIjxzcGVjaWZpYyBpbXByb3ZlbWVudCBhcmVhPiIsCiAgICAgICJjYWxsX3JlZnMiOiBbCiAgICAgICAgeyAiY2FsbF9udW1iZXIiOiA8bnVtYmVyPiwgImN1c3RvbWVyX25hbWUiOiAiPG5hbWUgb3IgbnVsbD4iLCAicGhvbmUiOiAiPHBob25lIG9yIG51bGw+IiB9CiAgICAgIF0KICAgIH0KICBdLAogICJhZ2VudF9wZXJmb3JtYW5jZSI6IHsKICAgICJhZ2VudCI6ICIke3JtTmFtZX0iLAogICAgInRvdGFsX2NhbGxzIjogPG51bWJlcj4sCiAgICAiZm9sbG93X3VwcyI6IDxudW1iZXIgLSBjYWxscyB3aXRoIGZvbGxvd191cF9zY2hlZHVsZWQgb3V0Y29tZT4sCiAgICAiYXZnX3BlcmZvcm1hbmNlIjogIk4vQSIsCiAgICAiYmVzdF9jYWxsIjogIjxjdXN0b21lciBuYW1lIOKAlCBkdXJhdGlvbj4iLAogICAgInN1bW1hcnkiOiAiPDItMyBzZW50ZW5jZSBwZXJmb3JtYW5jZSBzdW1tYXJ5LiBNZW50aW9uIGhvdyBtYW55IGNhbGxzIHdlcmUgZXhjbHVkZWQgZnJvbSBzY29yaW5nIGR1ZSB0byBnYXRlIGNvbmRpdGlvbnMgKHNob3J0L2xvdy1xdWFsaXR5IGNhbGxzKS4+IgogIH0sCiAgInByb2R1Y3RzIjogWwogICAgeyAiYm9uZF9pc3N1ZXIiOiAiPG5hbWU+IiwgInlpZWxkIjogIjxlLmcuIDE1LjUlPiIsICJjb250ZXh0IjogIjxlLmcuIEhpZ2ggWWllbGQgLyBFeGlzdGluZyBpbnZlc3RtZW50PiIgfQogIF0sCiAgImxhbmd1YWdlcyI6IFsKICAgIHsgImxhbmd1YWdlIjogIjxsYW5ndWFnZT4iLCAiY2FsbHMiOiA8bnVtYmVyPiwgInBlcmNlbnRhZ2UiOiAiPGUuZy4gNjIlPiIgfQogIF0KfQoKQ0FMTCBEQVRBICgke2NhbGxzLmxlbmd0aH0gY2FsbHMpOgoke0pTT04uc3RyaW5naWZ5KGNhbGxzLCBudWxsLCAyKX1gOwoKICBjb25zdCBtZXNzYWdlID0gYXdhaXQgY3JlYXRlV2l0aFJldHJ5KHsKICAgIG1vZGVsOiAnY2xhdWRlLXNvbm5ldC00LTYnLAogICAgbWF4X3Rva2VuczogNDA5NiwKICAgIG1lc3NhZ2VzOiBbeyByb2xlOiAndXNlcicsIGNvbnRlbnQ6IHByb21wdCB9XSwKICB9KTsKCiAgY29uc3QgdGV4dCA9IG1lc3NhZ2UuY29udGVudFswXS50eXBlID09PSAndGV4dCcgPyBtZXNzYWdlLmNvbnRlbnRbMF0udGV4dCA6ICcnOwogIGNvbnN0IGNsZWFuZWQgPSB0ZXh0LnJlcGxhY2UoL15gYGAoPzpqc29uKT9cbj8vaSwgJycpLnJlcGxhY2UoL1xuP2BgYCQvaSwgJycpLnRyaW0oKTsKCiAgLy8gRXNjYXBlIGxpdGVyYWwgbmV3bGluZXMgaW5zaWRlIEpTT04gc3RyaW5nIHZhbHVlcyAoY29tbW9uIGluIEhpbmRpL0hpbmdsaXNoIHN1bW1hcmllcykuCiAgLy8gVHJhY2sgc3RyaW5nIHN0YXRlIHNvIHdlIG9ubHkgZXNjYXBlIGluc2lkZSBzdHJpbmdzLCBub3Qgc3RydWN0dXJhbCB3aGl0ZXNwYWNlLgogIGxldCBzYW5pdGlzZWQgPSAnJzsKICBsZXQgaW5TdHJpbmcgPSBmYWxzZSwgZXNjYXBlZCA9IGZhbHNlOwogIGZvciAoY29uc3QgY2ggb2YgY2xlYW5lZCkgewogICAgaWYgKGVzY2FwZWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsgc2FuaXRpc2VkICs9IGNoOyBlc2NhcGVkID0gZmFsc2U7IGNvbnRpbnVlOyB9CiAgICBpZiAoY2ggPT09ICdcXCcpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeyBzYW5pdGlzZWQgKz0gY2g7IGVzY2FwZWQgPSB0cnVlOyAgY29udGludWU7IH0KICAgIGlmIChjaCA9PT0gJyInKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7IGluU3RyaW5nID0gIWluU3RyaW5nOyBzYW5pdGlzZWQgKz0gY2g7IGNvbnRpbnVlOyB9CiAgICBpZiAoaW5TdHJpbmcgJiYgKGNoID09PSAnXG4nIHx8IGNoID09PSAnXHInKSkgeyBzYW5pdGlzZWQgKz0gJ1xcbic7IGNvbnRpbnVlOyB9CiAgICBzYW5pdGlzZWQgKz0gY2g7CiAgfQogIHNhbml0aXNlZCA9IHNhbml0aXNlZC5yZXBsYWNlKC8sKFxzKlt9XF1dKS9nLCAnJDEnKTsgLy8gc3RyaXAgdHJhaWxpbmcgY29tbWFzCgogIGxldCBwYXJzZWQ6IFJNUmVwb3J0OwogIHRyeSB7CiAgICBwYXJzZWQgPSBKU09OLnBhcnNlKHNhbml0aXNlZCkgYXMgUk1SZXBvcnQ7CiAgfSBjYXRjaCB7CiAgICAvLyBMYXN0IHJlc29ydDogZXh0cmFjdCBKU09OIGJsb2NrIGJldHdlZW4gZmlyc3QgeyBhbmQgbGFzdCB9CiAgICBjb25zdCBzdGFydCA9IHNhbml0aXNlZC5pbmRleE9mKCd7Jyk7CiAgICBjb25zdCBlbmQgICA9IHNhbml0aXNlZC5sYXN0SW5kZXhPZignfScpOwogICAgaWYgKHN0YXJ0ID09PSAtMSB8fCBlbmQgPT09IC0xKSB0aHJvdyBuZXcgRXJyb3IoJ0NvdWxkIG5vdCBleHRyYWN0IEpTT04gZnJvbSBDbGF1ZGUgUk0gcmVwb3J0IHJlc3BvbnNlJyk7CiAgICBwYXJzZWQgPSBKU09OLnBhcnNlKHNhbml0aXNlZC5zbGljZShzdGFydCwgZW5kICsgMSkpIGFzIFJNUmVwb3J0OwogIH0KCiAgcmV0dXJuIHsKICAgIHJlcG9ydDogICAgICAgIHBhcnNlZCwKICAgIGlucHV0X3Rva2VuczogIG1lc3NhZ2UudXNhZ2UuaW5wdXRfdG9rZW5zLAogICAgb3V0cHV0X3Rva2VuczogbWVzc2FnZS51c2FnZS5vdXRwdXRfdG9rZW5zLAogIH07Cn0K"}
+import Anthropic from '@anthropic-ai/sdk';
+import type { RMReport } from '@/types';
+
+function getClaude() {
+  return new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY! });
+}
+
+async function createWithRetry(params: Parameters<ReturnType<typeof getClaude>['messages']['create']>[0], maxRetries = 4): Promise<Anthropic.Message> {
+  let delay = 8000;
+  for (let attempt = 0; attempt <= maxRetries; attempt++) {
+    try {
+      return await getClaude().messages.create(params) as Anthropic.Message;
+    } catch (err: unknown) {
+      const isOverloaded = err instanceof Error && (
+        err.message.includes('529') || err.message.includes('overloaded') || err.message.includes('Overloaded')
+      );
+      if (isOverloaded && attempt < maxRetries) {
+        await new Promise(r => setTimeout(r, delay));
+        delay = Math.min(delay * 2, 60000);
+        continue;
+      }
+      throw err;
+    }
+  }
+  throw new Error('Claude API still overloaded after retries');
+}
+
+export async function generateRMReport(
+  rmName: string,
+  sessionDate: string,
+  calls: Array<{
+    call_number: number;
+    customer_name: string | null;
+    phone: string | null;
+    duration: string | null;
+    duration_sec: number | null;
+    outcome: string | null;
+    summary: string | null;
+    keywords: string[] | null;
+    topics: string[] | null;
+    action_items: Array<{ priority: string; task: string; owner: string; deadline: string }> | null;
+    sentiment: { overall: string; agent: string; customer: string } | null;
+    speaker_breakdown: { language: string; agent_percentage: number; customer_percentage: number; description: string } | null;
+    compliance: string | null;
+    call_quality: string | null;
+    agent_performance: string | null;
+  }>
+): Promise<{ report: RMReport; input_tokens: number; output_tokens: number }> {
+  const prompt = `You are an expert sales analytics assistant. Analyse the following call data for RM ${rmName} on ${sessionDate} and return a JSON object with EXACTLY this structure (raw JSON only, no markdown fences):
+
+{
+  "overview": {
+    "total_calls": <number>,
+    "unique_customers": <number - count unique phone numbers>,
+    "total_talk_time": "<e.g. ~75 min>",
+    "rep_on_duty": "${rmName}",
+    "deals_discussed": "<e.g. 9 calls (20%)>"
+  },
+  "outcomes": [
+    { "outcome": "<outcome label>", "count": <number>, "percentage": "<e.g. 38%>" }
+  ],
+  "deals_discussed": {
+    "with_deals": <number>,
+    "without_deals": <number>,
+    "deal_calls": "<comma-separated list of call numbers where deals were discussed, e.g. #2 (Adarsh Hiremat), #21 (Nagaraj)>"
+  },
+  "highlights": [
+    {
+      "rank": "<Best Call / Second Best / Existing Investor Resolved / Support Resolution - pick top 3-4 meaningful calls>",
+      "call_number": <number>,
+      "customer_name": "<name>",
+      "phone": "<phone>",
+      "duration": "<e.g. 10:35 min>",
+      "description": "<2-3 sentence description of why this call stands out>"
+    }
+  ],
+  "action_items": [
+    {
+      "priority": "HIGH | MEDIUM | LOW",
+      "action": "<specific action>",
+      "owner": "<owner name or team>",
+      "deadline": "<DD-Mon>"
+    }
+  ],
+  "improvements": [
+    {
+      "point": "<specific improvement area>",
+      "call_refs": [
+        { "call_number": <number>, "customer_name": "<name or null>", "phone": "<phone or null>" }
+      ]
+    }
+  ],
+  "agent_performance": {
+    "agent": "${rmName}",
+    "total_calls": <number>,
+    "follow_ups": <number - calls with follow_up_scheduled outcome>,
+    "avg_performance": "N/A",
+    "best_call": "<customer name — duration>",
+    "summary": "<2-3 sentence performance summary. Mention how many calls were excluded from scoring due to gate conditions (short/low-quality calls).>"
+  },
+  "products": [
+    { "bond_issuer": "<name>", "yield": "<e.g. 15.5%>", "context": "<e.g. High Yield / Existing investment>" }
+  ],
+  "languages": [
+    { "language": "<language>", "calls": <number>, "percentage": "<e.g. 62%>" }
+  ]
+}
+
+CALL DATA (${calls.length} calls):
+${JSON.stringify(calls, null, 2)}`;
+
+  const message = await createWithRetry({
+    model: 'claude-sonnet-4-6',
+    max_tokens: 4096,
+    messages: [{ role: 'user', content: prompt }],
+  });
+
+  const text = message.content[0].type === 'text' ? message.content[0].text : '';
+  const cleaned = text.replace(/^```(?:json)?\n?/i, '').replace(/\n?```$/i, '').trim();
+
+  // Escape literal newlines inside JSON string values (common in Hindi/Hinglish summaries).
+  // Track string state so we only escape inside strings, not structural whitespace.
+  let sanitised = '';
+  let inString = false, escaped = false;
+  for (const ch of cleaned) {
+    if (escaped)                                  { sanitised += ch; escaped = false; continue; }
+    if (ch === '\\')                              { sanitised += ch; escaped = true;  continue; }
+    if (ch === '"')                               { inString = !inString; sanitised += ch; continue; }
+    if (inString && (ch === '\n' || ch === '\r')) { sanitised += '\\n'; continue; }
+    sanitised += ch;
+  }
+  sanitised = sanitised.replace(/,(\s*[}\]])/g, '$1'); // strip trailing commas
+
+  let parsed: RMReport;
+  try {
+    parsed = JSON.parse(sanitised) as RMReport;
+  } catch {
+    // Last resort: extract JSON block between first { and last }
+    const start = sanitised.indexOf('{');
+    const end   = sanitised.lastIndexOf('}');
+    if (start === -1 || end === -1) throw new Error('Could not extract JSON from Claude RM report response');
+    parsed = JSON.parse(sanitised.slice(start, end + 1)) as RMReport;
+  }
+
+  return {
+    report:        parsed,
+    input_tokens:  message.usage.input_tokens,
+    output_tokens: message.usage.output_tokens,
+  };
+}

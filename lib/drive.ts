@@ -1,1 +1,44 @@
-{"data":"Y29uc3QgQVVESU9fTUlNRV9UWVBFUyA9IFsKICAnYXVkaW8vbXBlZycsICdhdWRpby9tcDQnLCAnYXVkaW8vd2F2JywgJ2F1ZGlvL3dlYm0nLAogICdhdWRpby9vZ2cnLCAnYXVkaW8veC1tNGEnLCAndmlkZW8vbXA0JywgJ3ZpZGVvL3dlYm0nLApdOwoKZXhwb3J0IGZ1bmN0aW9uIHBhcnNlRm9sZGVySWRGcm9tVXJsKHVybDogc3RyaW5nKTogc3RyaW5nIHsKICAvLyBIYW5kbGVzOiAvZm9sZGVycy9GT0xERVJfSUQgYW5kIC9kcml2ZS9mb2xkZXJzL0ZPTERFUl9JRD8uLi4KICBjb25zdCBtYXRjaCA9IHVybC5tYXRjaCgvXC9mb2xkZXJzXC8oW2EtekEtWjAtOV8tXSspLyk7CiAgaWYgKCFtYXRjaCkgdGhyb3cgbmV3IEVycm9yKCdDb3VsZCBub3QgcGFyc2UgZm9sZGVyIElEIGZyb20gVVJMLiBNYWtlIHN1cmUgaXQgaXMgYSB2YWxpZCBHb29nbGUgRHJpdmUgZm9sZGVyIGxpbmsuJyk7CiAgcmV0dXJuIG1hdGNoWzFdOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gbGlzdERyaXZlRmlsZXMoZm9sZGVySWQ6IHN0cmluZyk6IFByb21pc2U8aW1wb3J0KCdAL3R5cGVzJykuRHJpdmVGaWxlW10+IHsKICBjb25zdCBhcGlLZXkgPSBwcm9jZXNzLmVudi5HT09HTEVfQVBJX0tFWSE7CiAgY29uc3QgYWxsRmlsZXM6IGltcG9ydCgnQC90eXBlcycpLkRyaXZlRmlsZVtdID0gW107CiAgbGV0IHBhZ2VUb2tlbjogc3RyaW5nIHwgdW5kZWZpbmVkOwoKICBkbyB7CiAgICBjb25zdCBwYXJhbXMgPSBuZXcgVVJMU2VhcmNoUGFyYW1zKHsKICAgICAgcTogICAgICAgICBgJyR7Zm9sZGVySWR9JyBpbiBwYXJlbnRzYCwKICAgICAgZmllbGRzOiAgICAnbmV4dFBhZ2VUb2tlbixmaWxlcyhpZCxuYW1lLG1pbWVUeXBlLG93bmVycyknLAogICAgICBrZXk6ICAgICAgIGFwaUtleSwKICAgICAgcGFnZVNpemU6ICAnMTAwMCcsCiAgICAgIC4uLihwYWdlVG9rZW4gPyB7IHBhZ2VUb2tlbiB9IDoge30pLAogICAgfSk7CiAgICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChgaHR0cHM6Ly93d3cuZ29vZ2xlYXBpcy5jb20vZHJpdmUvdjMvZmlsZXM/JHtwYXJhbXN9YCk7CiAgICBpZiAoIXJlcy5vaykgewogICAgICBjb25zdCBlcnIgPSBhd2FpdCByZXMudGV4dCgpOwogICAgICB0aHJvdyBuZXcgRXJyb3IoYERyaXZlIEFQSSBlcnJvcjogJHtlcnJ9YCk7CiAgICB9CiAgICBjb25zdCBkYXRhID0gYXdhaXQgcmVzLmpzb24oKTsKICAgIGNvbnN0IHBhZ2U6IGltcG9ydCgnQC90eXBlcycpLkRyaXZlRmlsZVtdID0gKGRhdGEuZmlsZXMgPz8gW10pLmZpbHRlcigKICAgICAgKGY6IGltcG9ydCgnQC90eXBlcycpLkRyaXZlRmlsZSkgPT4gQVVESU9fTUlNRV9UWVBFUy5pbmNsdWRlcyhmLm1pbWVUeXBlKQogICAgKTsKICAgIGFsbEZpbGVzLnB1c2goLi4ucGFnZSk7CiAgICBwYWdlVG9rZW4gPSBkYXRhLm5leHRQYWdlVG9rZW47CiAgfSB3aGlsZSAocGFnZVRva2VuKTsKCiAgcmV0dXJuIGFsbEZpbGVzOwp9CgpleHBvcnQgZnVuY3Rpb24gZ2V0RHJpdmVEb3dubG9hZFVybChmaWxlSWQ6IHN0cmluZyk6IHN0cmluZyB7CiAgcmV0dXJuIGBodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9kcml2ZS92My9maWxlcy8ke2ZpbGVJZH0/YWx0PW1lZGlhJmtleT0ke3Byb2Nlc3MuZW52LkdPT0dMRV9BUElfS0VZfWA7Cn0K"}
+const AUDIO_MIME_TYPES = [
+  'audio/mpeg', 'audio/mp4', 'audio/wav', 'audio/webm',
+  'audio/ogg', 'audio/x-m4a', 'video/mp4', 'video/webm',
+];
+
+export function parseFolderIdFromUrl(url: string): string {
+  // Handles: /folders/FOLDER_ID and /drive/folders/FOLDER_ID?...
+  const match = url.match(/\/folders\/([a-zA-Z0-9_-]+)/);
+  if (!match) throw new Error('Could not parse folder ID from URL. Make sure it is a valid Google Drive folder link.');
+  return match[1];
+}
+
+export async function listDriveFiles(folderId: string): Promise<import('@/types').DriveFile[]> {
+  const apiKey = process.env.GOOGLE_API_KEY!;
+  const allFiles: import('@/types').DriveFile[] = [];
+  let pageToken: string | undefined;
+
+  do {
+    const params = new URLSearchParams({
+      q:         `'${folderId}' in parents`,
+      fields:    'nextPageToken,files(id,name,mimeType,owners)',
+      key:       apiKey,
+      pageSize:  '1000',
+      ...(pageToken ? { pageToken } : {}),
+    });
+    const res = await fetch(`https://www.googleapis.com/drive/v3/files?${params}`);
+    if (!res.ok) {
+      const err = await res.text();
+      throw new Error(`Drive API error: ${err}`);
+    }
+    const data = await res.json();
+    const page: import('@/types').DriveFile[] = (data.files ?? []).filter(
+      (f: import('@/types').DriveFile) => AUDIO_MIME_TYPES.includes(f.mimeType)
+    );
+    allFiles.push(...page);
+    pageToken = data.nextPageToken;
+  } while (pageToken);
+
+  return allFiles;
+}
+
+export function getDriveDownloadUrl(fileId: string): string {
+  return `https://www.googleapis.com/drive/v3/files/${fileId}?alt=media&key=${process.env.GOOGLE_API_KEY}`;
+}

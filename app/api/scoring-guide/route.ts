@@ -1,1 +1,135 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlc3BvbnNlIH0gZnJvbSAnbmV4dC9zZXJ2ZXInOwoKY29uc3QgSFRNTCA9IGA8IURPQ1RZUEUgaHRtbD4KPGh0bWwgbGFuZz0iZW4iPgo8aGVhZD4KPG1ldGEgY2hhcnNldD0iVVRGLTgiIC8+CjxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MS4wIiAvPgo8dGl0bGU+Q2FsbCBTY29yaW5nIE1ldGhvZG9sb2d5IOKAlCBCb25kU2Nhbm5lcjwvdGl0bGU+CjxzdHlsZT4KICAqIHsgYm94LXNpemluZzogYm9yZGVyLWJveDsgbWFyZ2luOiAwOyBwYWRkaW5nOiAwOyB9CiAgYm9keSB7IGZvbnQtZmFtaWx5OiAnU2Vnb2UgVUknLCBBcmlhbCwgc2Fucy1zZXJpZjsgYmFja2dyb3VuZDogI2Y4ZmFmYzsgY29sb3I6ICMxZTI5M2I7IHBhZGRpbmc6IDQ4cHggMzJweDsgfQogIC5wYWdlIHsgbWF4LXdpZHRoOiA4NjBweDsgbWFyZ2luOiAwIGF1dG87IGJhY2tncm91bmQ6ICNmZmY7IGJvcmRlci1yYWRpdXM6IDEycHg7IGJveC1zaGFkb3c6IDAgNHB4IDI0cHggcmdiYSgwLDAsMCwwLjA4KTsgb3ZlcmZsb3c6IGhpZGRlbjsgfQogIC5oZWFkZXIgeyBiYWNrZ3JvdW5kOiAjMGYxNzJhOyBjb2xvcjogI2YxZjVmOTsgcGFkZGluZzogMzJweCA0MHB4OyB9CiAgLmhlYWRlciBoMSB7IGZvbnQtc2l6ZTogMjRweDsgZm9udC13ZWlnaHQ6IDcwMDsgbWFyZ2luLWJvdHRvbTogNnB4OyB9CiAgLmhlYWRlciBwICB7IGZvbnQtc2l6ZTogMTNweDsgY29sb3I6ICM3ZTk1Yjg7IH0KICAuYm9keSB7IHBhZGRpbmc6IDQwcHg7IH0KICBoMiB7IGZvbnQtc2l6ZTogMTZweDsgZm9udC13ZWlnaHQ6IDcwMDsgY29sb3I6ICMwZjE3MmE7IG1hcmdpbjogMzJweCAwIDE0cHg7IHBhZGRpbmctYm90dG9tOiA4cHg7IGJvcmRlci1ib3R0b206IDJweCBzb2xpZCAjZTJlOGYwOyB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOyBsZXR0ZXItc3BhY2luZzogMC41cHg7IH0KICBoMjpmaXJzdC1vZi10eXBlIHsgbWFyZ2luLXRvcDogMDsgfQogIHAgIHsgZm9udC1zaXplOiAxNHB4OyBsaW5lLWhlaWdodDogMS43OyBjb2xvcjogIzMzNDE1NTsgbWFyZ2luLWJvdHRvbTogMTJweDsgfQogIC5nYXRlLWJveCB7IGJhY2tncm91bmQ6ICNmZWY5ZWM7IGJvcmRlcjogMXB4IHNvbGlkICNmY2QzNGQ7IGJvcmRlci1sZWZ0OiA0cHggc29saWQgI2Y1OWUwYjsgYm9yZGVyLXJhZGl1czogOHB4OyBwYWRkaW5nOiAxNnB4IDIwcHg7IG1hcmdpbi1ib3R0b206IDIwcHg7IH0KICAuZ2F0ZS1ib3ggaDMgeyBmb250LXNpemU6IDEzcHg7IGZvbnQtd2VpZ2h0OiA3MDA7IGNvbG9yOiAjOTI0MDBlOyBtYXJnaW4tYm90dG9tOiA4cHg7IHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7IGxldHRlci1zcGFjaW5nOiAwLjRweDsgfQogIC5nYXRlLWJveCBwICB7IGZvbnQtc2l6ZTogMTNweDsgY29sb3I6ICM3ODM1MGY7IG1hcmdpbjogMDsgfQogIHRhYmxlIHsgd2lkdGg6IDEwMCU7IGJvcmRlci1jb2xsYXBzZTogY29sbGFwc2U7IGZvbnQtc2l6ZTogMTNweDsgbWFyZ2luLWJvdHRvbTogMjRweDsgfQogIHRoZWFkIHRyIHsgYmFja2dyb3VuZDogIzBmMTcyYTsgY29sb3I6ICNmMWY1Zjk7IH0KICB0aGVhZCB0aCB7IHBhZGRpbmc6IDEwcHggMTRweDsgdGV4dC1hbGlnbjogbGVmdDsgZm9udC13ZWlnaHQ6IDYwMDsgZm9udC1zaXplOiAxMXB4OyB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOyBsZXR0ZXItc3BhY2luZzogMC41cHg7IH0KICB0Ym9keSB0cjpudGgtY2hpbGQoZXZlbikgeyBiYWNrZ3JvdW5kOiAjZjhmYWZjOyB9CiAgdGJvZHkgdGQgeyBwYWRkaW5nOiAxMHB4IDE0cHg7IGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjZTJlOGYwOyB2ZXJ0aWNhbC1hbGlnbjogdG9wOyB9CiAgLnB0cyB7IGZvbnQtd2VpZ2h0OiA3MDA7IGNvbG9yOiAjMjU2M2ViOyB3aGl0ZS1zcGFjZTogbm93cmFwOyB9CiAgLnNjb3JlLWJhbmQgeyBkaXNwbGF5OiBmbGV4OyBnYXA6IDEwcHg7IGZsZXgtd3JhcDogd3JhcDsgbWFyZ2luLWJvdHRvbTogMjBweDsgfQogIC5iYW5kIHsgZmxleDogMTsgbWluLXdpZHRoOiAxNDBweDsgYm9yZGVyLXJhZGl1czogOHB4OyBwYWRkaW5nOiAxMnB4IDE2cHg7IHRleHQtYWxpZ246IGNlbnRlcjsgfQogIC5iYW5kIC5yYW5nZSB7IGZvbnQtc2l6ZTogMThweDsgZm9udC13ZWlnaHQ6IDcwMDsgfQogIC5iYW5kIC5sYWJlbCB7IGZvbnQtc2l6ZTogMTJweDsgbWFyZ2luLXRvcDogM3B4OyB9CiAgLmJhbmQtbG93ICB7IGJhY2tncm91bmQ6ICNmZWYyZjI7IGJvcmRlcjogMXB4IHNvbGlkICNmZWNhY2E7IGNvbG9yOiAjZGMyNjI2OyB9CiAgLmJhbmQtbWlkICB7IGJhY2tncm91bmQ6ICNmZmZiZWI7IGJvcmRlcjogMXB4IHNvbGlkICNmZGU2OGE7IGNvbG9yOiAjZDk3NzA2OyB9CiAgLmJhbmQtZ29vZCB7IGJhY2tncm91bmQ6ICNmMGZkZjQ7IGJvcmRlcjogMXB4IHNvbGlkICNiYmY3ZDA7IGNvbG9yOiAjMTZhMzRhOyB9CiAgLmJhbmQtZXhjICB7IGJhY2tncm91bmQ6ICNlZmY2ZmY7IGJvcmRlcjogMXB4IHNvbGlkICNiZmRiZmU7IGNvbG9yOiAjMjU2M2ViOyB9CiAgLmZsb3cgeyBkaXNwbGF5OiBmbGV4OyBmbGV4LWRpcmVjdGlvbjogY29sdW1uOyBnYXA6IDRweDsgbWFyZ2luLWJvdHRvbTogMjBweDsgfQogIC5mbG93LXN0ZXAgeyBkaXNwbGF5OiBmbGV4OyBhbGlnbi1pdGVtczogZmxleC1zdGFydDsgZ2FwOiAxMnB4OyBwYWRkaW5nOiAxMHB4IDE0cHg7IGJvcmRlci1yYWRpdXM6IDhweDsgZm9udC1zaXplOiAxM3B4OyB9CiAgLmZsb3ctc3RlcC5wYXNzIHsgYmFja2dyb3VuZDogI2YwZmRmNDsgYm9yZGVyOiAxcHggc29saWQgI2JiZjdkMDsgY29sb3I6ICMxNTgwM2Q7IH0KICAuZmxvdy1zdGVwLmZhaWwgeyBiYWNrZ3JvdW5kOiAjZmVmMmYyOyBib3JkZXI6IDFweCBzb2xpZCAjZmVjYWNhOyBjb2xvcjogI2I5MWMxYzsgfQogIC5mbG93LXN0ZXAubmV1dHJhbCB7IGJhY2tncm91bmQ6ICNmOGZhZmM7IGJvcmRlcjogMXB4IHNvbGlkICNlMmU4ZjA7IGNvbG9yOiAjMzM0MTU1OyB9CiAgLmZsb3ctc3RlcCAuaWNvbiB7IGZvbnQtc2l6ZTogMTZweDsgZmxleC1zaHJpbms6IDA7IH0KICAuZm9vdGVyIHsgbWFyZ2luLXRvcDogNDBweDsgcGFkZGluZy10b3A6IDIwcHg7IGJvcmRlci10b3A6IDFweCBzb2xpZCAjZTJlOGYwOyBmb250LXNpemU6IDExcHg7IGNvbG9yOiAjOTRhM2I4OyBkaXNwbGF5OiBmbGV4OyBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW47IH0KICBAbWVkaWEgcHJpbnQgeyBib2R5IHsgcGFkZGluZzogMDsgYmFja2dyb3VuZDogI2ZmZjsgfSAucGFnZSB7IGJveC1zaGFkb3c6IG5vbmU7IGJvcmRlci1yYWRpdXM6IDA7IH0gfQo8L3N0eWxlPgo8L2hlYWQ+Cjxib2R5Pgo8ZGl2IGNsYXNzPSJwYWdlIj4KICA8ZGl2IGNsYXNzPSJoZWFkZXIiPgogICAgPGgxPkNhbGwgU2NvcmluZyBNZXRob2RvbG9neTwvaDE+CiAgICA8cD5Cb25kU2Nhbm5lciDCtyBTaWdudXAgQ2FsbCBBbmFseXNpcyDCtyBWZXJzaW9uIDEuMCDCtyAke25ldyBEYXRlKCkudG9Mb2NhbGVEYXRlU3RyaW5nKCdlbi1HQicsIHsgZGF5OiAnMi1kaWdpdCcsIG1vbnRoOiAnbG9uZycsIHllYXI6ICdudW1lcmljJyB9KX08L3A+CiAgPC9kaXY+CgogIDxkaXYgY2xhc3M9ImJvZHkiPgoKICAgIDxoMj5PdmVydmlldzwvaDI+CiAgICA8cD5FdmVyeSBjYWxsIHByb2Nlc3NlZCB0aHJvdWdoIHRoZSBzeXN0ZW0gaXMgYXV0b21hdGljYWxseSBzY29yZWQgb24gdHdvIGRpbWVuc2lvbnM6IDxzdHJvbmc+Q2FsbCBRdWFsaXR5PC9zdHJvbmc+IGFuZCA8c3Ryb25nPkFnZW50IFBlcmZvcm1hbmNlPC9zdHJvbmc+LiBTY29yaW5nIHVzZXMgYSBzdHJ1Y3R1cmVkIHJ1YnJpYyBhbmQgYXBwbGllcyBnYXRlIGNvbmRpdGlvbnMgdG8gZW5zdXJlIG1lYW5pbmdsZXNzIGNhbGxzICh0b28gc2hvcnQsIHNpbGVudCwgb3IgbG93LXF1YWxpdHkpIGRvIG5vdCBwb2xsdXRlIHRoZSBSTSdzIGF2ZXJhZ2Ugc2NvcmUuPC9wPgoKICAgIDxoMj5HYXRlIENvbmRpdGlvbnM8L2gyPgoKICAgIDxkaXYgY2xhc3M9ImdhdGUtYm94Ij4KICAgICAgPGgzPkdhdGUgMSDigJQgRHVyYXRpb24gJmFtcDsgQ29udGVudCBDaGVjazwvaDM+CiAgICAgIDxwPklmIGNhbGwgZHVyYXRpb24gaXMgPHN0cm9uZz5sZXNzIHRoYW4gNjAgc2Vjb25kczwvc3Ryb25nPiwgT1IgdGhlIHRyYW5zY3JpcHQgc2hvd3Mgbm8gcmVhbCBjb252ZXJzYXRpb24gKHNpbGVudCByZWNvcmRpbmcsIHdyb25nIG51bWJlciwgc2luZ2xlLXdvcmQgZXhjaGFuZ2UpIOKGkiA8c3Ryb25nPkNhbGwgUXVhbGl0eSA9IE4vQSwgQWdlbnQgUGVyZm9ybWFuY2UgPSBOL0E8L3N0cm9uZz4uIENhbGwgaXMgZXhjbHVkZWQgZnJvbSBhbGwgYXZlcmFnZXMuPC9wPgogICAgPC9kaXY+CgogICAgPGRpdiBjbGFzcz0iZ2F0ZS1ib3giPgogICAgICA8aDM+R2F0ZSAyIOKAlCBRdWFsaXR5IFRocmVzaG9sZDwvaDM+CiAgICAgIDxwPkFmdGVyIHNjb3JpbmcgQ2FsbCBRdWFsaXR5LCBpZiB0aGUgc2NvcmUgaXMgPHN0cm9uZz5iZWxvdyA0LzEwPC9zdHJvbmc+IOKGkiA8c3Ryb25nPkFnZW50IFBlcmZvcm1hbmNlID0gTi9BPC9zdHJvbmc+LiBUaGVyZSBpcyBub3QgZW5vdWdoIHN1YnN0YW5jZSBpbiB0aGUgY2FsbCB0byBmYWlybHkgZXZhbHVhdGUgd2hhdCB0aGUgYWdlbnQgZGlkLiBPbmx5IGNhbGxzIHdpdGggQ2FsbCBRdWFsaXR5IOKJpSA0LzEwIHJlY2VpdmUgYW4gQWdlbnQgUGVyZm9ybWFuY2Ugc2NvcmUuPC9wPgogICAgPC9kaXY+CgogICAgPGRpdiBjbGFzcz0iZmxvdyI+CiAgICAgIDxkaXYgY2xhc3M9ImZsb3ctc3RlcCBuZXV0cmFsIj48c3BhbiBjbGFzcz0iaWNvbiI+4pa2PC9zcGFuPjxzcGFuPjxzdHJvbmc+Q2FsbCBhcnJpdmVzPC9zdHJvbmc+IOKAlCB0cmFuc2NyaWJlZCAmYW1wOyBkdXJhdGlvbiBtZWFzdXJlZDwvc3Bhbj48L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iZmxvdy1zdGVwIGZhaWwiPjxzcGFuIGNsYXNzPSJpY29uIj7inJc8L3NwYW4+PHNwYW4+PHN0cm9uZz5EdXJhdGlvbiAmbHQ7IDYwcyBvciBubyByZWFsIGNvbnRlbnQ8L3N0cm9uZz4g4oaSIENhbGwgUXVhbGl0eSA9IE4vQSwgQWdlbnQgUGVyZm9ybWFuY2UgPSBOL0EgKEdhdGUgMSk8L3NwYW4+PC9kaXY+CiAgICAgIDxkaXYgY2xhc3M9ImZsb3ctc3RlcCBwYXNzIj48c3BhbiBjbGFzcz0iaWNvbiI+4pyTPC9zcGFuPjxzcGFuPjxzdHJvbmc+RHVyYXRpb24g4omlIDYwcyAmYW1wOyByZWFsIGNvbnZlcnNhdGlvbjwvc3Ryb25nPiDihpIgU2NvcmUgQ2FsbCBRdWFsaXR5IHVzaW5nIHJ1YnJpYyBiZWxvdzwvc3Bhbj48L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iZmxvdy1zdGVwIGZhaWwiPjxzcGFuIGNsYXNzPSJpY29uIj7inJc8L3NwYW4+PHNwYW4+PHN0cm9uZz5DYWxsIFF1YWxpdHkgJmx0OyA0LzEwPC9zdHJvbmc+IOKGkiBBZ2VudCBQZXJmb3JtYW5jZSA9IE4vQSAoR2F0ZSAyKTwvc3Bhbj48L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iZmxvdy1zdGVwIHBhc3MiPjxzcGFuIGNsYXNzPSJpY29uIj7inJM8L3NwYW4+PHNwYW4+PHN0cm9uZz5DYWxsIFF1YWxpdHkg4omlIDQvMTA8L3N0cm9uZz4g4oaSIFNjb3JlIEFnZW50IFBlcmZvcm1hbmNlIHVzaW5nIHJ1YnJpYyBiZWxvdzwvc3Bhbj48L2Rpdj4KICAgIDwvZGl2PgoKICAgIDxoMj5DYWxsIFF1YWxpdHkgUnVicmljIChvdXQgb2YgMTApPC9oMj4KICAgIDxwPk1lYXN1cmVzIHRoZSA8ZW0+cXVhbGl0eSBvZiB0aGUgY29udmVyc2F0aW9uIGl0c2VsZjwvZW0+IOKAlCBpbmRlcGVuZGVudCBvZiBob3cgdGhlIGFnZW50IHBlcmZvcm1lZC48L3A+CiAgICA8dGFibGU+CiAgICAgIDx0aGVhZD48dHI+PHRoPkNyaXRlcmlvbjwvdGg+PHRoPlBvaW50czwvdGg+PHRoPldoYXQgaXMgZXZhbHVhdGVkPC90aD48L3RyPjwvdGhlYWQ+CiAgICAgIDx0Ym9keT4KICAgICAgICA8dHI+PHRkPkNvbnZlcnNhdGlvbiBkZXB0aDwvdGQ+PHRkIGNsYXNzPSJwdHMiPjAg4oCTIDM8L3RkPjx0ZD5XYXMgdGhlcmUgZ2VudWluZSBiYWNrLWFuZC1mb3J0aCwgb3IganVzdCBhIG1vbm9sb2d1ZSAvIHNpbGVuY2U/PC90ZD48L3RyPgogICAgICAgIDx0cj48dGQ+Q3VzdG9tZXIgZW5nYWdlbWVudDwvdGQ+PHRkIGNsYXNzPSJwdHMiPjAg4oCTIDM8L3RkPjx0ZD5EaWQgdGhlIGN1c3RvbWVyIHJlc3BvbmQsIGFzayBxdWVzdGlvbnMsIG9yIHNob3cgaW50ZXJlc3Q/PC90ZD48L3RyPgogICAgICAgIDx0cj48dGQ+UmVzb2x1dGlvbjwvdGQ+PHRkIGNsYXNzPSJwdHMiPjAg4oCTIDI8L3RkPjx0ZD5XYXMgdGhlIGN1c3RvbWVyJ3MgcXVlcnkgb3IgbmVlZCBhY3R1YWxseSBhZGRyZXNzZWQ/PC90ZD48L3RyPgogICAgICAgIDx0cj48dGQ+U3RydWN0dXJlPC90ZD48dGQgY2xhc3M9InB0cyI+MCDigJMgMjwvdGQ+PHRkPldhcyB0aGVyZSBhIGNsZWFyIGludHJvIOKGkiBkaXNjdXNzaW9uIOKGkiBjbG9zZT88L3RkPjwvdHI+CiAgICAgICAgPHRyIHN0eWxlPSJiYWNrZ3JvdW5kOiNlZmY2ZmYiPjx0ZD48c3Ryb25nPlRvdGFsPC9zdHJvbmc+PC90ZD48dGQgY2xhc3M9InB0cyI+PHN0cm9uZz4xMDwvc3Ryb25nPjwvdGQ+PHRkPjwvdGQ+PC90cj4KICAgICAgPC90Ym9keT4KICAgIDwvdGFibGU+CgogICAgPGgyPkFnZW50IFBlcmZvcm1hbmNlIFJ1YnJpYyAob3V0IG9mIDEwKTwvaDI+CiAgICA8cD5NZWFzdXJlcyA8ZW0+d2hhdCB0aGUgUk0gZGlkPC9lbT4gb24gdGhlIGNhbGwuIE9ubHkgc2NvcmVkIHdoZW4gQ2FsbCBRdWFsaXR5IOKJpSA0LzEwLjwvcD4KICAgIDx0YWJsZT4KICAgICAgPHRoZWFkPjx0cj48dGg+Q3JpdGVyaW9uPC90aD48dGg+UG9pbnRzPC90aD48dGg+V2hhdCBpcyBldmFsdWF0ZWQ8L3RoPjwvdHI+PC90aGVhZD4KICAgICAgPHRib2R5PgogICAgICAgIDx0cj48dGQ+T3BlbmluZyAmYW1wOyByYXBwb3J0PC90ZD48dGQgY2xhc3M9InB0cyI+MCDigJMgMjwvdGQ+PHRkPlByb2Zlc3Npb25hbCBncmVldGluZzsgYnVpbHQgY29tZm9ydCBhbmQgdHJ1c3Qgd2l0aCB0aGUgY3VzdG9tZXI8L3RkPjwvdHI+CiAgICAgICAgPHRyPjx0ZD5OZWVkcyBkaXNjb3Zlcnk8L3RkPjx0ZCBjbGFzcz0icHRzIj4wIOKAkyAyPC90ZD48dGQ+QWdlbnQgYXNrZWQgd2hhdCB0aGUgY3VzdG9tZXIgaXMgbG9va2luZyBmb3IgYmVmb3JlIHBpdGNoaW5nPC90ZD48L3RyPgogICAgICAgIDx0cj48dGQ+UHJvZHVjdCBwaXRjaCBxdWFsaXR5PC90ZD48dGQgY2xhc3M9InB0cyI+MCDigJMgMzwvdGQ+PHRkPkJvbmQvaW52ZXN0bWVudCBvcHRpb25zIGV4cGxhaW5lZCBjbGVhcmx5IHdpdGggeWllbGRzIGFuZCByZXR1cm5zPC90ZD48L3RyPgogICAgICAgIDx0cj48dGQ+T2JqZWN0aW9uIGhhbmRsaW5nPC90ZD48dGQgY2xhc3M9InB0cyI+MCDigJMgMjwvdGQ+PHRkPkN1c3RvbWVyIGhlc2l0YXRpb25zIG9yIGNvbmNlcm5zIHdlcmUgYWNrbm93bGVkZ2VkIGFuZCBhZGRyZXNzZWQ8L3RkPjwvdHI+CiAgICAgICAgPHRyPjx0ZD5DbGVhciBuZXh0IHN0ZXA8L3RkPjx0ZCBjbGFzcz0icHRzIj4wIOKAkyAxPC90ZD48dGQ+QSBmb2xsb3ctdXAgYWN0aW9uIG9yIGNhbGxiYWNrIHdhcyBkZWZpbmVkIGJlZm9yZSBlbmRpbmcgdGhlIGNhbGw8L3RkPjwvdHI+CiAgICAgICAgPHRyIHN0eWxlPSJiYWNrZ3JvdW5kOiNlZmY2ZmYiPjx0ZD48c3Ryb25nPlRvdGFsPC9zdHJvbmc+PC90ZD48dGQgY2xhc3M9InB0cyI+PHN0cm9uZz4xMDwvc3Ryb25nPjwvdGQ+PHRkPjwvdGQ+PC90cj4KICAgICAgPC90Ym9keT4KICAgIDwvdGFibGU+CgogICAgPGgyPlNjb3JlIEJhbmRzPC9oMj4KICAgIDxkaXYgY2xhc3M9InNjb3JlLWJhbmQiPgogICAgICA8ZGl2IGNsYXNzPSJiYW5kIGJhbmQtbG93Ij48ZGl2IGNsYXNzPSJyYW5nZSI+MCDigJMgMzwvZGl2PjxkaXYgY2xhc3M9ImxhYmVsIj5Qb29yPC9kaXY+PC9kaXY+CiAgICAgIDxkaXYgY2xhc3M9ImJhbmQgYmFuZC1taWQiPjxkaXYgY2xhc3M9InJhbmdlIj40IOKAkyA1PC9kaXY+PGRpdiBjbGFzcz0ibGFiZWwiPkJlbG93IEF2ZXJhZ2U8L2Rpdj48L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iYmFuZCBiYW5kLWdvb2QiPjxkaXYgY2xhc3M9InJhbmdlIj42IOKAkyA3PC9kaXY+PGRpdiBjbGFzcz0ibGFiZWwiPkdvb2Q8L2Rpdj48L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iYmFuZCBiYW5kLWV4YyI+PGRpdiBjbGFzcz0icmFuZ2UiPjgg4oCTIDEwPC9kaXY+PGRpdiBjbGFzcz0ibGFiZWwiPkV4Y2VsbGVudDwvZGl2PjwvZGl2PgogICAgPC9kaXY+CgogICAgPGgyPlJNLUxldmVsIEF2ZXJhZ2UgU2NvcmU8L2gyPgogICAgPHA+VGhlIDxzdHJvbmc+QXZnIFNjb3JlPC9zdHJvbmc+IHNob3duIGluIHRoZSBSTSBSZXBvcnQgaXMgdGhlIG1lYW4gb2YgYWxsIG5vbi1udWxsIDxlbT5BZ2VudCBQZXJmb3JtYW5jZTwvZW0+IHNjb3JlcyBmb3IgdGhhdCBzZXNzaW9uLiBDYWxscyBleGNsdWRlZCBieSBHYXRlIDEgb3IgR2F0ZSAyIGFyZSA8c3Ryb25nPm5vdCBjb3VudGVkPC9zdHJvbmc+IGluIHRoZSBkZW5vbWluYXRvciwgc28gdGhlIGF2ZXJhZ2UgcmVmbGVjdHMgb25seSByZWFsLCBzY29yZWFibGUgaW50ZXJhY3Rpb25zLjwvcD4KICAgIDxwPkV4YW1wbGU6IDQxIGNhbGxzIOKGkiA1IGV4Y2x1ZGVkIGJ5IEdhdGUgMSAodG9vIHNob3J0KSwgOCBleGNsdWRlZCBieSBHYXRlIDIgKHF1YWxpdHkgJmx0OyA0KSDihpIgYXZnIGlzIGNvbXB1dGVkIG92ZXIgdGhlIHJlbWFpbmluZyAyOCBjYWxscy48L3A+CgogICAgPGRpdiBjbGFzcz0iZm9vdGVyIj4KICAgICAgPHNwYW4+Qm9uZFNjYW5uZXIgwrcgQ2FsbCBBbmFseXNpcyBQbGF0Zm9ybTwvc3Bhbj4KICAgICAgPHNwYW4+R2VuZXJhdGVkICR7bmV3IERhdGUoKS50b0xvY2FsZVN0cmluZygnZW4tR0InLCB7IGRheTogJzItZGlnaXQnLCBtb250aDogJ3Nob3J0JywgeWVhcjogJ251bWVyaWMnLCBob3VyOiAnMi1kaWdpdCcsIG1pbnV0ZTogJzItZGlnaXQnIH0pfTwvc3Bhbj4KICAgIDwvZGl2PgoKICA8L2Rpdj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPmA7CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gR0VUKCkgewogIHJldHVybiBuZXcgTmV4dFJlc3BvbnNlKEhUTUwsIHsKICAgIGhlYWRlcnM6IHsKICAgICAgJ0NvbnRlbnQtVHlwZSc6ICd0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgnLAogICAgICAnQ29udGVudC1EaXNwb3NpdGlvbic6ICdhdHRhY2htZW50OyBmaWxlbmFtZT0iQm9uZFNjYW5uZXItU2NvcmluZy1NZXRob2RvbG9neS5odG1sIicsCiAgICB9LAogIH0pOwp9Cg=="}
+import { NextResponse } from 'next/server';
+
+const HTML = `<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Call Scoring Methodology — BondScanner</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', Arial, sans-serif; background: #f8fafc; color: #1e293b; padding: 48px 32px; }
+  .page { max-width: 860px; margin: 0 auto; background: #fff; border-radius: 12px; box-shadow: 0 4px 24px rgba(0,0,0,0.08); overflow: hidden; }
+  .header { background: #0f172a; color: #f1f5f9; padding: 32px 40px; }
+  .header h1 { font-size: 24px; font-weight: 700; margin-bottom: 6px; }
+  .header p  { font-size: 13px; color: #7e95b8; }
+  .body { padding: 40px; }
+  h2 { font-size: 16px; font-weight: 700; color: #0f172a; margin: 32px 0 14px; padding-bottom: 8px; border-bottom: 2px solid #e2e8f0; text-transform: uppercase; letter-spacing: 0.5px; }
+  h2:first-of-type { margin-top: 0; }
+  p  { font-size: 14px; line-height: 1.7; color: #334155; margin-bottom: 12px; }
+  .gate-box { background: #fef9ec; border: 1px solid #fcd34d; border-left: 4px solid #f59e0b; border-radius: 8px; padding: 16px 20px; margin-bottom: 20px; }
+  .gate-box h3 { font-size: 13px; font-weight: 700; color: #92400e; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.4px; }
+  .gate-box p  { font-size: 13px; color: #78350f; margin: 0; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; margin-bottom: 24px; }
+  thead tr { background: #0f172a; color: #f1f5f9; }
+  thead th { padding: 10px 14px; text-align: left; font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; }
+  tbody tr:nth-child(even) { background: #f8fafc; }
+  tbody td { padding: 10px 14px; border-bottom: 1px solid #e2e8f0; vertical-align: top; }
+  .pts { font-weight: 700; color: #2563eb; white-space: nowrap; }
+  .score-band { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 20px; }
+  .band { flex: 1; min-width: 140px; border-radius: 8px; padding: 12px 16px; text-align: center; }
+  .band .range { font-size: 18px; font-weight: 700; }
+  .band .label { font-size: 12px; margin-top: 3px; }
+  .band-low  { background: #fef2f2; border: 1px solid #fecaca; color: #dc2626; }
+  .band-mid  { background: #fffbeb; border: 1px solid #fde68a; color: #d97706; }
+  .band-good { background: #f0fdf4; border: 1px solid #bbf7d0; color: #16a34a; }
+  .band-exc  { background: #eff6ff; border: 1px solid #bfdbfe; color: #2563eb; }
+  .flow { display: flex; flex-direction: column; gap: 4px; margin-bottom: 20px; }
+  .flow-step { display: flex; align-items: flex-start; gap: 12px; padding: 10px 14px; border-radius: 8px; font-size: 13px; }
+  .flow-step.pass { background: #f0fdf4; border: 1px solid #bbf7d0; color: #15803d; }
+  .flow-step.fail { background: #fef2f2; border: 1px solid #fecaca; color: #b91c1c; }
+  .flow-step.neutral { background: #f8fafc; border: 1px solid #e2e8f0; color: #334155; }
+  .flow-step .icon { font-size: 16px; flex-shrink: 0; }
+  .footer { margin-top: 40px; padding-top: 20px; border-top: 1px solid #e2e8f0; font-size: 11px; color: #94a3b8; display: flex; justify-content: space-between; }
+  @media print { body { padding: 0; background: #fff; } .page { box-shadow: none; border-radius: 0; } }
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="header">
+    <h1>Call Scoring Methodology</h1>
+    <p>BondScanner · Signup Call Analysis · Version 1.0 · ${new Date().toLocaleDateString('en-GB', { day: '2-digit', month: 'long', year: 'numeric' })}</p>
+  </div>
+
+  <div class="body">
+
+    <h2>Overview</h2>
+    <p>Every call processed through the system is automatically scored on two dimensions: <strong>Call Quality</strong> and <strong>Agent Performance</strong>. Scoring uses a structured rubric and applies gate conditions to ensure meaningless calls (too short, silent, or low-quality) do not pollute the RM's average score.</p>
+
+    <h2>Gate Conditions</h2>
+
+    <div class="gate-box">
+      <h3>Gate 1 — Duration &amp; Content Check</h3>
+      <p>If call duration is <strong>less than 60 seconds</strong>, OR the transcript shows no real conversation (silent recording, wrong number, single-word exchange) → <strong>Call Quality = N/A, Agent Performance = N/A</strong>. Call is excluded from all averages.</p>
+    </div>
+
+    <div class="gate-box">
+      <h3>Gate 2 — Quality Threshold</h3>
+      <p>After scoring Call Quality, if the score is <strong>below 4/10</strong> → <strong>Agent Performance = N/A</strong>. There is not enough substance in the call to fairly evaluate what the agent did. Only calls with Call Quality ≥ 4/10 receive an Agent Performance score.</p>
+    </div>
+
+    <div class="flow">
+      <div class="flow-step neutral"><span class="icon">▶</span><span><strong>Call arrives</strong> — transcribed &amp; duration measured</span></div>
+      <div class="flow-step fail"><span class="icon">✗</span><span><strong>Duration &lt; 60s or no real content</strong> → Call Quality = N/A, Agent Performance = N/A (Gate 1)</span></div>
+      <div class="flow-step pass"><span class="icon">✓</span><span><strong>Duration ≥ 60s &amp; real conversation</strong> → Score Call Quality using rubric below</span></div>
+      <div class="flow-step fail"><span class="icon">✗</span><span><strong>Call Quality &lt; 4/10</strong> → Agent Performance = N/A (Gate 2)</span></div>
+      <div class="flow-step pass"><span class="icon">✓</span><span><strong>Call Quality ≥ 4/10</strong> → Score Agent Performance using rubric below</span></div>
+    </div>
+
+    <h2>Call Quality Rubric (out of 10)</h2>
+    <p>Measures the <em>quality of the conversation itself</em> — independent of how the agent performed.</p>
+    <table>
+      <thead><tr><th>Criterion</th><th>Points</th><th>What is evaluated</th></tr></thead>
+      <tbody>
+        <tr><td>Conversation depth</td><td class="pts">0 – 3</td><td>Was there genuine back-and-forth, or just a monologue / silence?</td></tr>
+        <tr><td>Customer engagement</td><td class="pts">0 – 3</td><td>Did the customer respond, ask questions, or show interest?</td></tr>
+        <tr><td>Resolution</td><td class="pts">0 – 2</td><td>Was the customer's query or need actually addressed?</td></tr>
+        <tr><td>Structure</td><td class="pts">0 – 2</td><td>Was there a clear intro → discussion → close?</td></tr>
+        <tr style="background:#eff6ff"><td><strong>Total</strong></td><td class="pts"><strong>10</strong></td><td></td></tr>
+      </tbody>
+    </table>
+
+    <h2>Agent Performance Rubric (out of 10)</h2>
+    <p>Measures <em>what the RM did</em> on the call. Only scored when Call Quality ≥ 4/10.</p>
+    <table>
+      <thead><tr><th>Criterion</th><th>Points</th><th>What is evaluated</th></tr></thead>
+      <tbody>
+        <tr><td>Opening &amp; rapport</td><td class="pts">0 – 2</td><td>Professional greeting; built comfort and trust with the customer</td></tr>
+        <tr><td>Needs discovery</td><td class="pts">0 – 2</td><td>Agent asked what the customer is looking for before pitching</td></tr>
+        <tr><td>Product pitch quality</td><td class="pts">0 – 3</td><td>Bond/investment options explained clearly with yields and returns</td></tr>
+        <tr><td>Objection handling</td><td class="pts">0 – 2</td><td>Customer hesitations or concerns were acknowledged and addressed</td></tr>
+        <tr><td>Clear next step</td><td class="pts">0 – 1</td><td>A follow-up action or callback was defined before ending the call</td></tr>
+        <tr style="background:#eff6ff"><td><strong>Total</strong></td><td class="pts"><strong>10</strong></td><td></td></tr>
+      </tbody>
+    </table>
+
+    <h2>Score Bands</h2>
+    <div class="score-band">
+      <div class="band band-low"><div class="range">0 – 3</div><div class="label">Poor</div></div>
+      <div class="band band-mid"><div class="range">4 – 5</div><div class="label">Below Average</div></div>
+      <div class="band band-good"><div class="range">6 – 7</div><div class="label">Good</div></div>
+      <div class="band band-exc"><div class="range">8 – 10</div><div class="label">Excellent</div></div>
+    </div>
+
+    <h2>RM-Level Average Score</h2>
+    <p>The <strong>Avg Score</strong> shown in the RM Report is the mean of all non-null <em>Agent Performance</em> scores for that session. Calls excluded by Gate 1 or Gate 2 are <strong>not counted</strong> in the denominator, so the average reflects only real, scoreable interactions.</p>
+    <p>Example: 41 calls → 5 excluded by Gate 1 (too short), 8 excluded by Gate 2 (quality &lt; 4) → avg is computed over the remaining 28 calls.</p>
+
+    <div class="footer">
+      <span>BondScanner · Call Analysis Platform</span>
+      <span>Generated ${new Date().toLocaleString('en-GB', { day: '2-digit', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' })}</span>
+    </div>
+
+  </div>
+</div>
+</body>
+</html>`;
+
+export async function GET() {
+  return new NextResponse(HTML, {
+    headers: {
+      'Content-Type': 'text/html; charset=utf-8',
+      'Content-Disposition': 'attachment; filename="BondScanner-Scoring-Methodology.html"',
+    },
+  });
+}

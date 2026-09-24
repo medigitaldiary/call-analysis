@@ -1,1 +1,346 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlc3BvbnNlIH0gZnJvbSAnbmV4dC9zZXJ2ZXInOwppbXBvcnQgeyBnZXREYiB9IGZyb20gJ0AvbGliL2RiJzsKCi8vIENsYXVkZSBTb25uZXQgNC42IHByaWNpbmcgKHBlciBtaWxsaW9uIHRva2VucykKY29uc3QgUFJJQ0VfSU5QVVRfUEVSX00gID0gMy4wOyAgIC8vICQzLjAwIHBlciAxTSBpbnB1dCB0b2tlbnMKY29uc3QgUFJJQ0VfT1VUUFVUX1BFUl9NID0gMTUuMDsgIC8vICQxNS4wMCBwZXIgMU0gb3V0cHV0IHRva2VucwoKLy8gU2FydmFtIEFJIHByaWNpbmc6IOKCuTM2L2hvdXIgKFNhYXJpa2EgdjIuNSBhY3R1YWwgcmF0ZSkKY29uc3QgU0FSVkFNX1BSSUNFX1BFUl9IT1VSX0lOUiA9IDM2Owpjb25zdCBTQVJWQU1fUFJJQ0VfUEVSX1NFQ19JTlIgID0gU0FSVkFNX1BSSUNFX1BFUl9IT1VSX0lOUiAvIDM2MDA7CgovLyBPbmx5IHNob3cgZGF0YSBmcm9tIHRoaXMgZGF0ZSBvbndhcmRzIChwcmUtcHJvZHVjdGlvbiBkYXRhIGV4Y2x1ZGVkKQpjb25zdCBVU0FHRV9TVEFSVF9EQVRFID0gJzIwMjYtMDQtMjEnOwoKZnVuY3Rpb24gY2FsY0Nvc3QoaW5wdXRUb2tlbnM6IG51bWJlciwgb3V0cHV0VG9rZW5zOiBudW1iZXIpIHsKICByZXR1cm4gKGlucHV0VG9rZW5zIC8gMV8wMDBfMDAwKSAqIFBSSUNFX0lOUFVUX1BFUl9NCiAgICAgICArIChvdXRwdXRUb2tlbnMgLyAxXzAwMF8wMDApICogUFJJQ0VfT1VUUFVUX1BFUl9NOwp9CgpmdW5jdGlvbiBjYWxjU2FydmFtQ29zdChkdXJhdGlvblNlYzogbnVtYmVyKSB7CiAgcmV0dXJuIGR1cmF0aW9uU2VjICogU0FSVkFNX1BSSUNFX1BFUl9TRUNfSU5SOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gR0VUKCkgewogIHRyeSB7CiAgICBjb25zdCBzcWwgPSBnZXREYigpOwoKICAgIC8vIEVuc3VyZSBkYXlfcmVwb3J0cyBoYXMgdG9rZW4gY29sdW1ucyAoaWRlbXBvdGVudCDigJQgc2FmZSB0byBydW4gZXZlcnkgcmVxdWVzdCkKICAgIGF3YWl0IHNxbGAKICAgICAgQUxURVIgVEFCTEUgZGF5X3JlcG9ydHMKICAgICAgICBBREQgQ09MVU1OIElGIE5PVCBFWElTVFMgaW5wdXRfdG9rZW5zICBCSUdJTlQgTk9UIE5VTEwgREVGQVVMVCAwLAogICAgICAgIEFERCBDT0xVTU4gSUYgTk9UIEVYSVNUUyBvdXRwdXRfdG9rZW5zIEJJR0lOVCBOT1QgTlVMTCBERUZBVUxUIDAKICAgIGA7CgogICAgLy8gQ2xhdWRlIEFQSSBsYXRlbmN5IHN0YXRzIOKAlCBvbmx5IGZyb20gY2FsbHMgb24vYWZ0ZXIgVVNBR0VfU1RBUlRfREFURQogICAgY29uc3QgW2xhdGVuY3ldID0gYXdhaXQgc3FsYAogICAgICBTRUxFQ1QKICAgICAgICBST1VORChBVkcoci5jbGF1ZGVfbGF0ZW5jeV9tcykpICBBUyBhdmdfbXMsCiAgICAgICAgTUlOKHIuY2xhdWRlX2xhdGVuY3lfbXMpICAgICAgICAgQVMgbWluX21zLAogICAgICAgIE1BWChyLmNsYXVkZV9sYXRlbmN5X21zKSAgICAgICAgIEFTIG1heF9tcywKICAgICAgICBDT1VOVChyLmNsYXVkZV9sYXRlbmN5X21zKSAgICAgICBBUyB0aW1lZF9jYWxscwogICAgICBGUk9NIHJlcG9ydHMgcgogICAgICBKT0lOIGNhbGxzIGMgT04gYy5pZCA9IHIuY2FsbF9pZAogICAgICBMRUZUIEpPSU4gYnVsa19zZXNzaW9ucyBicyBPTiBicy5pZCA9IGMuc2Vzc2lvbl9pZAogICAgICBXSEVSRSByLmNsYXVkZV9sYXRlbmN5X21zIElTIE5PVCBOVUxMCiAgICAgICAgQU5EIENPQUxFU0NFKERBVEUoYnMuc2Vzc2lvbl9kYXRlKSwgREFURShjLmNyZWF0ZWRfYXQgQVQgVElNRSBaT05FICdBc2lhL0tvbGthdGEnKSkgPj0gJHtVU0FHRV9TVEFSVF9EQVRFfTo6ZGF0ZQogICAgYDsKCiAgICAvLyBTYXJ2YW0gQUkgdG90YWxzIOKAlCBvbi9hZnRlciBVU0FHRV9TVEFSVF9EQVRFCiAgICBjb25zdCBbc2FydmFtVG90YWxzXSA9IGF3YWl0IHNxbGAKICAgICAgU0VMRUNUCiAgICAgICAgQ09VTlQoKikgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgdG90YWxfY2FsbHMsCiAgICAgICAgQ09BTEVTQ0UoU1VNKHIuc2FydmFtX2R1cmF0aW9uX3NlYyksIDApICAgICAgQVMgdG90YWxfZHVyYXRpb25fc2VjCiAgICAgIEZST00gcmVwb3J0cyByCiAgICAgIEpPSU4gY2FsbHMgYyBPTiBjLmlkID0gci5jYWxsX2lkCiAgICAgIExFRlQgSk9JTiBidWxrX3Nlc3Npb25zIGJzIE9OIGJzLmlkID0gYy5zZXNzaW9uX2lkCiAgICAgIFdIRVJFIHIuc2FydmFtX2R1cmF0aW9uX3NlYyA+IDAKICAgICAgICBBTkQgQ09BTEVTQ0UoREFURShicy5zZXNzaW9uX2RhdGUpLCBEQVRFKGMuY3JlYXRlZF9hdCBBVCBUSU1FIFpPTkUgJ0FzaWEvS29sa2F0YScpKSA+PSAke1VTQUdFX1NUQVJUX0RBVEV9OjpkYXRlCiAgICBgOwoKICAgIC8vIFNhcnZhbSBkYWlseSBicmVha2Rvd24gKGxhc3QgMzAgZGF5cywgb24vYWZ0ZXIgVVNBR0VfU1RBUlRfREFURSkKICAgIGNvbnN0IHNhcnZhbURhaWx5ID0gYXdhaXQgc3FsYAogICAgICBTRUxFQ1QKICAgICAgICBDT0FMRVNDRShEQVRFKGJzLnNlc3Npb25fZGF0ZSksIERBVEUoYy5jcmVhdGVkX2F0IEFUIFRJTUUgWk9ORSAnQXNpYS9Lb2xrYXRhJykpIEFTIGRheSwKICAgICAgICBDT1VOVCgqKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBjYWxscywKICAgICAgICBDT0FMRVNDRShTVU0oci5zYXJ2YW1fZHVyYXRpb25fc2VjKSwgMCkgICAgIEFTIGR1cmF0aW9uX3NlYwogICAgICBGUk9NIHJlcG9ydHMgcgogICAgICBKT0lOIGNhbGxzIGMgT04gYy5pZCA9IHIuY2FsbF9pZAogICAgICBMRUZUIEpPSU4gYnVsa19zZXNzaW9ucyBicyBPTiBicy5pZCA9IGMuc2Vzc2lvbl9pZAogICAgICBXSEVSRSByLnNhcnZhbV9kdXJhdGlvbl9zZWMgPiAwCiAgICAgICAgQU5EIENPQUxFU0NFKERBVEUoYnMuc2Vzc2lvbl9kYXRlKSwgREFURShjLmNyZWF0ZWRfYXQgQVQgVElNRSBaT05FICdBc2lhL0tvbGthdGEnKSkgPj0gJHtVU0FHRV9TVEFSVF9EQVRFfTo6ZGF0ZQogICAgICAgIEFORCBDT0FMRVNDRShEQVRFKGJzLnNlc3Npb25fZGF0ZSksIERBVEUoYy5jcmVhdGVkX2F0IEFUIFRJTUUgWk9ORSAnQXNpYS9Lb2xrYXRhJykpID49IENVUlJFTlRfREFURSAtIElOVEVSVkFMICczMCBkYXlzJwogICAgICBHUk9VUCBCWSBDT0FMRVNDRShEQVRFKGJzLnNlc3Npb25fZGF0ZSksIERBVEUoYy5jcmVhdGVkX2F0IEFUIFRJTUUgWk9ORSAnQXNpYS9Lb2xrYXRhJykpCiAgICAgIE9SREVSIEJZIGRheSBERVNDCiAgICBgOwoKICAgIC8vIE92ZXJhbGwgdG90YWxzIOKAlCBvbi9hZnRlciBVU0FHRV9TVEFSVF9EQVRFCiAgICBjb25zdCBbdG90YWxzXSA9IGF3YWl0IHNxbGAKICAgICAgU0VMRUNUCiAgICAgICAgQ09VTlQoKikgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIHRvdGFsX2NhbGxzLAogICAgICAgIENPQUxFU0NFKFNVTShyLmlucHV0X3Rva2VucyksICAwKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyB0b3RhbF9pbnB1dCwKICAgICAgICBDT0FMRVNDRShTVU0oci5vdXRwdXRfdG9rZW5zKSwgMCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgdG90YWxfb3V0cHV0LAogICAgICAgIENPQUxFU0NFKFNVTSgKICAgICAgICAgIENBU0UgV0hFTiByLmR1cmF0aW9uIElTIE5PVCBOVUxMIEFORCByLmR1cmF0aW9uICE9ICcnCiAgICAgICAgICAgICAgIFRIRU4gUkVHRVhQX1JFUExBQ0Uoci5kdXJhdGlvbiwgJ1teMC05Ll0nLCAnJywgJ2cnKTo6bnVtZXJpYyAqIDYwCiAgICAgICAgICAgICAgIEVMU0UgTlVMTAogICAgICAgICAgRU5ECiAgICAgICAgKSwgMCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIHRvdGFsX2R1cmF0aW9uX3NlYwogICAgICBGUk9NIHJlcG9ydHMgcgogICAgICBKT0lOIGNhbGxzIGMgT04gYy5pZCA9IHIuY2FsbF9pZAogICAgICBMRUZUIEpPSU4gYnVsa19zZXNzaW9ucyBicyBPTiBicy5pZCA9IGMuc2Vzc2lvbl9pZAogICAgICBXSEVSRSAoci5pbnB1dF90b2tlbnMgPiAwIE9SIHIub3V0cHV0X3Rva2VucyA+IDApCiAgICAgICAgQU5EIENPQUxFU0NFKERBVEUoYnMuc2Vzc2lvbl9kYXRlKSwgREFURShjLmNyZWF0ZWRfYXQgQVQgVElNRSBaT05FICdBc2lhL0tvbGthdGEnKSkgPj0gJHtVU0FHRV9TVEFSVF9EQVRFfTo6ZGF0ZQogICAgYDsKCiAgICAvLyBSTSByZXBvcnQgZ2VuZXJhdGlvbiB0b2tlbnMg4oCUIGZyb20gYnVsa19zZXNzaW9ucyBvbi9hZnRlciBVU0FHRV9TVEFSVF9EQVRFCiAgICBjb25zdCBbcm1Ub2tlbnNdID0gYXdhaXQgc3FsYAogICAgICBTRUxFQ1QKICAgICAgICBDT0FMRVNDRShTVU0oYnMuaW5wdXRfdG9rZW5zICAtIENPQUxFU0NFKHJfYWdnLnRvdGFsX2luLCAgMCkpLCAwKSBBUyBybV9pbnB1dCwKICAgICAgICBDT0FMRVNDRShTVU0oYnMub3V0cHV0X3Rva2VucyAtIENPQUxFU0NFKHJfYWdnLnRvdGFsX291dCwgMCkpLCAwKSBBUyBybV9vdXRwdXQKICAgICAgRlJPTSBidWxrX3Nlc3Npb25zIGJzCiAgICAgIExFRlQgSk9JTiAoCiAgICAgICAgU0VMRUNUIGMuc2Vzc2lvbl9pZCwKICAgICAgICAgIENPQUxFU0NFKFNVTShyLmlucHV0X3Rva2VucyksICAwKSBBUyB0b3RhbF9pbiwKICAgICAgICAgIENPQUxFU0NFKFNVTShyLm91dHB1dF90b2tlbnMpLCAwKSBBUyB0b3RhbF9vdXQKICAgICAgICBGUk9NIGNhbGxzIGMKICAgICAgICBKT0lOIHJlcG9ydHMgciBPTiByLmNhbGxfaWQgPSBjLmlkCiAgICAgICAgR1JPVVAgQlkgYy5zZXNzaW9uX2lkCiAgICAgICkgcl9hZ2cgT04gcl9hZ2cuc2Vzc2lvbl9pZCA9IGJzLmlkCiAgICAgIFdIRVJFIChicy5pbnB1dF90b2tlbnMgPiAwIE9SIGJzLm91dHB1dF90b2tlbnMgPiAwKQogICAgICAgIEFORCBEQVRFKGJzLnNlc3Npb25fZGF0ZSkgPj0gJHtVU0FHRV9TVEFSVF9EQVRFfTo6ZGF0ZQogICAgYDsKCiAgICAvLyBQZXItc2Vzc2lvbiBicmVha2Rvd24g4oCUIG9uL2FmdGVyIFVTQUdFX1NUQVJUX0RBVEUKICAgIGNvbnN0IHNlc3Npb25zID0gYXdhaXQgc3FsYAogICAgICBTRUxFQ1QKICAgICAgICBicy5pZCwKICAgICAgICBicy5ybV9uYW1lLAogICAgICAgIGJzLnNlc3Npb25fZGF0ZSwKICAgICAgICBicy50b3RhbF9maWxlcywKICAgICAgICBicy5zdGF0dXMsCiAgICAgICAgYnMuaW5wdXRfdG9rZW5zLAogICAgICAgIGJzLm91dHB1dF90b2tlbnMsCiAgICAgICAgYnMuY3JlYXRlZF9hdAogICAgICBGUk9NIGJ1bGtfc2Vzc2lvbnMgYnMKICAgICAgV0hFUkUgREFURShicy5zZXNzaW9uX2RhdGUpID49ICR7VVNBR0VfU1RBUlRfREFURX06OmRhdGUKICAgICAgT1JERVIgQlkgYnMuc2Vzc2lvbl9kYXRlIERFU0MsIGJzLmNyZWF0ZWRfYXQgREVTQwogICAgYDsKCiAgICAvLyBQZXItZGF0ZSBicmVha2Rvd24gYnkgcmVwb3J0IHR5cGUgKGxhc3QgMzAgZGF5cywgb24vYWZ0ZXIgVVNBR0VfU1RBUlRfREFURSkKICAgIC8vIDEuIFRyYW5zY3JpcHQgYW5hbHlzaXMgdG9rZW5zIChmcm9tIHJlcG9ydHMgdGFibGUsIHBlciBjYWxsKQogICAgLy8gMi4gUk0gcmVwb3J0IGdlbmVyYXRpb24gdG9rZW5zIChidWxrX3Nlc3Npb25zIHRvdGFsIG1pbnVzIGNhbGwgdG9rZW5zID0gUk0tb25seSBwb3J0aW9uKQogICAgLy8gMy4gRGF5IGVuZCByZXBvcnQgdG9rZW5zIChmcm9tIGRheV9yZXBvcnRzIHRhYmxlKQogICAgY29uc3QgcmVwb3J0VHlwZURhaWx5ID0gYXdhaXQgc3FsYAogICAgICBXSVRIIGNhbGxfZGF0ZSBBUyAoCiAgICAgICAgU0VMRUNUCiAgICAgICAgICBDT0FMRVNDRShEQVRFKGJzLnNlc3Npb25fZGF0ZSksIERBVEUoYy5jcmVhdGVkX2F0IEFUIFRJTUUgWk9ORSAnQXNpYS9Lb2xrYXRhJykpIEFTIGRheSwKICAgICAgICAgIENPQUxFU0NFKFNVTShyLmlucHV0X3Rva2VucyksICAwKSBBUyB0cmFuc2NyaXB0X2lucHV0LAogICAgICAgICAgQ09BTEVTQ0UoU1VNKHIub3V0cHV0X3Rva2VucyksIDApIEFTIHRyYW5zY3JpcHRfb3V0cHV0CiAgICAgICAgRlJPTSByZXBvcnRzIHIKICAgICAgICBKT0lOIGNhbGxzIGMgT04gYy5pZCA9IHIuY2FsbF9pZAogICAgICAgIExFRlQgSk9JTiBidWxrX3Nlc3Npb25zIGJzIE9OIGJzLmlkID0gYy5zZXNzaW9uX2lkCiAgICAgICAgV0hFUkUgKHIuaW5wdXRfdG9rZW5zID4gMCBPUiByLm91dHB1dF90b2tlbnMgPiAwKQogICAgICAgICAgQU5EIENPQUxFU0NFKERBVEUoYnMuc2Vzc2lvbl9kYXRlKSwgREFURShjLmNyZWF0ZWRfYXQgQVQgVElNRSBaT05FICdBc2lhL0tvbGthdGEnKSkgPj0gJHtVU0FHRV9TVEFSVF9EQVRFfTo6ZGF0ZQogICAgICAgICAgQU5EIENPQUxFU0NFKERBVEUoYnMuc2Vzc2lvbl9kYXRlKSwgREFURShjLmNyZWF0ZWRfYXQgQVQgVElNRSBaT05FICdBc2lhL0tvbGthdGEnKSkgPj0gQ1VSUkVOVF9EQVRFIC0gSU5URVJWQUwgJzMwIGRheXMnCiAgICAgICAgR1JPVVAgQlkgMQogICAgICApLAogICAgICBybV9kYXRlIEFTICgKICAgICAgICBTRUxFQ1QKICAgICAgICAgIERBVEUoYnMuc2Vzc2lvbl9kYXRlKSBBUyBkYXksCiAgICAgICAgICBDT0FMRVNDRShTVU0oYnMuaW5wdXRfdG9rZW5zICAtIENPQUxFU0NFKHJfYWdnLnRvdGFsX2luLCAgMCkpLCAwKSBBUyBybV9pbnB1dCwKICAgICAgICAgIENPQUxFU0NFKFNVTShicy5vdXRwdXRfdG9rZW5zIC0gQ09BTEVTQ0Uocl9hZ2cudG90YWxfb3V0LCAwKSksIDApIEFTIHJtX291dHB1dAogICAgICAgIEZST00gYnVsa19zZXNzaW9ucyBicwogICAgICAgIExFRlQgSk9JTiAoCiAgICAgICAgICBTRUxFQ1QgYy5zZXNzaW9uX2lkLAogICAgICAgICAgICBDT0FMRVNDRShTVU0oci5pbnB1dF90b2tlbnMpLCAgMCkgQVMgdG90YWxfaW4sCiAgICAgICAgICAgIENPQUxFU0NFKFNVTShyLm91dHB1dF90b2tlbnMpLCAwKSBBUyB0b3RhbF9vdXQKICAgICAgICAgIEZST00gY2FsbHMgYyBKT0lOIHJlcG9ydHMgciBPTiByLmNhbGxfaWQgPSBjLmlkCiAgICAgICAgICBHUk9VUCBCWSBjLnNlc3Npb25faWQKICAgICAgICApIHJfYWdnIE9OIHJfYWdnLnNlc3Npb25faWQgPSBicy5pZAogICAgICAgIFdIRVJFIChicy5pbnB1dF90b2tlbnMgPiAwIE9SIGJzLm91dHB1dF90b2tlbnMgPiAwKQogICAgICAgICAgQU5EIERBVEUoYnMuc2Vzc2lvbl9kYXRlKSA+PSAke1VTQUdFX1NUQVJUX0RBVEV9OjpkYXRlCiAgICAgICAgICBBTkQgREFURShicy5zZXNzaW9uX2RhdGUpID49IENVUlJFTlRfREFURSAtIElOVEVSVkFMICczMCBkYXlzJwogICAgICAgIEdST1VQIEJZIDEKICAgICAgKSwKICAgICAgZGF5X3JwdCBBUyAoCiAgICAgICAgU0VMRUNUCiAgICAgICAgICByZXBvcnRfZGF0ZTo6ZGF0ZSBBUyBkYXksCiAgICAgICAgICBDT0FMRVNDRShpbnB1dF90b2tlbnMsICAwKSBBUyBkcl9pbnB1dCwKICAgICAgICAgIENPQUxFU0NFKG91dHB1dF90b2tlbnMsIDApIEFTIGRyX291dHB1dAogICAgICAgIEZST00gZGF5X3JlcG9ydHMKICAgICAgICBXSEVSRSByZXBvcnRfZGF0ZSA+PSAke1VTQUdFX1NUQVJUX0RBVEV9OjpkYXRlCiAgICAgICAgICBBTkQgcmVwb3J0X2RhdGUgPj0gQ1VSUkVOVF9EQVRFIC0gSU5URVJWQUwgJzMwIGRheXMnCiAgICAgICkKICAgICAgU0VMRUNUCiAgICAgICAgQ09BTEVTQ0UoY2QuZGF5LCByZC5kYXksIGRyLmRheSkgICAgICAgICAgICBBUyBkYXksCiAgICAgICAgQ09BTEVTQ0UoY2QudHJhbnNjcmlwdF9pbnB1dCwgIDApICAgICAgICAgICBBUyB0cmFuc2NyaXB0X2lucHV0LAogICAgICAgIENPQUxFU0NFKGNkLnRyYW5zY3JpcHRfb3V0cHV0LCAwKSAgICAgICAgICAgQVMgdHJhbnNjcmlwdF9vdXRwdXQsCiAgICAgICAgQ09BTEVTQ0UocmQucm1faW5wdXQsICAgICAgICAgIDApICAgICAgICAgICBBUyBybV9pbnB1dCwKICAgICAgICBDT0FMRVNDRShyZC5ybV9vdXRwdXQsICAgICAgICAgMCkgICAgICAgICAgIEFTIHJtX291dHB1dCwKICAgICAgICBDT0FMRVNDRShkci5kcl9pbnB1dCwgICAgICAgICAgMCkgICAgICAgICAgIEFTIGRyX2lucHV0LAogICAgICAgIENPQUxFU0NFKGRyLmRyX291dHB1dCwgICAgICAgICAwKSAgICAgICAgICAgQVMgZHJfb3V0cHV0CiAgICAgIEZST00gY2FsbF9kYXRlIGNkCiAgICAgIEZVTEwgT1VURVIgSk9JTiBybV9kYXRlIHJkICBPTiByZC5kYXkgID0gY2QuZGF5CiAgICAgIEZVTEwgT1VURVIgSk9JTiBkYXlfcnB0IGRyICBPTiBkci5kYXkgID0gQ09BTEVTQ0UoY2QuZGF5LCByZC5kYXkpCiAgICAgIE9SREVSIEJZIGRheSBERVNDCiAgICBgOwoKICAgIC8vIERhaWx5IGFnZ3JlZ2F0aW9uIChsYXN0IDMwIGRheXMsIG9uL2FmdGVyIFVTQUdFX1NUQVJUX0RBVEUpCiAgICBjb25zdCBkYWlseSA9IGF3YWl0IHNxbGAKICAgICAgU0VMRUNUCiAgICAgICAgQ09BTEVTQ0UoREFURShicy5zZXNzaW9uX2RhdGUpLCBEQVRFKGMuY3JlYXRlZF9hdCBBVCBUSU1FIFpPTkUgJ0FzaWEvS29sa2F0YScpKSBBUyBkYXksCiAgICAgICAgQ09VTlQoKikgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBjYWxscywKICAgICAgICBDT0FMRVNDRShTVU0oci5pbnB1dF90b2tlbnMpLCAgMCkgICAgQVMgaW5wdXRfdG9rZW5zLAogICAgICAgIENPQUxFU0NFKFNVTShyLm91dHB1dF90b2tlbnMpLCAwKSAgICBBUyBvdXRwdXRfdG9rZW5zLAogICAgICAgIENPQUxFU0NFKFNVTShjLmR1cmF0aW9uX3NlYyksICAwKSAgICBBUyBkdXJhdGlvbl9zZWMKICAgICAgRlJPTSByZXBvcnRzIHIKICAgICAgSk9JTiBjYWxscyBjIE9OIGMuaWQgPSByLmNhbGxfaWQKICAgICAgTEVGVCBKT0lOIGJ1bGtfc2Vzc2lvbnMgYnMgT04gYnMuaWQgPSBjLnNlc3Npb25faWQKICAgICAgV0hFUkUgKHIuaW5wdXRfdG9rZW5zID4gMCBPUiByLm91dHB1dF90b2tlbnMgPiAwKQogICAgICAgIEFORCBDT0FMRVNDRShEQVRFKGJzLnNlc3Npb25fZGF0ZSksIERBVEUoYy5jcmVhdGVkX2F0IEFUIFRJTUUgWk9ORSAnQXNpYS9Lb2xrYXRhJykpID49ICR7VVNBR0VfU1RBUlRfREFURX06OmRhdGUKICAgICAgICBBTkQgQ09BTEVTQ0UoREFURShicy5zZXNzaW9uX2RhdGUpLCBEQVRFKGMuY3JlYXRlZF9hdCBBVCBUSU1FIFpPTkUgJ0FzaWEvS29sa2F0YScpKSA+PSBDVVJSRU5UX0RBVEUgLSBJTlRFUlZBTCAnMzAgZGF5cycKICAgICAgR1JPVVAgQlkgQ09BTEVTQ0UoREFURShicy5zZXNzaW9uX2RhdGUpLCBEQVRFKGMuY3JlYXRlZF9hdCBBVCBUSU1FIFpPTkUgJ0FzaWEvS29sa2F0YScpKQogICAgICBPUkRFUiBCWSBkYXkgREVTQwogICAgYDsKCiAgICAvLyBBZGQgUk0gcmVwb3J0IGdlbmVyYXRpb24gdG9rZW5zIG9uIHRvcCBvZiBpbmRpdmlkdWFsIGNhbGwgYW5hbHlzaXMgdG9rZW5zCiAgICBjb25zdCB0b3RhbElucHV0ICAgID0gTnVtYmVyKHRvdGFscy50b3RhbF9pbnB1dCkgICsgTnVtYmVyKHJtVG9rZW5zLnJtX2lucHV0KTsKICAgIGNvbnN0IHRvdGFsT3V0cHV0ICAgPSBOdW1iZXIodG90YWxzLnRvdGFsX291dHB1dCkgKyBOdW1iZXIocm1Ub2tlbnMucm1fb3V0cHV0KTsKICAgIGNvbnN0IHRvdGFsQ29zdCAgICAgPSBjYWxjQ29zdCh0b3RhbElucHV0LCB0b3RhbE91dHB1dCk7CiAgICBjb25zdCB0b3RhbER1clNlYyAgID0gTnVtYmVyKHRvdGFscy50b3RhbF9kdXJhdGlvbl9zZWMpOwoKICAgIGNvbnN0IHNhcnZhbUR1clNlYyAgID0gTnVtYmVyKHNhcnZhbVRvdGFscy50b3RhbF9kdXJhdGlvbl9zZWMpOwogICAgY29uc3Qgc2FydmFtQ2FsbHMgICAgPSBOdW1iZXIoc2FydmFtVG90YWxzLnRvdGFsX2NhbGxzKTsKICAgIGNvbnN0IHNhcnZhbVRvdGFsQ29zdCA9IGNhbGNTYXJ2YW1Db3N0KHNhcnZhbUR1clNlYyk7CgogICAgY29uc3Qgc2FydmFtRGFpbHlSb3dzID0gc2FydmFtRGFpbHkubWFwKChkOiBSZWNvcmQ8c3RyaW5nLCB1bmtub3duPikgPT4gewogICAgICBjb25zdCBkdXIgPSBOdW1iZXIoZC5kdXJhdGlvbl9zZWMpOwogICAgICByZXR1cm4gewogICAgICAgIGRheTogICAgICAgICAgZC5kYXksCiAgICAgICAgY2FsbHM6ICAgICAgICBOdW1iZXIoZC5jYWxscyksCiAgICAgICAgZHVyYXRpb25fc2VjOiBkdXIsCiAgICAgICAgY29zdF9pbnI6ICAgICBjYWxjU2FydmFtQ29zdChkdXIpLAogICAgICB9OwogICAgfSk7CgogICAgY29uc3Qgc2Vzc2lvblJvd3MgPSBzZXNzaW9ucy5tYXAoKHM6IFJlY29yZDxzdHJpbmcsIHVua25vd24+KSA9PiB7CiAgICAgIGNvbnN0IGlucCA9IE51bWJlcihzLmlucHV0X3Rva2VucyA/PyAwKTsKICAgICAgY29uc3Qgb3V0ID0gTnVtYmVyKHMub3V0cHV0X3Rva2VucyA/PyAwKTsKICAgICAgcmV0dXJuIHsKICAgICAgICBpZDogICAgICAgICAgIHMuaWQsCiAgICAgICAgcm1fbmFtZTogICAgICBzLnJtX25hbWUsCiAgICAgICAgc2Vzc2lvbl9kYXRlOiBzLnNlc3Npb25fZGF0ZSwKICAgICAgICB0b3RhbF9maWxlczogIHMudG90YWxfZmlsZXMsCiAgICAgICAgc3RhdHVzOiAgICAgICBzLnN0YXR1cywKICAgICAgICBpbnB1dF90b2tlbnM6ICBpbnAsCiAgICAgICAgb3V0cHV0X3Rva2Vuczogb3V0LAogICAgICAgIGNvc3RfdXNkOiAgICAgY2FsY0Nvc3QoaW5wLCBvdXQpLAogICAgICAgIGNyZWF0ZWRfYXQ6ICAgcy5jcmVhdGVkX2F0LAogICAgICB9OwogICAgfSk7CgogICAgY29uc3QgcmVwb3J0VHlwZURhaWx5Um93cyA9IHJlcG9ydFR5cGVEYWlseS5tYXAoKGQ6IFJlY29yZDxzdHJpbmcsIHVua25vd24+KSA9PiB7CiAgICAgIGNvbnN0IHRJbiAgPSBOdW1iZXIoZC50cmFuc2NyaXB0X2lucHV0KTsKICAgICAgY29uc3QgdE91dCA9IE51bWJlcihkLnRyYW5zY3JpcHRfb3V0cHV0KTsKICAgICAgY29uc3QgckluICA9IE51bWJlcihkLnJtX2lucHV0KTsKICAgICAgY29uc3Qgck91dCA9IE51bWJlcihkLnJtX291dHB1dCk7CiAgICAgIGNvbnN0IGRJbiAgPSBOdW1iZXIoZC5kcl9pbnB1dCk7CiAgICAgIGNvbnN0IGRPdXQgPSBOdW1iZXIoZC5kcl9vdXRwdXQpOwogICAgICByZXR1cm4gewogICAgICAgIGRheTogICAgICAgICAgICAgICAgIGQuZGF5LAogICAgICAgIHRyYW5zY3JpcHRfaW5wdXQ6ICAgIHRJbiwKICAgICAgICB0cmFuc2NyaXB0X291dHB1dDogICB0T3V0LAogICAgICAgIHRyYW5zY3JpcHRfY29zdF91c2Q6IGNhbGNDb3N0KHRJbiwgdE91dCksCiAgICAgICAgcm1faW5wdXQ6ICAgICAgICAgICAgckluLAogICAgICAgIHJtX291dHB1dDogICAgICAgICAgIHJPdXQsCiAgICAgICAgcm1fY29zdF91c2Q6ICAgICAgICAgY2FsY0Nvc3QockluLCByT3V0KSwKICAgICAgICBkYXlfcmVwb3J0X2lucHV0OiAgICBkSW4sCiAgICAgICAgZGF5X3JlcG9ydF9vdXRwdXQ6ICAgZE91dCwKICAgICAgICBkYXlfcmVwb3J0X2Nvc3RfdXNkOiBjYWxjQ29zdChkSW4sIGRPdXQpLAogICAgICAgIHRvdGFsX2Nvc3RfdXNkOiAgICAgIGNhbGNDb3N0KHRJbiArIHJJbiArIGRJbiwgdE91dCArIHJPdXQgKyBkT3V0KSwKICAgICAgfTsKICAgIH0pOwoKICAgIC8vIE1lcmdlIGRhaWx5IGNhbGwgZGF0YSAoY2FsbHMgY291bnQgKyBkdXJhdGlvbikgd2l0aCBmdWxsIGNvc3QgYnJlYWtkb3duCiAgICAvLyAodHJhbnNjcmlwdCBhbmFseXNpcyArIFJNIHJlcG9ydCBnZW5lcmF0aW9uICsgZGF5IGVuZCByZXBvcnQgZ2VuZXJhdGlvbikKICAgIGNvbnN0IHJlcG9ydFR5cGVNYXAgPSBuZXcgTWFwPHN0cmluZywgUmVjb3JkPHN0cmluZywgdW5rbm93bj4+KAogICAgICByZXBvcnRUeXBlRGFpbHlSb3dzLm1hcCgocjogUmVjb3JkPHN0cmluZywgdW5rbm93bj4pID0+IFtTdHJpbmcoci5kYXkpLCByXSkKICAgICk7CiAgICBjb25zdCBjYWxsRGFpbHlNYXAgPSBuZXcgTWFwPHN0cmluZywgUmVjb3JkPHN0cmluZywgdW5rbm93bj4+KAogICAgICAoZGFpbHkgYXMgUmVjb3JkPHN0cmluZywgdW5rbm93bj5bXSkubWFwKGQgPT4gW1N0cmluZyhkLmRheSksIGRdKQogICAgKTsKICAgIGNvbnN0IGFsbERheXMgPSBbLi4ubmV3IFNldChbCiAgICAgIC4uLnJlcG9ydFR5cGVEYWlseVJvd3MubWFwKChyOiBSZWNvcmQ8c3RyaW5nLCB1bmtub3duPikgPT4gU3RyaW5nKHIuZGF5KSksCiAgICAgIC4uLihkYWlseSBhcyBSZWNvcmQ8c3RyaW5nLCB1bmtub3duPltdKS5tYXAoZCA9PiBTdHJpbmcoZC5kYXkpKSwKICAgIF0pXS5zb3J0KChhLCBiKSA9PiBiLmxvY2FsZUNvbXBhcmUoYSkpOwoKICAgIGNvbnN0IGRhaWx5Um93cyA9IGFsbERheXMubWFwKGRheUtleSA9PiB7CiAgICAgIGNvbnN0IGNhbGxEID0gY2FsbERhaWx5TWFwLmdldChkYXlLZXkpOwogICAgICBjb25zdCB0eXBlRCA9IHJlcG9ydFR5cGVNYXAuZ2V0KGRheUtleSk7CgogICAgICBjb25zdCB0SW4gID0gdHlwZUQgPyBOdW1iZXIodHlwZUQudHJhbnNjcmlwdF9pbnB1dCkgIDogKGNhbGxEID8gTnVtYmVyKGNhbGxELmlucHV0X3Rva2VucykgIDogMCk7CiAgICAgIGNvbnN0IHRPdXQgPSB0eXBlRCA/IE51bWJlcih0eXBlRC50cmFuc2NyaXB0X291dHB1dCkgOiAoY2FsbEQgPyBOdW1iZXIoY2FsbEQub3V0cHV0X3Rva2VucykgOiAwKTsKICAgICAgY29uc3QgckluICA9IHR5cGVEID8gTnVtYmVyKHR5cGVELnJtX2lucHV0KSAgOiAwOwogICAgICBjb25zdCByT3V0ID0gdHlwZUQgPyBOdW1iZXIodHlwZUQucm1fb3V0cHV0KSA6IDA7CiAgICAgIGNvbnN0IGRJbiAgPSB0eXBlRCA/IE51bWJlcih0eXBlRC5kcl9pbnB1dCkgIDogMDsKICAgICAgY29uc3QgZE91dCA9IHR5cGVEID8gTnVtYmVyKHR5cGVELmRyX291dHB1dCkgOiAwOwoKICAgICAgY29uc3QgZnVsbElucHV0ICA9IHRJbiArIHJJbiArIGRJbjsKICAgICAgY29uc3QgZnVsbE91dHB1dCA9IHRPdXQgKyByT3V0ICsgZE91dDsKCiAgICAgIHJldHVybiB7CiAgICAgICAgZGF5OiAgICAgICAgICAgICAgICAgIGRheUtleSwKICAgICAgICBjYWxsczogICAgICAgICAgICAgICAgY2FsbEQgPyBOdW1iZXIoY2FsbEQuY2FsbHMpIDogMCwKICAgICAgICBpbnB1dF90b2tlbnM6ICAgICAgICAgZnVsbElucHV0LAogICAgICAgIG91dHB1dF90b2tlbnM6ICAgICAgICBmdWxsT3V0cHV0LAogICAgICAgIGR1cmF0aW9uX3NlYzogICAgICAgICBjYWxsRCA/IE51bWJlcihjYWxsRC5kdXJhdGlvbl9zZWMpIDogMCwKICAgICAgICBjb3N0X3VzZDogICAgICAgICAgICAgY2FsY0Nvc3QoZnVsbElucHV0LCBmdWxsT3V0cHV0KSwKICAgICAgICB0cmFuc2NyaXB0X2Nvc3RfdXNkOiAgY2FsY0Nvc3QodEluLCB0T3V0KSwKICAgICAgICBybV9jb3N0X3VzZDogICAgICAgICAgY2FsY0Nvc3QockluLCByT3V0KSwKICAgICAgICBkYXlfcmVwb3J0X2Nvc3RfdXNkOiAgY2FsY0Nvc3QoZEluLCBkT3V0KSwKICAgICAgfTsKICAgIH0pOwoKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7CiAgICAgIHN1bW1hcnk6IHsKICAgICAgICB0b3RhbF9jYWxsczogICAgICAgIE51bWJlcih0b3RhbHMudG90YWxfY2FsbHMpLAogICAgICAgIHRvdGFsX2lucHV0OiAgICAgICAgdG90YWxJbnB1dCwKICAgICAgICB0b3RhbF9vdXRwdXQ6ICAgICAgIHRvdGFsT3V0cHV0LAogICAgICAgIHRvdGFsX3Rva2VuczogICAgICAgdG90YWxJbnB1dCArIHRvdGFsT3V0cHV0LAogICAgICAgIHRvdGFsX2Nvc3RfdXNkOiAgICAgdG90YWxDb3N0LAogICAgICAgIHRvdGFsX2R1cmF0aW9uX3NlYzogdG90YWxEdXJTZWMsCiAgICAgICAgYXZnX2Nvc3RfcGVyX2NhbGw6ICBOdW1iZXIodG90YWxzLnRvdGFsX2NhbGxzKSA+IDAgPyB0b3RhbENvc3QgLyBOdW1iZXIodG90YWxzLnRvdGFsX2NhbGxzKSA6IDAsCiAgICAgICAgdG9rZW5zX3Blcl9zZWM6ICAgICB0b3RhbER1clNlYyA+IDAgPyAodG90YWxJbnB1dCArIHRvdGFsT3V0cHV0KSAvIHRvdGFsRHVyU2VjIDogbnVsbCwKICAgICAgICBjb3N0X3Blcl9zZWM6ICAgICAgIHRvdGFsRHVyU2VjID4gMCA/IHRvdGFsQ29zdCAvIHRvdGFsRHVyU2VjIDogbnVsbCwKICAgICAgfSwKICAgICAgc2Vzc2lvbnM6ICAgICAgICAgc2Vzc2lvblJvd3MsCiAgICAgIGRhaWx5OiAgICAgICAgICAgIGRhaWx5Um93cywKICAgICAgZGFpbHlfYnlfdHlwZTogICAgcmVwb3J0VHlwZURhaWx5Um93cywKICAgICAgbGF0ZW5jeTogewogICAgICAgIGF2Z19tczogICAgICBsYXRlbmN5LmF2Z19tcyAgICAgID8gTnVtYmVyKGxhdGVuY3kuYXZnX21zKSAgICAgIDogbnVsbCwKICAgICAgICBtaW5fbXM6ICAgICAgbGF0ZW5jeS5taW5fbXMgICAgICA/IE51bWJlcihsYXRlbmN5Lm1pbl9tcykgICAgICA6IG51bGwsCiAgICAgICAgbWF4X21zOiAgICAgIGxhdGVuY3kubWF4X21zICAgICAgPyBOdW1iZXIobGF0ZW5jeS5tYXhfbXMpICAgICAgOiBudWxsLAogICAgICAgIHRpbWVkX2NhbGxzOiBOdW1iZXIobGF0ZW5jeS50aW1lZF9jYWxscyksCiAgICAgIH0sCiAgICAgIHByaWNpbmc6IHsKICAgICAgICBtb2RlbDogICAgICAgICAnY2xhdWRlLXNvbm5ldC00LTYnLAogICAgICAgIGlucHV0X3Blcl8xbTogIFBSSUNFX0lOUFVUX1BFUl9NLAogICAgICAgIG91dHB1dF9wZXJfMW06IFBSSUNFX09VVFBVVF9QRVJfTSwKICAgICAgICBjdXJyZW5jeTogICAgICAnVVNEJywKICAgICAgfSwKICAgICAgc2FydmFtOiB7CiAgICAgICAgdG90YWxfY2FsbHM6ICAgICAgICBzYXJ2YW1DYWxscywKICAgICAgICB0b3RhbF9kdXJhdGlvbl9zZWM6IHNhcnZhbUR1clNlYywKICAgICAgICB0b3RhbF9jb3N0X2lucjogICAgIHNhcnZhbVRvdGFsQ29zdCwKICAgICAgICBhdmdfY29zdF9wZXJfY2FsbDogIHNhcnZhbUNhbGxzID4gMCA/IHNhcnZhbVRvdGFsQ29zdCAvIHNhcnZhbUNhbGxzIDogMCwKICAgICAgICBhdmdfZHVyYXRpb25fc2VjOiAgIHNhcnZhbUNhbGxzID4gMCA/IHNhcnZhbUR1clNlYyAvIHNhcnZhbUNhbGxzIDogMCwKICAgICAgICBwcmljZV9wZXJfaG91cl9pbnI6IFNBUlZBTV9QUklDRV9QRVJfSE9VUl9JTlIsCiAgICAgICAgZGFpbHk6ICAgICAgICAgICAgICBzYXJ2YW1EYWlseVJvd3MsCiAgICAgIH0sCiAgICB9KTsKICB9IGNhdGNoIChlcnI6IHVua25vd24pIHsKICAgIGNvbnN0IG1lc3NhZ2UgPSBlcnIgaW5zdGFuY2VvZiBFcnJvciA/IGVyci5tZXNzYWdlIDogJ0ZhaWxlZCB0byBmZXRjaCB1c2FnZSc7CiAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBlcnJvcjogbWVzc2FnZSB9LCB7IHN0YXR1czogNTAwIH0pOwogIH0KfQo="}
+import { NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+
+// Claude Sonnet 4.6 pricing (per million tokens)
+const PRICE_INPUT_PER_M  = 3.0;   // $3.00 per 1M input tokens
+const PRICE_OUTPUT_PER_M = 15.0;  // $15.00 per 1M output tokens
+
+// Sarvam AI pricing: ₹36/hour (Saarika v2.5 actual rate)
+const SARVAM_PRICE_PER_HOUR_INR = 36;
+const SARVAM_PRICE_PER_SEC_INR  = SARVAM_PRICE_PER_HOUR_INR / 3600;
+
+// Only show data from this date onwards (pre-production data excluded)
+const USAGE_START_DATE = '2026-04-21';
+
+function calcCost(inputTokens: number, outputTokens: number) {
+  return (inputTokens / 1_000_000) * PRICE_INPUT_PER_M
+       + (outputTokens / 1_000_000) * PRICE_OUTPUT_PER_M;
+}
+
+function calcSarvamCost(durationSec: number) {
+  return durationSec * SARVAM_PRICE_PER_SEC_INR;
+}
+
+export async function GET() {
+  try {
+    const sql = getDb();
+
+    // Ensure day_reports has token columns (idempotent — safe to run every request)
+    await sql`
+      ALTER TABLE day_reports
+        ADD COLUMN IF NOT EXISTS input_tokens  BIGINT NOT NULL DEFAULT 0,
+        ADD COLUMN IF NOT EXISTS output_tokens BIGINT NOT NULL DEFAULT 0
+    `;
+
+    // Claude API latency stats — only from calls on/after USAGE_START_DATE
+    const [latency] = await sql`
+      SELECT
+        ROUND(AVG(r.claude_latency_ms))  AS avg_ms,
+        MIN(r.claude_latency_ms)         AS min_ms,
+        MAX(r.claude_latency_ms)         AS max_ms,
+        COUNT(r.claude_latency_ms)       AS timed_calls
+      FROM reports r
+      JOIN calls c ON c.id = r.call_id
+      LEFT JOIN bulk_sessions bs ON bs.id = c.session_id
+      WHERE r.claude_latency_ms IS NOT NULL
+        AND COALESCE(DATE(bs.session_date), DATE(c.created_at AT TIME ZONE 'Asia/Kolkata')) >= ${USAGE_START_DATE}::date
+    `;
+
+    // Sarvam AI totals — on/after USAGE_START_DATE
+    const [sarvamTotals] = await sql`
+      SELECT
+        COUNT(*)                                     AS total_calls,
+        COALESCE(SUM(r.sarvam_duration_sec), 0)      AS total_duration_sec
+      FROM reports r
+      JOIN calls c ON c.id = r.call_id
+      LEFT JOIN bulk_sessions bs ON bs.id = c.session_id
+      WHERE r.sarvam_duration_sec > 0
+        AND COALESCE(DATE(bs.session_date), DATE(c.created_at AT TIME ZONE 'Asia/Kolkata')) >= ${USAGE_START_DATE}::date
+    `;
+
+    // Sarvam daily breakdown (last 30 days, on/after USAGE_START_DATE)
+    const sarvamDaily = await sql`
+      SELECT
+        COALESCE(DATE(bs.session_date), DATE(c.created_at AT TIME ZONE 'Asia/Kolkata')) AS day,
+        COUNT(*)                                     AS calls,
+        COALESCE(SUM(r.sarvam_duration_sec), 0)     AS duration_sec
+      FROM reports r
+      JOIN calls c ON c.id = r.call_id
+      LEFT JOIN bulk_sessions bs ON bs.id = c.session_id
+      WHERE r.sarvam_duration_sec > 0
+        AND COALESCE(DATE(bs.session_date), DATE(c.created_at AT TIME ZONE 'Asia/Kolkata')) >= ${USAGE_START_DATE}::date
+        AND COALESCE(DATE(bs.session_date), DATE(c.created_at AT TIME ZONE 'Asia/Kolkata')) >= CURRENT_DATE - INTERVAL '30 days'
+      GROUP BY COALESCE(DATE(bs.session_date), DATE(c.created_at AT TIME ZONE 'Asia/Kolkata'))
+      ORDER BY day DESC
+    `;
+
+    // Overall totals — on/after USAGE_START_DATE
+    const [totals] = await sql`
+      SELECT
+        COUNT(*)                                                              AS total_calls,
+        COALESCE(SUM(r.input_tokens),  0)                                     AS total_input,
+        COALESCE(SUM(r.output_tokens), 0)                                     AS total_output,
+        COALESCE(SUM(
+          CASE WHEN r.duration IS NOT NULL AND r.duration != ''
+               THEN REGEXP_REPLACE(r.duration, '[^0-9.]', '', 'g')::numeric * 60
+               ELSE NULL
+          END
+        ), 0)                                                                 AS total_duration_sec
+      FROM reports r
+      JOIN calls c ON c.id = r.call_id
+      LEFT JOIN bulk_sessions bs ON bs.id = c.session_id
+      WHERE (r.input_tokens > 0 OR r.output_tokens > 0)
+        AND COALESCE(DATE(bs.session_date), DATE(c.created_at AT TIME ZONE 'Asia/Kolkata')) >= ${USAGE_START_DATE}::date
+    `;
+
+    // RM report generation tokens — from bulk_sessions on/after USAGE_START_DATE
+    const [rmTokens] = await sql`
+      SELECT
+        COALESCE(SUM(bs.input_tokens  - COALESCE(r_agg.total_in,  0)), 0) AS rm_input,
+        COALESCE(SUM(bs.output_tokens - COALESCE(r_agg.total_out, 0)), 0) AS rm_output
+      FROM bulk_sessions bs
+      LEFT JOIN (
+        SELECT c.session_id,
+          COALESCE(SUM(r.input_tokens),  0) AS total_in,
+          COALESCE(SUM(r.output_tokens), 0) AS total_out
+        FROM calls c
+        JOIN reports r ON r.call_id = c.id
+        GROUP BY c.session_id
+      ) r_agg ON r_agg.session_id = bs.id
+      WHERE (bs.input_tokens > 0 OR bs.output_tokens > 0)
+        AND DATE(bs.session_date) >= ${USAGE_START_DATE}::date
+    `;
+
+    // Per-session breakdown — on/after USAGE_START_DATE
+    const sessions = await sql`
+      SELECT
+        bs.id,
+        bs.rm_name,
+        bs.session_date,
+        bs.total_files,
+        bs.status,
+        bs.input_tokens,
+        bs.output_tokens,
+        bs.created_at
+      FROM bulk_sessions bs
+      WHERE DATE(bs.session_date) >= ${USAGE_START_DATE}::date
+      ORDER BY bs.session_date DESC, bs.created_at DESC
+    `;
+
+    // Per-date breakdown by report type (last 30 days, on/after USAGE_START_DATE)
+    // 1. Transcript analysis tokens (from reports table, per call)
+    // 2. RM report generation tokens (bulk_sessions total minus call tokens = RM-only portion)
+    // 3. Day end report tokens (from day_reports table)
+    const reportTypeDaily = await sql`
+      WITH call_date AS (
+        SELECT
+          COALESCE(DATE(bs.session_date), DATE(c.created_at AT TIME ZONE 'Asia/Kolkata')) AS day,
+          COALESCE(SUM(r.input_tokens),  0) AS transcript_input,
+          COALESCE(SUM(r.output_tokens), 0) AS transcript_output
+        FROM reports r
+        JOIN calls c ON c.id = r.call_id
+        LEFT JOIN bulk_sessions bs ON bs.id = c.session_id
+        WHERE (r.input_tokens > 0 OR r.output_tokens > 0)
+          AND COALESCE(DATE(bs.session_date), DATE(c.created_at AT TIME ZONE 'Asia/Kolkata')) >= ${USAGE_START_DATE}::date
+          AND COALESCE(DATE(bs.session_date), DATE(c.created_at AT TIME ZONE 'Asia/Kolkata')) >= CURRENT_DATE - INTERVAL '30 days'
+        GROUP BY 1
+      ),
+      rm_date AS (
+        SELECT
+          DATE(bs.session_date) AS day,
+          COALESCE(SUM(bs.input_tokens  - COALESCE(r_agg.total_in,  0)), 0) AS rm_input,
+          COALESCE(SUM(bs.output_tokens - COALESCE(r_agg.total_out, 0)), 0) AS rm_output
+        FROM bulk_sessions bs
+        LEFT JOIN (
+          SELECT c.session_id,
+            COALESCE(SUM(r.input_tokens),  0) AS total_in,
+            COALESCE(SUM(r.output_tokens), 0) AS total_out
+          FROM calls c JOIN reports r ON r.call_id = c.id
+          GROUP BY c.session_id
+        ) r_agg ON r_agg.session_id = bs.id
+        WHERE (bs.input_tokens > 0 OR bs.output_tokens > 0)
+          AND DATE(bs.session_date) >= ${USAGE_START_DATE}::date
+          AND DATE(bs.session_date) >= CURRENT_DATE - INTERVAL '30 days'
+        GROUP BY 1
+      ),
+      day_rpt AS (
+        SELECT
+          report_date::date AS day,
+          COALESCE(input_tokens,  0) AS dr_input,
+          COALESCE(output_tokens, 0) AS dr_output
+        FROM day_reports
+        WHERE report_date >= ${USAGE_START_DATE}::date
+          AND report_date >= CURRENT_DATE - INTERVAL '30 days'
+      )
+      SELECT
+        COALESCE(cd.day, rd.day, dr.day)            AS day,
+        COALESCE(cd.transcript_input,  0)           AS transcript_input,
+        COALESCE(cd.transcript_output, 0)           AS transcript_output,
+        COALESCE(rd.rm_input,          0)           AS rm_input,
+        COALESCE(rd.rm_output,         0)           AS rm_output,
+        COALESCE(dr.dr_input,          0)           AS dr_input,
+        COALESCE(dr.dr_output,         0)           AS dr_output
+      FROM call_date cd
+      FULL OUTER JOIN rm_date rd  ON rd.day  = cd.day
+      FULL OUTER JOIN day_rpt dr  ON dr.day  = COALESCE(cd.day, rd.day)
+      ORDER BY day DESC
+    `;
+
+    // Daily aggregation (last 30 days, on/after USAGE_START_DATE)
+    const daily = await sql`
+      SELECT
+        COALESCE(DATE(bs.session_date), DATE(c.created_at AT TIME ZONE 'Asia/Kolkata')) AS day,
+        COUNT(*)                              AS calls,
+        COALESCE(SUM(r.input_tokens),  0)    AS input_tokens,
+        COALESCE(SUM(r.output_tokens), 0)    AS output_tokens,
+        COALESCE(SUM(c.duration_sec),  0)    AS duration_sec
+      FROM reports r
+      JOIN calls c ON c.id = r.call_id
+      LEFT JOIN bulk_sessions bs ON bs.id = c.session_id
+      WHERE (r.input_tokens > 0 OR r.output_tokens > 0)
+        AND COALESCE(DATE(bs.session_date), DATE(c.created_at AT TIME ZONE 'Asia/Kolkata')) >= ${USAGE_START_DATE}::date
+        AND COALESCE(DATE(bs.session_date), DATE(c.created_at AT TIME ZONE 'Asia/Kolkata')) >= CURRENT_DATE - INTERVAL '30 days'
+      GROUP BY COALESCE(DATE(bs.session_date), DATE(c.created_at AT TIME ZONE 'Asia/Kolkata'))
+      ORDER BY day DESC
+    `;
+
+    // Add RM report generation tokens on top of individual call analysis tokens
+    const totalInput    = Number(totals.total_input)  + Number(rmTokens.rm_input);
+    const totalOutput   = Number(totals.total_output) + Number(rmTokens.rm_output);
+    const totalCost     = calcCost(totalInput, totalOutput);
+    const totalDurSec   = Number(totals.total_duration_sec);
+
+    const sarvamDurSec   = Number(sarvamTotals.total_duration_sec);
+    const sarvamCalls    = Number(sarvamTotals.total_calls);
+    const sarvamTotalCost = calcSarvamCost(sarvamDurSec);
+
+    const sarvamDailyRows = sarvamDaily.map((d: Record<string, unknown>) => {
+      const dur = Number(d.duration_sec);
+      return {
+        day:          d.day,
+        calls:        Number(d.calls),
+        duration_sec: dur,
+        cost_inr:     calcSarvamCost(dur),
+      };
+    });
+
+    const sessionRows = sessions.map((s: Record<string, unknown>) => {
+      const inp = Number(s.input_tokens ?? 0);
+      const out = Number(s.output_tokens ?? 0);
+      return {
+        id:           s.id,
+        rm_name:      s.rm_name,
+        session_date: s.session_date,
+        total_files:  s.total_files,
+        status:       s.status,
+        input_tokens:  inp,
+        output_tokens: out,
+        cost_usd:     calcCost(inp, out),
+        created_at:   s.created_at,
+      };
+    });
+
+    const reportTypeDailyRows = reportTypeDaily.map((d: Record<string, unknown>) => {
+      const tIn  = Number(d.transcript_input);
+      const tOut = Number(d.transcript_output);
+      const rIn  = Number(d.rm_input);
+      const rOut = Number(d.rm_output);
+      const dIn  = Number(d.dr_input);
+      const dOut = Number(d.dr_output);
+      return {
+        day:                 d.day,
+        transcript_input:    tIn,
+        transcript_output:   tOut,
+        transcript_cost_usd: calcCost(tIn, tOut),
+        rm_input:            rIn,
+        rm_output:           rOut,
+        rm_cost_usd:         calcCost(rIn, rOut),
+        day_report_input:    dIn,
+        day_report_output:   dOut,
+        day_report_cost_usd: calcCost(dIn, dOut),
+        total_cost_usd:      calcCost(tIn + rIn + dIn, tOut + rOut + dOut),
+      };
+    });
+
+    // Merge daily call data (calls count + duration) with full cost breakdown
+    // (transcript analysis + RM report generation + day end report generation)
+    const reportTypeMap = new Map<string, Record<string, unknown>>(
+      reportTypeDailyRows.map((r: Record<string, unknown>) => [String(r.day), r])
+    );
+    const callDailyMap = new Map<string, Record<string, unknown>>(
+      (daily as Record<string, unknown>[]).map(d => [String(d.day), d])
+    );
+    const allDays = [...new Set([
+      ...reportTypeDailyRows.map((r: Record<string, unknown>) => String(r.day)),
+      ...(daily as Record<string, unknown>[]).map(d => String(d.day)),
+    ])].sort((a, b) => b.localeCompare(a));
+
+    const dailyRows = allDays.map(dayKey => {
+      const callD = callDailyMap.get(dayKey);
+      const typeD = reportTypeMap.get(dayKey);
+
+      const tIn  = typeD ? Number(typeD.transcript_input)  : (callD ? Number(callD.input_tokens)  : 0);
+      const tOut = typeD ? Number(typeD.transcript_output) : (callD ? Number(callD.output_tokens) : 0);
+      const rIn  = typeD ? Number(typeD.rm_input)  : 0;
+      const rOut = typeD ? Number(typeD.rm_output) : 0;
+      const dIn  = typeD ? Number(typeD.dr_input)  : 0;
+      const dOut = typeD ? Number(typeD.dr_output) : 0;
+
+      const fullInput  = tIn + rIn + dIn;
+      const fullOutput = tOut + rOut + dOut;
+
+      return {
+        day:                  dayKey,
+        calls:                callD ? Number(callD.calls) : 0,
+        input_tokens:         fullInput,
+        output_tokens:        fullOutput,
+        duration_sec:         callD ? Number(callD.duration_sec) : 0,
+        cost_usd:             calcCost(fullInput, fullOutput),
+        transcript_cost_usd:  calcCost(tIn, tOut),
+        rm_cost_usd:          calcCost(rIn, rOut),
+        day_report_cost_usd:  calcCost(dIn, dOut),
+      };
+    });
+
+    return NextResponse.json({
+      summary: {
+        total_calls:        Number(totals.total_calls),
+        total_input:        totalInput,
+        total_output:       totalOutput,
+        total_tokens:       totalInput + totalOutput,
+        total_cost_usd:     totalCost,
+        total_duration_sec: totalDurSec,
+        avg_cost_per_call:  Number(totals.total_calls) > 0 ? totalCost / Number(totals.total_calls) : 0,
+        tokens_per_sec:     totalDurSec > 0 ? (totalInput + totalOutput) / totalDurSec : null,
+        cost_per_sec:       totalDurSec > 0 ? totalCost / totalDurSec : null,
+      },
+      sessions:         sessionRows,
+      daily:            dailyRows,
+      daily_by_type:    reportTypeDailyRows,
+      latency: {
+        avg_ms:      latency.avg_ms      ? Number(latency.avg_ms)      : null,
+        min_ms:      latency.min_ms      ? Number(latency.min_ms)      : null,
+        max_ms:      latency.max_ms      ? Number(latency.max_ms)      : null,
+        timed_calls: Number(latency.timed_calls),
+      },
+      pricing: {
+        model:         'claude-sonnet-4-6',
+        input_per_1m:  PRICE_INPUT_PER_M,
+        output_per_1m: PRICE_OUTPUT_PER_M,
+        currency:      'USD',
+      },
+      sarvam: {
+        total_calls:        sarvamCalls,
+        total_duration_sec: sarvamDurSec,
+        total_cost_inr:     sarvamTotalCost,
+        avg_cost_per_call:  sarvamCalls > 0 ? sarvamTotalCost / sarvamCalls : 0,
+        avg_duration_sec:   sarvamCalls > 0 ? sarvamDurSec / sarvamCalls : 0,
+        price_per_hour_inr: SARVAM_PRICE_PER_HOUR_INR,
+        daily:              sarvamDailyRows,
+      },
+    });
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : 'Failed to fetch usage';
+    return NextResponse.json({ error: message }, { status: 500 });
+  }
+}

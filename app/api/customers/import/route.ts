@@ -1,1 +1,132 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgZ2V0RGIgfSBmcm9tICdAL2xpYi9kYic7CgovLyBBbGxvdyBsYXJnZXIgQ1NWIHVwbG9hZHMgKHVwIHRvIDEwIE1CKQpleHBvcnQgY29uc3QgbWF4RHVyYXRpb24gPSA2MDsgLy8gc2Vjb25kcwoKLyoqIFBhcnNlIGEgQ1NWIHN0cmluZyBpbnRvIGFuIGFycmF5IG9mIG9iamVjdHMga2V5ZWQgYnkgaGVhZGVyIHJvdyAqLwpmdW5jdGlvbiBwYXJzZUNTVih0ZXh0OiBzdHJpbmcpOiBSZWNvcmQ8c3RyaW5nLCBzdHJpbmc+W10gewogIGNvbnN0IGxpbmVzID0gdGV4dC5yZXBsYWNlKC9cclxuL2csICdcbicpLnJlcGxhY2UoL1xyL2csICdcbicpLnNwbGl0KCdcbicpLmZpbHRlcihsID0+IGwudHJpbSgpKTsKICBpZiAobGluZXMubGVuZ3RoIDwgMikgcmV0dXJuIFtdOwoKICBmdW5jdGlvbiBzcGxpdExpbmUobGluZTogc3RyaW5nKTogc3RyaW5nW10gewogICAgY29uc3QgcmVzdWx0OiBzdHJpbmdbXSA9IFtdOwogICAgbGV0IGN1ciA9ICcnOwogICAgbGV0IGluUXVvdGVzID0gZmFsc2U7CiAgICBmb3IgKGxldCBpID0gMDsgaSA8IGxpbmUubGVuZ3RoOyBpKyspIHsKICAgICAgY29uc3QgY2ggPSBsaW5lW2ldOwogICAgICBpZiAoY2ggPT09ICciJykgeyBpblF1b3RlcyA9ICFpblF1b3RlczsgfQogICAgICBlbHNlIGlmIChjaCA9PT0gJywnICYmICFpblF1b3RlcykgeyByZXN1bHQucHVzaChjdXIudHJpbSgpKTsgY3VyID0gJyc7IH0KICAgICAgZWxzZSB7IGN1ciArPSBjaDsgfQogICAgfQogICAgcmVzdWx0LnB1c2goY3VyLnRyaW0oKSk7CiAgICByZXR1cm4gcmVzdWx0OwogIH0KCiAgY29uc3QgaGVhZGVycyA9IHNwbGl0TGluZShsaW5lc1swXSkubWFwKGggPT4gaC50b0xvd2VyQ2FzZSgpLnJlcGxhY2UoL1teYS16MC05X10vZywgJ18nKSk7CiAgcmV0dXJuIGxpbmVzLnNsaWNlKDEpLm1hcChsaW5lID0+IHsKICAgIGNvbnN0IHZhbHMgPSBzcGxpdExpbmUobGluZSk7CiAgICBjb25zdCByb3c6IFJlY29yZDxzdHJpbmcsIHN0cmluZz4gPSB7fTsKICAgIGhlYWRlcnMuZm9yRWFjaCgoaCwgaSkgPT4geyByb3dbaF0gPSAodmFsc1tpXSA/PyAnJykucmVwbGFjZSgvXiJ8IiQvZywgJycpLnRyaW0oKTsgfSk7CiAgICByZXR1cm4gcm93OwogIH0pOwp9CgovKiogTm9ybWFsaXNlIHBob25lOiBzdHJpcCBjb3VudHJ5IGNvZGUgcHJlZml4LCBrZWVwIGxhc3QgMTAgZGlnaXRzICovCmZ1bmN0aW9uIG5vcm1hbGlzZVBob25lKHJhdzogc3RyaW5nKTogc3RyaW5nIHwgbnVsbCB7CiAgY29uc3QgZGlnaXRzID0gcmF3LnJlcGxhY2UoL1xEL2csICcnKTsKICBpZiAoZGlnaXRzLmxlbmd0aCA9PT0gMTApIHJldHVybiBkaWdpdHM7CiAgaWYgKGRpZ2l0cy5sZW5ndGggPT09IDEyICYmIGRpZ2l0cy5zdGFydHNXaXRoKCc5MScpKSByZXR1cm4gZGlnaXRzLnNsaWNlKDIpOwogIGlmIChkaWdpdHMubGVuZ3RoID09PSAxMSAmJiBkaWdpdHMuc3RhcnRzV2l0aCgnMCcpKSByZXR1cm4gZGlnaXRzLnNsaWNlKDEpOwogIGlmIChkaWdpdHMubGVuZ3RoID4gMTApIHJldHVybiBkaWdpdHMuc2xpY2UoLTEwKTsKICByZXR1cm4gbnVsbDsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIFBPU1QocmVxOiBOZXh0UmVxdWVzdCkgewogIGNvbnN0IHNxbCA9IGdldERiKCk7CgogIHRyeSB7CiAgICBjb25zdCBmb3JtRGF0YSA9IGF3YWl0IHJlcS5mb3JtRGF0YSgpOwogICAgY29uc3QgZmlsZSA9IGZvcm1EYXRhLmdldCgnZmlsZScpIGFzIEZpbGUgfCBudWxsOwogICAgaWYgKCFmaWxlKSByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBlcnJvcjogJ05vIGZpbGUgcHJvdmlkZWQnIH0sIHsgc3RhdHVzOiA0MDAgfSk7CgogICAgY29uc3QgdGV4dCA9IGF3YWl0IGZpbGUudGV4dCgpOwogICAgY29uc3Qgcm93cyA9IHBhcnNlQ1NWKHRleHQpOwogICAgaWYgKHJvd3MubGVuZ3RoID09PSAwKSByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBlcnJvcjogJ0NTViBpcyBlbXB0eSBvciBoYXMgbm8gZGF0YSByb3dzJyB9LCB7IHN0YXR1czogNDAwIH0pOwoKICAgIC8vIERldGVjdCBjb2x1bW4gbmFtZXMgZmxleGlibHkKICAgIGNvbnN0IHNhbXBsZSA9IHJvd3NbMF07CiAgICBjb25zdCBrZXlzID0gT2JqZWN0LmtleXMoc2FtcGxlKTsKICAgIGNvbnN0IHBob25lS2V5ICA9IGtleXMuZmluZChrID0+IC9waG9uZXxtb2JpbGV8bW9ifGNvbnRhY3QvLnRlc3QoaykpID8/ICdwaG9uZSc7CiAgICBjb25zdCBuYW1lS2V5ICAgPSBrZXlzLmZpbmQoayA9PiAvXm5hbWUkfGZ1bGxfbmFtZXxjdXN0b21lcl9uYW1lLy50ZXN0KGspKSA/PyAnbmFtZSc7CiAgICBjb25zdCB1c2VySWRLZXkgPSBrZXlzLmZpbmQoayA9PiAvdXNlcl9pZHx1c2VyaWR8aWQvLnRlc3QoaykpOwoKICAgIC8vIOKUgOKUgCBCdWlsZCB2YWxpZC1yb3cgbWFwIChkZWR1cGxpY2F0ZSBieSBwaG9uZSDigJQgbGFzdCByb3cgd2lucykg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACiAgICBjb25zdCByb3dNYXAgPSBuZXcgTWFwPHN0cmluZywgeyBuYW1lOiBzdHJpbmcgfCBudWxsOyB1c2VySWQ6IHN0cmluZyB8IG51bGwgfT4oKTsKICAgIGxldCBza2lwcGVkID0gMDsKCiAgICBmb3IgKGNvbnN0IHJvdyBvZiByb3dzKSB7CiAgICAgIGNvbnN0IHBob25lID0gbm9ybWFsaXNlUGhvbmUocm93W3Bob25lS2V5XSA/PyAnJyk7CiAgICAgIGlmICghcGhvbmUpIHsgc2tpcHBlZCsrOyBjb250aW51ZTsgfQogICAgICByb3dNYXAuc2V0KHBob25lLCB7CiAgICAgICAgbmFtZTogICByb3dbbmFtZUtleV0/LnRyaW0oKSB8fCBudWxsLAogICAgICAgIHVzZXJJZDogdXNlcklkS2V5ID8gcm93W3VzZXJJZEtleV0/LnRyaW0oKSB8fCBudWxsIDogbnVsbCwKICAgICAgfSk7CiAgICB9CgogICAgY29uc3QgcGhvbmVzOiAgc3RyaW5nW10gICAgICAgICAgPSBbXTsKICAgIGNvbnN0IG5hbWVzOiAgIChzdHJpbmcgfCBudWxsKVtdID0gW107CiAgICBjb25zdCB1c2VySWRzOiAoc3RyaW5nIHwgbnVsbClbXSA9IFtdOwogICAgZm9yIChjb25zdCBbcGhvbmUsIHsgbmFtZSwgdXNlcklkIH1dIG9mIHJvd01hcCkgewogICAgICBwaG9uZXMucHVzaChwaG9uZSk7CiAgICAgIG5hbWVzLnB1c2gobmFtZSk7CiAgICAgIHVzZXJJZHMucHVzaCh1c2VySWQpOwogICAgfQoKICAgIGlmIChwaG9uZXMubGVuZ3RoID09PSAwKSB7CiAgICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IGVycm9yOiAnTm8gdmFsaWQgcGhvbmUgbnVtYmVycyBmb3VuZCBpbiBDU1YnIH0sIHsgc3RhdHVzOiA0MDAgfSk7CiAgICB9CgogICAgLy8g4pSA4pSAIFNpbmdsZSBidWxrIHVwc2VydCB2aWEgdW5uZXN0IOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAogICAgLy8geG1heCA9IDAg4oaSIGZyZXNobHkgaW5zZXJ0ZWQgcm93OyB4bWF4ICE9IDAg4oaSIHVwZGF0ZWQgcm93CiAgICBjb25zdCBCQVRDSCA9IDUwMDA7CiAgICBsZXQgaW5zZXJ0ZWQgPSAwLCB1cGRhdGVkID0gMDsKCiAgICBmb3IgKGxldCBpID0gMDsgaSA8IHBob25lcy5sZW5ndGg7IGkgKz0gQkFUQ0gpIHsKICAgICAgY29uc3QgYlBob25lcyAgPSBwaG9uZXMuc2xpY2UoaSwgaSArIEJBVENIKTsKICAgICAgY29uc3QgYk5hbWVzICAgPSBuYW1lcy5zbGljZShpLCBpICsgQkFUQ0gpOwogICAgICBjb25zdCBiVXNlcklkcyA9IHVzZXJJZHMuc2xpY2UoaSwgaSArIEJBVENIKTsKCiAgICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHNxbGAKICAgICAgICBJTlNFUlQgSU5UTyBjdXN0b21lcl9wcm9maWxlcyAocGhvbmUsIG5hbWUsIHVzZXJfaWQpCiAgICAgICAgU0VMRUNUICogRlJPTSB1bm5lc3QoCiAgICAgICAgICAke2JQaG9uZXN9Ojp0ZXh0W10sCiAgICAgICAgICAke2JOYW1lc306OnRleHRbXSwKICAgICAgICAgICR7YlVzZXJJZHN9Ojp0ZXh0W10KICAgICAgICApIEFTIHQocGhvbmUsIG5hbWUsIHVzZXJfaWQpCiAgICAgICAgT04gQ09ORkxJQ1QgKHBob25lKSBETyBVUERBVEUKICAgICAgICAgIFNFVAogICAgICAgICAgICBuYW1lICAgID0gQ09BTEVTQ0UoRVhDTFVERUQubmFtZSwgICAgY3VzdG9tZXJfcHJvZmlsZXMubmFtZSksCiAgICAgICAgICAgIHVzZXJfaWQgPSBDT0FMRVNDRShFWENMVURFRC51c2VyX2lkLCBjdXN0b21lcl9wcm9maWxlcy51c2VyX2lkKSwKICAgICAgICAgICAgdXBkYXRlZF9hdCA9IE5PVygpCiAgICAgICAgUkVUVVJOSU5HICh4bWF4ID0gMCkgQVMgaXNfaW5zZXJ0CiAgICAgIGA7CgogICAgICBmb3IgKGNvbnN0IHIgb2YgcmVzdWx0KSB7CiAgICAgICAgaWYgKHIuaXNfaW5zZXJ0KSBpbnNlcnRlZCsrOyBlbHNlIHVwZGF0ZWQrKzsKICAgICAgfQogICAgfQoKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7CiAgICAgIHN1Y2Nlc3M6IHRydWUsCiAgICAgIHRvdGFsOiByb3dzLmxlbmd0aCwKICAgICAgaW5zZXJ0ZWQsCiAgICAgIHVwZGF0ZWQsCiAgICAgIHNraXBwZWQsCiAgICAgIGRldGVjdGVkQ29sdW1uczogeyBwaG9uZTogcGhvbmVLZXksIG5hbWU6IG5hbWVLZXksIHVzZXJJZDogdXNlcklkS2V5ID8/ICcobm9uZSknIH0sCiAgICB9KTsKICB9IGNhdGNoIChlcnI6IHVua25vd24pIHsKICAgIGNvbnN0IG1lc3NhZ2UgPSBlcnIgaW5zdGFuY2VvZiBFcnJvciA/IGVyci5tZXNzYWdlIDogJ0ltcG9ydCBmYWlsZWQnOwogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgZXJyb3I6IG1lc3NhZ2UgfSwgeyBzdGF0dXM6IDUwMCB9KTsKICB9Cn0K"}
+import { NextRequest, NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+
+// Allow larger CSV uploads (up to 10 MB)
+export const maxDuration = 60; // seconds
+
+/** Parse a CSV string into an array of objects keyed by header row */
+function parseCSV(text: string): Record<string, string>[] {
+  const lines = text.replace(/\r\n/g, '\n').replace(/\r/g, '\n').split('\n').filter(l => l.trim());
+  if (lines.length < 2) return [];
+
+  function splitLine(line: string): string[] {
+    const result: string[] = [];
+    let cur = '';
+    let inQuotes = false;
+    for (let i = 0; i < line.length; i++) {
+      const ch = line[i];
+      if (ch === '"') { inQuotes = !inQuotes; }
+      else if (ch === ',' && !inQuotes) { result.push(cur.trim()); cur = ''; }
+      else { cur += ch; }
+    }
+    result.push(cur.trim());
+    return result;
+  }
+
+  const headers = splitLine(lines[0]).map(h => h.toLowerCase().replace(/[^a-z0-9_]/g, '_'));
+  return lines.slice(1).map(line => {
+    const vals = splitLine(line);
+    const row: Record<string, string> = {};
+    headers.forEach((h, i) => { row[h] = (vals[i] ?? '').replace(/^"|"$/g, '').trim(); });
+    return row;
+  });
+}
+
+/** Normalise phone: strip country code prefix, keep last 10 digits */
+function normalisePhone(raw: string): string | null {
+  const digits = raw.replace(/\D/g, '');
+  if (digits.length === 10) return digits;
+  if (digits.length === 12 && digits.startsWith('91')) return digits.slice(2);
+  if (digits.length === 11 && digits.startsWith('0')) return digits.slice(1);
+  if (digits.length > 10) return digits.slice(-10);
+  return null;
+}
+
+export async function POST(req: NextRequest) {
+  const sql = getDb();
+
+  try {
+    const formData = await req.formData();
+    const file = formData.get('file') as File | null;
+    if (!file) return NextResponse.json({ error: 'No file provided' }, { status: 400 });
+
+    const text = await file.text();
+    const rows = parseCSV(text);
+    if (rows.length === 0) return NextResponse.json({ error: 'CSV is empty or has no data rows' }, { status: 400 });
+
+    // Detect column names flexibly
+    const sample = rows[0];
+    const keys = Object.keys(sample);
+    const phoneKey  = keys.find(k => /phone|mobile|mob|contact/.test(k)) ?? 'phone';
+    const nameKey   = keys.find(k => /^name$|full_name|customer_name/.test(k)) ?? 'name';
+    const userIdKey = keys.find(k => /user_id|userid|id/.test(k));
+
+    // ── Build valid-row map (deduplicate by phone — last row wins) ───────────
+    const rowMap = new Map<string, { name: string | null; userId: string | null }>();
+    let skipped = 0;
+
+    for (const row of rows) {
+      const phone = normalisePhone(row[phoneKey] ?? '');
+      if (!phone) { skipped++; continue; }
+      rowMap.set(phone, {
+        name:   row[nameKey]?.trim() || null,
+        userId: userIdKey ? row[userIdKey]?.trim() || null : null,
+      });
+    }
+
+    const phones:  string[]          = [];
+    const names:   (string | null)[] = [];
+    const userIds: (string | null)[] = [];
+    for (const [phone, { name, userId }] of rowMap) {
+      phones.push(phone);
+      names.push(name);
+      userIds.push(userId);
+    }
+
+    if (phones.length === 0) {
+      return NextResponse.json({ error: 'No valid phone numbers found in CSV' }, { status: 400 });
+    }
+
+    // ── Single bulk upsert via unnest ─────────────────────────────────────────
+    // xmax = 0 → freshly inserted row; xmax != 0 → updated row
+    const BATCH = 5000;
+    let inserted = 0, updated = 0;
+
+    for (let i = 0; i < phones.length; i += BATCH) {
+      const bPhones  = phones.slice(i, i + BATCH);
+      const bNames   = names.slice(i, i + BATCH);
+      const bUserIds = userIds.slice(i, i + BATCH);
+
+      const result = await sql`
+        INSERT INTO customer_profiles (phone, name, user_id)
+        SELECT * FROM unnest(
+          ${bPhones}::text[],
+          ${bNames}::text[],
+          ${bUserIds}::text[]
+        ) AS t(phone, name, user_id)
+        ON CONFLICT (phone) DO UPDATE
+          SET
+            name    = COALESCE(EXCLUDED.name,    customer_profiles.name),
+            user_id = COALESCE(EXCLUDED.user_id, customer_profiles.user_id),
+            updated_at = NOW()
+        RETURNING (xmax = 0) AS is_insert
+      `;
+
+      for (const r of result) {
+        if (r.is_insert) inserted++; else updated++;
+      }
+    }
+
+    return NextResponse.json({
+      success: true,
+      total: rows.length,
+      inserted,
+      updated,
+      skipped,
+      detectedColumns: { phone: phoneKey, name: nameKey, userId: userIdKey ?? '(none)' },
+    });
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : 'Import failed';
+    return NextResponse.json({ error: message }, { status: 500 });
+  }
+}

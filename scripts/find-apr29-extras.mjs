@@ -1,1 +1,92 @@
-{"data":"LyoqCiAqIENyb3NzLW1hdGNoZXMgU2hhcmlrJ3MgQXByIDMwIHNlc3Npb24gYWdhaW5zdCBBcHIgMjkgc2Vzc2lvbiB0byBmaW5kCiAqIHJlY29yZGluZ3MgdGhhdCB3ZXJlIGFjY2lkZW50YWxseSBhZGRlZCBmcm9tIEFwciAyOS4KICogUnVuOiBub2RlIHNjcmlwdHMvZmluZC1hcHIyOS1leHRyYXMubWpzCiAqLwppbXBvcnQgeyBuZW9uIH0gZnJvbSAnQG5lb25kYXRhYmFzZS9zZXJ2ZXJsZXNzJzsKaW1wb3J0IHsgcmVhZEZpbGVTeW5jIH0gZnJvbSAnZnMnOwppbXBvcnQgeyByZXNvbHZlLCBkaXJuYW1lIH0gZnJvbSAncGF0aCc7CmltcG9ydCB7IGZpbGVVUkxUb1BhdGggfSBmcm9tICd1cmwnOwoKY29uc3QgX19kaXJuYW1lID0gZGlybmFtZShmaWxlVVJMVG9QYXRoKGltcG9ydC5tZXRhLnVybCkpOwpjb25zdCBlbnZQYXRoID0gcmVzb2x2ZShfX2Rpcm5hbWUsICcuLi8uZW52LmxvY2FsJyk7CmNvbnN0IGVudlRleHQgPSByZWFkRmlsZVN5bmMoZW52UGF0aCwgJ3V0ZjgnKTsKZm9yIChjb25zdCBsaW5lIG9mIGVudlRleHQuc3BsaXQoJ1xuJykpIHsKICBjb25zdCB0cmltbWVkID0gbGluZS50cmltKCk7CiAgaWYgKCF0cmltbWVkIHx8IHRyaW1tZWQuc3RhcnRzV2l0aCgnIycpKSBjb250aW51ZTsKICBjb25zdCBlcUlkeCA9IHRyaW1tZWQuaW5kZXhPZignPScpOwogIGlmIChlcUlkeCA9PT0gLTEpIGNvbnRpbnVlOwogIGNvbnN0IGsgPSB0cmltbWVkLnNsaWNlKDAsIGVxSWR4KS50cmltKCk7CiAgbGV0IHYgPSB0cmltbWVkLnNsaWNlKGVxSWR4ICsgMSkudHJpbSgpLnJlcGxhY2UoL14iLywgJycpLnJlcGxhY2UoLyIkLywgJycpLnJlcGxhY2UoL1xcbi9nLCAnJyk7CiAgcHJvY2Vzcy5lbnZba10gPSB2Owp9Cgpjb25zdCBzcWwgPSBuZW9uKHByb2Nlc3MuZW52LkRBVEFCQVNFX1VSTCk7Cgpjb25zdCBBUFIzMF9TRVNTSU9OID0gJzI5ODIxMTI3LTdlODEtNDQ0ZC04OTJhLWQ4ZTE0NTI3OTRiYic7CmNvbnN0IEFQUjI5X1NFU1NJT04gPSAnMWM1MTQxZjQtOTRjZS00NTAwLThiZTEtMzY2OWNiYWIzNzgzJzsKCi8vIEdldCBhbGwgY2FsbHMgaW4gYm90aCBzZXNzaW9ucyB3aXRoIHRoZWlyIHJlcG9ydHMgKHBob25lIG51bWJlciBzdG9yZWQgaW4gcmVwb3J0cykKY29uc3QgYXByMzBDYWxscyA9IGF3YWl0IHNxbGAKICBTRUxFQ1QgYy5pZCwgYy5wcm9zcGVjdF9uYW1lLCBjLnN0YXR1cywgYy5lcnJvcl9tc2csIHIucGhvbmUsIHIuY3VzdG9tZXJfbmFtZSwgci5vdXRjb21lLCByLmNhbGxfcXVhbGl0eQogIEZST00gY2FsbHMgYwogIExFRlQgSk9JTiByZXBvcnRzIHIgT04gci5jYWxsX2lkID0gYy5pZAogIFdIRVJFIGMuc2Vzc2lvbl9pZCA9ICR7QVBSMzBfU0VTU0lPTn0KICBPUkRFUiBCWSBjLmNyZWF0ZWRfYXQgQVNDCmA7Cgpjb25zdCBhcHIyOUNhbGxzID0gYXdhaXQgc3FsYAogIFNFTEVDVCBjLmlkLCBjLnByb3NwZWN0X25hbWUsIHIucGhvbmUsIHIuY3VzdG9tZXJfbmFtZQogIEZST00gY2FsbHMgYwogIExFRlQgSk9JTiByZXBvcnRzIHIgT04gci5jYWxsX2lkID0gYy5pZAogIFdIRVJFIGMuc2Vzc2lvbl9pZCA9ICR7QVBSMjlfU0VTU0lPTn0KYDsKCi8vIEJ1aWxkIHNldCBvZiBBcHIgMjkgcGhvbmUgbnVtYmVycwpjb25zdCBhcHIyOVBob25lcyA9IG5ldyBTZXQoYXByMjlDYWxscy5tYXAoYyA9PiBjLnBob25lKS5maWx0ZXIoQm9vbGVhbikpOwoKY29uc29sZS5sb2coYFxuPT09IEFwciAzMCBzZXNzaW9uOiAke2FwcjMwQ2FsbHMubGVuZ3RofSB0b3RhbCBjYWxscyA9PT1gKTsKY29uc29sZS5sb2coYD09PSBBcHIgMjkgc2Vzc2lvbjogJHthcHIyOUNhbGxzLmxlbmd0aH0gdG90YWwgY2FsbHMgPT09XG5gKTsKCi8vIEZpbmQgY2FsbHMgaW4gQXByIDMwIHRoYXQgYXJlIGR1cGxpY2F0ZXMgZnJvbSBBcHIgMjkKY29uc3QgZXh0cmFzID0gYXByMzBDYWxscy5maWx0ZXIoYyA9PiBjLnBob25lICYmIGFwcjI5UGhvbmVzLmhhcyhjLnBob25lKSk7CmNvbnN0IGxlZ2l0aW1hdGVBcHIzMCA9IGFwcjMwQ2FsbHMuZmlsdGVyKGMgPT4gIWMucGhvbmUgfHwgIWFwcjI5UGhvbmVzLmhhcyhjLnBob25lKSk7Cgpjb25zb2xlLmxvZygnPT09IEVYVFJBIGNhbGxzIChBcHIgMjkgcmVjb3JkaW5ncyBpbiBBcHIgMzAgZm9sZGVyKSA9PT0nKTsKY29uc29sZS50YWJsZShleHRyYXMubWFwKGMgPT4gKHsKICBjYWxsX2lkOiAgICAgICBjLmlkLAogIHBob25lOiAgICAgICAgIGMucGhvbmUsCiAgY3VzdG9tZXJfbmFtZTogYy5jdXN0b21lcl9uYW1lLAogIHN0YXR1czogICAgICAgIGMuc3RhdHVzLAogIG91dGNvbWU6ICAgICAgIGMub3V0Y29tZSwKfSkpKTsKCmNvbnNvbGUubG9nKGBcbj09PSBMRUdJVElNQVRFIEFwciAzMCBjYWxscyAobm90IGluIEFwciAyOSk6ICR7bGVnaXRpbWF0ZUFwcjMwLmxlbmd0aH0gPT09YCk7CmNvbnNvbGUudGFibGUobGVnaXRpbWF0ZUFwcjMwLm1hcChjID0+ICh7CiAgY2FsbF9pZDogICAgICAgYy5pZCwKICBwaG9uZTogICAgICAgICBjLnBob25lID8/IGMucHJvc3BlY3RfbmFtZSwKICBjdXN0b21lcl9uYW1lOiBjLmN1c3RvbWVyX25hbWUsCiAgc3RhdHVzOiAgICAgICAgYy5zdGF0dXMsCn0pKSk7Cgpjb25zb2xlLmxvZyhgXG5TdW1tYXJ5OiAke2V4dHJhcy5sZW5ndGh9IGV4dHJhIChBcHIgMjkpIGNhbGxzIGZvdW5kIGluIHRoZSBBcHIgMzAgc2Vzc2lvbi5gKTsKaWYgKGV4dHJhcy5sZW5ndGggPiAwKSB7CiAgY29uc29sZS5sb2coJ1J1biB3aXRoIC0tZGVsZXRlIGZsYWcgdG8gcmVtb3ZlIHRoZW06IG5vZGUgc2NyaXB0cy9maW5kLWFwcjI5LWV4dHJhcy5tanMgLS1kZWxldGUnKTsKfQoKLy8gSWYgLS1kZWxldGUgZmxhZyBwYXNzZWQsIGRlbGV0ZSB0aGUgZXh0cmEgY2FsbHMKaWYgKHByb2Nlc3MuYXJndi5pbmNsdWRlcygnLS1kZWxldGUnKSkgewogIGNvbnNvbGUubG9nKCdcbkRlbGV0aW5nIGV4dHJhIGNhbGxzLi4uJyk7CiAgZm9yIChjb25zdCBjIG9mIGV4dHJhcykgewogICAgYXdhaXQgc3FsYERFTEVURSBGUk9NIHJlcG9ydHMgV0hFUkUgY2FsbF9pZCA9ICR7Yy5pZH1gOwogICAgYXdhaXQgc3FsYERFTEVURSBGUk9NIGNhbGxzIFdIRVJFIGlkID0gJHtjLmlkfWA7CiAgICBjb25zb2xlLmxvZyhgICBEZWxldGVkOiAke2MucGhvbmV9ICgke2MuY3VzdG9tZXJfbmFtZSA/PyAndW5rbm93bid9KWApOwogIH0KICAvLyBVcGRhdGUgc2Vzc2lvbidzIHRvdGFsX2ZpbGVzIGNvdW50CiAgYXdhaXQgc3FsYAogICAgVVBEQVRFIGJ1bGtfc2Vzc2lvbnMKICAgIFNFVCB0b3RhbF9maWxlcyA9IHRvdGFsX2ZpbGVzIC0gJHtleHRyYXMubGVuZ3RofQogICAgV0hFUkUgaWQgPSAke0FQUjMwX1NFU1NJT059CiAgYDsKICBjb25zb2xlLmxvZyhgXG7inIUgRGVsZXRlZCAke2V4dHJhcy5sZW5ndGh9IGV4dHJhIGNhbGxzLiBTZXNzaW9uIHRvdGFsX2ZpbGVzIGFkanVzdGVkLmApOwp9Cg=="}
+/**
+ * Cross-matches Sharik's Apr 30 session against Apr 29 session to find
+ * recordings that were accidentally added from Apr 29.
+ * Run: node scripts/find-apr29-extras.mjs
+ */
+import { neon } from '@neondatabase/serverless';
+import { readFileSync } from 'fs';
+import { resolve, dirname } from 'path';
+import { fileURLToPath } from 'url';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const envPath = resolve(__dirname, '../.env.local');
+const envText = readFileSync(envPath, 'utf8');
+for (const line of envText.split('\n')) {
+  const trimmed = line.trim();
+  if (!trimmed || trimmed.startsWith('#')) continue;
+  const eqIdx = trimmed.indexOf('=');
+  if (eqIdx === -1) continue;
+  const k = trimmed.slice(0, eqIdx).trim();
+  let v = trimmed.slice(eqIdx + 1).trim().replace(/^"/, '').replace(/"$/, '').replace(/\\n/g, '');
+  process.env[k] = v;
+}
+
+const sql = neon(process.env.DATABASE_URL);
+
+const APR30_SESSION = '29821127-7e81-444d-892a-d8e1452794bb';
+const APR29_SESSION = '1c5141f4-94ce-4500-8be1-3669cbab3783';
+
+// Get all calls in both sessions with their reports (phone number stored in reports)
+const apr30Calls = await sql`
+  SELECT c.id, c.prospect_name, c.status, c.error_msg, r.phone, r.customer_name, r.outcome, r.call_quality
+  FROM calls c
+  LEFT JOIN reports r ON r.call_id = c.id
+  WHERE c.session_id = ${APR30_SESSION}
+  ORDER BY c.created_at ASC
+`;
+
+const apr29Calls = await sql`
+  SELECT c.id, c.prospect_name, r.phone, r.customer_name
+  FROM calls c
+  LEFT JOIN reports r ON r.call_id = c.id
+  WHERE c.session_id = ${APR29_SESSION}
+`;
+
+// Build set of Apr 29 phone numbers
+const apr29Phones = new Set(apr29Calls.map(c => c.phone).filter(Boolean));
+
+console.log(`\n=== Apr 30 session: ${apr30Calls.length} total calls ===`);
+console.log(`=== Apr 29 session: ${apr29Calls.length} total calls ===\n`);
+
+// Find calls in Apr 30 that are duplicates from Apr 29
+const extras = apr30Calls.filter(c => c.phone && apr29Phones.has(c.phone));
+const legitimateApr30 = apr30Calls.filter(c => !c.phone || !apr29Phones.has(c.phone));
+
+console.log('=== EXTRA calls (Apr 29 recordings in Apr 30 folder) ===');
+console.table(extras.map(c => ({
+  call_id:       c.id,
+  phone:         c.phone,
+  customer_name: c.customer_name,
+  status:        c.status,
+  outcome:       c.outcome,
+})));
+
+console.log(`\n=== LEGITIMATE Apr 30 calls (not in Apr 29): ${legitimateApr30.length} ===`);
+console.table(legitimateApr30.map(c => ({
+  call_id:       c.id,
+  phone:         c.phone ?? c.prospect_name,
+  customer_name: c.customer_name,
+  status:        c.status,
+})));
+
+console.log(`\nSummary: ${extras.length} extra (Apr 29) calls found in the Apr 30 session.`);
+if (extras.length > 0) {
+  console.log('Run with --delete flag to remove them: node scripts/find-apr29-extras.mjs --delete');
+}
+
+// If --delete flag passed, delete the extra calls
+if (process.argv.includes('--delete')) {
+  console.log('\nDeleting extra calls...');
+  for (const c of extras) {
+    await sql`DELETE FROM reports WHERE call_id = ${c.id}`;
+    await sql`DELETE FROM calls WHERE id = ${c.id}`;
+    console.log(`  Deleted: ${c.phone} (${c.customer_name ?? 'unknown'})`);
+  }
+  // Update session's total_files count
+  await sql`
+    UPDATE bulk_sessions
+    SET total_files = total_files - ${extras.length}
+    WHERE id = ${APR30_SESSION}
+  `;
+  console.log(`\n✅ Deleted ${extras.length} extra calls. Session total_files adjusted.`);
+}

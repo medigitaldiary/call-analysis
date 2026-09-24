@@ -1,1 +1,245 @@
-{"data":"aW1wb3J0IG5vZGVtYWlsZXIgZnJvbSAnbm9kZW1haWxlcic7CmltcG9ydCB0eXBlIHsgRGF5UmVwb3J0LCBSTVJlcG9ydCB9IGZyb20gJ0AvdHlwZXMnOwoKZnVuY3Rpb24gZ2V0VHJhbnNwb3J0KCkgewogIGNvbnN0IHVzZXIgPSBwcm9jZXNzLmVudi5HTUFJTF9VU0VSOwogIGNvbnN0IHBhc3MgPSBwcm9jZXNzLmVudi5HTUFJTF9BUFBfUEFTU1dPUkQ7CiAgaWYgKCF1c2VyIHx8ICFwYXNzKSB0aHJvdyBuZXcgRXJyb3IoJ0dNQUlMX1VTRVIgYW5kIEdNQUlMX0FQUF9QQVNTV09SRCBlbnYgdmFycyBhcmUgcmVxdWlyZWQnKTsKCiAgcmV0dXJuIG5vZGVtYWlsZXIuY3JlYXRlVHJhbnNwb3J0KHsKICAgIGhvc3Q6ICdzbXRwLmdtYWlsLmNvbScsCiAgICBwb3J0OiA0NjUsCiAgICBzZWN1cmU6IHRydWUsCiAgICBhdXRoOiB7IHVzZXIsIHBhc3MgfSwKICAgIGNvbm5lY3Rpb25UaW1lb3V0OiAxNV8wMDAsICAvLyAxNSBzIHRvIG9wZW4gdGhlIFRMUyBjb25uZWN0aW9uCiAgICBncmVldGluZ1RpbWVvdXQ6ICAgMTVfMDAwLCAgLy8gMTUgcyBmb3IgdGhlIEVITE8gZ3JlZXRpbmcKICAgIHNvY2tldFRpbWVvdXQ6ICAgIDEyMF8wMDAsICAvLyAyIG1pbiBmb3IgdXBsb2FkaW5nIHRoZSBtZXNzYWdlIGJvZHkvYXR0YWNobWVudHMKICB9KTsKfQoKLy8g4pSA4pSA4pSAIEhUTUwgYnVpbGRlcnMg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACgovLyBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgQHR5cGVzY3JpcHQtZXNsaW50L25vLWV4cGxpY2l0LWFueQpmdW5jdGlvbiBzYWZlQXJyPFQ+KHY6IHVua25vd24pOiBUW10gewogIGlmIChBcnJheS5pc0FycmF5KHYpKSByZXR1cm4gdiBhcyBUW107CiAgaWYgKHR5cGVvZiB2ID09PSAnc3RyaW5nJykgeyB0cnkgeyBjb25zdCBwID0gSlNPTi5wYXJzZSh2KTsgcmV0dXJuIEFycmF5LmlzQXJyYXkocCkgPyBwIDogW107IH0gY2F0Y2ggeyByZXR1cm4gW107IH0gfQogIHJldHVybiBbXTsKfQoKZnVuY3Rpb24gYnVpbGREYXlSZXBvcnRIdG1sKGRhdGU6IHN0cmluZywgcmVwb3J0OiBEYXlSZXBvcnQsIHJtUmVwb3J0czogeyBybU5hbWU6IHN0cmluZzsgc2Vzc2lvbkRhdGU6IHN0cmluZzsgcmVwb3J0OiBSTVJlcG9ydCB9W10sIHRyYW5zY3JpcHROb3RlID0gJycpOiBzdHJpbmcgewogIGNvbnN0IGZtdERhdGUgPSBuZXcgRGF0ZShkYXRlKS50b0xvY2FsZURhdGVTdHJpbmcoJ2VuLUdCJywgeyBkYXk6ICcyLWRpZ2l0JywgbW9udGg6ICdsb25nJywgeWVhcjogJ251bWVyaWMnIH0pOwoKICBjb25zdCBvdXRjb21lc0h0bWwgPSBzYWZlQXJyPHR5cGVvZiByZXBvcnQub3V0Y29tZXNbMF0+KHJlcG9ydC5vdXRjb21lcykKICAgIC5tYXAobyA9PiBgPHRyPjx0ZCBzdHlsZT0icGFkZGluZzo4cHggMTJweDtib3JkZXItYm90dG9tOjFweCBzb2xpZCAjZTJlOGYwOyI+JHtvLm91dGNvbWV9PC90ZD48dGQgc3R5bGU9InBhZGRpbmc6OHB4IDEycHg7Ym9yZGVyLWJvdHRvbToxcHggc29saWQgI2UyZThmMDtmb250LXdlaWdodDo2MDA7Ij4ke28uY291bnR9PC90ZD48dGQgc3R5bGU9InBhZGRpbmc6OHB4IDEycHg7Ym9yZGVyLWJvdHRvbToxcHggc29saWQgI2UyZThmMDsiPiR7by5wZXJjZW50YWdlfTwvdGQ+PC90cj5gKQogICAgLmpvaW4oJycpOwoKICBjb25zdCBoaWdobGlnaHRzSHRtbCA9IHNhZmVBcnI8dHlwZW9mIHJlcG9ydC5oaWdobGlnaHRzWzBdPihyZXBvcnQuaGlnaGxpZ2h0cykKICAgIC5tYXAoaCA9PiBgPGxpIHN0eWxlPSJtYXJnaW4tYm90dG9tOjEwcHg7Ij48c3Ryb25nPiR7aC5yYW5rfSDigJQgIyR7aC5jYWxsX251bWJlcn0gwrcgJHtoLmN1c3RvbWVyX25hbWV9PC9zdHJvbmc+IDxzcGFuIHN0eWxlPSJjb2xvcjojNmI3MjgwOyI+KCR7aC5yZXAgPz8gJyd9IMK3ICR7aC5kdXJhdGlvbn0pPC9zcGFuPjxicj48c3BhbiBzdHlsZT0iY29sb3I6IzM3NDE1MTsiPiR7aC5kZXNjcmlwdGlvbn08L3NwYW4+PC9saT5gKQogICAgLmpvaW4oJycpOwoKICBjb25zdCBhY3Rpb25JdGVtc0h0bWwgPSBzYWZlQXJyPHR5cGVvZiByZXBvcnQuYWN0aW9uX2l0ZW1zWzBdPihyZXBvcnQuYWN0aW9uX2l0ZW1zKQogICAgLm1hcCgoYSwgaSkgPT4gewogICAgICBjb25zdCBjb2xvciA9IGEucHJpb3JpdHkgPT09ICdISUdIJyA/ICcjZWY0NDQ0JyA6IGEucHJpb3JpdHkgPT09ICdNRURJVU0nID8gJyNmNTllMGInIDogJyMyMmM1NWUnOwogICAgICByZXR1cm4gYDx0cj48dGQgc3R5bGU9InBhZGRpbmc6OHB4IDEycHg7Ym9yZGVyLWJvdHRvbToxcHggc29saWQgI2UyZThmMDsiPjxzcGFuIHN0eWxlPSJiYWNrZ3JvdW5kOiR7Y29sb3J9MTg7Y29sb3I6JHtjb2xvcn07Ym9yZGVyOjFweCBzb2xpZCAke2NvbG9yfTQwO2JvcmRlci1yYWRpdXM6MTJweDtwYWRkaW5nOjJweCA4cHg7Zm9udC1zaXplOjExcHg7Zm9udC13ZWlnaHQ6NjAwOyI+JHthLnByaW9yaXR5fTwvc3Bhbj48L3RkPjx0ZCBzdHlsZT0icGFkZGluZzo4cHggMTJweDtib3JkZXItYm90dG9tOjFweCBzb2xpZCAjZTJlOGYwOyI+JHthLmFjdGlvbn08L3RkPjx0ZCBzdHlsZT0icGFkZGluZzo4cHggMTJweDtib3JkZXItYm90dG9tOjFweCBzb2xpZCAjZTJlOGYwO2NvbG9yOiM2YjcyODA7Ij4ke2Eub3duZXJ9PC90ZD48dGQgc3R5bGU9InBhZGRpbmc6OHB4IDEycHg7Ym9yZGVyLWJvdHRvbToxcHggc29saWQgI2UyZThmMDtjb2xvcjojNmI3MjgwO3doaXRlLXNwYWNlOm5vd3JhcDsiPiR7YS5kZWFkbGluZX08L3RkPjwvdHI+YDsKICAgIH0pCiAgICAuam9pbignJyk7CgogIGNvbnN0IGltcHJvdmVtZW50c0h0bWwgPSBzYWZlQXJyPHR5cGVvZiByZXBvcnQuaW1wcm92ZW1lbnRzWzBdPihyZXBvcnQuaW1wcm92ZW1lbnRzKQogICAgLm1hcChpbXAgPT4gewogICAgICBpZiAodHlwZW9mIGltcCA9PT0gJ3N0cmluZycpIHJldHVybiBgPGxpIHN0eWxlPSJtYXJnaW4tYm90dG9tOjZweDtjb2xvcjojMzc0MTUxOyI+JHtpbXB9PC9saT5gOwogICAgICBjb25zdCByZWZzID0gc2FmZUFycjx0eXBlb2YgaW1wLmNhbGxfcmVmc1swXT4oaW1wLmNhbGxfcmVmcykubGVuZ3RoID4gMAogICAgICAgID8gYCA8c3BhbiBzdHlsZT0iZm9udC1zaXplOjExcHg7Y29sb3I6IzZiNzI4MDsiPlske3NhZmVBcnI8dHlwZW9mIGltcC5jYWxsX3JlZnNbMF0+KGltcC5jYWxsX3JlZnMpLm1hcChyID0+IGAke3Iucm1fbmFtZX0gIyR7ci5jYWxsX251bWJlcn0ke3IuY3VzdG9tZXJfbmFtZSA/IGAgJHtyLmN1c3RvbWVyX25hbWV9YCA6ICcnfWApLmpvaW4oJywgJyl9XTwvc3Bhbj5gCiAgICAgICAgOiAnJzsKICAgICAgcmV0dXJuIGA8bGkgc3R5bGU9Im1hcmdpbi1ib3R0b206NnB4O2NvbG9yOiMzNzQxNTE7Ij4ke2ltcC5wb2ludH0ke3JlZnN9PC9saT5gOwogICAgfSkKICAgIC5qb2luKCcnKTsKCiAgY29uc3QgYWdlbnRQZXJmSHRtbCA9IHNhZmVBcnI8dHlwZW9mIHJlcG9ydC5hZ2VudF9wZXJmb3JtYW5jZVswXT4ocmVwb3J0LmFnZW50X3BlcmZvcm1hbmNlKQogICAgLm1hcCgoYSwgaSkgPT4gYDx0ciBzdHlsZT0iYmFja2dyb3VuZDoke2kgJSAyID09PSAwID8gJyNmZmYnIDogJyNmOGZhZmMnfTsiPjx0ZCBzdHlsZT0icGFkZGluZzo4cHggMTJweDtib3JkZXItYm90dG9tOjFweCBzb2xpZCAjZTJlOGYwO2ZvbnQtd2VpZ2h0OjYwMDsiPiR7YS5hZ2VudH08L3RkPjx0ZCBzdHlsZT0icGFkZGluZzo4cHggMTJweDtib3JkZXItYm90dG9tOjFweCBzb2xpZCAjZTJlOGYwO2NvbG9yOiMzYjgyZjY7Zm9udC13ZWlnaHQ6NjAwOyI+JHthLnRvdGFsX2NhbGxzfTwvdGQ+PHRkIHN0eWxlPSJwYWRkaW5nOjhweCAxMnB4O2JvcmRlci1ib3R0b206MXB4IHNvbGlkICNlMmU4ZjA7Ij4ke2EuZm9sbG93X3Vwc308L3RkPjx0ZCBzdHlsZT0icGFkZGluZzo4cHggMTJweDtib3JkZXItYm90dG9tOjFweCBzb2xpZCAjZTJlOGYwO2NvbG9yOiNmNTllMGI7Zm9udC13ZWlnaHQ6NjAwOyI+JHthLmF2Z19wZXJmb3JtYW5jZX08L3RkPjx0ZCBzdHlsZT0icGFkZGluZzo4cHggMTJweDtib3JkZXItYm90dG9tOjFweCBzb2xpZCAjZTJlOGYwO2NvbG9yOiM2YjcyODA7Zm9udC1zaXplOjEycHg7Ij4ke2EuYmVzdF9jYWxsfTwvdGQ+PC90cj5gKQogICAgLmpvaW4oJycpOwoKICBjb25zdCBwcm9kdWN0c0FyciA9IHNhZmVBcnI8dHlwZW9mIHJlcG9ydC5wcm9kdWN0c1swXT4ocmVwb3J0LnByb2R1Y3RzKTsKICBjb25zdCBwcm9kdWN0c0h0bWwgPSBwcm9kdWN0c0Fyci5sZW5ndGgKICAgID8gYDxoMiBzdHlsZT0iZm9udC1zaXplOjE2cHg7Y29sb3I6IzFiMjc0ODttYXJnaW46MjhweCAwIDEwcHg7Ij5Ub3AgQm9uZHMgJmFtcDsgUHJvZHVjdHM8L2gyPgogICAgICAgPHRhYmxlIHdpZHRoPSIxMDAlIiBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiIHN0eWxlPSJib3JkZXI6MXB4IHNvbGlkICNlMmU4ZjA7Ym9yZGVyLXJhZGl1czo4cHg7b3ZlcmZsb3c6aGlkZGVuO2ZvbnQtc2l6ZToxM3B4OyI+CiAgICAgICAgIDx0ciBzdHlsZT0iYmFja2dyb3VuZDojZjhmYWZjOyI+PHRoIHN0eWxlPSJwYWRkaW5nOjhweCAxMnB4O3RleHQtYWxpZ246bGVmdDtmb250LXNpemU6MTFweDtjb2xvcjojNmI3MjgwOyI+Qm9uZCAvIElzc3VlcjwvdGg+PHRoIHN0eWxlPSJwYWRkaW5nOjhweCAxMnB4O3RleHQtYWxpZ246bGVmdDtmb250LXNpemU6MTFweDtjb2xvcjojNmI3MjgwOyI+WWllbGQ8L3RoPjx0aCBzdHlsZT0icGFkZGluZzo4cHggMTJweDt0ZXh0LWFsaWduOmxlZnQ7Zm9udC1zaXplOjExcHg7Y29sb3I6IzZiNzI4MDsiPkNvbnRleHQ8L3RoPjwvdHI+CiAgICAgICAgICR7cHJvZHVjdHNBcnIubWFwKHAgPT4gYDx0cj48dGQgc3R5bGU9InBhZGRpbmc6OHB4IDEycHg7Ym9yZGVyLWJvdHRvbToxcHggc29saWQgI2UyZThmMDtmb250LXdlaWdodDo2MDA7Ij4ke3AuYm9uZF9pc3N1ZXJ9PC90ZD48dGQgc3R5bGU9InBhZGRpbmc6OHB4IDEycHg7Ym9yZGVyLWJvdHRvbToxcHggc29saWQgI2UyZThmMDtjb2xvcjojMjJjNTVlO2ZvbnQtd2VpZ2h0OjYwMDsiPiR7cC55aWVsZH08L3RkPjx0ZCBzdHlsZT0icGFkZGluZzo4cHggMTJweDtib3JkZXItYm90dG9tOjFweCBzb2xpZCAjZTJlOGYwOyI+JHtwLmNvbnRleHR9PC90ZD48L3RyPmApLmpvaW4oJycpfQogICAgICAgPC90YWJsZT5gIDogJyc7CgogIC8vIFJNIHN1bW1hcnkgYmx1cmJzCiAgY29uc3Qgcm1TdW1tYXJ5SHRtbCA9IHJtUmVwb3J0cy5sZW5ndGgKICAgID8gYDxoMiBzdHlsZT0iZm9udC1zaXplOjE2cHg7Y29sb3I6IzFiMjc0ODttYXJnaW46MjhweCAwIDEwcHg7Ij5STSBQZXJmb3JtYW5jZSBTbmFwc2hvdHM8L2gyPgogICAgICAgJHtybVJlcG9ydHMubWFwKHJtID0+IGAKICAgICAgICAgPGRpdiBzdHlsZT0iYmFja2dyb3VuZDojZjhmYWZjO2JvcmRlcjoxcHggc29saWQgI2UyZThmMDtib3JkZXItcmFkaXVzOjhweDtwYWRkaW5nOjE0cHggMTZweDttYXJnaW4tYm90dG9tOjEwcHg7Ij4KICAgICAgICAgICA8ZGl2IHN0eWxlPSJmb250LXNpemU6MTNweDtmb250LXdlaWdodDo3MDA7Y29sb3I6IzFiMjc0ODttYXJnaW4tYm90dG9tOjRweDsiPiR7cm0ucm1OYW1lfSA8c3BhbiBzdHlsZT0iZm9udC13ZWlnaHQ6NDAwO2NvbG9yOiM2YjcyODA7Zm9udC1zaXplOjEycHg7Ij7CtyAke3JtLnNlc3Npb25EYXRlfTwvc3Bhbj48L2Rpdj4KICAgICAgICAgICA8ZGl2IHN0eWxlPSJmb250LXNpemU6MTJweDtjb2xvcjojMzc0MTUxO2xpbmUtaGVpZ2h0OjEuNjsiPiR7cm0ucmVwb3J0LmFnZW50X3BlcmZvcm1hbmNlPy5zdW1tYXJ5ID8/ICcnfTwvZGl2PgogICAgICAgICAgIDxkaXYgc3R5bGU9Im1hcmdpbi10b3A6NnB4O2ZvbnQtc2l6ZToxMnB4O2NvbG9yOiM2YjcyODA7Ij4KICAgICAgICAgICAgIE1lZGlhbiBzY29yZTogPHN0cm9uZyBzdHlsZT0iY29sb3I6I2Y1OWUwYjsiPiR7cm0ucmVwb3J0LmFnZW50X3BlcmZvcm1hbmNlPy5hdmdfcGVyZm9ybWFuY2UgPz8gJ04vQSd9PC9zdHJvbmc+CiAgICAgICAgICAgICAmbmJzcDvCtyZuYnNwOyBGb2xsb3ctdXBzOiA8c3Ryb25nPiR7cm0ucmVwb3J0LmFnZW50X3BlcmZvcm1hbmNlPy5mb2xsb3dfdXBzID8/IDB9PC9zdHJvbmc+CiAgICAgICAgICAgICAmbmJzcDvCtyZuYnNwOyBUb3RhbCBjYWxsczogPHN0cm9uZz4ke3JtLnJlcG9ydC5hZ2VudF9wZXJmb3JtYW5jZT8udG90YWxfY2FsbHMgPz8gMH08L3N0cm9uZz4KICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgPC9kaXY+YCkuam9pbignJyl9CiAgICAgICA8cCBzdHlsZT0iZm9udC1zaXplOjEycHg7Y29sb3I6IzZiNzI4MDttYXJnaW46OHB4IDAgMDsiPkluZGl2aWR1YWwgUk0gRXhjZWwgcmVwb3J0cyBhcmUgYXR0YWNoZWQgYmVsb3cuPC9wPmAgOiAnJzsKCiAgcmV0dXJuIGA8IURPQ1RZUEUgaHRtbD4KPGh0bWw+CjxoZWFkPjxtZXRhIGNoYXJzZXQ9InV0Zi04Ij48bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoIj48L2hlYWQ+Cjxib2R5IHN0eWxlPSJtYXJnaW46MDtwYWRkaW5nOjA7YmFja2dyb3VuZDojZjFmNWY5O2ZvbnQtZmFtaWx5OkludGVyLEFyaWFsLHNhbnMtc2VyaWY7Ij4KICA8dGFibGUgd2lkdGg9IjEwMCUiIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCIgc3R5bGU9ImJhY2tncm91bmQ6I2YxZjVmOTtwYWRkaW5nOjMycHggMDsiPgogICAgPHRyPjx0ZCBhbGlnbj0iY2VudGVyIj4KICAgICAgPHRhYmxlIHdpZHRoPSI2ODAiIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCIgc3R5bGU9ImJhY2tncm91bmQ6I2ZmZmZmZjtib3JkZXItcmFkaXVzOjEycHg7b3ZlcmZsb3c6aGlkZGVuO2JveC1zaGFkb3c6MCA0cHggMjRweCByZ2JhKDAsMCwwLDAuMDYpOyI+CgogICAgICAgIDwhLS0gSGVhZGVyIC0tPgogICAgICAgIDx0cj48dGQgc3R5bGU9ImJhY2tncm91bmQ6IzFiMjc0ODtwYWRkaW5nOjI4cHggMzJweDsiPgogICAgICAgICAgPHAgc3R5bGU9Im1hcmdpbjowO2ZvbnQtc2l6ZToyMnB4O2ZvbnQtd2VpZ2h0OjcwMDtjb2xvcjojZmZmZmZmOyI+Qm9uZFNjYW5uZXI8L3A+CiAgICAgICAgICA8cCBzdHlsZT0ibWFyZ2luOjZweCAwIDA7Zm9udC1zaXplOjE0cHg7Y29sb3I6IzdlOTViODsiPkRheSBFbmQgUmVwb3J0IOKAlCAke2ZtdERhdGV9PC9wPgogICAgICAgIDwvdGQ+PC90cj4KCiAgICAgICAgPCEtLSBTdGF0cyByb3cgLS0+CiAgICAgICAgPHRyPjx0ZCBzdHlsZT0icGFkZGluZzoyNHB4IDMycHg7YmFja2dyb3VuZDojMTMxZDM1O2JvcmRlci1ib3R0b206MXB4IHNvbGlkICMxZTMwNTg7Ij4KICAgICAgICAgIDx0YWJsZSB3aWR0aD0iMTAwJSIgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj4KICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgIDx0ZCBzdHlsZT0iY29sb3I6IzdlOTViODtmb250LXNpemU6MTFweDt0ZXh0LXRyYW5zZm9ybTp1cHBlcmNhc2U7cGFkZGluZy1ib3R0b206NHB4OyI+VG90YWwgQ2FsbHM8L3RkPgogICAgICAgICAgICAgIDx0ZCBzdHlsZT0iY29sb3I6IzdlOTViODtmb250LXNpemU6MTFweDt0ZXh0LXRyYW5zZm9ybTp1cHBlcmNhc2U7cGFkZGluZy1ib3R0b206NHB4OyI+VW5pcXVlIEN1c3RvbWVyczwvdGQ+CiAgICAgICAgICAgICAgPHRkIHN0eWxlPSJjb2xvcjojN2U5NWI4O2ZvbnQtc2l6ZToxMXB4O3RleHQtdHJhbnNmb3JtOnVwcGVyY2FzZTtwYWRkaW5nLWJvdHRvbTo0cHg7Ij5UYWxrIFRpbWU8L3RkPgogICAgICAgICAgICAgIDx0ZCBzdHlsZT0iY29sb3I6IzdlOTViODtmb250LXNpemU6MTFweDt0ZXh0LXRyYW5zZm9ybTp1cHBlcmNhc2U7cGFkZGluZy1ib3R0b206NHB4OyI+UmVwcyBvbiBEdXR5PC90ZD4KICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgIDx0ZCBzdHlsZT0iY29sb3I6IzNiODJmNjtmb250LXNpemU6MjRweDtmb250LXdlaWdodDo3MDA7Ij4ke3JlcG9ydC5vdmVydmlldy50b3RhbF9jYWxsc308L3RkPgogICAgICAgICAgICAgIDx0ZCBzdHlsZT0iY29sb3I6IzNiODJmNjtmb250LXNpemU6MjRweDtmb250LXdlaWdodDo3MDA7Ij4ke3JlcG9ydC5vdmVydmlldy51bmlxdWVfY3VzdG9tZXJzfTwvdGQ+CiAgICAgICAgICAgICAgPHRkIHN0eWxlPSJjb2xvcjojZjU5ZTBiO2ZvbnQtc2l6ZToyNHB4O2ZvbnQtd2VpZ2h0OjcwMDsiPiR7cmVwb3J0Lm92ZXJ2aWV3LnRvdGFsX3RhbGtfdGltZX08L3RkPgogICAgICAgICAgICAgIDx0ZCBzdHlsZT0iY29sb3I6I2YxZjVmOTtmb250LXNpemU6MTVweDtmb250LXdlaWdodDo2MDA7Ij4ke3NhZmVBcnI8c3RyaW5nPihyZXBvcnQub3ZlcnZpZXcucmVwc19vbl9kdXR5KS5qb2luKCcsICcpfTwvdGQ+CiAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICA8L3RhYmxlPgogICAgICAgIDwvdGQ+PC90cj4KCiAgICAgICAgPCEtLSBCb2R5IC0tPgogICAgICAgIDx0cj48dGQgc3R5bGU9InBhZGRpbmc6MzJweDsiPgoKICAgICAgICAgIDxoMiBzdHlsZT0iZm9udC1zaXplOjE2cHg7Y29sb3I6IzFiMjc0ODttYXJnaW46MCAwIDEwcHg7Ij5DYWxsIE91dGNvbWVzPC9oMj4KICAgICAgICAgIDx0YWJsZSB3aWR0aD0iMTAwJSIgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIiBzdHlsZT0iYm9yZGVyOjFweCBzb2xpZCAjZTJlOGYwO2JvcmRlci1yYWRpdXM6OHB4O292ZXJmbG93OmhpZGRlbjttYXJnaW4tYm90dG9tOjI0cHg7Zm9udC1zaXplOjEzcHg7Ij4KICAgICAgICAgICAgPHRyIHN0eWxlPSJiYWNrZ3JvdW5kOiNmOGZhZmM7Ij48dGggc3R5bGU9InBhZGRpbmc6OHB4IDEycHg7dGV4dC1hbGlnbjpsZWZ0O2ZvbnQtc2l6ZToxMXB4O2NvbG9yOiM2YjcyODA7Ij5PdXRjb21lPC90aD48dGggc3R5bGU9InBhZGRpbmc6OHB4IDEycHg7dGV4dC1hbGlnbjpsZWZ0O2ZvbnQtc2l6ZToxMXB4O2NvbG9yOiM2YjcyODA7Ij5Db3VudDwvdGg+PHRoIHN0eWxlPSJwYWRkaW5nOjhweCAxMnB4O3RleHQtYWxpZ246bGVmdDtmb250LXNpemU6MTFweDtjb2xvcjojNmI3MjgwOyI+JTwvdGg+PC90cj4KICAgICAgICAgICAgJHtvdXRjb21lc0h0bWx9CiAgICAgICAgICA8L3RhYmxlPgoKICAgICAgICAgIDxoMiBzdHlsZT0iZm9udC1zaXplOjE2cHg7Y29sb3I6IzFiMjc0ODttYXJnaW46MCAwIDEwcHg7Ij5Ub3AgSGlnaGxpZ2h0czwvaDI+CiAgICAgICAgICA8dWwgc3R5bGU9Im1hcmdpbjowIDAgMjRweDtwYWRkaW5nLWxlZnQ6MjBweDtmb250LXNpemU6MTNweDtsaW5lLWhlaWdodDoxLjg7Ij4ke2hpZ2hsaWdodHNIdG1sfTwvdWw+CgogICAgICAgICAgPGgyIHN0eWxlPSJmb250LXNpemU6MTZweDtjb2xvcjojMWIyNzQ4O21hcmdpbjowIDAgMTBweDsiPlVyZ2VudCBBY3Rpb24gSXRlbXM8L2gyPgogICAgICAgICAgPHRhYmxlIHdpZHRoPSIxMDAlIiBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiIHN0eWxlPSJib3JkZXI6MXB4IHNvbGlkICNlMmU4ZjA7Ym9yZGVyLXJhZGl1czo4cHg7b3ZlcmZsb3c6aGlkZGVuO21hcmdpbi1ib3R0b206MjRweDtmb250LXNpemU6MTNweDsiPgogICAgICAgICAgICA8dHIgc3R5bGU9ImJhY2tncm91bmQ6I2Y4ZmFmYzsiPjx0aCBzdHlsZT0icGFkZGluZzo4cHggMTJweDt0ZXh0LWFsaWduOmxlZnQ7Zm9udC1zaXplOjExcHg7Y29sb3I6IzZiNzI4MDsiPlByaW9yaXR5PC90aD48dGggc3R5bGU9InBhZGRpbmc6OHB4IDEycHg7dGV4dC1hbGlnbjpsZWZ0O2ZvbnQtc2l6ZToxMXB4O2NvbG9yOiM2YjcyODA7Ij5BY3Rpb248L3RoPjx0aCBzdHlsZT0icGFkZGluZzo4cHggMTJweDt0ZXh0LWFsaWduOmxlZnQ7Zm9udC1zaXplOjExcHg7Y29sb3I6IzZiNzI4MDsiPk93bmVyPC90aD48dGggc3R5bGU9InBhZGRpbmc6OHB4IDEycHg7dGV4dC1hbGlnbjpsZWZ0O2ZvbnQtc2l6ZToxMXB4O2NvbG9yOiM2YjcyODA7Ij5EZWFkbGluZTwvdGg+PC90cj4KICAgICAgICAgICAgJHthY3Rpb25JdGVtc0h0bWwgfHwgJzx0cj48dGQgY29sc3Bhbj0iNCIgc3R5bGU9InBhZGRpbmc6MTBweCAxMnB4O2NvbG9yOiM2YjcyODA7Ij5ObyBhY3Rpb24gaXRlbXM8L3RkPjwvdHI+J30KICAgICAgICAgIDwvdGFibGU+CgogICAgICAgICAgPGgyIHN0eWxlPSJmb250LXNpemU6MTZweDtjb2xvcjojMWIyNzQ4O21hcmdpbjowIDAgMTBweDsiPkFyZWFzIGZvciBJbXByb3ZlbWVudDwvaDI+CiAgICAgICAgICA8dWwgc3R5bGU9Im1hcmdpbjowIDAgMjRweDtwYWRkaW5nLWxlZnQ6MjBweDtmb250LXNpemU6MTNweDtsaW5lLWhlaWdodDoxLjg7Ij4ke2ltcHJvdmVtZW50c0h0bWx9PC91bD4KCiAgICAgICAgICA8aDIgc3R5bGU9ImZvbnQtc2l6ZToxNnB4O2NvbG9yOiMxYjI3NDg7bWFyZ2luOjAgMCAxMHB4OyI+QWdlbnQgUGVyZm9ybWFuY2U8L2gyPgogICAgICAgICAgPHRhYmxlIHdpZHRoPSIxMDAlIiBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiIHN0eWxlPSJib3JkZXI6MXB4IHNvbGlkICNlMmU4ZjA7Ym9yZGVyLXJhZGl1czo4cHg7b3ZlcmZsb3c6aGlkZGVuO21hcmdpbi1ib3R0b206MjRweDtmb250LXNpemU6MTNweDsiPgogICAgICAgICAgICA8dHIgc3R5bGU9ImJhY2tncm91bmQ6I2Y4ZmFmYzsiPjx0aCBzdHlsZT0icGFkZGluZzo4cHggMTJweDt0ZXh0LWFsaWduOmxlZnQ7Zm9udC1zaXplOjExcHg7Y29sb3I6IzZiNzI4MDsiPkFnZW50PC90aD48dGggc3R5bGU9InBhZGRpbmc6OHB4IDEycHg7dGV4dC1hbGlnbjpsZWZ0O2ZvbnQtc2l6ZToxMXB4O2NvbG9yOiM2YjcyODA7Ij5DYWxsczwvdGg+PHRoIHN0eWxlPSJwYWRkaW5nOjhweCAxMnB4O3RleHQtYWxpZ246bGVmdDtmb250LXNpemU6MTFweDtjb2xvcjojNmI3MjgwOyI+Rm9sbG93LXVwczwvdGg+PHRoIHN0eWxlPSJwYWRkaW5nOjhweCAxMnB4O3RleHQtYWxpZ246bGVmdDtmb250LXNpemU6MTFweDtjb2xvcjojNmI3MjgwOyI+TWVkaWFuIFNjb3JlPC90aD48dGggc3R5bGU9InBhZGRpbmc6OHB4IDEycHg7dGV4dC1hbGlnbjpsZWZ0O2ZvbnQtc2l6ZToxMXB4O2NvbG9yOiM2YjcyODA7Ij5CZXN0IENhbGw8L3RoPjwvdHI+CiAgICAgICAgICAgICR7YWdlbnRQZXJmSHRtbH0KICAgICAgICAgIDwvdGFibGU+CgogICAgICAgICAgJHtwcm9kdWN0c0h0bWx9CiAgICAgICAgICAke3JtU3VtbWFyeUh0bWx9CgogICAgICAgIDwvdGQ+PC90cj4KCiAgICAgICAgPCEtLSBGb290ZXIgLS0+CiAgICAgICAgPHRyPjx0ZCBzdHlsZT0icGFkZGluZzoyMHB4IDMycHg7YmFja2dyb3VuZDojZjhmYWZjO2JvcmRlci10b3A6MXB4IHNvbGlkICNlMmU4ZjA7dGV4dC1hbGlnbjpjZW50ZXI7Ij4KICAgICAgICAgIDxwIHN0eWxlPSJtYXJnaW46MDtjb2xvcjojOWNhM2FmO2ZvbnQtc2l6ZToxMnB4OyI+R2VuZXJhdGVkIGJ5IFJhZGFyICZtaWRkb3Q7IEJvbmRTY2FubmVyICZtaWRkb3Q7ICR7Zm10RGF0ZX08L3A+CiAgICAgICAgICAke3RyYW5zY3JpcHROb3RlID8gYDxwIHN0eWxlPSJtYXJnaW46NnB4IDAgMDtjb2xvcjojOWNhM2FmO2ZvbnQtc2l6ZToxMXB4OyI+JHt0cmFuc2NyaXB0Tm90ZX08L3A+YCA6ICcnfQogICAgICAgIDwvdGQ+PC90cj4KCiAgICAgIDwvdGFibGU+CiAgICA8L3RkPjwvdHI+CiAgPC90YWJsZT4KPC9ib2R5Pgo8L2h0bWw+YDsKfQoKLy8g4pSA4pSA4pSAIE1haW4gc2VuZCBmdW5jdGlvbiDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKCmV4cG9ydCBpbnRlcmZhY2UgUk1BdHRhY2htZW50IHsKICBybU5hbWU6IHN0cmluZzsKICBzZXNzaW9uRGF0ZTogc3RyaW5nOwogIHJlcG9ydDogUk1SZXBvcnQ7CiAgeGxzeEJ1ZmZlcj86IEJ1ZmZlcjsKfQoKZXhwb3J0IHR5cGUgU2VuZE1vZGUgPSAndGVzdCcgfCAncHJvZHVjdGlvbicgfCAnaW50ZXJuYWwnOwoKLy8gRWFjaCBtb2RlIGhhcyBpdHMgb3duIGZpeGVkIHRocmVhZCBhbmNob3IgKyBzdWJqZWN0IHNvIHRoZXkgbmV2ZXIgYmxlZWQgaW50byBlYWNoIG90aGVyLgpjb25zdCBUSFJFQURfQ09ORklHOiBSZWNvcmQ8U2VuZE1vZGUsIHsgc3ViamVjdDogc3RyaW5nOyB0aHJlYWRJZDogc3RyaW5nIH0+ID0gewogIHRlc3Q6IHsKICAgIHN1YmplY3Q6ICAnW1RFU1RdIERheSBlbmQgcmVwb3J0IC0gQ2FsbCBBbmFseXNpcycsCiAgICB0aHJlYWRJZDogJzxkYXktcmVwb3J0LXRlc3QtdGhyZWFkQGJvbmRzY2FubmVyLmNvbT4nLAogIH0sCiAgcHJvZHVjdGlvbjogewogICAgc3ViamVjdDogICdDYWxsIGFuYWx5c2lzOiBEYXkgZW5kIHJlcG9ydCcsCiAgICB0aHJlYWRJZDogJzxkYXktcmVwb3J0LXRocmVhZEBib25kc2Nhbm5lci5jb20+JywKICB9LAogIGludGVybmFsOiB7CiAgICBzdWJqZWN0OiAgJ1tJbnRlcm5hbF0gQ2FsbCBhbmFseXNpczogRGF5IGVuZCByZXBvcnQnLAogICAgdGhyZWFkSWQ6ICc8ZGF5LXJlcG9ydC1pbnRlcm5hbC10aHJlYWRAYm9uZHNjYW5uZXIuY29tPicsCiAgfSwKfTsKCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBzZW5kRGF5UmVwb3J0RW1haWwoCiAgZGF0ZTogc3RyaW5nLAogIHJlcG9ydDogRGF5UmVwb3J0LAogIHJtQXR0YWNobWVudHM6IFJNQXR0YWNobWVudFtdLAogIHJlY2lwaWVudHM6IHN0cmluZ1tdLAogIHRyYW5zY3JpcHRYbHN4PzogQnVmZmVyLAogIG1vZGU6IFNlbmRNb2RlID0gJ3Byb2R1Y3Rpb24nLAopOiBQcm9taXNlPHsgYWNjZXB0ZWQ6IHN0cmluZ1tdIH0+IHsKICBjb25zdCB0cmFuc3BvcnQgPSBnZXRUcmFuc3BvcnQoKTsKICBjb25zdCB1c2VyID0gcHJvY2Vzcy5lbnYuR01BSUxfVVNFUiE7CgogIGNvbnN0IHsgc3ViamVjdCwgdGhyZWFkSWQgfSA9IFRIUkVBRF9DT05GSUdbbW9kZV07CgogIGNvbnN0IHJtUmVwb3J0cyA9IHJtQXR0YWNobWVudHMubWFwKGEgPT4gKHsgcm1OYW1lOiBhLnJtTmFtZSwgc2Vzc2lvbkRhdGU6IGEuc2Vzc2lvbkRhdGUsIHJlcG9ydDogYS5yZXBvcnQgfSkpOwogIGNvbnN0IHRyYW5zY3JpcHROb3RlID0gdHJhbnNjcmlwdFhsc3gKICAgID8gJycKICAgIDogJ1RyYW5zY3JpcHQgZmlsZSBvbWl0dGVkIOKAlCB0b28gbWFueSBjYWxscyBmb3IgYSBzaW5nbGUgYXR0YWNobWVudC4gRG93bmxvYWQgaW5kaXZpZHVhbCB0cmFuc2NyaXB0cyBmcm9tIHRoZSBSYWRhciBhcHAuJzsKICBjb25zdCBodG1sID0gYnVpbGREYXlSZXBvcnRIdG1sKGRhdGUsIHJlcG9ydCwgcm1SZXBvcnRzLCB0cmFuc2NyaXB0Tm90ZSk7CgogIC8vIEJ1aWxkIGF0dGFjaG1lbnRzCiAgY29uc3QgWExTWF9NSU1FID0gJ2FwcGxpY2F0aW9uL3ZuZC5vcGVueG1sZm9ybWF0cy1vZmZpY2Vkb2N1bWVudC5zcHJlYWRzaGVldG1sLnNoZWV0JzsKCiAgLy8gQXR0YWNobWVudCAxOiBvbmUgc3VtbWFyeSB4bHN4IHBlciBSTSAoZXhpc3RpbmcgZ2VuZXJhdGVkIHJlcG9ydHMpCiAgY29uc3QgYXR0YWNobWVudHM6IHsgZmlsZW5hbWU6IHN0cmluZzsgY29udGVudDogQnVmZmVyOyBjb250ZW50VHlwZTogc3RyaW5nIH1bXSA9IHJtQXR0YWNobWVudHMKICAgIC5maWx0ZXIoYSA9PiBhLnhsc3hCdWZmZXIpCiAgICAubWFwKGEgPT4gewogICAgICBjb25zdCBzYWZlRGF0ZSA9IGEuc2Vzc2lvbkRhdGUucmVwbGFjZSgvW15hLXpBLVowLTldL2csICdfJyk7CiAgICAgIGNvbnN0IHNhZmVOYW1lID0gYS5ybU5hbWUucmVwbGFjZSgvW15hLXpBLVowLTldL2csICdfJyk7CiAgICAgIHJldHVybiB7CiAgICAgICAgZmlsZW5hbWU6IGBSTV9SZXBvcnRfJHtzYWZlTmFtZX1fJHtzYWZlRGF0ZX0ueGxzeGAsCiAgICAgICAgY29udGVudDogYS54bHN4QnVmZmVyISwKICAgICAgICBjb250ZW50VHlwZTogWExTWF9NSU1FLAogICAgICB9OwogICAgfSk7CgogIC8vIEF0dGFjaG1lbnQgMjogY29tYmluZWQgdHJhbnNjcmlwdCB4bHN4IChvbmUgc2hlZXQgcGVyIFJNKQogIGlmICh0cmFuc2NyaXB0WGxzeCkgewogICAgY29uc3Qgc2FmZURhdGUgPSBkYXRlLnJlcGxhY2UoLy0vZywgJ18nKTsKICAgIGF0dGFjaG1lbnRzLnB1c2goewogICAgICBmaWxlbmFtZTogYFRyYW5zY3JpcHRzXyR7c2FmZURhdGV9Lnhsc3hgLAogICAgICBjb250ZW50OiB0cmFuc2NyaXB0WGxzeCwKICAgICAgY29udGVudFR5cGU6IFhMU1hfTUlNRSwKICAgIH0pOwogIH0KCiAgY29uc3QgaW5mbyA9IGF3YWl0IHRyYW5zcG9ydC5zZW5kTWFpbCh7CiAgICBmcm9tOiBgIlJhZGFyIMK3IEJvbmRTY2FubmVyIiA8JHt1c2VyfT5gLAogICAgdG86IHJlY2lwaWVudHMuam9pbignLCAnKSwKICAgIHN1YmplY3QsCiAgICBodG1sLAogICAgYXR0YWNobWVudHMsCiAgICAvLyBUaHJlYWRpbmcgaGVhZGVycyDigJQga2VlcHMgYWxsIGVtYWlscyBmb3IgdGhpcyBtb2RlIGluIG9uZSBHbWFpbCB0aHJlYWQKICAgIHJlZmVyZW5jZXM6IHRocmVhZElkLAogICAgaW5SZXBseVRvOiAgdGhyZWFkSWQsCiAgfSk7CgogIHJldHVybiB7IGFjY2VwdGVkOiBpbmZvLmFjY2VwdGVkIGFzIHN0cmluZ1tdIH07Cn0K"}
+import nodemailer from 'nodemailer';
+import type { DayReport, RMReport } from '@/types';
+
+function getTransport() {
+  const user = process.env.GMAIL_USER;
+  const pass = process.env.GMAIL_APP_PASSWORD;
+  if (!user || !pass) throw new Error('GMAIL_USER and GMAIL_APP_PASSWORD env vars are required');
+
+  return nodemailer.createTransport({
+    host: 'smtp.gmail.com',
+    port: 465,
+    secure: true,
+    auth: { user, pass },
+    connectionTimeout: 15_000,  // 15 s to open the TLS connection
+    greetingTimeout:   15_000,  // 15 s for the EHLO greeting
+    socketTimeout:    120_000,  // 2 min for uploading the message body/attachments
+  });
+}
+
+// ─── HTML builders ──────────────────────────────────────────────────────────
+
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+function safeArr<T>(v: unknown): T[] {
+  if (Array.isArray(v)) return v as T[];
+  if (typeof v === 'string') { try { const p = JSON.parse(v); return Array.isArray(p) ? p : []; } catch { return []; } }
+  return [];
+}
+
+function buildDayReportHtml(date: string, report: DayReport, rmReports: { rmName: string; sessionDate: string; report: RMReport }[], transcriptNote = ''): string {
+  const fmtDate = new Date(date).toLocaleDateString('en-GB', { day: '2-digit', month: 'long', year: 'numeric' });
+
+  const outcomesHtml = safeArr<typeof report.outcomes[0]>(report.outcomes)
+    .map(o => `<tr><td style="padding:8px 12px;border-bottom:1px solid #e2e8f0;">${o.outcome}</td><td style="padding:8px 12px;border-bottom:1px solid #e2e8f0;font-weight:600;">${o.count}</td><td style="padding:8px 12px;border-bottom:1px solid #e2e8f0;">${o.percentage}</td></tr>`)
+    .join('');
+
+  const highlightsHtml = safeArr<typeof report.highlights[0]>(report.highlights)
+    .map(h => `<li style="margin-bottom:10px;"><strong>${h.rank} — #${h.call_number} · ${h.customer_name}</strong> <span style="color:#6b7280;">(${h.rep ?? ''} · ${h.duration})</span><br><span style="color:#374151;">${h.description}</span></li>`)
+    .join('');
+
+  const actionItemsHtml = safeArr<typeof report.action_items[0]>(report.action_items)
+    .map((a, i) => {
+      const color = a.priority === 'HIGH' ? '#ef4444' : a.priority === 'MEDIUM' ? '#f59e0b' : '#22c55e';
+      return `<tr><td style="padding:8px 12px;border-bottom:1px solid #e2e8f0;"><span style="background:${color}18;color:${color};border:1px solid ${color}40;border-radius:12px;padding:2px 8px;font-size:11px;font-weight:600;">${a.priority}</span></td><td style="padding:8px 12px;border-bottom:1px solid #e2e8f0;">${a.action}</td><td style="padding:8px 12px;border-bottom:1px solid #e2e8f0;color:#6b7280;">${a.owner}</td><td style="padding:8px 12px;border-bottom:1px solid #e2e8f0;color:#6b7280;white-space:nowrap;">${a.deadline}</td></tr>`;
+    })
+    .join('');
+
+  const improvementsHtml = safeArr<typeof report.improvements[0]>(report.improvements)
+    .map(imp => {
+      if (typeof imp === 'string') return `<li style="margin-bottom:6px;color:#374151;">${imp}</li>`;
+      const refs = safeArr<typeof imp.call_refs[0]>(imp.call_refs).length > 0
+        ? ` <span style="font-size:11px;color:#6b7280;">[${safeArr<typeof imp.call_refs[0]>(imp.call_refs).map(r => `${r.rm_name} #${r.call_number}${r.customer_name ? ` ${r.customer_name}` : ''}`).join(', ')}]</span>`
+        : '';
+      return `<li style="margin-bottom:6px;color:#374151;">${imp.point}${refs}</li>`;
+    })
+    .join('');
+
+  const agentPerfHtml = safeArr<typeof report.agent_performance[0]>(report.agent_performance)
+    .map((a, i) => `<tr style="background:${i % 2 === 0 ? '#fff' : '#f8fafc'};"><td style="padding:8px 12px;border-bottom:1px solid #e2e8f0;font-weight:600;">${a.agent}</td><td style="padding:8px 12px;border-bottom:1px solid #e2e8f0;color:#3b82f6;font-weight:600;">${a.total_calls}</td><td style="padding:8px 12px;border-bottom:1px solid #e2e8f0;">${a.follow_ups}</td><td style="padding:8px 12px;border-bottom:1px solid #e2e8f0;color:#f59e0b;font-weight:600;">${a.avg_performance}</td><td style="padding:8px 12px;border-bottom:1px solid #e2e8f0;color:#6b7280;font-size:12px;">${a.best_call}</td></tr>`)
+    .join('');
+
+  const productsArr = safeArr<typeof report.products[0]>(report.products);
+  const productsHtml = productsArr.length
+    ? `<h2 style="font-size:16px;color:#1b2748;margin:28px 0 10px;">Top Bonds &amp; Products</h2>
+       <table width="100%" cellpadding="0" cellspacing="0" style="border:1px solid #e2e8f0;border-radius:8px;overflow:hidden;font-size:13px;">
+         <tr style="background:#f8fafc;"><th style="padding:8px 12px;text-align:left;font-size:11px;color:#6b7280;">Bond / Issuer</th><th style="padding:8px 12px;text-align:left;font-size:11px;color:#6b7280;">Yield</th><th style="padding:8px 12px;text-align:left;font-size:11px;color:#6b7280;">Context</th></tr>
+         ${productsArr.map(p => `<tr><td style="padding:8px 12px;border-bottom:1px solid #e2e8f0;font-weight:600;">${p.bond_issuer}</td><td style="padding:8px 12px;border-bottom:1px solid #e2e8f0;color:#22c55e;font-weight:600;">${p.yield}</td><td style="padding:8px 12px;border-bottom:1px solid #e2e8f0;">${p.context}</td></tr>`).join('')}
+       </table>` : '';
+
+  // RM summary blurbs
+  const rmSummaryHtml = rmReports.length
+    ? `<h2 style="font-size:16px;color:#1b2748;margin:28px 0 10px;">RM Performance Snapshots</h2>
+       ${rmReports.map(rm => `
+         <div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:8px;padding:14px 16px;margin-bottom:10px;">
+           <div style="font-size:13px;font-weight:700;color:#1b2748;margin-bottom:4px;">${rm.rmName} <span style="font-weight:400;color:#6b7280;font-size:12px;">· ${rm.sessionDate}</span></div>
+           <div style="font-size:12px;color:#374151;line-height:1.6;">${rm.report.agent_performance?.summary ?? ''}</div>
+           <div style="margin-top:6px;font-size:12px;color:#6b7280;">
+             Median score: <strong style="color:#f59e0b;">${rm.report.agent_performance?.avg_performance ?? 'N/A'}</strong>
+             &nbsp;·&nbsp; Follow-ups: <strong>${rm.report.agent_performance?.follow_ups ?? 0}</strong>
+             &nbsp;·&nbsp; Total calls: <strong>${rm.report.agent_performance?.total_calls ?? 0}</strong>
+           </div>
+         </div>`).join('')}
+       <p style="font-size:12px;color:#6b7280;margin:8px 0 0;">Individual RM Excel reports are attached below.</p>` : '';
+
+  return `<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width"></head>
+<body style="margin:0;padding:0;background:#f1f5f9;font-family:Inter,Arial,sans-serif;">
+  <table width="100%" cellpadding="0" cellspacing="0" style="background:#f1f5f9;padding:32px 0;">
+    <tr><td align="center">
+      <table width="680" cellpadding="0" cellspacing="0" style="background:#ffffff;border-radius:12px;overflow:hidden;box-shadow:0 4px 24px rgba(0,0,0,0.06);">
+
+        <!-- Header -->
+        <tr><td style="background:#1b2748;padding:28px 32px;">
+          <p style="margin:0;font-size:22px;font-weight:700;color:#ffffff;">BondScanner</p>
+          <p style="margin:6px 0 0;font-size:14px;color:#7e95b8;">Day End Report — ${fmtDate}</p>
+        </td></tr>
+
+        <!-- Stats row -->
+        <tr><td style="padding:24px 32px;background:#131d35;border-bottom:1px solid #1e3058;">
+          <table width="100%" cellpadding="0" cellspacing="0">
+            <tr>
+              <td style="color:#7e95b8;font-size:11px;text-transform:uppercase;padding-bottom:4px;">Total Calls</td>
+              <td style="color:#7e95b8;font-size:11px;text-transform:uppercase;padding-bottom:4px;">Unique Customers</td>
+              <td style="color:#7e95b8;font-size:11px;text-transform:uppercase;padding-bottom:4px;">Talk Time</td>
+              <td style="color:#7e95b8;font-size:11px;text-transform:uppercase;padding-bottom:4px;">Reps on Duty</td>
+            </tr>
+            <tr>
+              <td style="color:#3b82f6;font-size:24px;font-weight:700;">${report.overview.total_calls}</td>
+              <td style="color:#3b82f6;font-size:24px;font-weight:700;">${report.overview.unique_customers}</td>
+              <td style="color:#f59e0b;font-size:24px;font-weight:700;">${report.overview.total_talk_time}</td>
+              <td style="color:#f1f5f9;font-size:15px;font-weight:600;">${safeArr<string>(report.overview.reps_on_duty).join(', ')}</td>
+            </tr>
+          </table>
+        </td></tr>
+
+        <!-- Body -->
+        <tr><td style="padding:32px;">
+
+          <h2 style="font-size:16px;color:#1b2748;margin:0 0 10px;">Call Outcomes</h2>
+          <table width="100%" cellpadding="0" cellspacing="0" style="border:1px solid #e2e8f0;border-radius:8px;overflow:hidden;margin-bottom:24px;font-size:13px;">
+            <tr style="background:#f8fafc;"><th style="padding:8px 12px;text-align:left;font-size:11px;color:#6b7280;">Outcome</th><th style="padding:8px 12px;text-align:left;font-size:11px;color:#6b7280;">Count</th><th style="padding:8px 12px;text-align:left;font-size:11px;color:#6b7280;">%</th></tr>
+            ${outcomesHtml}
+          </table>
+
+          <h2 style="font-size:16px;color:#1b2748;margin:0 0 10px;">Top Highlights</h2>
+          <ul style="margin:0 0 24px;padding-left:20px;font-size:13px;line-height:1.8;">${highlightsHtml}</ul>
+
+          <h2 style="font-size:16px;color:#1b2748;margin:0 0 10px;">Urgent Action Items</h2>
+          <table width="100%" cellpadding="0" cellspacing="0" style="border:1px solid #e2e8f0;border-radius:8px;overflow:hidden;margin-bottom:24px;font-size:13px;">
+            <tr style="background:#f8fafc;"><th style="padding:8px 12px;text-align:left;font-size:11px;color:#6b7280;">Priority</th><th style="padding:8px 12px;text-align:left;font-size:11px;color:#6b7280;">Action</th><th style="padding:8px 12px;text-align:left;font-size:11px;color:#6b7280;">Owner</th><th style="padding:8px 12px;text-align:left;font-size:11px;color:#6b7280;">Deadline</th></tr>
+            ${actionItemsHtml || '<tr><td colspan="4" style="padding:10px 12px;color:#6b7280;">No action items</td></tr>'}
+          </table>
+
+          <h2 style="font-size:16px;color:#1b2748;margin:0 0 10px;">Areas for Improvement</h2>
+          <ul style="margin:0 0 24px;padding-left:20px;font-size:13px;line-height:1.8;">${improvementsHtml}</ul>
+
+          <h2 style="font-size:16px;color:#1b2748;margin:0 0 10px;">Agent Performance</h2>
+          <table width="100%" cellpadding="0" cellspacing="0" style="border:1px solid #e2e8f0;border-radius:8px;overflow:hidden;margin-bottom:24px;font-size:13px;">
+            <tr style="background:#f8fafc;"><th style="padding:8px 12px;text-align:left;font-size:11px;color:#6b7280;">Agent</th><th style="padding:8px 12px;text-align:left;font-size:11px;color:#6b7280;">Calls</th><th style="padding:8px 12px;text-align:left;font-size:11px;color:#6b7280;">Follow-ups</th><th style="padding:8px 12px;text-align:left;font-size:11px;color:#6b7280;">Median Score</th><th style="padding:8px 12px;text-align:left;font-size:11px;color:#6b7280;">Best Call</th></tr>
+            ${agentPerfHtml}
+          </table>
+
+          ${productsHtml}
+          ${rmSummaryHtml}
+
+        </td></tr>
+
+        <!-- Footer -->
+        <tr><td style="padding:20px 32px;background:#f8fafc;border-top:1px solid #e2e8f0;text-align:center;">
+          <p style="margin:0;color:#9ca3af;font-size:12px;">Generated by Radar &middot; BondScanner &middot; ${fmtDate}</p>
+          ${transcriptNote ? `<p style="margin:6px 0 0;color:#9ca3af;font-size:11px;">${transcriptNote}</p>` : ''}
+        </td></tr>
+
+      </table>
+    </td></tr>
+  </table>
+</body>
+</html>`;
+}
+
+// ─── Main send function ──────────────────────────────────────────────────────
+
+export interface RMAttachment {
+  rmName: string;
+  sessionDate: string;
+  report: RMReport;
+  xlsxBuffer?: Buffer;
+}
+
+export type SendMode = 'test' | 'production' | 'internal';
+
+// Each mode has its own fixed thread anchor + subject so they never bleed into each other.
+const THREAD_CONFIG: Record<SendMode, { subject: string; threadId: string }> = {
+  test: {
+    subject:  '[TEST] Day end report - Call Analysis',
+    threadId: '<day-report-test-thread@bondscanner.com>',
+  },
+  production: {
+    subject:  'Call analysis: Day end report',
+    threadId: '<day-report-thread@bondscanner.com>',
+  },
+  internal: {
+    subject:  '[Internal] Call analysis: Day end report',
+    threadId: '<day-report-internal-thread@bondscanner.com>',
+  },
+};
+
+export async function sendDayReportEmail(
+  date: string,
+  report: DayReport,
+  rmAttachments: RMAttachment[],
+  recipients: string[],
+  transcriptXlsx?: Buffer,
+  mode: SendMode = 'production',
+): Promise<{ accepted: string[] }> {
+  const transport = getTransport();
+  const user = process.env.GMAIL_USER!;
+
+  const { subject, threadId } = THREAD_CONFIG[mode];
+
+  const rmReports = rmAttachments.map(a => ({ rmName: a.rmName, sessionDate: a.sessionDate, report: a.report }));
+  const transcriptNote = transcriptXlsx
+    ? ''
+    : 'Transcript file omitted — too many calls for a single attachment. Download individual transcripts from the Radar app.';
+  const html = buildDayReportHtml(date, report, rmReports, transcriptNote);
+
+  // Build attachments
+  const XLSX_MIME = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet';
+
+  // Attachment 1: one summary xlsx per RM (existing generated reports)
+  const attachments: { filename: string; content: Buffer; contentType: string }[] = rmAttachments
+    .filter(a => a.xlsxBuffer)
+    .map(a => {
+      const safeDate = a.sessionDate.replace(/[^a-zA-Z0-9]/g, '_');
+      const safeName = a.rmName.replace(/[^a-zA-Z0-9]/g, '_');
+      return {
+        filename: `RM_Report_${safeName}_${safeDate}.xlsx`,
+        content: a.xlsxBuffer!,
+        contentType: XLSX_MIME,
+      };
+    });
+
+  // Attachment 2: combined transcript xlsx (one sheet per RM)
+  if (transcriptXlsx) {
+    const safeDate = date.replace(/-/g, '_');
+    attachments.push({
+      filename: `Transcripts_${safeDate}.xlsx`,
+      content: transcriptXlsx,
+      contentType: XLSX_MIME,
+    });
+  }
+
+  const info = await transport.sendMail({
+    from: `"Radar · BondScanner" <${user}>`,
+    to: recipients.join(', '),
+    subject,
+    html,
+    attachments,
+    // Threading headers — keeps all emails for this mode in one Gmail thread
+    references: threadId,
+    inReplyTo:  threadId,
+  });
+
+  return { accepted: info.accepted as string[] };
+}

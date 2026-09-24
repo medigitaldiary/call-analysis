@@ -1,1 +1,57 @@
-{"data":"J3VzZSBjbGllbnQnOwoKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCc7CmltcG9ydCBMaW5rIGZyb20gJ25leHQvbGluayc7CmltcG9ydCBDYWxsSGlzdG9yeVRhYmxlIGZyb20gJ0AvY29tcG9uZW50cy9jYWxscy9DYWxsSGlzdG9yeVRhYmxlJzsKaW1wb3J0IEN1c3RvbWVyVmlldyBmcm9tICdAL2NvbXBvbmVudHMvY2FsbHMvQ3VzdG9tZXJWaWV3JzsKaW1wb3J0IERheVJlcG9ydFZpZXcgZnJvbSAnQC9jb21wb25lbnRzL2NhbGxzL0RheVJlcG9ydFZpZXcnOwoKdHlwZSBTdWJUYWIgPSAncm0nIHwgJ3VzZXInIHwgJ2RheSc7Cgpjb25zdCBTVUJfVEFCUzogeyBpZDogU3ViVGFiOyBsYWJlbDogc3RyaW5nIH1bXSA9IFsKICB7IGlkOiAncm0nLCAgIGxhYmVsOiAn8J+TgSBSTSBWaWV3JyB9LAogIHsgaWQ6ICd1c2VyJywgbGFiZWw6ICfwn5GkIFVzZXIgVmlldycgfSwKICB7IGlkOiAnZGF5JywgIGxhYmVsOiAn8J+TiyBEYXkgUmVwb3J0JyB9LApdOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gSGlzdG9yeVBhZ2UoKSB7CiAgY29uc3QgW3N1YlRhYiwgc2V0U3ViVGFiXSA9IHVzZVN0YXRlPFN1YlRhYj4oJ3JtJyk7CgogIHJldHVybiAoCiAgICA8ZGl2IHN0eWxlPXt7IGJhY2tncm91bmQ6ICd2YXIoLS1jYXJkLWJnKScsIGJvcmRlcjogJzFweCBzb2xpZCB2YXIoLS1jYXJkLWJvcmRlciknLCBib3JkZXJSYWRpdXM6IDEwLCBvdmVyZmxvdzogJ2NsaXAnIH19PgogICAgICB7LyogU3ViLXRhYiB0b2dnbGUgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJoaXN0b3J5LWhlYWRlciIgc3R5bGU9e3sgZGlzcGxheTogJ2ZsZXgnLCBhbGlnbkl0ZW1zOiAnY2VudGVyJywganVzdGlmeUNvbnRlbnQ6ICdzcGFjZS1iZXR3ZWVuJywgcGFkZGluZzogJzEycHggMjBweCcsIGJvcmRlckJvdHRvbTogJzFweCBzb2xpZCB2YXIoLS1jYXJkLWJvcmRlciknIH19PgogICAgICAgIDxoMiBzdHlsZT17eyBtYXJnaW46IDAsIGZvbnRTaXplOiAxNCwgZm9udFdlaWdodDogNjAwLCBjb2xvcjogJyNmMWY1ZjknIH19PkNhbGwgSGlzdG9yeTwvaDI+CiAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGFsaWduSXRlbXM6ICdjZW50ZXInLCBnYXA6IDEwIH19PgogICAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGJhY2tncm91bmQ6ICcjMGMxMDIxJywgYm9yZGVyUmFkaXVzOiA4LCBwYWRkaW5nOiAzLCBnYXA6IDIsIGJvcmRlcjogJzFweCBzb2xpZCB2YXIoLS1jYXJkLWJvcmRlciknIH19PgogICAgICAgICAgICB7U1VCX1RBQlMubWFwKHN0ID0+ICgKICAgICAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgICAgICBrZXk9e3N0LmlkfQogICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2V0U3ViVGFiKHN0LmlkKX0KICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIHBhZGRpbmc6ICc1cHggMTRweCcsIGJvcmRlcjogJ25vbmUnLCBib3JkZXJSYWRpdXM6IDYsIGZvbnRTaXplOiAxMiwgZm9udFdlaWdodDogNTAwLCBjdXJzb3I6ICdwb2ludGVyJywKICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZDogc3ViVGFiID09PSBzdC5pZCA/ICcjMWUzMDU4JyA6ICd0cmFuc3BhcmVudCcsCiAgICAgICAgICAgICAgICAgIGNvbG9yOiBzdWJUYWIgPT09IHN0LmlkID8gJyNmMWY1ZjknIDogJ3ZhcigtLXRleHQtbXV0ZWQpJywKICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAge3N0LmxhYmVsfQogICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPExpbmsgaHJlZj0iL2FyY2hpdmUiIHN0eWxlPXt7CiAgICAgICAgICAgIGRpc3BsYXk6ICdpbmxpbmUtZmxleCcsIGFsaWduSXRlbXM6ICdjZW50ZXInLCBnYXA6IDUsCiAgICAgICAgICAgIHBhZGRpbmc6ICc1cHggMTJweCcsIGJvcmRlclJhZGl1czogNiwgZm9udFNpemU6IDEyLCBmb250V2VpZ2h0OiA1MDAsCiAgICAgICAgICAgIGJhY2tncm91bmQ6ICd0cmFuc3BhcmVudCcsIGJvcmRlcjogJzFweCBzb2xpZCB2YXIoLS1jYXJkLWJvcmRlciknLAogICAgICAgICAgICBjb2xvcjogJ3ZhcigtLXRleHQtbXV0ZWQpJywgdGV4dERlY29yYXRpb246ICdub25lJywKICAgICAgICAgIH19PgogICAgICAgICAgICDwn5eEIEFyY2hpdmUKICAgICAgICAgIDwvTGluaz4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CgogICAgICB7c3ViVGFiID09PSAncm0nICAgJiYgPENhbGxIaXN0b3J5VGFibGUgLz59CiAgICAgIHtzdWJUYWIgPT09ICd1c2VyJyAmJiA8Q3VzdG9tZXJWaWV3IC8+fQogICAgICB7c3ViVGFiID09PSAnZGF5JyAgJiYgPERheVJlcG9ydFZpZXcgLz59CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+'use client';
+
+import { useState } from 'react';
+import Link from 'next/link';
+import CallHistoryTable from '@/components/calls/CallHistoryTable';
+import CustomerView from '@/components/calls/CustomerView';
+import DayReportView from '@/components/calls/DayReportView';
+
+type SubTab = 'rm' | 'user' | 'day';
+
+const SUB_TABS: { id: SubTab; label: string }[] = [
+  { id: 'rm',   label: '📁 RM View' },
+  { id: 'user', label: '👤 User View' },
+  { id: 'day',  label: '📋 Day Report' },
+];
+
+export default function HistoryPage() {
+  const [subTab, setSubTab] = useState<SubTab>('rm');
+
+  return (
+    <div style={{ background: 'var(--card-bg)', border: '1px solid var(--card-border)', borderRadius: 10, overflow: 'clip' }}>
+      {/* Sub-tab toggle */}
+      <div className="history-header" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '12px 20px', borderBottom: '1px solid var(--card-border)' }}>
+        <h2 style={{ margin: 0, fontSize: 14, fontWeight: 600, color: '#f1f5f9' }}>Call History</h2>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+          <div style={{ display: 'flex', background: '#0c1021', borderRadius: 8, padding: 3, gap: 2, border: '1px solid var(--card-border)' }}>
+            {SUB_TABS.map(st => (
+              <button
+                key={st.id}
+                onClick={() => setSubTab(st.id)}
+                style={{
+                  padding: '5px 14px', border: 'none', borderRadius: 6, fontSize: 12, fontWeight: 500, cursor: 'pointer',
+                  background: subTab === st.id ? '#1e3058' : 'transparent',
+                  color: subTab === st.id ? '#f1f5f9' : 'var(--text-muted)',
+                }}
+              >
+                {st.label}
+              </button>
+            ))}
+          </div>
+          <Link href="/archive" style={{
+            display: 'inline-flex', alignItems: 'center', gap: 5,
+            padding: '5px 12px', borderRadius: 6, fontSize: 12, fontWeight: 500,
+            background: 'transparent', border: '1px solid var(--card-border)',
+            color: 'var(--text-muted)', textDecoration: 'none',
+          }}>
+            🗄 Archive
+          </Link>
+        </div>
+      </div>
+
+      {subTab === 'rm'   && <CallHistoryTable />}
+      {subTab === 'user' && <CustomerView />}
+      {subTab === 'day'  && <DayReportView />}
+    </div>
+  );
+}

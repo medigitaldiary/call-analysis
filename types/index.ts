@@ -1,1 +1,259 @@
-{"data":"ZXhwb3J0IHR5cGUgQ2FsbFN0YXR1cyA9CiAgfCAndXBsb2FkZWQnCiAgfCAndHJhbnNjcmliaW5nJwogIHwgJ2FuYWx5c2luZycKICB8ICdnZW5lcmF0aW5nJwogIHwgJ3JlYWR5JwogIHwgJ3NlbnQnCiAgfCAnZXJyb3InOwoKZXhwb3J0IGludGVyZmFjZSBDYWxsIHsKICBpZDogc3RyaW5nOwogIGNyZWF0ZWRfYXQ6IHN0cmluZzsKICBwcm9zcGVjdF9uYW1lOiBzdHJpbmc7CiAgY29tcGFueTogc3RyaW5nOwogIHJlcF9uYW1lOiBzdHJpbmc7CiAgY2FsbF90eXBlOiBzdHJpbmcgfCBudWxsOwogIHJlY29yZGluZ191cmw6IHN0cmluZyB8IG51bGw7CiAgZHJpdmVfdXJsOiBzdHJpbmcgfCBudWxsOwogIGR1cmF0aW9uX3NlYzogbnVtYmVyIHwgbnVsbDsKICBzdGFrZWhvbGRlcnM6IHN0cmluZ1tdOwogIHN0YXR1czogQ2FsbFN0YXR1czsKICBlcnJvcl9tc2c6IHN0cmluZyB8IG51bGw7CiAgc2Vzc2lvbl9pZDogc3RyaW5nIHwgbnVsbDsKICBoYXNfdHJhbnNjcmlwdDogYm9vbGVhbjsKICB1c2VyX2lkOiBzdHJpbmcgfCBudWxsOwp9CgpleHBvcnQgaW50ZXJmYWNlIEFjdGlvbkl0ZW0gewogIHByaW9yaXR5OiAnSElHSCcgfCAnTUVESVVNJyB8ICdMT1cnOwogIHRhc2s6IHN0cmluZzsKICBvd25lcjogc3RyaW5nOwogIGRlYWRsaW5lOiBzdHJpbmc7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgU2VudGltZW50U2NvcmUgewogIG92ZXJhbGw6IHN0cmluZzsKICBhZ2VudDogc3RyaW5nOwogIGN1c3RvbWVyOiBzdHJpbmc7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgU3BlYWtlckJyZWFrZG93biB7CiAgZGVzY3JpcHRpb246IHN0cmluZzsKICBsYW5ndWFnZTogc3RyaW5nOwogIGFnZW50X3BlcmNlbnRhZ2U6IG51bWJlcjsKICBjdXN0b21lcl9wZXJjZW50YWdlOiBudW1iZXI7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgUmVwb3J0IHsKICBpZDogc3RyaW5nOwogIGNhbGxfaWQ6IHN0cmluZzsKICBjcmVhdGVkX2F0OiBzdHJpbmc7CiAgdHJhbnNjcmlwdDogc3RyaW5nIHwgbnVsbDsKICAvLyBtZXRhZGF0YSBleHRyYWN0ZWQgYnkgQUkKICBkYXRlX2V4dHJhY3RlZDogc3RyaW5nIHwgbnVsbDsKICB0aW1lX2V4dHJhY3RlZDogc3RyaW5nIHwgbnVsbDsKICBkdXJhdGlvbjogc3RyaW5nIHwgbnVsbDsKICBwaG9uZTogc3RyaW5nIHwgbnVsbDsKICBjdXN0b21lcl9uYW1lOiBzdHJpbmcgfCBudWxsOwogIG91dGNvbWU6IHN0cmluZyB8IG51bGw7CiAgY2FsbF9xdWFsaXR5OiBzdHJpbmcgfCBudWxsOwogIGFnZW50X3BlcmZvcm1hbmNlOiBzdHJpbmcgfCBudWxsOwogIHN1bW1hcnk6IHN0cmluZyB8IG51bGw7CiAgc2VudGltZW50OiBTZW50aW1lbnRTY29yZSB8IG51bGw7CiAgc3BlYWtlcl9icmVha2Rvd246IFNwZWFrZXJCcmVha2Rvd24gfCBudWxsOwogIGtleXdvcmRzOiBzdHJpbmdbXSB8IG51bGw7CiAgdG9waWNzOiBzdHJpbmdbXSB8IG51bGw7CiAgY29tcGxpYW5jZTogc3RyaW5nIHwgbnVsbDsKICBhY3Rpb25faXRlbXM6IEFjdGlvbkl0ZW1bXSB8IG51bGw7CiAgLy8gc3RvcmFnZQogIGRvY191cmw6IHN0cmluZyB8IG51bGw7CiAgc2hlZXRfdXJsOiBzdHJpbmcgfCBudWxsOwogIGVtYWlsX3NlbnRfYXQ6IHN0cmluZyB8IG51bGw7CiAgZW1haWxfcmVjaXBpZW50czogc3RyaW5nW10gfCBudWxsOwp9CgpleHBvcnQgaW50ZXJmYWNlIENhbGxXaXRoUmVwb3J0IGV4dGVuZHMgQ2FsbCB7CiAgcmVwb3J0PzogUmVwb3J0Owp9CgpleHBvcnQgaW50ZXJmYWNlIENhbGxGb3JtRGF0YSB7CiAgcHJvc3BlY3RfbmFtZTogc3RyaW5nOwogIGNvbXBhbnk6IHN0cmluZzsKICByZXBfbmFtZTogc3RyaW5nOwogIGNhbGxfdHlwZTogc3RyaW5nOwogIHN0YWtlaG9sZGVyczogc3RyaW5nOwogIGZpbGU/OiBGaWxlOwogIGRyaXZlX3VybD86IHN0cmluZzsKfQoKZXhwb3J0IHR5cGUgUGlwZWxpbmVTdGVwID0KICB8ICdpZGxlJwogIHwgJ3VwbG9hZGluZycKICB8ICd0cmFuc2NyaWJpbmcnCiAgfCAnYW5hbHlzaW5nJwogIHwgJ2dlbmVyYXRpbmcnCiAgfCAncmVhZHknCiAgfCAnZXJyb3InOwoKZXhwb3J0IGludGVyZmFjZSBSTVJlcG9ydE92ZXJ2aWV3IHsKICB0b3RhbF9jYWxsczogbnVtYmVyOwogIHVuaXF1ZV9jdXN0b21lcnM6IG51bWJlcjsKICB0b3RhbF90YWxrX3RpbWU6IHN0cmluZzsKICByZXBfb25fZHV0eTogc3RyaW5nOwogIGRlYWxzX2Rpc2N1c3NlZDogc3RyaW5nOwp9CgpleHBvcnQgaW50ZXJmYWNlIFJNUmVwb3J0T3V0Y29tZSB7CiAgb3V0Y29tZTogc3RyaW5nOwogIGNvdW50OiBudW1iZXI7CiAgcGVyY2VudGFnZTogc3RyaW5nOwp9CgpleHBvcnQgaW50ZXJmYWNlIFJNUmVwb3J0SGlnaGxpZ2h0IHsKICByYW5rOiBzdHJpbmc7CiAgY2FsbF9udW1iZXI6IG51bWJlcjsKICBjdXN0b21lcl9uYW1lOiBzdHJpbmc7CiAgcGhvbmU6IHN0cmluZzsKICBkdXJhdGlvbjogc3RyaW5nOwogIGRlc2NyaXB0aW9uOiBzdHJpbmc7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgUk1SZXBvcnRBY3Rpb25JdGVtIHsKICBwcmlvcml0eTogJ0hJR0gnIHwgJ01FRElVTScgfCAnTE9XJzsKICBhY3Rpb246IHN0cmluZzsKICBvd25lcjogc3RyaW5nOwogIGRlYWRsaW5lOiBzdHJpbmc7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgUk1SZXBvcnRBZ2VudFBlcmZvcm1hbmNlIHsKICBhZ2VudDogc3RyaW5nOwogIHRvdGFsX2NhbGxzOiBudW1iZXI7CiAgZm9sbG93X3VwczogbnVtYmVyOwogIGF2Z19wZXJmb3JtYW5jZTogc3RyaW5nOwogIGJlc3RfY2FsbDogc3RyaW5nOwogIHN1bW1hcnk6IHN0cmluZzsKfQoKZXhwb3J0IGludGVyZmFjZSBSTVJlcG9ydFByb2R1Y3QgewogIGJvbmRfaXNzdWVyOiBzdHJpbmc7CiAgeWllbGQ6IHN0cmluZzsKICBjb250ZXh0OiBzdHJpbmc7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgUk1SZXBvcnRMYW5ndWFnZSB7CiAgbGFuZ3VhZ2U6IHN0cmluZzsKICBjYWxsczogbnVtYmVyOwogIHBlcmNlbnRhZ2U6IHN0cmluZzsKfQoKZXhwb3J0IGludGVyZmFjZSBSTVJlcG9ydEltcHJvdmVtZW50Q2FsbFJlZiB7CiAgY2FsbF9udW1iZXI6IG51bWJlcjsKICBjdXN0b21lcl9uYW1lOiBzdHJpbmcgfCBudWxsOwogIHBob25lOiBzdHJpbmcgfCBudWxsOwp9CgpleHBvcnQgaW50ZXJmYWNlIFJNUmVwb3J0SW1wcm92ZW1lbnQgewogIHBvaW50OiBzdHJpbmc7CiAgY2FsbF9yZWZzOiBSTVJlcG9ydEltcHJvdmVtZW50Q2FsbFJlZltdOwp9CgpleHBvcnQgaW50ZXJmYWNlIFJNUmVwb3J0IHsKICBvdmVydmlldzogUk1SZXBvcnRPdmVydmlldzsKICBvdXRjb21lczogUk1SZXBvcnRPdXRjb21lW107CiAgZGVhbHNfZGlzY3Vzc2VkOiB7CiAgICB3aXRoX2RlYWxzOiBudW1iZXI7CiAgICB3aXRob3V0X2RlYWxzOiBudW1iZXI7CiAgICBkZWFsX2NhbGxzOiBzdHJpbmc7CiAgfTsKICBoaWdobGlnaHRzOiBSTVJlcG9ydEhpZ2hsaWdodFtdOwogIGFjdGlvbl9pdGVtczogUk1SZXBvcnRBY3Rpb25JdGVtW107CiAgaW1wcm92ZW1lbnRzOiBSTVJlcG9ydEltcHJvdmVtZW50W107CiAgYWdlbnRfcGVyZm9ybWFuY2U6IFJNUmVwb3J0QWdlbnRQZXJmb3JtYW5jZTsKICBwcm9kdWN0czogUk1SZXBvcnRQcm9kdWN0W107CiAgbGFuZ3VhZ2VzOiBSTVJlcG9ydExhbmd1YWdlW107Cn0KCmV4cG9ydCBpbnRlcmZhY2UgQnVsa1Nlc3Npb24gewogIGlkOiBzdHJpbmc7CiAgY3JlYXRlZF9hdDogc3RyaW5nOwogIHJtX25hbWU6IHN0cmluZzsKICBzZXNzaW9uX2RhdGU6IHN0cmluZzsKICBmb2xkZXJfdXJsOiBzdHJpbmc7CiAgdG90YWxfZmlsZXM6IG51bWJlcjsKICBwcm9jZXNzZWRfZmlsZXM6IG51bWJlcjsKICBzdGF0dXM6ICdwZW5kaW5nJyB8ICdwcm9jZXNzaW5nJyB8ICdnZW5lcmF0aW5nJyB8ICdyZWFkeScgfCAnZXJyb3InOwogIGVycm9yX21zZzogc3RyaW5nIHwgbnVsbDsKICBybV9yZXBvcnQ6IFJNUmVwb3J0IHwgbnVsbDsKICBkb2NfdXJsOiBzdHJpbmcgfCBudWxsOwogIHNoZWV0X3VybDogc3RyaW5nIHwgbnVsbDsKICBzdGFrZWhvbGRlcnM6IHN0cmluZ1tdOwp9CgpleHBvcnQgaW50ZXJmYWNlIERyaXZlRmlsZU93bmVyIHsKICBkaXNwbGF5TmFtZTogc3RyaW5nOwogIGVtYWlsQWRkcmVzczogc3RyaW5nOwogIG1lOiBib29sZWFuOwp9CgpleHBvcnQgaW50ZXJmYWNlIERyaXZlRmlsZSB7CiAgaWQ6IHN0cmluZzsKICBuYW1lOiBzdHJpbmc7CiAgbWltZVR5cGU6IHN0cmluZzsKICBvd25lcnM/OiBEcml2ZUZpbGVPd25lcltdOwp9CgpleHBvcnQgaW50ZXJmYWNlIERyaXZlT3duZXJHcm91cCB7CiAgb3duZXJFbWFpbDogc3RyaW5nOwogIG93bmVyRGlzcGxheU5hbWU6IHN0cmluZzsKICBzdWdnZXN0ZWRSbU5hbWU6IHN0cmluZzsKICBmaWxlczogRHJpdmVGaWxlW107Cn0KCi8vIOKUgOKUgCBEYXkgRW5kIFJlcG9ydCDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKCmV4cG9ydCBpbnRlcmZhY2UgRGF5UmVwb3J0QWdlbnRQZXJmb3JtYW5jZSB7CiAgYWdlbnQ6IHN0cmluZzsKICB0b3RhbF9jYWxsczogbnVtYmVyOwogIGZvbGxvd191cHM6IG51bWJlcjsKICBhdmdfcGVyZm9ybWFuY2U6IHN0cmluZzsKICBiZXN0X2NhbGw6IHN0cmluZzsKfQoKZXhwb3J0IGludGVyZmFjZSBEYXlSZXBvcnRJbXByb3ZlbWVudENhbGxSZWYgewogIHJtX25hbWU6IHN0cmluZzsKICBjYWxsX251bWJlcjogbnVtYmVyOwogIGN1c3RvbWVyX25hbWU6IHN0cmluZyB8IG51bGw7CiAgcGhvbmU6IHN0cmluZyB8IG51bGw7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgRGF5UmVwb3J0SW1wcm92ZW1lbnQgewogIHBvaW50OiBzdHJpbmc7CiAgY2FsbF9yZWZzOiBEYXlSZXBvcnRJbXByb3ZlbWVudENhbGxSZWZbXTsKfQoKZXhwb3J0IGludGVyZmFjZSBEYXlSZXBvcnQgewogIG92ZXJ2aWV3OiB7CiAgICB0b3RhbF9jYWxsczogbnVtYmVyOwogICAgdW5pcXVlX2N1c3RvbWVyczogbnVtYmVyOwogICAgdG90YWxfdGFsa190aW1lOiBzdHJpbmc7CiAgICByZXBzX29uX2R1dHk6IHN0cmluZ1tdOwogICAgZGVhbHNfZGlzY3Vzc2VkOiBzdHJpbmc7CiAgfTsKICBvdXRjb21lczogeyBvdXRjb21lOiBzdHJpbmc7IGNvdW50OiBudW1iZXI7IHBlcmNlbnRhZ2U6IHN0cmluZyB9W107CiAgZGVhbHNfZGlzY3Vzc2VkOiB7IHdpdGhfZGVhbHM6IG51bWJlcjsgd2l0aG91dF9kZWFsczogbnVtYmVyOyBkZWFsX2NhbGxzOiBzdHJpbmcgfTsKICBoaWdobGlnaHRzOiB7CiAgICByYW5rOiBzdHJpbmc7CiAgICBjYWxsX251bWJlcjogbnVtYmVyOwogICAgY3VzdG9tZXJfbmFtZTogc3RyaW5nOwogICAgcGhvbmU6IHN0cmluZzsKICAgIGR1cmF0aW9uOiBzdHJpbmc7CiAgICByZXA6IHN0cmluZzsKICAgIGRlc2NyaXB0aW9uOiBzdHJpbmc7CiAgfVtdOwogIGFjdGlvbl9pdGVtczogeyBwcmlvcml0eTogJ0hJR0gnIHwgJ01FRElVTScgfCAnTE9XJzsgYWN0aW9uOiBzdHJpbmc7IG93bmVyOiBzdHJpbmc7IGRlYWRsaW5lOiBzdHJpbmcgfVtdOwogIGltcHJvdmVtZW50czogKERheVJlcG9ydEltcHJvdmVtZW50IHwgc3RyaW5nKVtdOwogIGFnZW50X3BlcmZvcm1hbmNlOiBEYXlSZXBvcnRBZ2VudFBlcmZvcm1hbmNlW107CiAgcHJvZHVjdHM6IHsgYm9uZF9pc3N1ZXI6IHN0cmluZzsgeWllbGQ6IHN0cmluZzsgY29udGV4dDogc3RyaW5nIH1bXTsKICBsYW5ndWFnZXM6IHsgbGFuZ3VhZ2U6IHN0cmluZzsgY2FsbHM6IG51bWJlcjsgcGVyY2VudGFnZTogc3RyaW5nIH1bXTsKfQo="}
+export type CallStatus =
+  | 'uploaded'
+  | 'transcribing'
+  | 'analysing'
+  | 'generating'
+  | 'ready'
+  | 'sent'
+  | 'error';
+
+export interface Call {
+  id: string;
+  created_at: string;
+  prospect_name: string;
+  company: string;
+  rep_name: string;
+  call_type: string | null;
+  recording_url: string | null;
+  drive_url: string | null;
+  duration_sec: number | null;
+  stakeholders: string[];
+  status: CallStatus;
+  error_msg: string | null;
+  session_id: string | null;
+  has_transcript: boolean;
+  user_id: string | null;
+}
+
+export interface ActionItem {
+  priority: 'HIGH' | 'MEDIUM' | 'LOW';
+  task: string;
+  owner: string;
+  deadline: string;
+}
+
+export interface SentimentScore {
+  overall: string;
+  agent: string;
+  customer: string;
+}
+
+export interface SpeakerBreakdown {
+  description: string;
+  language: string;
+  agent_percentage: number;
+  customer_percentage: number;
+}
+
+export interface Report {
+  id: string;
+  call_id: string;
+  created_at: string;
+  transcript: string | null;
+  // metadata extracted by AI
+  date_extracted: string | null;
+  time_extracted: string | null;
+  duration: string | null;
+  phone: string | null;
+  customer_name: string | null;
+  outcome: string | null;
+  call_quality: string | null;
+  agent_performance: string | null;
+  summary: string | null;
+  sentiment: SentimentScore | null;
+  speaker_breakdown: SpeakerBreakdown | null;
+  keywords: string[] | null;
+  topics: string[] | null;
+  compliance: string | null;
+  action_items: ActionItem[] | null;
+  // storage
+  doc_url: string | null;
+  sheet_url: string | null;
+  email_sent_at: string | null;
+  email_recipients: string[] | null;
+}
+
+export interface CallWithReport extends Call {
+  report?: Report;
+}
+
+export interface CallFormData {
+  prospect_name: string;
+  company: string;
+  rep_name: string;
+  call_type: string;
+  stakeholders: string;
+  file?: File;
+  drive_url?: string;
+}
+
+export type PipelineStep =
+  | 'idle'
+  | 'uploading'
+  | 'transcribing'
+  | 'analysing'
+  | 'generating'
+  | 'ready'
+  | 'error';
+
+export interface RMReportOverview {
+  total_calls: number;
+  unique_customers: number;
+  total_talk_time: string;
+  rep_on_duty: string;
+  deals_discussed: string;
+}
+
+export interface RMReportOutcome {
+  outcome: string;
+  count: number;
+  percentage: string;
+}
+
+export interface RMReportHighlight {
+  rank: string;
+  call_number: number;
+  customer_name: string;
+  phone: string;
+  duration: string;
+  description: string;
+}
+
+export interface RMReportActionItem {
+  priority: 'HIGH' | 'MEDIUM' | 'LOW';
+  action: string;
+  owner: string;
+  deadline: string;
+}
+
+export interface RMReportAgentPerformance {
+  agent: string;
+  total_calls: number;
+  follow_ups: number;
+  avg_performance: string;
+  best_call: string;
+  summary: string;
+}
+
+export interface RMReportProduct {
+  bond_issuer: string;
+  yield: string;
+  context: string;
+}
+
+export interface RMReportLanguage {
+  language: string;
+  calls: number;
+  percentage: string;
+}
+
+export interface RMReportImprovementCallRef {
+  call_number: number;
+  customer_name: string | null;
+  phone: string | null;
+}
+
+export interface RMReportImprovement {
+  point: string;
+  call_refs: RMReportImprovementCallRef[];
+}
+
+export interface RMReport {
+  overview: RMReportOverview;
+  outcomes: RMReportOutcome[];
+  deals_discussed: {
+    with_deals: number;
+    without_deals: number;
+    deal_calls: string;
+  };
+  highlights: RMReportHighlight[];
+  action_items: RMReportActionItem[];
+  improvements: RMReportImprovement[];
+  agent_performance: RMReportAgentPerformance;
+  products: RMReportProduct[];
+  languages: RMReportLanguage[];
+}
+
+export interface BulkSession {
+  id: string;
+  created_at: string;
+  rm_name: string;
+  session_date: string;
+  folder_url: string;
+  total_files: number;
+  processed_files: number;
+  status: 'pending' | 'processing' | 'generating' | 'ready' | 'error';
+  error_msg: string | null;
+  rm_report: RMReport | null;
+  doc_url: string | null;
+  sheet_url: string | null;
+  stakeholders: string[];
+}
+
+export interface DriveFileOwner {
+  displayName: string;
+  emailAddress: string;
+  me: boolean;
+}
+
+export interface DriveFile {
+  id: string;
+  name: string;
+  mimeType: string;
+  owners?: DriveFileOwner[];
+}
+
+export interface DriveOwnerGroup {
+  ownerEmail: string;
+  ownerDisplayName: string;
+  suggestedRmName: string;
+  files: DriveFile[];
+}
+
+// ── Day End Report ────────────────────────────────────────────────────────────
+
+export interface DayReportAgentPerformance {
+  agent: string;
+  total_calls: number;
+  follow_ups: number;
+  avg_performance: string;
+  best_call: string;
+}
+
+export interface DayReportImprovementCallRef {
+  rm_name: string;
+  call_number: number;
+  customer_name: string | null;
+  phone: string | null;
+}
+
+export interface DayReportImprovement {
+  point: string;
+  call_refs: DayReportImprovementCallRef[];
+}
+
+export interface DayReport {
+  overview: {
+    total_calls: number;
+    unique_customers: number;
+    total_talk_time: string;
+    reps_on_duty: string[];
+    deals_discussed: string;
+  };
+  outcomes: { outcome: string; count: number; percentage: string }[];
+  deals_discussed: { with_deals: number; without_deals: number; deal_calls: string };
+  highlights: {
+    rank: string;
+    call_number: number;
+    customer_name: string;
+    phone: string;
+    duration: string;
+    rep: string;
+    description: string;
+  }[];
+  action_items: { priority: 'HIGH' | 'MEDIUM' | 'LOW'; action: string; owner: string; deadline: string }[];
+  improvements: (DayReportImprovement | string)[];
+  agent_performance: DayReportAgentPerformance[];
+  products: { bond_issuer: string; yield: string; context: string }[];
+  languages: { language: string; calls: number; percentage: string }[];
+}

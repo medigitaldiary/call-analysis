@@ -1,1 +1,71 @@
-{"data":"J3VzZSBjbGllbnQnOwoKaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJzsKaW1wb3J0IHsgdXNlUGF0aG5hbWUgfSBmcm9tICduZXh0L25hdmlnYXRpb24nOwoKY29uc3QgVEFCUyA9IFsKICB7IGxhYmVsOiAnQnVsayBVcGxvYWQnLCBocmVmOiAnL2J1bGsnIH0sCiAgeyBsYWJlbDogJysgTmV3IENhbGwnLCAgaHJlZjogJy9zaW5nbGUnIH0sCiAgeyBsYWJlbDogJ0NhbGwgSGlzdG9yeScsIGhyZWY6ICcvaGlzdG9yeScgfSwKICB7IGxhYmVsOiAn8J+TiiBVc2FnZScsICAgaHJlZjogJy91c2FnZScgfSwKXTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIENhbGxzTGF5b3V0KHsgY2hpbGRyZW4gfTogeyBjaGlsZHJlbjogUmVhY3QuUmVhY3ROb2RlIH0pIHsKICBjb25zdCBwYXRobmFtZSA9IHVzZVBhdGhuYW1lKCk7CgogIHJldHVybiAoCiAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICdmbGV4JywgaGVpZ2h0OiAnMTAwdmgnLCBiYWNrZ3JvdW5kOiAnIzBjMTAyMScsIG92ZXJmbG93OiAnaGlkZGVuJyB9fT4KICAgICAgPGRpdiBzdHlsZT17eyBmbGV4OiAxLCBkaXNwbGF5OiAnZmxleCcsIGZsZXhEaXJlY3Rpb246ICdjb2x1bW4nLCBvdmVyZmxvdzogJ2hpZGRlbicgfX0+CgogICAgICAgIHsvKiBTdGlja3kgaGVhZGVyICsgdGFiIGJhciAqL30KICAgICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgICBwb3NpdGlvbjogJ3N0aWNreScsIHRvcDogMCwgekluZGV4OiA1MCwKICAgICAgICAgIGJhY2tncm91bmQ6ICcjMGMxMDIxJywKICAgICAgICAgIGJvcmRlckJvdHRvbTogJzFweCBzb2xpZCB2YXIoLS1jYXJkLWJvcmRlciknLAogICAgICAgICAgcGFkZGluZzogJzE2cHggMjRweCAwJywKICAgICAgICAgIGZsZXhTaHJpbms6IDAsCiAgICAgICAgfX0+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icGFnZS1oZWFkZXIiIHN0eWxlPXt7IG1hcmdpbkJvdHRvbTogMTIgfX0+CiAgICAgICAgICAgIDxoMSBzdHlsZT17eyBtYXJnaW46IDAsIGZvbnRTaXplOiAyMiwgZm9udFdlaWdodDogNzAwLCBjb2xvcjogJyNmMWY1ZjknIH19PgogICAgICAgICAgICAgIENhbGwgQW5hbHlzaXMKICAgICAgICAgICAgPC9oMT4KICAgICAgICAgICAgPHAgc3R5bGU9e3sgbWFyZ2luOiAnMnB4IDAgMCcsIGZvbnRTaXplOiAxMywgY29sb3I6ICd2YXIoLS10ZXh0LW11dGVkKScgfX0+CiAgICAgICAgICAgICAgVXBsb2FkIGEgY2FsbCByZWNvcmRpbmcgdG8gYXV0by1nZW5lcmF0ZSByZXBvcnRzLCBzaGVldHMsIGFuZCBzdGFrZWhvbGRlciBlbWFpbHMuCiAgICAgICAgICAgIDwvcD4KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0YWItYmFyIiBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGdhcDogMCB9fT4KICAgICAgICAgICAge1RBQlMubWFwKCh7IGxhYmVsLCBocmVmIH0pID0+IHsKICAgICAgICAgICAgICBjb25zdCBhY3RpdmUgPSBwYXRobmFtZSA9PT0gaHJlZjsKICAgICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgICAgPExpbmsKICAgICAgICAgICAgICAgICAga2V5PXtocmVmfQogICAgICAgICAgICAgICAgICBocmVmPXtocmVmfQogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InRhYi1idG4iCiAgICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgcGFkZGluZzogJzEwcHggMjBweCcsCiAgICAgICAgICAgICAgICAgICAgYm9yZGVyQm90dG9tOiBhY3RpdmUgPyAnMnB4IHNvbGlkICMzYjgyZjYnIDogJzJweCBzb2xpZCB0cmFuc3BhcmVudCcsCiAgICAgICAgICAgICAgICAgICAgY29sb3I6IGFjdGl2ZSA/ICcjM2I4MmY2JyA6ICd2YXIoLS10ZXh0LW11dGVkKScsCiAgICAgICAgICAgICAgICAgICAgZm9udFdlaWdodDogYWN0aXZlID8gNjAwIDogNDAwLAogICAgICAgICAgICAgICAgICAgIGZvbnRTaXplOiAxNCwKICAgICAgICAgICAgICAgICAgICB3aGl0ZVNwYWNlOiAnbm93cmFwJywKICAgICAgICAgICAgICAgICAgICB0ZXh0RGVjb3JhdGlvbjogJ25vbmUnLAogICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6ICdpbmxpbmUtYmxvY2snLAogICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICB7bGFiZWx9CiAgICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgfSl9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgey8qIFBhZ2UgY29udGVudCAqL30KICAgICAgICA8bWFpbiBjbGFzc05hbWU9InBhZ2UtbWFpbiIgc3R5bGU9e3sgZmxleDogMSwgb3ZlcmZsb3dZOiAnYXV0bycsIHBhZGRpbmc6ICcyNHB4JyB9fT4KICAgICAgICAgIHtjaGlsZHJlbn0KICAgICAgICA8L21haW4+CgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K"}
+'use client';
+
+import Link from 'next/link';
+import { usePathname } from 'next/navigation';
+
+const TABS = [
+  { label: 'Bulk Upload', href: '/bulk' },
+  { label: '+ New Call',  href: '/single' },
+  { label: 'Call History', href: '/history' },
+  { label: '📊 Usage',   href: '/usage' },
+];
+
+export default function CallsLayout({ children }: { children: React.ReactNode }) {
+  const pathname = usePathname();
+
+  return (
+    <div style={{ display: 'flex', height: '100vh', background: '#0c1021', overflow: 'hidden' }}>
+      <div style={{ flex: 1, display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
+
+        {/* Sticky header + tab bar */}
+        <div style={{
+          position: 'sticky', top: 0, zIndex: 50,
+          background: '#0c1021',
+          borderBottom: '1px solid var(--card-border)',
+          padding: '16px 24px 0',
+          flexShrink: 0,
+        }}>
+          <div className="page-header" style={{ marginBottom: 12 }}>
+            <h1 style={{ margin: 0, fontSize: 22, fontWeight: 700, color: '#f1f5f9' }}>
+              Call Analysis
+            </h1>
+            <p style={{ margin: '2px 0 0', fontSize: 13, color: 'var(--text-muted)' }}>
+              Upload a call recording to auto-generate reports, sheets, and stakeholder emails.
+            </p>
+          </div>
+
+          <div className="tab-bar" style={{ display: 'flex', gap: 0 }}>
+            {TABS.map(({ label, href }) => {
+              const active = pathname === href;
+              return (
+                <Link
+                  key={href}
+                  href={href}
+                  className="tab-btn"
+                  style={{
+                    padding: '10px 20px',
+                    borderBottom: active ? '2px solid #3b82f6' : '2px solid transparent',
+                    color: active ? '#3b82f6' : 'var(--text-muted)',
+                    fontWeight: active ? 600 : 400,
+                    fontSize: 14,
+                    whiteSpace: 'nowrap',
+                    textDecoration: 'none',
+                    display: 'inline-block',
+                  }}
+                >
+                  {label}
+                </Link>
+              );
+            })}
+          </div>
+        </div>
+
+        {/* Page content */}
+        <main className="page-main" style={{ flex: 1, overflowY: 'auto', padding: '24px' }}>
+          {children}
+        </main>
+
+      </div>
+    </div>
+  );
+}

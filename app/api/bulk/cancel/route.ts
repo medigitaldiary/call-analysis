@@ -1,1 +1,39 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgZ2V0RGIgfSBmcm9tICdAL2xpYi9kYic7CgovLyBQT1NUIC9hcGkvYnVsay9jYW5jZWwgIHsgc2Vzc2lvbklkIH0KLy8gTWFya3MgYWxsIHF1ZXVlZCAodXBsb2FkZWQpIGNhbGxzIGluIHRoZSBzZXNzaW9uIGFzIGNhbmNlbGxlZCBhbmQgc2V0cyB0aGUgc2Vzc2lvbiBzdGF0dXMgdG8gY2FuY2VsbGVkLgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gUE9TVChyZXE6IE5leHRSZXF1ZXN0KSB7CiAgY29uc3QgeyBzZXNzaW9uSWQgfSA9IGF3YWl0IHJlcS5qc29uKCk7CiAgaWYgKCFzZXNzaW9uSWQpIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IGVycm9yOiAnc2Vzc2lvbklkIGlzIHJlcXVpcmVkJyB9LCB7IHN0YXR1czogNDAwIH0pOwoKICBjb25zdCBzcWwgPSBnZXREYigpOwoKICB0cnkgewogICAgLy8gQ2FuY2VsIG9ubHkgY2FsbHMgdGhhdCBoYXZlbid0IHN0YXJ0ZWQgeWV0ICh1cGxvYWRlZCA9IHdhaXRpbmcgaW4gcXVldWUpCiAgICAvLyBVc2UgJ2Vycm9yJyBzdGF0dXMgc2luY2UgdGhlIERCIGNoZWNrIGNvbnN0cmFpbnQgZG9lc24ndCBpbmNsdWRlICdjYW5jZWxsZWQnCiAgICBjb25zdCBjYW5jZWxsZWQgPSBhd2FpdCBzcWxgCiAgICAgIFVQREFURSBjYWxscwogICAgICBTRVQgc3RhdHVzID0gJ2Vycm9yJywgZXJyb3JfbXNnID0gJ0NhbmNlbGxlZCBieSBhZG1pbicKICAgICAgV0hFUkUgc2Vzc2lvbl9pZCA9ICR7c2Vzc2lvbklkfQogICAgICAgIEFORCBzdGF0dXMgPSAndXBsb2FkZWQnCiAgICAgIFJFVFVSTklORyBpZAogICAgYDsKCiAgICAvLyBNYXJrIHRoZSBzZXNzaW9uIGl0c2VsZiBhcyBlcnJvcmVkL2NhbmNlbGxlZAogICAgYXdhaXQgc3FsYAogICAgICBVUERBVEUgYnVsa19zZXNzaW9ucwogICAgICBTRVQgc3RhdHVzID0gJ2Vycm9yJwogICAgICBXSEVSRSBpZCA9ICR7c2Vzc2lvbklkfQogICAgYDsKCiAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oewogICAgICBzdWNjZXNzOiB0cnVlLAogICAgICBjYW5jZWxsZWRfY2FsbHM6IGNhbmNlbGxlZC5sZW5ndGgsCiAgICAgIG1lc3NhZ2U6IGBDYW5jZWxsZWQgJHtjYW5jZWxsZWQubGVuZ3RofSBxdWV1ZWQgY2FsbChzKS4gQW55IGNhbGwgY3VycmVudGx5IHRyYW5zY3JpYmluZy9hbmFseXNpbmcgd2lsbCBmaW5pc2ggbmF0dXJhbGx5LmAsCiAgICB9KTsKICB9IGNhdGNoIChlcnI6IHVua25vd24pIHsKICAgIGNvbnN0IG1lc3NhZ2UgPSBlcnIgaW5zdGFuY2VvZiBFcnJvciA/IGVyci5tZXNzYWdlIDogJ0NhbmNlbCBmYWlsZWQnOwogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgZXJyb3I6IG1lc3NhZ2UgfSwgeyBzdGF0dXM6IDUwMCB9KTsKICB9Cn0K"}
+import { NextRequest, NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+
+// POST /api/bulk/cancel  { sessionId }
+// Marks all queued (uploaded) calls in the session as cancelled and sets the session status to cancelled.
+export async function POST(req: NextRequest) {
+  const { sessionId } = await req.json();
+  if (!sessionId) return NextResponse.json({ error: 'sessionId is required' }, { status: 400 });
+
+  const sql = getDb();
+
+  try {
+    // Cancel only calls that haven't started yet (uploaded = waiting in queue)
+    // Use 'error' status since the DB check constraint doesn't include 'cancelled'
+    const cancelled = await sql`
+      UPDATE calls
+      SET status = 'error', error_msg = 'Cancelled by admin'
+      WHERE session_id = ${sessionId}
+        AND status = 'uploaded'
+      RETURNING id
+    `;
+
+    // Mark the session itself as errored/cancelled
+    await sql`
+      UPDATE bulk_sessions
+      SET status = 'error'
+      WHERE id = ${sessionId}
+    `;
+
+    return NextResponse.json({
+      success: true,
+      cancelled_calls: cancelled.length,
+      message: `Cancelled ${cancelled.length} queued call(s). Any call currently transcribing/analysing will finish naturally.`,
+    });
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : 'Cancel failed';
+    return NextResponse.json({ error: message }, { status: 500 });
+  }
+}

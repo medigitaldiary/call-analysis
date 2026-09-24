@@ -1,1 +1,35 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgZ2V0RGIgfSBmcm9tICdAL2xpYi9kYic7CmltcG9ydCB7IGdlbmVyYXRlWGxzeCB9IGZyb20gJ0AvbGliL3hsc3gnOwppbXBvcnQgeyBwdXQgfSBmcm9tICdAdmVyY2VsL2Jsb2InOwppbXBvcnQgdHlwZSB7IENhbGwsIFJlcG9ydCB9IGZyb20gJ0AvdHlwZXMnOwoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIFBPU1QocmVxOiBOZXh0UmVxdWVzdCkgewogIGNvbnN0IHsgY2FsbElkIH0gPSBhd2FpdCByZXEuanNvbigpOwogIGNvbnN0IHNxbCA9IGdldERiKCk7CgogIHRyeSB7CiAgICBjb25zdCBbY2FsbF0gPSBhd2FpdCBzcWxgU0VMRUNUICogRlJPTSBjYWxscyBXSEVSRSBpZCA9ICR7Y2FsbElkfWA7CiAgICBjb25zdCBbcmVwb3J0XSA9IGF3YWl0IHNxbGBTRUxFQ1QgKiBGUk9NIHJlcG9ydHMgV0hFUkUgY2FsbF9pZCA9ICR7Y2FsbElkfWA7CiAgICBpZiAoIWNhbGwgfHwgIXJlcG9ydCkgdGhyb3cgbmV3IEVycm9yKCdDYWxsIG9yIHJlcG9ydCBub3QgZm91bmQnKTsKCiAgICBjb25zdCBidWZmZXIgPSBnZW5lcmF0ZVhsc3goY2FsbCBhcyB1bmtub3duIGFzIENhbGwsIHJlcG9ydCBhcyB1bmtub3duIGFzIFJlcG9ydCk7CiAgICBjb25zdCBibG9iID0gYXdhaXQgcHV0KGByZXBvcnRzLyR7Y2FsbElkfS9yZXBvcnQueGxzeGAsIGJ1ZmZlciwgewogICAgICBhY2Nlc3M6ICdwcml2YXRlJywKICAgICAgY29udGVudFR5cGU6ICdhcHBsaWNhdGlvbi92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQuc3ByZWFkc2hlZXRtbC5zaGVldCcsCiAgICB9KTsKCiAgICBhd2FpdCBzcWxgVVBEQVRFIHJlcG9ydHMgU0VUIHNoZWV0X3VybCA9ICR7YmxvYi51cmx9IFdIRVJFIGNhbGxfaWQgPSAke2NhbGxJZH1gOwoKICAgIC8vIE1hcmsgY2FsbCBhcyByZWFkeSBvbmNlIHNoZWV0IGlzIGRvbmUgKGRvYyBtYXkgYWxyZWFkeSBiZSBzZXQpCiAgICBjb25zdCBbdXBkYXRlZF0gPSBhd2FpdCBzcWxgU0VMRUNUIGRvY191cmwgRlJPTSByZXBvcnRzIFdIRVJFIGNhbGxfaWQgPSAke2NhbGxJZH1gOwogICAgaWYgKHVwZGF0ZWQ/LmRvY191cmwpIHsKICAgICAgYXdhaXQgc3FsYFVQREFURSBjYWxscyBTRVQgc3RhdHVzID0gJ3JlYWR5JyBXSEVSRSBpZCA9ICR7Y2FsbElkfWA7CiAgICB9CgogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgc2hlZXRVcmw6IGJsb2IudXJsIH0pOwogIH0gY2F0Y2ggKGVycjogdW5rbm93bikgewogICAgY29uc3QgbWVzc2FnZSA9IGVyciBpbnN0YW5jZW9mIEVycm9yID8gZXJyLm1lc3NhZ2UgOiAnU2hlZXQgZ2VuZXJhdGlvbiBmYWlsZWQnOwogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgZXJyb3I6IG1lc3NhZ2UgfSwgeyBzdGF0dXM6IDUwMCB9KTsKICB9Cn0K"}
+import { NextRequest, NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+import { generateXlsx } from '@/lib/xlsx';
+import { put } from '@vercel/blob';
+import type { Call, Report } from '@/types';
+
+export async function POST(req: NextRequest) {
+  const { callId } = await req.json();
+  const sql = getDb();
+
+  try {
+    const [call] = await sql`SELECT * FROM calls WHERE id = ${callId}`;
+    const [report] = await sql`SELECT * FROM reports WHERE call_id = ${callId}`;
+    if (!call || !report) throw new Error('Call or report not found');
+
+    const buffer = generateXlsx(call as unknown as Call, report as unknown as Report);
+    const blob = await put(`reports/${callId}/report.xlsx`, buffer, {
+      access: 'private',
+      contentType: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
+    });
+
+    await sql`UPDATE reports SET sheet_url = ${blob.url} WHERE call_id = ${callId}`;
+
+    // Mark call as ready once sheet is done (doc may already be set)
+    const [updated] = await sql`SELECT doc_url FROM reports WHERE call_id = ${callId}`;
+    if (updated?.doc_url) {
+      await sql`UPDATE calls SET status = 'ready' WHERE id = ${callId}`;
+    }
+
+    return NextResponse.json({ sheetUrl: blob.url });
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : 'Sheet generation failed';
+    return NextResponse.json({ error: message }, { status: 500 });
+  }
+}

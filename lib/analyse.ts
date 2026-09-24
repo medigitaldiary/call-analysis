@@ -1,1 +1,142 @@
-{"data":"aW1wb3J0IEFudGhyb3BpYyBmcm9tICdAYW50aHJvcGljLWFpL3Nkayc7CmltcG9ydCB0eXBlIHsgUmVwb3J0IH0gZnJvbSAnQC90eXBlcyc7CgpmdW5jdGlvbiBnZXRDbGF1ZGUoKSB7CiAgcmV0dXJuIG5ldyBBbnRocm9waWMoeyBhcGlLZXk6IHByb2Nlc3MuZW52LkFOVEhST1BJQ19BUElfS0VZISB9KTsKfQoKY29uc3QgQU5BTFlTSVNfUFJPTVBUID0gKHRyYW5zY3JpcHQ6IHN0cmluZywgZHVyYXRpb25TZWM/OiBudW1iZXIpID0+IGBZb3UgYXJlIGEgY2FsbCBhbmFseXNpcyBhc3Npc3RhbnQgZm9yIGEgYm9uZCBpbnZlc3RtZW50IHNhbGVzIHRlYW0uIEFuYWx5c2UgdGhlIHRyYW5zY3JpcHQgYmVsb3cgYW5kIHJldHVybiBhIEpTT04gb2JqZWN0IHdpdGggRVhBQ1RMWSB0aGlzIHN0cnVjdHVyZSAocmF3IEpTT04gb25seSwgbm8gbWFya2Rvd24pLgoKQ0FMTCBEVVJBVElPTjogJHtkdXJhdGlvblNlYyAhPSBudWxsID8gYCR7ZHVyYXRpb25TZWN9IHNlY29uZHNgIDogJ3Vua25vd24nfQoK4pSB4pSB4pSBIFNDT1JJTkcgR0FURVMgKGZvbGxvdyBzdHJpY3RseSkg4pSB4pSB4pSBCkdBVEUgMSDigJQgSWYgZHVyYXRpb24gPCA2MCBzZWNvbmRzIE9SIHRoZSB0cmFuc2NyaXB0IHNob3dzIG5vIHJlYWwgY29udmVyc2F0aW9uIChzaWxlbnQgcmVjb3JkaW5nLCB3cm9uZyBudW1iZXIsIHNpbmdsZS13b3JkIGV4Y2hhbmdlKSwgc2V0IGNhbGxfcXVhbGl0eSB0byBudWxsIEFORCBhZ2VudF9wZXJmb3JtYW5jZSB0byBudWxsLgpHQVRFIDIg4oCUIEFmdGVyIHNjb3JpbmcgY2FsbF9xdWFsaXR5LCBleHRyYWN0IHRoZSBudW1lcmljIHZhbHVlLiBJZiBpdCBpcyBsZXNzIHRoYW4gNCwgc2V0IGFnZW50X3BlcmZvcm1hbmNlIHRvIG51bGwuIE9ubHkgc2NvcmUgYWdlbnRfcGVyZm9ybWFuY2Ugd2hlbiBjYWxsX3F1YWxpdHkg4omlIDQvMTAuCgrilIHilIHilIEgQ0FMTCBRVUFMSVRZIFJVQlJJQyAoc2NvcmUgb3V0IG9mIDEwKSDilIHilIHilIEKU2NvcmUgZWFjaCBzdWItY3JpdGVyaW9uIGFuZCBzdW0gdGhlbToK4oCiIENvbnZlcnNhdGlvbiBkZXB0aCAgICgw4oCTMyBwdHMpOiBSZWFsIGJhY2stYW5kLWZvcnRoIHZzIG1vbm9sb2d1ZSBvciBzaWxlbmNlCuKAoiBDdXN0b21lciBlbmdhZ2VtZW50ICAoMOKAkzMgcHRzKTogQ3VzdG9tZXIgcmVzcG9uZHMsIGFza3MgcXVlc3Rpb25zLCBzaG93cyBpbnRlcmVzdArigKIgUmVzb2x1dGlvbiAgICAgICAgICAgKDDigJMyIHB0cyk6IEN1c3RvbWVyJ3MgcXVlcnkgb3IgbmVlZCB3YXMgYWN0dWFsbHkgYWRkcmVzc2VkCuKAoiBTdHJ1Y3R1cmUgICAgICAgICAgICAoMOKAkzIgcHRzKTogQ2xlYXIgaW50cm8g4oaSIGRpc2N1c3Npb24g4oaSIGNsb3NlCgrilIHilIHilIEgQUdFTlQgUEVSRk9STUFOQ0UgUlVCUklDIChzY29yZSBvdXQgb2YgMTAsIE9OTFkgaWYgY2FsbF9xdWFsaXR5IOKJpSA0KSDilIHilIHilIEKU2NvcmUgZWFjaCBzdWItY3JpdGVyaW9uIGFuZCBzdW0gdGhlbToK4oCiIE9wZW5pbmcgJiByYXBwb3J0ICAgICgw4oCTMiBwdHMpOiBQcm9mZXNzaW9uYWwgZ3JlZXRpbmcsIGJ1aWx0IGNvbWZvcnQgd2l0aCBjdXN0b21lcgrigKIgTmVlZHMgZGlzY292ZXJ5ICAgICAgKDDigJMyIHB0cyk6IEFnZW50IGFza2VkIHdoYXQgdGhlIGN1c3RvbWVyIGlzIGxvb2tpbmcgZm9yCuKAoiBQcm9kdWN0IHBpdGNoICAgICAgICAoMOKAkzMgcHRzKTogQm9uZC9pbnZlc3RtZW50IG9wdGlvbnMgZXhwbGFpbmVkIGNsZWFybHkgd2l0aCB5aWVsZHMvcmV0dXJucwrigKIgT2JqZWN0aW9uIGhhbmRsaW5nICAgKDDigJMyIHB0cyk6IEN1c3RvbWVyIGhlc2l0YXRpb25zIG9yIGNvbmNlcm5zIHdlcmUgYWRkcmVzc2VkCuKAoiBDbGVhciBuZXh0IHN0ZXAgICAgICAoMOKAkzEgcHQpIDogRm9sbG93LXVwIGFjdGlvbiBvciBjYWxsYmFjayBkZWZpbmVkIGJlZm9yZSBlbmRpbmcgdGhlIGNhbGwKCnsKICAiZGF0ZSI6ICJleHRyYWN0ZWQgb3IgbnVsbCIsCiAgInRpbWUiOiAiZXh0cmFjdGVkIG9yIG51bGwiLAogICJkdXJhdGlvbiI6ICJpbiBtaW51dGVzLCBlLmcuIDEuMyBtaW4iLAogICJwaG9uZSI6ICJjdXN0b21lciBwaG9uZSBudW1iZXIgb3IgbnVsbCIsCiAgImN1c3RvbWVyX25hbWUiOiAiY3VzdG9tZXIgbmFtZSBvciBObyBOYW1lIGlmIHVua25vd24iLAogICJyZXBfbmFtZSI6ICJyZXAvYWdlbnQgbmFtZSBvciBObyBOYW1lIGlmIHVua25vd24iLAogICJvdXRjb21lIjogIm9uZSBvZjogZm9sbG93X3VwX3NjaGVkdWxlZCB8IGRlYWxfY2xvc2VkIHwgbm90X2ludGVyZXN0ZWQgfCBpbmZvX3NoYXJlZCB8IGVzY2FsYXRlZCB8IG5vX291dGNvbWUiLAogICJjYWxsX3F1YWxpdHkiOiAic2NvcmUgb3V0IG9mIDEwIHBlciBydWJyaWMgZS5nLiA3LzEwLCBvciBudWxsIGlmIEdhdGUgMSBhcHBsaWVzIiwKICAiYWdlbnRfcGVyZm9ybWFuY2UiOiAic2NvcmUgb3V0IG9mIDEwIHBlciBydWJyaWMgZS5nLiA4LzEwLCBvciBudWxsIGlmIEdhdGUgMSBvciBHYXRlIDIgYXBwbGllcyIsCiAgInN1bW1hcnkiOiAiMi0zIHNlbnRlbmNlIHBsYWluIEVuZ2xpc2ggc3VtbWFyeSBvZiB3aGF0IGhhcHBlbmVkIG9uIHRoZSBjYWxsIiwKICAic2VudGltZW50IjogewogICAgIm92ZXJhbGwiOiAic2NvcmUgb3V0IG9mIDEwIiwKICAgICJhZ2VudCI6ICJzY29yZSBvdXQgb2YgMTAiLAogICAgImN1c3RvbWVyIjogInNjb3JlIG91dCBvZiAxMCIKICB9LAogICJzcGVha2VyX2JyZWFrZG93biI6IHsKICAgICJkZXNjcmlwdGlvbiI6ICJvbmUgc2VudGVuY2UgZGVzY3JpYmluZyB3aGF0IGVhY2ggcGFydHkgZGlkIiwKICAgICJsYW5ndWFnZSI6ICJsYW5ndWFnZSBzcG9rZW4gZS5nLiBFbmdsaXNoLCBIaW5kaSwgSGluZ2xpc2giLAogICAgImFnZW50X3BlcmNlbnRhZ2UiOiA3MCwKICAgICJjdXN0b21lcl9wZXJjZW50YWdlIjogMzAKICB9LAogICJrZXl3b3JkcyI6IFsia2V5d29yZDEiLCAia2V5d29yZDIiXSwKICAidG9waWNzIjogWyJ0b3BpYzEiXSwKICAiY29tcGxpYW5jZSI6ICJhbnkgY29tcGxpYW5jZSBpc3N1ZXMgZmxhZ2dlZCBvciBOb25lIiwKICAiYWN0aW9uX2l0ZW1zIjogWwogICAgewogICAgICAicHJpb3JpdHkiOiAiSElHSCB8IE1FRElVTSB8IExPVyIsCiAgICAgICJ0YXNrIjogInNwZWNpZmljIGFjdGlvbiB0byB0YWtlIiwKICAgICAgIm93bmVyIjogIlJlcCBuYW1lIG9yIHRlYW0gZS5nLiBTdXBwb3J0IiwKICAgICAgImRlYWRsaW5lIjogIkRELU1NLVlZWVksIG9uZSBkYXkgYWZ0ZXIgY2FsbCBkYXRlIGlmIG5vdCBzcGVjaWZpZWQiCiAgICB9CiAgXQp9ClRSQU5TQ1JJUFQ6CiR7dHJhbnNjcmlwdH1gOwoKZXhwb3J0IGludGVyZmFjZSBBbmFseXNpc1Jlc3VsdCBleHRlbmRzIFBhcnRpYWw8UmVwb3J0PiB7CiAgaW5wdXRfdG9rZW5zOiBudW1iZXI7CiAgb3V0cHV0X3Rva2VuczogbnVtYmVyOwogIGNsYXVkZV9sYXRlbmN5X21zOiBudW1iZXI7Cn0KCmFzeW5jIGZ1bmN0aW9uIGNyZWF0ZVdpdGhSZXRyeShwYXJhbXM6IFBhcmFtZXRlcnM8UmV0dXJuVHlwZTx0eXBlb2YgZ2V0Q2xhdWRlPlsnbWVzc2FnZXMnXVsnY3JlYXRlJ10+WzBdLCBtYXhSZXRyaWVzID0gNCk6IFByb21pc2U8QW50aHJvcGljLk1lc3NhZ2U+IHsKICBsZXQgZGVsYXkgPSA4MDAwOwogIGZvciAobGV0IGF0dGVtcHQgPSAwOyBhdHRlbXB0IDw9IG1heFJldHJpZXM7IGF0dGVtcHQrKykgewogICAgdHJ5IHsKICAgICAgcmV0dXJuIGF3YWl0IGdldENsYXVkZSgpLm1lc3NhZ2VzLmNyZWF0ZShwYXJhbXMpIGFzIEFudGhyb3BpYy5NZXNzYWdlOwogICAgfSBjYXRjaCAoZXJyOiB1bmtub3duKSB7CiAgICAgIGNvbnN0IGlzT3ZlcmxvYWRlZCA9IGVyciBpbnN0YW5jZW9mIEVycm9yICYmICgKICAgICAgICBlcnIubWVzc2FnZS5pbmNsdWRlcygnNTI5JykgfHwgZXJyLm1lc3NhZ2UuaW5jbHVkZXMoJ292ZXJsb2FkZWQnKSB8fCBlcnIubWVzc2FnZS5pbmNsdWRlcygnT3ZlcmxvYWRlZCcpCiAgICAgICk7CiAgICAgIGlmIChpc092ZXJsb2FkZWQgJiYgYXR0ZW1wdCA8IG1heFJldHJpZXMpIHsKICAgICAgICBhd2FpdCBuZXcgUHJvbWlzZShyID0+IHNldFRpbWVvdXQociwgZGVsYXkpKTsKICAgICAgICBkZWxheSA9IE1hdGgubWluKGRlbGF5ICogMiwgNjAwMDApOwogICAgICAgIGNvbnRpbnVlOwogICAgICB9CiAgICAgIHRocm93IGVycjsKICAgIH0KICB9CiAgdGhyb3cgbmV3IEVycm9yKCdDbGF1ZGUgQVBJIHN0aWxsIG92ZXJsb2FkZWQgYWZ0ZXIgcmV0cmllcycpOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gYW5hbHlzZVRyYW5zY3JpcHQodHJhbnNjcmlwdDogc3RyaW5nLCBkdXJhdGlvblNlYz86IG51bWJlcik6IFByb21pc2U8QW5hbHlzaXNSZXN1bHQ+IHsKICBjb25zdCB0MCA9IERhdGUubm93KCk7CiAgY29uc3QgbWVzc2FnZSA9IGF3YWl0IGNyZWF0ZVdpdGhSZXRyeSh7CiAgICBtb2RlbDogJ2NsYXVkZS1zb25uZXQtNC02JywKICAgIG1heF90b2tlbnM6IDIwNDgsCiAgICBtZXNzYWdlczogW3sgcm9sZTogJ3VzZXInLCBjb250ZW50OiBBTkFMWVNJU19QUk9NUFQodHJhbnNjcmlwdCwgZHVyYXRpb25TZWMpIH1dLAogIH0pOwogIGNvbnN0IGNsYXVkZV9sYXRlbmN5X21zID0gRGF0ZS5ub3coKSAtIHQwOwoKICBjb25zdCB0ZXh0ID0gbWVzc2FnZS5jb250ZW50WzBdLnR5cGUgPT09ICd0ZXh0JyA/IG1lc3NhZ2UuY29udGVudFswXS50ZXh0IDogJyc7CiAgY29uc3QgY2xlYW5lZCA9IHRleHQucmVwbGFjZSgvXmBgYCg/Ompzb24pP1xuPy9pLCAnJykucmVwbGFjZSgvXG4/YGBgJC9pLCAnJykudHJpbSgpOwoKICAvLyBSb2J1c3QgcGFyc2U6IHN0cmlwIGNvbnRyb2wgY2hhcmFjdGVycyAoY29tbW9uIGluIEhpbmRpL0hpbmdsaXNoIHRyYW5zY3JpcHRzKQogIGNvbnN0IHNhbml0aXNlZCA9IGNsZWFuZWQKICAgIC5yZXBsYWNlKC9bXHUwMDAwLVx1MDAxRlx1MDA3Rl0vZywgKG06IHN0cmluZykgPT4gbSA9PT0gJ1xuJyB8fCBtID09PSAnXHInIHx8IG0gPT09ICdcdCcgPyBtIDogJycpCiAgICAucmVwbGFjZSgvLFxzKihbfVxdXSkvZywgJyQxJyk7CgogIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBAdHlwZXNjcmlwdC1lc2xpbnQvbm8tZXhwbGljaXQtYW55CiAgbGV0IHBhcnNlZDogYW55OwogIHRyeSB7CiAgICBwYXJzZWQgPSBKU09OLnBhcnNlKHNhbml0aXNlZCk7CiAgfSBjYXRjaCB7CiAgICBjb25zdCBzdGFydCA9IHNhbml0aXNlZC5pbmRleE9mKCd7Jyk7CiAgICBjb25zdCBlbmQgICA9IHNhbml0aXNlZC5sYXN0SW5kZXhPZignfScpOwogICAgaWYgKHN0YXJ0ID09PSAtMSB8fCBlbmQgPT09IC0xKSB0aHJvdyBuZXcgRXJyb3IoJ0NvdWxkIG5vdCBwYXJzZSBDbGF1ZGUgYW5hbHlzaXMgcmVzcG9uc2UgYXMgSlNPTicpOwogICAgcGFyc2VkID0gSlNPTi5wYXJzZShzYW5pdGlzZWQuc2xpY2Uoc3RhcnQsIGVuZCArIDEpKTsKICB9CgogIHJldHVybiB7CiAgICBkYXRlX2V4dHJhY3RlZDogICAgcGFyc2VkLmRhdGUgPz8gbnVsbCwKICAgIHRpbWVfZXh0cmFjdGVkOiAgICBwYXJzZWQudGltZSA/PyBudWxsLAogICAgZHVyYXRpb246ICAgICAgICAgIHBhcnNlZC5kdXJhdGlvbiA/PyBudWxsLAogICAgcGhvbmU6ICAgICAgICAgICAgIHBhcnNlZC5waG9uZSA/PyBudWxsLAogICAgY3VzdG9tZXJfbmFtZTogICAgIHBhcnNlZC5jdXN0b21lcl9uYW1lID8/IG51bGwsCiAgICBvdXRjb21lOiAgICAgICAgICAgcGFyc2VkLm91dGNvbWUgPz8gbnVsbCwKICAgIGNhbGxfcXVhbGl0eTogICAgICBwYXJzZWQuY2FsbF9xdWFsaXR5ID8/IG51bGwsCiAgICBhZ2VudF9wZXJmb3JtYW5jZTogcGFyc2VkLmFnZW50X3BlcmZvcm1hbmNlID8/IG51bGwsCiAgICBzdW1tYXJ5OiAgICAgICAgICAgcGFyc2VkLnN1bW1hcnkgPz8gbnVsbCwKICAgIHNlbnRpbWVudDogICAgICAgICBwYXJzZWQuc2VudGltZW50ID8/IG51bGwsCiAgICBzcGVha2VyX2JyZWFrZG93bjogcGFyc2VkLnNwZWFrZXJfYnJlYWtkb3duID8/IG51bGwsCiAgICBrZXl3b3JkczogICAgICAgICAgcGFyc2VkLmtleXdvcmRzID8/IG51bGwsCiAgICB0b3BpY3M6ICAgICAgICAgICAgcGFyc2VkLnRvcGljcyA/PyBudWxsLAogICAgY29tcGxpYW5jZTogICAgICAgIHBhcnNlZC5jb21wbGlhbmNlID8/IG51bGwsCiAgICBhY3Rpb25faXRlbXM6ICAgICAgcGFyc2VkLmFjdGlvbl9pdGVtcyA/PyBudWxsLAogICAgaW5wdXRfdG9rZW5zOiAgICAgICBtZXNzYWdlLnVzYWdlLmlucHV0X3Rva2VucywKICAgIG91dHB1dF90b2tlbnM6ICAgICAgbWVzc2FnZS51c2FnZS5vdXRwdXRfdG9rZW5zLAogICAgY2xhdWRlX2xhdGVuY3lfbXMsCiAgfTsKfQo="}
+import Anthropic from '@anthropic-ai/sdk';
+import type { Report } from '@/types';
+
+function getClaude() {
+  return new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY! });
+}
+
+const ANALYSIS_PROMPT = (transcript: string, durationSec?: number) => `You are a call analysis assistant for a bond investment sales team. Analyse the transcript below and return a JSON object with EXACTLY this structure (raw JSON only, no markdown).
+
+CALL DURATION: ${durationSec != null ? `${durationSec} seconds` : 'unknown'}
+
+━━━ SCORING GATES (follow strictly) ━━━
+GATE 1 — If duration < 60 seconds OR the transcript shows no real conversation (silent recording, wrong number, single-word exchange), set call_quality to null AND agent_performance to null.
+GATE 2 — After scoring call_quality, extract the numeric value. If it is less than 4, set agent_performance to null. Only score agent_performance when call_quality ≥ 4/10.
+
+━━━ CALL QUALITY RUBRIC (score out of 10) ━━━
+Score each sub-criterion and sum them:
+• Conversation depth   (0–3 pts): Real back-and-forth vs monologue or silence
+• Customer engagement  (0–3 pts): Customer responds, asks questions, shows interest
+• Resolution           (0–2 pts): Customer's query or need was actually addressed
+• Structure            (0–2 pts): Clear intro → discussion → close
+
+━━━ AGENT PERFORMANCE RUBRIC (score out of 10, ONLY if call_quality ≥ 4) ━━━
+Score each sub-criterion and sum them:
+• Opening & rapport    (0–2 pts): Professional greeting, built comfort with customer
+• Needs discovery      (0–2 pts): Agent asked what the customer is looking for
+• Product pitch        (0–3 pts): Bond/investment options explained clearly with yields/returns
+• Objection handling   (0–2 pts): Customer hesitations or concerns were addressed
+• Clear next step      (0–1 pt) : Follow-up action or callback defined before ending the call
+
+{
+  "date": "extracted or null",
+  "time": "extracted or null",
+  "duration": "in minutes, e.g. 1.3 min",
+  "phone": "customer phone number or null",
+  "customer_name": "customer name or No Name if unknown",
+  "rep_name": "rep/agent name or No Name if unknown",
+  "outcome": "one of: follow_up_scheduled | deal_closed | not_interested | info_shared | escalated | no_outcome",
+  "call_quality": "score out of 10 per rubric e.g. 7/10, or null if Gate 1 applies",
+  "agent_performance": "score out of 10 per rubric e.g. 8/10, or null if Gate 1 or Gate 2 applies",
+  "summary": "2-3 sentence plain English summary of what happened on the call",
+  "sentiment": {
+    "overall": "score out of 10",
+    "agent": "score out of 10",
+    "customer": "score out of 10"
+  },
+  "speaker_breakdown": {
+    "description": "one sentence describing what each party did",
+    "language": "language spoken e.g. English, Hindi, Hinglish",
+    "agent_percentage": 70,
+    "customer_percentage": 30
+  },
+  "keywords": ["keyword1", "keyword2"],
+  "topics": ["topic1"],
+  "compliance": "any compliance issues flagged or None",
+  "action_items": [
+    {
+      "priority": "HIGH | MEDIUM | LOW",
+      "task": "specific action to take",
+      "owner": "Rep name or team e.g. Support",
+      "deadline": "DD-MM-YYYY, one day after call date if not specified"
+    }
+  ]
+}
+TRANSCRIPT:
+${transcript}`;
+
+export interface AnalysisResult extends Partial<Report> {
+  input_tokens: number;
+  output_tokens: number;
+  claude_latency_ms: number;
+}
+
+async function createWithRetry(params: Parameters<ReturnType<typeof getClaude>['messages']['create']>[0], maxRetries = 4): Promise<Anthropic.Message> {
+  let delay = 8000;
+  for (let attempt = 0; attempt <= maxRetries; attempt++) {
+    try {
+      return await getClaude().messages.create(params) as Anthropic.Message;
+    } catch (err: unknown) {
+      const isOverloaded = err instanceof Error && (
+        err.message.includes('529') || err.message.includes('overloaded') || err.message.includes('Overloaded')
+      );
+      if (isOverloaded && attempt < maxRetries) {
+        await new Promise(r => setTimeout(r, delay));
+        delay = Math.min(delay * 2, 60000);
+        continue;
+      }
+      throw err;
+    }
+  }
+  throw new Error('Claude API still overloaded after retries');
+}
+
+export async function analyseTranscript(transcript: string, durationSec?: number): Promise<AnalysisResult> {
+  const t0 = Date.now();
+  const message = await createWithRetry({
+    model: 'claude-sonnet-4-6',
+    max_tokens: 2048,
+    messages: [{ role: 'user', content: ANALYSIS_PROMPT(transcript, durationSec) }],
+  });
+  const claude_latency_ms = Date.now() - t0;
+
+  const text = message.content[0].type === 'text' ? message.content[0].text : '';
+  const cleaned = text.replace(/^```(?:json)?\n?/i, '').replace(/\n?```$/i, '').trim();
+
+  // Robust parse: strip control characters (common in Hindi/Hinglish transcripts)
+  const sanitised = cleaned
+    .replace(/[\u0000-\u001F\u007F]/g, (m: string) => m === '\n' || m === '\r' || m === '\t' ? m : '')
+    .replace(/,\s*([}\]])/g, '$1');
+
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  let parsed: any;
+  try {
+    parsed = JSON.parse(sanitised);
+  } catch {
+    const start = sanitised.indexOf('{');
+    const end   = sanitised.lastIndexOf('}');
+    if (start === -1 || end === -1) throw new Error('Could not parse Claude analysis response as JSON');
+    parsed = JSON.parse(sanitised.slice(start, end + 1));
+  }
+
+  return {
+    date_extracted:    parsed.date ?? null,
+    time_extracted:    parsed.time ?? null,
+    duration:          parsed.duration ?? null,
+    phone:             parsed.phone ?? null,
+    customer_name:     parsed.customer_name ?? null,
+    outcome:           parsed.outcome ?? null,
+    call_quality:      parsed.call_quality ?? null,
+    agent_performance: parsed.agent_performance ?? null,
+    summary:           parsed.summary ?? null,
+    sentiment:         parsed.sentiment ?? null,
+    speaker_breakdown: parsed.speaker_breakdown ?? null,
+    keywords:          parsed.keywords ?? null,
+    topics:            parsed.topics ?? null,
+    compliance:        parsed.compliance ?? null,
+    action_items:      parsed.action_items ?? null,
+    input_tokens:       message.usage.input_tokens,
+    output_tokens:      message.usage.output_tokens,
+    claude_latency_ms,
+  };
+}

@@ -1,1 +1,40 @@
-{"data":"aW1wb3J0ICogYXMgWExTWCBmcm9tICd4bHN4JzsKaW1wb3J0IHsgQ2FsbCwgUmVwb3J0IH0gZnJvbSAnQC90eXBlcyc7CgpleHBvcnQgZnVuY3Rpb24gZ2VuZXJhdGVYbHN4KGNhbGw6IENhbGwsIHJlcG9ydDogUmVwb3J0KTogQnVmZmVyIHsKICBjb25zdCBjYWxsRGF0ZSA9IG5ldyBEYXRlKGNhbGwuY3JlYXRlZF9hdCkudG9Mb2NhbGVEYXRlU3RyaW5nKCdlbi1HQicsIHsKICAgIGRheTogJzItZGlnaXQnLCBtb250aDogJ3Nob3J0JywgeWVhcjogJ251bWVyaWMnLAogIH0pOwoKICBjb25zdCByb3cgPSB7CiAgICBQcm9zcGVjdDogY2FsbC5wcm9zcGVjdF9uYW1lLAogICAgQ29tcGFueTogY2FsbC5jb21wYW55LAogICAgRGF0ZTogcmVwb3J0LmRhdGVfZXh0cmFjdGVkID8/IGNhbGxEYXRlLAogICAgVGltZTogcmVwb3J0LnRpbWVfZXh0cmFjdGVkID8/ICcnLAogICAgUmVwOiBjYWxsLnJlcF9uYW1lLAogICAgJ0NhbGwgVHlwZSc6IGNhbGwuY2FsbF90eXBlID8/ICcnLAogICAgRHVyYXRpb246IHJlcG9ydC5kdXJhdGlvbiA/PyAnJywKICAgIFBob25lOiByZXBvcnQucGhvbmUgPz8gJycsCiAgICAnQ3VzdG9tZXIgTmFtZSc6IHJlcG9ydC5jdXN0b21lcl9uYW1lID8/ICcnLAogICAgT3V0Y29tZTogcmVwb3J0Lm91dGNvbWUgPz8gJycsCiAgICAnQ2FsbCBRdWFsaXR5JzogcmVwb3J0LmNhbGxfcXVhbGl0eSA/PyAnJywKICAgICdBZ2VudCBQZXJmb3JtYW5jZSc6IHJlcG9ydC5hZ2VudF9wZXJmb3JtYW5jZSA/PyAnJywKICAgICdTZW50aW1lbnQgT3ZlcmFsbCc6IHJlcG9ydC5zZW50aW1lbnQ/Lm92ZXJhbGwgPz8gJycsCiAgICAnU2VudGltZW50IEFnZW50JzogcmVwb3J0LnNlbnRpbWVudD8uYWdlbnQgPz8gJycsCiAgICAnU2VudGltZW50IEN1c3RvbWVyJzogcmVwb3J0LnNlbnRpbWVudD8uY3VzdG9tZXIgPz8gJycsCiAgICBMYW5ndWFnZTogcmVwb3J0LnNwZWFrZXJfYnJlYWtkb3duPy5sYW5ndWFnZSA/PyAnJywKICAgICdBZ2VudCBUYWxrICUnOiByZXBvcnQuc3BlYWtlcl9icmVha2Rvd24/LmFnZW50X3BlcmNlbnRhZ2UgPz8gJycsCiAgICBLZXl3b3JkczogKHJlcG9ydC5rZXl3b3JkcyA/PyBbXSkuam9pbignLCAnKSwKICAgIFRvcGljczogKHJlcG9ydC50b3BpY3MgPz8gW10pLmpvaW4oJywgJyksCiAgICBDb21wbGlhbmNlOiByZXBvcnQuY29tcGxpYW5jZSA/PyAnTm9uZScsCiAgICAnQWN0aW9uIEl0ZW1zIENvdW50JzogKHJlcG9ydC5hY3Rpb25faXRlbXMgPz8gW10pLmxlbmd0aCwKICAgICdEb2MgVVJMJzogcmVwb3J0LmRvY191cmwgPz8gJycsCiAgfTsKCiAgY29uc3Qgd3MgPSBYTFNYLnV0aWxzLmpzb25fdG9fc2hlZXQoW3Jvd10pOwogIGNvbnN0IHdiID0gWExTWC51dGlscy5ib29rX25ldygpOwogIFhMU1gudXRpbHMuYm9va19hcHBlbmRfc2hlZXQod2IsIHdzLCAnQ2FsbCBBbmFseXNpcycpOwoKICBjb25zdCBidWYgPSBYTFNYLndyaXRlKHdiLCB7IHR5cGU6ICdidWZmZXInLCBib29rVHlwZTogJ3hsc3gnIH0pOwogIHJldHVybiBCdWZmZXIuZnJvbShidWYpOwp9Cg=="}
+import * as XLSX from 'xlsx';
+import { Call, Report } from '@/types';
+
+export function generateXlsx(call: Call, report: Report): Buffer {
+  const callDate = new Date(call.created_at).toLocaleDateString('en-GB', {
+    day: '2-digit', month: 'short', year: 'numeric',
+  });
+
+  const row = {
+    Prospect: call.prospect_name,
+    Company: call.company,
+    Date: report.date_extracted ?? callDate,
+    Time: report.time_extracted ?? '',
+    Rep: call.rep_name,
+    'Call Type': call.call_type ?? '',
+    Duration: report.duration ?? '',
+    Phone: report.phone ?? '',
+    'Customer Name': report.customer_name ?? '',
+    Outcome: report.outcome ?? '',
+    'Call Quality': report.call_quality ?? '',
+    'Agent Performance': report.agent_performance ?? '',
+    'Sentiment Overall': report.sentiment?.overall ?? '',
+    'Sentiment Agent': report.sentiment?.agent ?? '',
+    'Sentiment Customer': report.sentiment?.customer ?? '',
+    Language: report.speaker_breakdown?.language ?? '',
+    'Agent Talk %': report.speaker_breakdown?.agent_percentage ?? '',
+    Keywords: (report.keywords ?? []).join(', '),
+    Topics: (report.topics ?? []).join(', '),
+    Compliance: report.compliance ?? 'None',
+    'Action Items Count': (report.action_items ?? []).length,
+    'Doc URL': report.doc_url ?? '',
+  };
+
+  const ws = XLSX.utils.json_to_sheet([row]);
+  const wb = XLSX.utils.book_new();
+  XLSX.utils.book_append_sheet(wb, ws, 'Call Analysis');
+
+  const buf = XLSX.write(wb, { type: 'buffer', bookType: 'xlsx' });
+  return Buffer.from(buf);
+}

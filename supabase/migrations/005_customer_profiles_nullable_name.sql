@@ -1,1 +1,2 @@
-{"data":"LS0gQWxsb3cgbmFtZSB0byBiZSBOVUxMIHNvIHJvd3Mgd2l0aCBvbmx5IHBob25lICsgdXNlcl9pZCBjYW4gYmUgaW1wb3J0ZWQKQUxURVIgVEFCTEUgY3VzdG9tZXJfcHJvZmlsZXMgQUxURVIgQ09MVU1OIG5hbWUgRFJPUCBOT1QgTlVMTDsK"}
+-- Allow name to be NULL so rows with only phone + user_id can be imported
+ALTER TABLE customer_profiles ALTER COLUMN name DROP NOT NULL;

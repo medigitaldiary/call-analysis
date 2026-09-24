@@ -1,1 +1,22 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBHRVQocmVxOiBOZXh0UmVxdWVzdCkgewogIGNvbnN0IHVybCA9IHJlcS5uZXh0VXJsLnNlYXJjaFBhcmFtcy5nZXQoJ3VybCcpOwogIGlmICghdXJsKSByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBlcnJvcjogJ3VybCByZXF1aXJlZCcgfSwgeyBzdGF0dXM6IDQwMCB9KTsKCiAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2godXJsLCB7CiAgICBoZWFkZXJzOiB7IEF1dGhvcml6YXRpb246IGBCZWFyZXIgJHtwcm9jZXNzLmVudi5CTE9CX1JFQURfV1JJVEVfVE9LRU59YCB9LAogIH0pOwoKICBpZiAoIXJlcy5vaykgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgZXJyb3I6ICdGYWlsZWQgdG8gZmV0Y2ggZmlsZScgfSwgeyBzdGF0dXM6IHJlcy5zdGF0dXMgfSk7CgogIGNvbnN0IGNvbnRlbnRUeXBlID0gcmVzLmhlYWRlcnMuZ2V0KCdjb250ZW50LXR5cGUnKSA/PyAnYXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtJzsKICBjb25zdCBmaWxlbmFtZSA9IHVybC5zcGxpdCgnLycpLnBvcCgpID8/ICdkb3dubG9hZCc7CgogIHJldHVybiBuZXcgTmV4dFJlc3BvbnNlKHJlcy5ib2R5LCB7CiAgICBoZWFkZXJzOiB7CiAgICAgICdDb250ZW50LVR5cGUnOiBjb250ZW50VHlwZSwKICAgICAgJ0NvbnRlbnQtRGlzcG9zaXRpb24nOiBgYXR0YWNobWVudDsgZmlsZW5hbWU9IiR7ZmlsZW5hbWV9ImAsCiAgICB9LAogIH0pOwp9Cg=="}
+import { NextRequest, NextResponse } from 'next/server';
+
+export async function GET(req: NextRequest) {
+  const url = req.nextUrl.searchParams.get('url');
+  if (!url) return NextResponse.json({ error: 'url required' }, { status: 400 });
+
+  const res = await fetch(url, {
+    headers: { Authorization: `Bearer ${process.env.BLOB_READ_WRITE_TOKEN}` },
+  });
+
+  if (!res.ok) return NextResponse.json({ error: 'Failed to fetch file' }, { status: res.status });
+
+  const contentType = res.headers.get('content-type') ?? 'application/octet-stream';
+  const filename = url.split('/').pop() ?? 'download';
+
+  return new NextResponse(res.body, {
+    headers: {
+      'Content-Type': contentType,
+      'Content-Disposition': `attachment; filename="${filename}"`,
+    },
+  });
+}

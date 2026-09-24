@@ -1,1 +1,114 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgZ2V0RGIgfSBmcm9tICdAL2xpYi9kYic7CmltcG9ydCB7IGdlbmVyYXRlUk1SZXBvcnQgfSBmcm9tICdAL2xpYi9ybS1hbmFseXNlJzsKCmV4cG9ydCBjb25zdCBtYXhEdXJhdGlvbiA9IDMwMDsgLy8gQ2xhdWRlIFJNIHJlcG9ydCBnZW5lcmF0aW9uIGNhbiB0YWtlIHRpbWUgZm9yIGxhcmdlIHNlc3Npb25zCmltcG9ydCB7IGdlbmVyYXRlUk1Eb2N4IH0gZnJvbSAnQC9saWIvcm0tZG9jeCc7CmltcG9ydCB7IGdlbmVyYXRlUk1YbHN4IH0gZnJvbSAnQC9saWIvcm0teGxzeCc7CmltcG9ydCB7IHB1dCB9IGZyb20gJ0B2ZXJjZWwvYmxvYic7CmltcG9ydCB0eXBlIHsgQWN0aW9uSXRlbSB9IGZyb20gJ0AvdHlwZXMnOwoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIFBPU1QocmVxOiBOZXh0UmVxdWVzdCkgewogIGNvbnN0IHsgc2Vzc2lvbklkIH0gPSBhd2FpdCByZXEuanNvbigpOwogIGNvbnN0IHNxbCA9IGdldERiKCk7CgogIHRyeSB7CiAgICBhd2FpdCBzcWxgVVBEQVRFIGJ1bGtfc2Vzc2lvbnMgU0VUIHN0YXR1cyA9ICdnZW5lcmF0aW5nJyBXSEVSRSBpZCA9ICR7c2Vzc2lvbklkfWA7CgogICAgY29uc3QgW3Nlc3Npb25dID0gYXdhaXQgc3FsYFNFTEVDVCAqIEZST00gYnVsa19zZXNzaW9ucyBXSEVSRSBpZCA9ICR7c2Vzc2lvbklkfWA7CiAgICBpZiAoIXNlc3Npb24pIHRocm93IG5ldyBFcnJvcignU2Vzc2lvbiBub3QgZm91bmQnKTsKCiAgICAvLyBGZXRjaCBhbGwgY2FsbHMgKyByZXBvcnRzIGZvciB0aGlzIHNlc3Npb24KICAgIGNvbnN0IGNhbGxzID0gYXdhaXQgc3FsYFNFTEVDVCBjLiosIHIuKiBGUk9NIGNhbGxzIGMgTEVGVCBKT0lOIHJlcG9ydHMgciBPTiByLmNhbGxfaWQgPSBjLmlkIFdIRVJFIGMuc2Vzc2lvbl9pZCA9ICR7c2Vzc2lvbklkfSBPUkRFUiBCWSBjLmNyZWF0ZWRfYXQgQVNDYDsKCiAgICBjb25zdCBjYWxsRGF0YSA9IGNhbGxzLm1hcCgoYzogUmVjb3JkPHN0cmluZywgdW5rbm93bj4sIGk6IG51bWJlcikgPT4gewogICAgICAvLyBUcnVuY2F0ZSBsYXJnZSB0ZXh0IGZpZWxkcyB0byBrZWVwIHRoZSBDbGF1ZGUgcHJvbXB0IG1hbmFnZWFibGUgZm9yIGxhcmdlIHNlc3Npb25zCiAgICAgIGNvbnN0IGt3ID0gQXJyYXkuaXNBcnJheShjLmtleXdvcmRzKSA/IChjLmtleXdvcmRzIGFzIHN0cmluZ1tdKS5zbGljZSgwLCA1KSA6IG51bGw7CiAgICAgIGNvbnN0IHRwID0gQXJyYXkuaXNBcnJheShjLnRvcGljcykgICA/IChjLnRvcGljcyAgIGFzIHN0cmluZ1tdKS5zbGljZSgwLCAzKSA6IG51bGw7CiAgICAgIHJldHVybiB7CiAgICAgICAgY2FsbF9udW1iZXI6IGkgKyAxLAogICAgICAgIGN1c3RvbWVyX25hbWU6IGMuY3VzdG9tZXJfbmFtZSBhcyBzdHJpbmcgfCBudWxsLAogICAgICAgIHBob25lOiBjLnBob25lIGFzIHN0cmluZyB8IG51bGwsCiAgICAgICAgZHVyYXRpb246IGMuZHVyYXRpb24gYXMgc3RyaW5nIHwgbnVsbCwKICAgICAgICBkdXJhdGlvbl9zZWM6IGMuZHVyYXRpb25fc2VjIGFzIG51bWJlciB8IG51bGwsCiAgICAgICAgb3V0Y29tZTogYy5vdXRjb21lIGFzIHN0cmluZyB8IG51bGwsCiAgICAgICAgc3VtbWFyeTogKGMuc3VtbWFyeSBhcyBzdHJpbmcgfCBudWxsKT8uc2xpY2UoMCwgMzAwKSA/PyBudWxsLAogICAgICAgIGtleXdvcmRzOiBrdywKICAgICAgICB0b3BpY3M6IHRwLAogICAgICAgIGFjdGlvbl9pdGVtczogYy5hY3Rpb25faXRlbXMgYXMgQWN0aW9uSXRlbVtdIHwgbnVsbCwKICAgICAgICBzZW50aW1lbnQ6IGMuc2VudGltZW50IGFzIHsgb3ZlcmFsbDogc3RyaW5nOyBhZ2VudDogc3RyaW5nOyBjdXN0b21lcjogc3RyaW5nIH0gfCBudWxsLAogICAgICAgIHNwZWFrZXJfYnJlYWtkb3duOiBjLnNwZWFrZXJfYnJlYWtkb3duIGFzIHsgbGFuZ3VhZ2U6IHN0cmluZzsgYWdlbnRfcGVyY2VudGFnZTogbnVtYmVyOyBjdXN0b21lcl9wZXJjZW50YWdlOiBudW1iZXI7IGRlc2NyaXB0aW9uOiBzdHJpbmcgfSB8IG51bGwsCiAgICAgICAgY29tcGxpYW5jZTogYy5jb21wbGlhbmNlIGFzIHN0cmluZyB8IG51bGwsCiAgICAgICAgY2FsbF9xdWFsaXR5OiBjLmNhbGxfcXVhbGl0eSBhcyBzdHJpbmcgfCBudWxsLAogICAgICAgIGFnZW50X3BlcmZvcm1hbmNlOiBjLmFnZW50X3BlcmZvcm1hbmNlIGFzIHN0cmluZyB8IG51bGwsCiAgICAgIH07CiAgICB9KTsKCiAgICAvLyBDb21wdXRlIHRvdGFsIHRhbGsgdGltZSBvdXJzZWx2ZXMgKGF2b2lkcyBDbGF1ZGUgYWRkaW5nIHZlcmJvc2UgZXhwbGFuYXRpb25zKQogICAgY29uc3QgdG90YWxTZWMgPSBjYWxsRGF0YS5yZWR1Y2UoKHN1bSwgYykgPT4gc3VtICsgKE51bWJlcihjLmR1cmF0aW9uX3NlYykgfHwgMCksIDApOwogICAgY29uc3QgdG90YWxNaW4gPSB0b3RhbFNlYyAvIDYwOwogICAgY29uc3QgY29tcHV0ZWRUYWxrVGltZSA9CiAgICAgIHRvdGFsU2VjID09PSAwID8gJzAgbWluJyA6CiAgICAgIHRvdGFsTWluIDwgMSAgID8gYCR7dG90YWxTZWN9c2AgOgogICAgICB0b3RhbE1pbiA8IDYwICA/IGB+JHt0b3RhbE1pbi50b0ZpeGVkKDEpfSBtaW5gIDoKICAgICAgICAgICAgICAgICAgICAgICBgfiR7TWF0aC5mbG9vcih0b3RhbE1pbiAvIDYwKX1oICR7TWF0aC5yb3VuZCh0b3RhbE1pbiAlIDYwKX1taW5gOwoKICAgIC8vIENvbXB1dGUgbWVkaWFuIGFnZW50IHBlcmZvcm1hbmNlIHNjb3JlIGluIGNvZGUgKGV4Y2x1ZGVzIG51bGwvZ2F0ZWQgY2FsbHMpCiAgICBjb25zdCBhZ2VudFNjb3JlcyA9IGNhbGxEYXRhCiAgICAgIC5tYXAoYyA9PiBjLmFnZW50X3BlcmZvcm1hbmNlKQogICAgICAuZmlsdGVyKChzKTogcyBpcyBzdHJpbmcgPT4gcyAhPT0gbnVsbCAmJiBzICE9PSAnJykKICAgICAgLm1hcChzID0+IHBhcnNlRmxvYXQocy5zcGxpdCgnLycpWzBdKSkKICAgICAgLmZpbHRlcihuID0+ICFpc05hTihuKSkKICAgICAgLnNvcnQoKGEsIGIpID0+IGEgLSBiKTsKCiAgICBsZXQgY29tcHV0ZWRNZWRpYW4gPSAnTi9BJzsKICAgIGlmIChhZ2VudFNjb3Jlcy5sZW5ndGggPiAwKSB7CiAgICAgIGNvbnN0IG1pZCA9IE1hdGguZmxvb3IoYWdlbnRTY29yZXMubGVuZ3RoIC8gMik7CiAgICAgIGNvbnN0IG1lZGlhbiA9IGFnZW50U2NvcmVzLmxlbmd0aCAlIDIgPT09IDAKICAgICAgICA/IChhZ2VudFNjb3Jlc1ttaWQgLSAxXSArIGFnZW50U2NvcmVzW21pZF0pIC8gMgogICAgICAgIDogYWdlbnRTY29yZXNbbWlkXTsKICAgICAgY29tcHV0ZWRNZWRpYW4gPSBgJHttZWRpYW4gJSAxID09PSAwID8gbWVkaWFuLnRvRml4ZWQoMCkgOiBtZWRpYW4udG9GaXhlZCgxKX0vMTBgOwogICAgfQoKICAgIC8vIEdlbmVyYXRlIFJNIHJlcG9ydCB2aWEgQ2xhdWRlCiAgICBjb25zdCB7IHJlcG9ydDogcm1SZXBvcnQsIGlucHV0X3Rva2Vucywgb3V0cHV0X3Rva2VucyB9ID0gYXdhaXQgZ2VuZXJhdGVSTVJlcG9ydChzZXNzaW9uLnJtX25hbWUsIHNlc3Npb24uc2Vzc2lvbl9kYXRlLCBjYWxsRGF0YSk7CgogICAgLy8gT3ZlcnJpZGUgQ2xhdWRlJ3MgdmFsdWVzIHdpdGggb3VyIGNvbXB1dGVkIG9uZXMKICAgIHJtUmVwb3J0Lm92ZXJ2aWV3LnRvdGFsX3RhbGtfdGltZSA9IGNvbXB1dGVkVGFsa1RpbWU7CiAgICBybVJlcG9ydC5hZ2VudF9wZXJmb3JtYW5jZS5hdmdfcGVyZm9ybWFuY2UgPSBjb21wdXRlZE1lZGlhbjsKCiAgICAvLyBHZW5lcmF0ZSAuZG9jeAogICAgY29uc3QgZG9jQnVmZmVyID0gYXdhaXQgZ2VuZXJhdGVSTURvY3goc2Vzc2lvbi5ybV9uYW1lLCBzZXNzaW9uLnNlc3Npb25fZGF0ZSwgcm1SZXBvcnQpOwogICAgY29uc3QgeyB1cmw6IGRvY1VybCB9ID0gYXdhaXQgcHV0KGBybS1yZXBvcnRzLyR7c2Vzc2lvbklkfS5kb2N4YCwgZG9jQnVmZmVyLCB7IGFjY2VzczogJ3ByaXZhdGUnLCBhbGxvd092ZXJ3cml0ZTogdHJ1ZSB9KTsKCiAgICAvLyBHZW5lcmF0ZSAueGxzeAogICAgY29uc3QgeGxzeEJ1ZmZlciA9IGdlbmVyYXRlUk1YbHN4KHNlc3Npb24ucm1fbmFtZSwgc2Vzc2lvbi5zZXNzaW9uX2RhdGUsIHJtUmVwb3J0LCBjYWxsRGF0YSk7CiAgICBjb25zdCB7IHVybDogc2hlZXRVcmwgfSA9IGF3YWl0IHB1dChgcm0tcmVwb3J0cy8ke3Nlc3Npb25JZH0ueGxzeGAsIHhsc3hCdWZmZXIsIHsgYWNjZXNzOiAncHJpdmF0ZScsIGFsbG93T3ZlcndyaXRlOiB0cnVlIH0pOwoKICAgIC8vIFNhdmUgdG8gc2Vzc2lvbiDigJQgaW5jbHVkZSB0b2tlbiB1c2FnZSBmb3IgdGhpcyBSTSByZXBvcnQgZ2VuZXJhdGlvbgogICAgLy8gQWxzbyBzdW0gdXAgdG9rZW5zIGZyb20gYWxsIGluZGl2aWR1YWwgY2FsbCBhbmFseXNlcyBpbiB0aGlzIHNlc3Npb24KICAgIGNvbnN0IGNhbGxUb2tlbnMgPSBhd2FpdCBzcWxgCiAgICAgIFNFTEVDVCBDT0FMRVNDRShTVU0oaW5wdXRfdG9rZW5zKSwwKSBBUyB0b3RhbF9pbiwgQ09BTEVTQ0UoU1VNKG91dHB1dF90b2tlbnMpLDApIEFTIHRvdGFsX291dAogICAgICBGUk9NIHJlcG9ydHMgV0hFUkUgY2FsbF9pZCBJTiAoU0VMRUNUIGlkIEZST00gY2FsbHMgV0hFUkUgc2Vzc2lvbl9pZCA9ICR7c2Vzc2lvbklkfSkKICAgIGA7CiAgICBjb25zdCB0b3RhbEluICA9IE51bWJlcihjYWxsVG9rZW5zWzBdPy50b3RhbF9pbiAgPz8gMCkgKyBpbnB1dF90b2tlbnM7CiAgICBjb25zdCB0b3RhbE91dCA9IE51bWJlcihjYWxsVG9rZW5zWzBdPy50b3RhbF9vdXQgPz8gMCkgKyBvdXRwdXRfdG9rZW5zOwoKICAgIGF3YWl0IHNxbGAKICAgICAgVVBEQVRFIGJ1bGtfc2Vzc2lvbnMgU0VUCiAgICAgICAgc3RhdHVzID0gJ3JlYWR5JywKICAgICAgICBybV9yZXBvcnQgPSAke3NxbC5qc29uKHJtUmVwb3J0IGFzIHVua25vd24gYXMgaW1wb3J0KCdwb3N0Z3JlcycpLkpTT05WYWx1ZSl9LAogICAgICAgIGRvY191cmwgPSAke2RvY1VybH0sCiAgICAgICAgc2hlZXRfdXJsID0gJHtzaGVldFVybH0sCiAgICAgICAgaW5wdXRfdG9rZW5zID0gJHt0b3RhbElufSwKICAgICAgICBvdXRwdXRfdG9rZW5zID0gJHt0b3RhbE91dH0KICAgICAgV0hFUkUgaWQgPSAke3Nlc3Npb25JZH0KICAgIGA7CgogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgcm1SZXBvcnQsIGRvY1VybCwgc2hlZXRVcmwgfSk7CiAgfSBjYXRjaCAoZXJyOiB1bmtub3duKSB7CiAgICBjb25zdCBtZXNzYWdlID0gZXJyIGluc3RhbmNlb2YgRXJyb3IgPyBlcnIubWVzc2FnZSA6ICdSZXBvcnQgZ2VuZXJhdGlvbiBmYWlsZWQnOwogICAgYXdhaXQgc3FsYFVQREFURSBidWxrX3Nlc3Npb25zIFNFVCBzdGF0dXMgPSAnZXJyb3InLCBlcnJvcl9tc2cgPSAke21lc3NhZ2V9IFdIRVJFIGlkID0gJHtzZXNzaW9uSWR9YDsKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IGVycm9yOiBtZXNzYWdlIH0sIHsgc3RhdHVzOiA1MDAgfSk7CiAgfQp9Cg=="}
+import { NextRequest, NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+import { generateRMReport } from '@/lib/rm-analyse';
+
+export const maxDuration = 300; // Claude RM report generation can take time for large sessions
+import { generateRMDocx } from '@/lib/rm-docx';
+import { generateRMXlsx } from '@/lib/rm-xlsx';
+import { put } from '@vercel/blob';
+import type { ActionItem } from '@/types';
+
+export async function POST(req: NextRequest) {
+  const { sessionId } = await req.json();
+  const sql = getDb();
+
+  try {
+    await sql`UPDATE bulk_sessions SET status = 'generating' WHERE id = ${sessionId}`;
+
+    const [session] = await sql`SELECT * FROM bulk_sessions WHERE id = ${sessionId}`;
+    if (!session) throw new Error('Session not found');
+
+    // Fetch all calls + reports for this session
+    const calls = await sql`SELECT c.*, r.* FROM calls c LEFT JOIN reports r ON r.call_id = c.id WHERE c.session_id = ${sessionId} ORDER BY c.created_at ASC`;
+
+    const callData = calls.map((c: Record<string, unknown>, i: number) => {
+      // Truncate large text fields to keep the Claude prompt manageable for large sessions
+      const kw = Array.isArray(c.keywords) ? (c.keywords as string[]).slice(0, 5) : null;
+      const tp = Array.isArray(c.topics)   ? (c.topics   as string[]).slice(0, 3) : null;
+      return {
+        call_number: i + 1,
+        customer_name: c.customer_name as string | null,
+        phone: c.phone as string | null,
+        duration: c.duration as string | null,
+        duration_sec: c.duration_sec as number | null,
+        outcome: c.outcome as string | null,
+        summary: (c.summary as string | null)?.slice(0, 300) ?? null,
+        keywords: kw,
+        topics: tp,
+        action_items: c.action_items as ActionItem[] | null,
+        sentiment: c.sentiment as { overall: string; agent: string; customer: string } | null,
+        speaker_breakdown: c.speaker_breakdown as { language: string; agent_percentage: number; customer_percentage: number; description: string } | null,
+        compliance: c.compliance as string | null,
+        call_quality: c.call_quality as string | null,
+        agent_performance: c.agent_performance as string | null,
+      };
+    });
+
+    // Compute total talk time ourselves (avoids Claude adding verbose explanations)
+    const totalSec = callData.reduce((sum, c) => sum + (Number(c.duration_sec) || 0), 0);
+    const totalMin = totalSec / 60;
+    const computedTalkTime =
+      totalSec === 0 ? '0 min' :
+      totalMin < 1   ? `${totalSec}s` :
+      totalMin < 60  ? `~${totalMin.toFixed(1)} min` :
+                       `~${Math.floor(totalMin / 60)}h ${Math.round(totalMin % 60)}min`;
+
+    // Compute median agent performance score in code (excludes null/gated calls)
+    const agentScores = callData
+      .map(c => c.agent_performance)
+      .filter((s): s is string => s !== null && s !== '')
+      .map(s => parseFloat(s.split('/')[0]))
+      .filter(n => !isNaN(n))
+      .sort((a, b) => a - b);
+
+    let computedMedian = 'N/A';
+    if (agentScores.length > 0) {
+      const mid = Math.floor(agentScores.length / 2);
+      const median = agentScores.length % 2 === 0
+        ? (agentScores[mid - 1] + agentScores[mid]) / 2
+        : agentScores[mid];
+      computedMedian = `${median % 1 === 0 ? median.toFixed(0) : median.toFixed(1)}/10`;
+    }
+
+    // Generate RM report via Claude
+    const { report: rmReport, input_tokens, output_tokens } = await generateRMReport(session.rm_name, session.session_date, callData);
+
+    // Override Claude's values with our computed ones
+    rmReport.overview.total_talk_time = computedTalkTime;
+    rmReport.agent_performance.avg_performance = computedMedian;
+
+    // Generate .docx
+    const docBuffer = await generateRMDocx(session.rm_name, session.session_date, rmReport);
+    const { url: docUrl } = await put(`rm-reports/${sessionId}.docx`, docBuffer, { access: 'private', allowOverwrite: true });
+
+    // Generate .xlsx
+    const xlsxBuffer = generateRMXlsx(session.rm_name, session.session_date, rmReport, callData);
+    const { url: sheetUrl } = await put(`rm-reports/${sessionId}.xlsx`, xlsxBuffer, { access: 'private', allowOverwrite: true });
+
+    // Save to session — include token usage for this RM report generation
+    // Also sum up tokens from all individual call analyses in this session
+    const callTokens = await sql`
+      SELECT COALESCE(SUM(input_tokens),0) AS total_in, COALESCE(SUM(output_tokens),0) AS total_out
+      FROM reports WHERE call_id IN (SELECT id FROM calls WHERE session_id = ${sessionId})
+    `;
+    const totalIn  = Number(callTokens[0]?.total_in  ?? 0) + input_tokens;
+    const totalOut = Number(callTokens[0]?.total_out ?? 0) + output_tokens;
+
+    await sql`
+      UPDATE bulk_sessions SET
+        status = 'ready',
+        rm_report = ${sql.json(rmReport as unknown as import('postgres').JSONValue)},
+        doc_url = ${docUrl},
+        sheet_url = ${sheetUrl},
+        input_tokens = ${totalIn},
+        output_tokens = ${totalOut}
+      WHERE id = ${sessionId}
+    `;
+
+    return NextResponse.json({ rmReport, docUrl, sheetUrl });
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : 'Report generation failed';
+    await sql`UPDATE bulk_sessions SET status = 'error', error_msg = ${message} WHERE id = ${sessionId}`;
+    return NextResponse.json({ error: message }, { status: 500 });
+  }
+}

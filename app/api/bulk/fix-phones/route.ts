@@ -1,1 +1,72 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgZ2V0RGIgfSBmcm9tICdAL2xpYi9kYic7CmltcG9ydCB7IHBhcnNlRm9sZGVySWRGcm9tVXJsLCBsaXN0RHJpdmVGaWxlcyB9IGZyb20gJ0AvbGliL2RyaXZlJzsKCi8vIE1pcnJvcnMgdGhlIGV4dHJhY3Rpb24gbG9naWMgaW4gYnVsay9zdGFydC9yb3V0ZS50cwpmdW5jdGlvbiBzdHJpcEludGVybmF0aW9uYWxQcmVmaXgoZGlnaXRzOiBzdHJpbmcpOiBzdHJpbmcgfCBudWxsIHsKICAvLyAwMCArIGNvdW50cnkgY29kZSA5MSArIDEwLWRpZ2l0IG51bWJlciA9IDE0IGRpZ2l0cwogIGlmIChkaWdpdHMuc3RhcnRzV2l0aCgnMDAnKSAmJiBkaWdpdHMubGVuZ3RoID09PSAxNCkgewogICAgcmV0dXJuIGRpZ2l0cy5zbGljZSg0KTsgLy8gcmVtb3ZlcyAnMDA5MScKICB9CiAgcmV0dXJuIG51bGw7Cn0KCmZ1bmN0aW9uIGV4dHJhY3RQaG9uZUZyb21GaWxlbmFtZShmaWxlbmFtZTogc3RyaW5nKTogc3RyaW5nIHwgbnVsbCB7CiAgY29uc3QgbmFtZSA9IGZpbGVuYW1lLnJlcGxhY2UoL1wuW14uXSskLywgJycpOyAvLyBzdHJpcCBleHRlbnNpb24KCiAgaWYgKC9eXGQvLnRlc3QobmFtZSkpIHsKICAgIGNvbnN0IHJhdyA9IG5hbWUubWF0Y2goL14oXGQrKS8pPy5bMV0gPz8gJyc7CiAgICBpZiAocmF3LnN0YXJ0c1dpdGgoJzAwJykpIHJldHVybiBzdHJpcEludGVybmF0aW9uYWxQcmVmaXgocmF3KTsKICAgIHJldHVybiByYXcubGVuZ3RoID49IDEwID8gcmF3LnNsaWNlKDAsIDEwKSA6IG51bGw7CiAgfSBlbHNlIHsKICAgIC8vIFN0YXJ0cyB3aXRoIGxldHRlcnMg4oCUIGV4dHJhY3QgbnVtYmVyIGZyb20gbGFzdCAoLi4uKSBncm91cAogICAgY29uc3QgcmF3ID0gbmFtZS5tYXRjaCgvXCgoXGQrKVwpKD89W14oXSokKS8pPy5bMV0gPz8gJyc7CiAgICBpZiAoIXJhdykgcmV0dXJuIG51bGw7CiAgICBpZiAocmF3LnN0YXJ0c1dpdGgoJzAwJykpIHJldHVybiBzdHJpcEludGVybmF0aW9uYWxQcmVmaXgocmF3KTsKICAgIHJldHVybiByYXcubGVuZ3RoID09PSAxMCA/IHJhdyA6IG51bGw7CiAgfQp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gUE9TVChyZXE6IE5leHRSZXF1ZXN0KSB7CiAgY29uc3QgeyBzZXNzaW9uSWQgfSA9IGF3YWl0IHJlcS5qc29uKCk7CiAgaWYgKCFzZXNzaW9uSWQpIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IGVycm9yOiAnc2Vzc2lvbklkIHJlcXVpcmVkJyB9LCB7IHN0YXR1czogNDAwIH0pOwoKICBjb25zdCBzcWwgPSBnZXREYigpOwoKICBjb25zdCBbc2Vzc2lvbl0gPSBhd2FpdCBzcWxgU0VMRUNUICogRlJPTSBidWxrX3Nlc3Npb25zIFdIRVJFIGlkID0gJHtzZXNzaW9uSWR9YDsKICBpZiAoIXNlc3Npb24pIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IGVycm9yOiAnU2Vzc2lvbiBub3QgZm91bmQnIH0sIHsgc3RhdHVzOiA0MDQgfSk7CgogIHRyeSB7CiAgICAvLyBSZS1mZXRjaCBmaWxlbmFtZXMgZnJvbSBEcml2ZQogICAgY29uc3QgZm9sZGVySWQgPSBwYXJzZUZvbGRlcklkRnJvbVVybChzZXNzaW9uLmZvbGRlcl91cmwpOwogICAgY29uc3QgZmlsZXMgPSBhd2FpdCBsaXN0RHJpdmVGaWxlcyhmb2xkZXJJZCk7CgogICAgLy8gQnVpbGQgZmlsZUlkIOKGkiBmaWxlbmFtZSBtYXAKICAgIGNvbnN0IGZpbGVNYXAgPSBuZXcgTWFwKGZpbGVzLm1hcCgoZjogeyBpZDogc3RyaW5nOyBuYW1lOiBzdHJpbmcgfSkgPT4gW2YuaWQsIGYubmFtZV0pKTsKCiAgICAvLyBHZXQgYWxsIGNhbGxzIGZvciB0aGlzIHNlc3Npb24gd2l0aCB0aGVpciBkcml2ZSBVUkxzCiAgICBjb25zdCBjYWxscyA9IGF3YWl0IHNxbGBTRUxFQ1QgaWQsIGRyaXZlX3VybCBGUk9NIGNhbGxzIFdIRVJFIHNlc3Npb25faWQgPSAke3Nlc3Npb25JZH1gOwoKICAgIGxldCB1cGRhdGVkID0gMDsKICAgIGZvciAoY29uc3QgY2FsbCBvZiBjYWxscykgewogICAgICAvLyBFeHRyYWN0IERyaXZlIGZpbGUgSUQgZnJvbSBzdG9yZWQgVVJMCiAgICAgIGNvbnN0IGZpbGVJZE1hdGNoID0gU3RyaW5nKGNhbGwuZHJpdmVfdXJsID8/ICcnKS5tYXRjaCgvWz8mXWlkPShbYS16QS1aMC05Xy1dKykvKTsKICAgICAgaWYgKCFmaWxlSWRNYXRjaCkgY29udGludWU7CgogICAgICBjb25zdCBmaWxlbmFtZSA9IGZpbGVNYXAuZ2V0KGZpbGVJZE1hdGNoWzFdKTsKICAgICAgaWYgKCFmaWxlbmFtZSkgY29udGludWU7CgogICAgICBjb25zdCBwaG9uZSA9IGV4dHJhY3RQaG9uZUZyb21GaWxlbmFtZShmaWxlbmFtZSk7CiAgICAgIGNvbnN0IHByb3NwZWN0TGFiZWwgPSBwaG9uZSA/PyBmaWxlbmFtZS5yZXBsYWNlKC9cLlteLl0rJC8sICcnKTsgLy8gZmFsbGJhY2s6IGZpbGVuYW1lIHdpdGhvdXQgZXh0ZW5zaW9uCgogICAgICBhd2FpdCBzcWxgVVBEQVRFIGNhbGxzIFNFVCBwcm9zcGVjdF9uYW1lID0gJHtwcm9zcGVjdExhYmVsfSBXSEVSRSBpZCA9ICR7Y2FsbC5pZH1gOwogICAgICBhd2FpdCBzcWxgVVBEQVRFIHJlcG9ydHMgU0VUIHBob25lID0gJHtwaG9uZX0gV0hFUkUgY2FsbF9pZCA9ICR7Y2FsbC5pZH1gOwogICAgICB1cGRhdGVkKys7CiAgICB9CgogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgdXBkYXRlZCwgdG90YWw6IGNhbGxzLmxlbmd0aCB9KTsKICB9IGNhdGNoIChlcnI6IHVua25vd24pIHsKICAgIGNvbnN0IG1lc3NhZ2UgPSBlcnIgaW5zdGFuY2VvZiBFcnJvciA/IGVyci5tZXNzYWdlIDogJ0ZhaWxlZCB0byBmaXggcGhvbmVzJzsKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IGVycm9yOiBtZXNzYWdlIH0sIHsgc3RhdHVzOiA1MDAgfSk7CiAgfQp9Cg=="}
+import { NextRequest, NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+import { parseFolderIdFromUrl, listDriveFiles } from '@/lib/drive';
+
+// Mirrors the extraction logic in bulk/start/route.ts
+function stripInternationalPrefix(digits: string): string | null {
+  // 00 + country code 91 + 10-digit number = 14 digits
+  if (digits.startsWith('00') && digits.length === 14) {
+    return digits.slice(4); // removes '0091'
+  }
+  return null;
+}
+
+function extractPhoneFromFilename(filename: string): string | null {
+  const name = filename.replace(/\.[^.]+$/, ''); // strip extension
+
+  if (/^\d/.test(name)) {
+    const raw = name.match(/^(\d+)/)?.[1] ?? '';
+    if (raw.startsWith('00')) return stripInternationalPrefix(raw);
+    return raw.length >= 10 ? raw.slice(0, 10) : null;
+  } else {
+    // Starts with letters — extract number from last (...) group
+    const raw = name.match(/\((\d+)\)(?=[^(]*$)/)?.[1] ?? '';
+    if (!raw) return null;
+    if (raw.startsWith('00')) return stripInternationalPrefix(raw);
+    return raw.length === 10 ? raw : null;
+  }
+}
+
+export async function POST(req: NextRequest) {
+  const { sessionId } = await req.json();
+  if (!sessionId) return NextResponse.json({ error: 'sessionId required' }, { status: 400 });
+
+  const sql = getDb();
+
+  const [session] = await sql`SELECT * FROM bulk_sessions WHERE id = ${sessionId}`;
+  if (!session) return NextResponse.json({ error: 'Session not found' }, { status: 404 });
+
+  try {
+    // Re-fetch filenames from Drive
+    const folderId = parseFolderIdFromUrl(session.folder_url);
+    const files = await listDriveFiles(folderId);
+
+    // Build fileId → filename map
+    const fileMap = new Map(files.map((f: { id: string; name: string }) => [f.id, f.name]));
+
+    // Get all calls for this session with their drive URLs
+    const calls = await sql`SELECT id, drive_url FROM calls WHERE session_id = ${sessionId}`;
+
+    let updated = 0;
+    for (const call of calls) {
+      // Extract Drive file ID from stored URL
+      const fileIdMatch = String(call.drive_url ?? '').match(/[?&]id=([a-zA-Z0-9_-]+)/);
+      if (!fileIdMatch) continue;
+
+      const filename = fileMap.get(fileIdMatch[1]);
+      if (!filename) continue;
+
+      const phone = extractPhoneFromFilename(filename);
+      const prospectLabel = phone ?? filename.replace(/\.[^.]+$/, ''); // fallback: filename without extension
+
+      await sql`UPDATE calls SET prospect_name = ${prospectLabel} WHERE id = ${call.id}`;
+      await sql`UPDATE reports SET phone = ${phone} WHERE call_id = ${call.id}`;
+      updated++;
+    }
+
+    return NextResponse.json({ updated, total: calls.length });
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : 'Failed to fix phones';
+    return NextResponse.json({ error: message }, { status: 500 });
+  }
+}

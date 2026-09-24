@@ -1,1 +1,158 @@
-{"data":"LyoqCiAqIFJlLWdlbmVyYXRlcyB0aGUgImltcHJvdmVtZW50cyIgZmllbGQgZm9yIGFsbCBNYXkgNCAyMDI2IGJ1bGsgc2Vzc2lvbnMKICogdXNpbmcgdGhlIG5ldyBzdHJ1Y3R1cmVkIGZvcm1hdCB7IHBvaW50LCBjYWxsX3JlZnMgfS4KICogVXBkYXRlcyBvbmx5IHRoZSBybV9yZXBvcnQgSlNPTiBpbiB0aGUgREIg4oCUIG5vIG5ldyBkb2N4L3hsc3ggZ2VuZXJhdGVkLgogKiBSdW46IG5vZGUgc2NyaXB0cy9yZWdlbi1pbXByb3ZlbWVudHMtbWF5NC5tanMKICovCmltcG9ydCB7IG5lb24gfSBmcm9tICdAbmVvbmRhdGFiYXNlL3NlcnZlcmxlc3MnOwppbXBvcnQgQW50aHJvcGljIGZyb20gJ0BhbnRocm9waWMtYWkvc2RrJzsKaW1wb3J0IHsgcmVhZEZpbGVTeW5jIH0gZnJvbSAnZnMnOwppbXBvcnQgeyByZXNvbHZlLCBkaXJuYW1lIH0gZnJvbSAncGF0aCc7CmltcG9ydCB7IGZpbGVVUkxUb1BhdGggfSBmcm9tICd1cmwnOwoKY29uc3QgX19kaXJuYW1lID0gZGlybmFtZShmaWxlVVJMVG9QYXRoKGltcG9ydC5tZXRhLnVybCkpOwoKLy8gTG9hZCAuZW52LmxvY2FsCmNvbnN0IGVudlBhdGggPSByZXNvbHZlKF9fZGlybmFtZSwgJy4uLy5lbnYubG9jYWwnKTsKY29uc3QgZW52VGV4dCA9IHJlYWRGaWxlU3luYyhlbnZQYXRoLCAndXRmOCcpOwpmb3IgKGNvbnN0IGxpbmUgb2YgZW52VGV4dC5zcGxpdCgnXG4nKSkgewogIGNvbnN0IHRyaW1tZWQgPSBsaW5lLnRyaW0oKTsKICBpZiAoIXRyaW1tZWQgfHwgdHJpbW1lZC5zdGFydHNXaXRoKCcjJykpIGNvbnRpbnVlOwogIGNvbnN0IGVxSWR4ID0gdHJpbW1lZC5pbmRleE9mKCc9Jyk7CiAgaWYgKGVxSWR4ID09PSAtMSkgY29udGludWU7CiAgY29uc3QgayA9IHRyaW1tZWQuc2xpY2UoMCwgZXFJZHgpLnRyaW0oKTsKICBsZXQgdiA9IHRyaW1tZWQuc2xpY2UoZXFJZHggKyAxKS50cmltKCk7CiAgdiA9IHYucmVwbGFjZSgvXiIvLCAnJykucmVwbGFjZSgvIiQvLCAnJyk7CiAgdiA9IHYucmVwbGFjZSgvXFxuL2csICcnKTsKICBwcm9jZXNzLmVudltrXSA9IHY7Cn0KCmNvbnN0IHNxbCAgICA9IG5lb24ocHJvY2Vzcy5lbnYuREFUQUJBU0VfVVJMKTsKY29uc3QgY2xhdWRlID0gbmV3IEFudGhyb3BpYyh7IGFwaUtleTogcHJvY2Vzcy5lbnYuQU5USFJPUElDX0FQSV9LRVkgfSk7CgpmdW5jdGlvbiBlc2NhcGVOZXdsaW5lc0luU3RyaW5ncyh0ZXh0KSB7CiAgLy8gUmVwbGFjZXMgbGl0ZXJhbCBuZXdsaW5lcyBpbnNpZGUgSlNPTiBzdHJpbmcgdmFsdWVzIHdpdGggXG4gZXNjYXBlIHNlcXVlbmNlcwogIGxldCBpblN0cmluZyA9IGZhbHNlOwogIGxldCBlc2NhcGVkICA9IGZhbHNlOwogIGxldCByZXN1bHQgICA9ICcnOwogIGZvciAobGV0IGkgPSAwOyBpIDwgdGV4dC5sZW5ndGg7IGkrKykgewogICAgY29uc3QgY2ggPSB0ZXh0W2ldOwogICAgaWYgKGVzY2FwZWQpIHsgcmVzdWx0ICs9IGNoOyBlc2NhcGVkID0gZmFsc2U7IGNvbnRpbnVlOyB9CiAgICBpZiAoY2ggPT09ICdcXCcpIHsgcmVzdWx0ICs9IGNoOyBlc2NhcGVkID0gdHJ1ZTsgY29udGludWU7IH0KICAgIGlmIChjaCA9PT0gJyInKSB7IGluU3RyaW5nID0gIWluU3RyaW5nOyByZXN1bHQgKz0gY2g7IGNvbnRpbnVlOyB9CiAgICBpZiAoaW5TdHJpbmcgJiYgKGNoID09PSAnXG4nIHx8IGNoID09PSAnXHInKSkgeyByZXN1bHQgKz0gJ1xcbic7IGNvbnRpbnVlOyB9CiAgICByZXN1bHQgKz0gY2g7CiAgfQogIHJldHVybiByZXN1bHQ7Cn0KCmZ1bmN0aW9uIHNhZmVQYXJzZUFycmF5KHRleHQpIHsKICAvLyBTdHJpcCBtYXJrZG93biBmZW5jZXMKICBsZXQgcyA9IHRleHQucmVwbGFjZSgvXmBgYCg/Ompzb24pP1xuPy9pLCAnJykucmVwbGFjZSgvXG4/YGBgJC9pLCAnJykudHJpbSgpOwogIC8vIEVzY2FwZSBsaXRlcmFsIG5ld2xpbmVzIGluc2lkZSBzdHJpbmdzLCB0aGVuIHN0cmlwIHRyYWlsaW5nIGNvbW1hcwogIHMgPSBlc2NhcGVOZXdsaW5lc0luU3RyaW5ncyhzKTsKICBzID0gcy5yZXBsYWNlKC8sKFxzKlt9XF1dKS9nLCAnJDEnKTsKICB0cnkgewogICAgcmV0dXJuIEpTT04ucGFyc2Uocyk7CiAgfSBjYXRjaCB7CiAgICAvLyBFeHRyYWN0IGJldHdlZW4gZmlyc3QgWyBhbmQgbGFzdCBdCiAgICBjb25zdCBzdGFydCA9IHMuaW5kZXhPZignWycpOwogICAgY29uc3QgZW5kICAgPSBzLmxhc3RJbmRleE9mKCddJyk7CiAgICBpZiAoc3RhcnQgIT09IC0xICYmIGVuZCAhPT0gLTEpIHsKICAgICAgcmV0dXJuIEpTT04ucGFyc2Uocy5zbGljZShzdGFydCwgZW5kICsgMSkpOwogICAgfQogICAgdGhyb3cgbmV3IEVycm9yKCdDb3VsZCBub3QgZXh0cmFjdCBKU09OIGFycmF5IGZyb20gcmVzcG9uc2UnKTsKICB9Cn0KCi8vIEZldGNoIE1heSA0IHNlc3Npb25zCmNvbnN0IHNlc3Npb25zID0gYXdhaXQgc3FsYAogIFNFTEVDVCBpZCwgcm1fbmFtZSwgc2Vzc2lvbl9kYXRlLCBybV9yZXBvcnQsIHN0YXR1cwogIEZST00gYnVsa19zZXNzaW9ucwogIFdIRVJFIHNlc3Npb25fZGF0ZSA9ICcyMDI2LTA1LTA0JwogICAgQU5EIHN0YXR1cyA9ICdyZWFkeScKICAgIEFORCBybV9yZXBvcnQgSVMgTk9UIE5VTEwKICBPUkRFUiBCWSBjcmVhdGVkX2F0IEFTQwpgOwoKaWYgKHNlc3Npb25zLmxlbmd0aCA9PT0gMCkgewogIGNvbnNvbGUubG9nKCdObyByZWFkeSBzZXNzaW9ucyBmb3VuZCBmb3IgMjAyNi0wNS0wNCcpOwogIHByb2Nlc3MuZXhpdCgwKTsKfQoKY29uc29sZS5sb2coYEZvdW5kICR7c2Vzc2lvbnMubGVuZ3RofSBzZXNzaW9uKHMpIGZvciBNYXkgNCAyMDI2OmApOwpzZXNzaW9ucy5mb3JFYWNoKChzLCBpKSA9PiBjb25zb2xlLmxvZyhgICAke2kgKyAxfS4gJHtzLnJtX25hbWV9ICgke3MuaWR9KWApKTsKCmZvciAoY29uc3Qgc2Vzc2lvbiBvZiBzZXNzaW9ucykgewogIGNvbnNvbGUubG9nKGBcbuKUgOKUgCAke3Nlc3Npb24ucm1fbmFtZX0g4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSAYCk7CgogIC8vIEZldGNoIGNhbGwgZGF0YQogIGNvbnN0IGNhbGxzID0gYXdhaXQgc3FsYAogICAgU0VMRUNUIGMuaWQsIHIuY3VzdG9tZXJfbmFtZSwgci5waG9uZSwgci5kdXJhdGlvbiwgYy5kdXJhdGlvbl9zZWMsCiAgICAgICAgICAgci5vdXRjb21lLCByLnN1bW1hcnksIHIuY2FsbF9xdWFsaXR5LCByLmFnZW50X3BlcmZvcm1hbmNlCiAgICBGUk9NIGNhbGxzIGMKICAgIExFRlQgSk9JTiByZXBvcnRzIHIgT04gci5jYWxsX2lkID0gYy5pZAogICAgV0hFUkUgYy5zZXNzaW9uX2lkID0gJHtzZXNzaW9uLmlkfQogICAgT1JERVIgQlkgYy5jcmVhdGVkX2F0IEFTQwogIGA7CgogIGNvbnN0IGNhbGxEYXRhID0gY2FsbHMubWFwKChjLCBpKSA9PiAoewogICAgY2FsbF9udW1iZXI6ICAgICAgIGkgKyAxLAogICAgY3VzdG9tZXJfbmFtZTogICAgIGMuY3VzdG9tZXJfbmFtZSA/PyBudWxsLAogICAgcGhvbmU6ICAgICAgICAgICAgIGMucGhvbmUgPz8gbnVsbCwKICAgIGR1cmF0aW9uOiAgICAgICAgICBjLmR1cmF0aW9uID8/IG51bGwsCiAgICBvdXRjb21lOiAgICAgICAgICAgYy5vdXRjb21lID8/IG51bGwsCiAgICBzdW1tYXJ5OiAgICAgICAgICAgYy5zdW1tYXJ5ID8/IG51bGwsCiAgICBjYWxsX3F1YWxpdHk6ICAgICAgYy5jYWxsX3F1YWxpdHkgPz8gbnVsbCwKICAgIGFnZW50X3BlcmZvcm1hbmNlOiBjLmFnZW50X3BlcmZvcm1hbmNlID8/IG51bGwsCiAgfSkpOwoKICBjb25zb2xlLmxvZyhgICAke2NhbGxEYXRhLmxlbmd0aH0gY2FsbHMgbG9hZGVkYCk7CgogIGNvbnN0IHByb21wdCA9IGBJZGVudGlmeSAz4oCTNSBhcmVhcyBmb3IgaW1wcm92ZW1lbnQgZm9yIFJNICR7c2Vzc2lvbi5ybV9uYW1lfSBvbiAke3Nlc3Npb24uc2Vzc2lvbl9kYXRlfS4gUmV0dXJuIE9OTFkgYSByYXcgSlNPTiBhcnJheSAobm8gbWFya2Rvd24gZmVuY2VzLCBubyB0cmFpbGluZyBjb21tYXMpOgpbeyJwb2ludCI6IjxpbXByb3ZlbWVudD4iLCJjYWxsX3JlZnMiOlt7ImNhbGxfbnVtYmVyIjoxLCJjdXN0b21lcl9uYW1lIjoiTmFtZSBvciBudWxsIiwicGhvbmUiOiJwaG9uZSBvciBudWxsIn1dfV0KVXNlIG51bGwgZm9yIG1pc3NpbmcgY3VzdG9tZXJfbmFtZSBvciBwaG9uZS4gQ0FMTCBEQVRBICgke2NhbGxEYXRhLmxlbmd0aH0gY2FsbHMpOiAke0pTT04uc3RyaW5naWZ5KGNhbGxEYXRhKX1gOwoKICBsZXQgbmV3SW1wcm92ZW1lbnRzID0gbnVsbDsKICBmb3IgKGxldCBhdHRlbXB0ID0gMTsgYXR0ZW1wdCA8PSAzOyBhdHRlbXB0KyspIHsKICAgIGxldCBtZXNzYWdlOwogICAgdHJ5IHsKICAgICAgbWVzc2FnZSA9IGF3YWl0IGNsYXVkZS5tZXNzYWdlcy5jcmVhdGUoewogICAgICAgIG1vZGVsOiAgICAgICdjbGF1ZGUtc29ubmV0LTQtNicsCiAgICAgICAgbWF4X3Rva2VuczogMTAyNCwKICAgICAgICBtZXNzYWdlczogICBbeyByb2xlOiAndXNlcicsIGNvbnRlbnQ6IHByb21wdCB9XSwKICAgICAgfSk7CiAgICB9IGNhdGNoIChlcnIpIHsKICAgICAgY29uc29sZS5lcnJvcihgICDinJcgQ2xhdWRlIEFQSSBlcnJvciAoYXR0ZW1wdCAke2F0dGVtcHR9KTogJHtlcnIubWVzc2FnZX1gKTsKICAgICAgYnJlYWs7CiAgICB9CgogICAgY29uc3QgcmF3VGV4dCA9IG1lc3NhZ2UuY29udGVudFswXS50eXBlID09PSAndGV4dCcgPyBtZXNzYWdlLmNvbnRlbnRbMF0udGV4dCA6ICcnOwogICAgdHJ5IHsKICAgICAgbmV3SW1wcm92ZW1lbnRzID0gc2FmZVBhcnNlQXJyYXkocmF3VGV4dCk7CiAgICAgIGJyZWFrOwogICAgfSBjYXRjaCAoZXJyKSB7CiAgICAgIGNvbnNvbGUuZXJyb3IoYCAg4pyXIEpTT04gcGFyc2UgZmFpbGVkIChhdHRlbXB0ICR7YXR0ZW1wdH0pOiAke2Vyci5tZXNzYWdlfWApOwogICAgICBpZiAoYXR0ZW1wdCA9PT0gMykgY29uc29sZS5lcnJvcihgICBSYXc6ICR7cmF3VGV4dC5zbGljZSgwLCAyMDApfWApOwogICAgfQogIH0KCiAgaWYgKCFuZXdJbXByb3ZlbWVudHMpIHsgY29uc29sZS5lcnJvcihgICBTa2lwcGluZyAke3Nlc3Npb24ucm1fbmFtZX0gYWZ0ZXIgMyBmYWlsZWQgYXR0ZW1wdHNgKTsgY29udGludWU7IH0KCiAgY29uc29sZS5sb2coYCAgQ2xhdWRlIHJldHVybmVkICR7bmV3SW1wcm92ZW1lbnRzLmxlbmd0aH0gaW1wcm92ZW1lbnRzOmApOwogIG5ld0ltcHJvdmVtZW50cy5mb3JFYWNoKChpbXAsIGkpID0+IHsKICAgIGNvbnN0IHJlZnMgPSBpbXAuY2FsbF9yZWZzLm1hcChyID0+IGAjJHtyLmNhbGxfbnVtYmVyfSAke3IuY3VzdG9tZXJfbmFtZSA/PyByLnBob25lID8/ICcnfWApLmpvaW4oJywgJyk7CiAgICBjb25zb2xlLmxvZyhgICAgICR7aSArIDF9LiAke2ltcC5wb2ludC5zbGljZSgwLCA3MCl9YCk7CiAgICBjb25zb2xlLmxvZyhgICAgICAgIHJlZnM6ICR7cmVmc31gKTsKICB9KTsKCiAgLy8gUGF0Y2ggaW50byBleGlzdGluZyBybV9yZXBvcnQKICBjb25zdCByZXBvcnQgPSBzZXNzaW9uLnJtX3JlcG9ydDsKICByZXBvcnQuaW1wcm92ZW1lbnRzID0gbmV3SW1wcm92ZW1lbnRzOwoKICBhd2FpdCBzcWxgVVBEQVRFIGJ1bGtfc2Vzc2lvbnMgU0VUIHJtX3JlcG9ydCA9ICR7SlNPTi5zdHJpbmdpZnkocmVwb3J0KX0gV0hFUkUgaWQgPSAke3Nlc3Npb24uaWR9YDsKCiAgY29uc29sZS5sb2coYCAgVXBkYXRlZCBEQiBmb3IgJHtzZXNzaW9uLnJtX25hbWV9YCk7Cn0KCmNvbnNvbGUubG9nKCdcbkRvbmUuIE9wZW4gQ2FsbCBIaXN0b3J5ID4gVmlldyBSTSBSZXBvcnQgdG8gcmV2aWV3IHRoZSBjaGFuZ2VzLicpOwo="}
+/**
+ * Re-generates the "improvements" field for all May 4 2026 bulk sessions
+ * using the new structured format { point, call_refs }.
+ * Updates only the rm_report JSON in the DB — no new docx/xlsx generated.
+ * Run: node scripts/regen-improvements-may4.mjs
+ */
+import { neon } from '@neondatabase/serverless';
+import Anthropic from '@anthropic-ai/sdk';
+import { readFileSync } from 'fs';
+import { resolve, dirname } from 'path';
+import { fileURLToPath } from 'url';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+
+// Load .env.local
+const envPath = resolve(__dirname, '../.env.local');
+const envText = readFileSync(envPath, 'utf8');
+for (const line of envText.split('\n')) {
+  const trimmed = line.trim();
+  if (!trimmed || trimmed.startsWith('#')) continue;
+  const eqIdx = trimmed.indexOf('=');
+  if (eqIdx === -1) continue;
+  const k = trimmed.slice(0, eqIdx).trim();
+  let v = trimmed.slice(eqIdx + 1).trim();
+  v = v.replace(/^"/, '').replace(/"$/, '');
+  v = v.replace(/\\n/g, '');
+  process.env[k] = v;
+}
+
+const sql    = neon(process.env.DATABASE_URL);
+const claude = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+
+function escapeNewlinesInStrings(text) {
+  // Replaces literal newlines inside JSON string values with \n escape sequences
+  let inString = false;
+  let escaped  = false;
+  let result   = '';
+  for (let i = 0; i < text.length; i++) {
+    const ch = text[i];
+    if (escaped) { result += ch; escaped = false; continue; }
+    if (ch === '\\') { result += ch; escaped = true; continue; }
+    if (ch === '"') { inString = !inString; result += ch; continue; }
+    if (inString && (ch === '\n' || ch === '\r')) { result += '\\n'; continue; }
+    result += ch;
+  }
+  return result;
+}
+
+function safeParseArray(text) {
+  // Strip markdown fences
+  let s = text.replace(/^```(?:json)?\n?/i, '').replace(/\n?```$/i, '').trim();
+  // Escape literal newlines inside strings, then strip trailing commas
+  s = escapeNewlinesInStrings(s);
+  s = s.replace(/,(\s*[}\]])/g, '$1');
+  try {
+    return JSON.parse(s);
+  } catch {
+    // Extract between first [ and last ]
+    const start = s.indexOf('[');
+    const end   = s.lastIndexOf(']');
+    if (start !== -1 && end !== -1) {
+      return JSON.parse(s.slice(start, end + 1));
+    }
+    throw new Error('Could not extract JSON array from response');
+  }
+}
+
+// Fetch May 4 sessions
+const sessions = await sql`
+  SELECT id, rm_name, session_date, rm_report, status
+  FROM bulk_sessions
+  WHERE session_date = '2026-05-04'
+    AND status = 'ready'
+    AND rm_report IS NOT NULL
+  ORDER BY created_at ASC
+`;
+
+if (sessions.length === 0) {
+  console.log('No ready sessions found for 2026-05-04');
+  process.exit(0);
+}
+
+console.log(`Found ${sessions.length} session(s) for May 4 2026:`);
+sessions.forEach((s, i) => console.log(`  ${i + 1}. ${s.rm_name} (${s.id})`));
+
+for (const session of sessions) {
+  console.log(`\n── ${session.rm_name} ───────────────────────`);
+
+  // Fetch call data
+  const calls = await sql`
+    SELECT c.id, r.customer_name, r.phone, r.duration, c.duration_sec,
+           r.outcome, r.summary, r.call_quality, r.agent_performance
+    FROM calls c
+    LEFT JOIN reports r ON r.call_id = c.id
+    WHERE c.session_id = ${session.id}
+    ORDER BY c.created_at ASC
+  `;
+
+  const callData = calls.map((c, i) => ({
+    call_number:       i + 1,
+    customer_name:     c.customer_name ?? null,
+    phone:             c.phone ?? null,
+    duration:          c.duration ?? null,
+    outcome:           c.outcome ?? null,
+    summary:           c.summary ?? null,
+    call_quality:      c.call_quality ?? null,
+    agent_performance: c.agent_performance ?? null,
+  }));
+
+  console.log(`  ${callData.length} calls loaded`);
+
+  const prompt = `Identify 3–5 areas for improvement for RM ${session.rm_name} on ${session.session_date}. Return ONLY a raw JSON array (no markdown fences, no trailing commas):
+[{"point":"<improvement>","call_refs":[{"call_number":1,"customer_name":"Name or null","phone":"phone or null"}]}]
+Use null for missing customer_name or phone. CALL DATA (${callData.length} calls): ${JSON.stringify(callData)}`;
+
+  let newImprovements = null;
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    let message;
+    try {
+      message = await claude.messages.create({
+        model:      'claude-sonnet-4-6',
+        max_tokens: 1024,
+        messages:   [{ role: 'user', content: prompt }],
+      });
+    } catch (err) {
+      console.error(`  ✗ Claude API error (attempt ${attempt}): ${err.message}`);
+      break;
+    }
+
+    const rawText = message.content[0].type === 'text' ? message.content[0].text : '';
+    try {
+      newImprovements = safeParseArray(rawText);
+      break;
+    } catch (err) {
+      console.error(`  ✗ JSON parse failed (attempt ${attempt}): ${err.message}`);
+      if (attempt === 3) console.error(`  Raw: ${rawText.slice(0, 200)}`);
+    }
+  }
+
+  if (!newImprovements) { console.error(`  Skipping ${session.rm_name} after 3 failed attempts`); continue; }
+
+  console.log(`  Claude returned ${newImprovements.length} improvements:`);
+  newImprovements.forEach((imp, i) => {
+    const refs = imp.call_refs.map(r => `#${r.call_number} ${r.customer_name ?? r.phone ?? ''}`).join(', ');
+    console.log(`    ${i + 1}. ${imp.point.slice(0, 70)}`);
+    console.log(`       refs: ${refs}`);
+  });
+
+  // Patch into existing rm_report
+  const report = session.rm_report;
+  report.improvements = newImprovements;
+
+  await sql`UPDATE bulk_sessions SET rm_report = ${JSON.stringify(report)} WHERE id = ${session.id}`;
+
+  console.log(`  Updated DB for ${session.rm_name}`);
+}
+
+console.log('\nDone. Open Call History > View RM Report to review the changes.');

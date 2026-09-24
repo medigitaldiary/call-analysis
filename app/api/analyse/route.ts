@@ -1,1 +1,48 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgZ2V0RGIgfSBmcm9tICdAL2xpYi9kYic7CmltcG9ydCB7IGFuYWx5c2VUcmFuc2NyaXB0IH0gZnJvbSAnQC9saWIvYW5hbHlzZSc7CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gUE9TVChyZXE6IE5leHRSZXF1ZXN0KSB7CiAgY29uc3QgeyBjYWxsSWQgfSA9IGF3YWl0IHJlcS5qc29uKCk7CiAgY29uc3Qgc3FsID0gZ2V0RGIoKTsKCiAgdHJ5IHsKICAgIGNvbnN0IFtyZXBvcnRdID0gYXdhaXQgc3FsYFNFTEVDVCB0cmFuc2NyaXB0IEZST00gcmVwb3J0cyBXSEVSRSBjYWxsX2lkID0gJHtjYWxsSWR9YDsKICAgIGlmICghcmVwb3J0Py50cmFuc2NyaXB0KSB0aHJvdyBuZXcgRXJyb3IoJ1RyYW5zY3JpcHQgbm90IGZvdW5kJyk7CgogICAgYXdhaXQgc3FsYFVQREFURSBjYWxscyBTRVQgc3RhdHVzID0gJ2FuYWx5c2luZycgV0hFUkUgaWQgPSAke2NhbGxJZH1gOwoKICAgIGNvbnN0IHIgPSBhd2FpdCBhbmFseXNlVHJhbnNjcmlwdChyZXBvcnQudHJhbnNjcmlwdCk7CgogICAgYXdhaXQgc3FsYAogICAgICBVUERBVEUgcmVwb3J0cyBTRVQKICAgICAgICBkYXRlX2V4dHJhY3RlZCAgICA9ICR7ci5kYXRlX2V4dHJhY3RlZCA/PyBudWxsfSwKICAgICAgICB0aW1lX2V4dHJhY3RlZCAgICA9ICR7ci50aW1lX2V4dHJhY3RlZCA/PyBudWxsfSwKICAgICAgICBkdXJhdGlvbiAgICAgICAgICA9ICR7ci5kdXJhdGlvbiA/PyBudWxsfSwKICAgICAgICBwaG9uZSAgICAgICAgICAgICA9ICR7ci5waG9uZSA/PyBudWxsfSwKICAgICAgICBjdXN0b21lcl9uYW1lICAgICA9ICR7ci5jdXN0b21lcl9uYW1lID8/IG51bGx9LAogICAgICAgIG91dGNvbWUgICAgICAgICAgID0gJHtyLm91dGNvbWUgPz8gbnVsbH0sCiAgICAgICAgY2FsbF9xdWFsaXR5ICAgICAgPSAke3IuY2FsbF9xdWFsaXR5ID8/IG51bGx9LAogICAgICAgIGFnZW50X3BlcmZvcm1hbmNlID0gJHtyLmFnZW50X3BlcmZvcm1hbmNlID8/IG51bGx9LAogICAgICAgIHN1bW1hcnkgICAgICAgICAgID0gJHtyLnN1bW1hcnkgPz8gbnVsbH0sCiAgICAgICAgc2VudGltZW50ICAgICAgICAgPSAke0pTT04uc3RyaW5naWZ5KHIuc2VudGltZW50ID8/IG51bGwpfSwKICAgICAgICBzcGVha2VyX2JyZWFrZG93biA9ICR7SlNPTi5zdHJpbmdpZnkoci5zcGVha2VyX2JyZWFrZG93biA/PyBudWxsKX0sCiAgICAgICAga2V5d29yZHMgICAgICAgICAgPSAke0pTT04uc3RyaW5naWZ5KHIua2V5d29yZHMgPz8gW10pfSwKICAgICAgICB0b3BpY3MgICAgICAgICAgICA9ICR7SlNPTi5zdHJpbmdpZnkoci50b3BpY3MgPz8gW10pfSwKICAgICAgICBjb21wbGlhbmNlICAgICAgICA9ICR7ci5jb21wbGlhbmNlID8/IG51bGx9LAogICAgICAgIGFjdGlvbl9pdGVtcyAgICAgID0gJHtKU09OLnN0cmluZ2lmeShyLmFjdGlvbl9pdGVtcyA/PyBbXSl9LAogICAgICAgIGlucHV0X3Rva2VucyAgICAgID0gJHtyLmlucHV0X3Rva2VucyA/PyAwfSwKICAgICAgICBvdXRwdXRfdG9rZW5zICAgICA9ICR7ci5vdXRwdXRfdG9rZW5zID8/IDB9LAogICAgICAgIGNsYXVkZV9sYXRlbmN5X21zID0gJHtyLmNsYXVkZV9sYXRlbmN5X21zID8/IG51bGx9CiAgICAgIFdIRVJFIGNhbGxfaWQgPSAke2NhbGxJZH0KICAgIGA7CgogICAgYXdhaXQgc3FsYFVQREFURSBjYWxscyBTRVQgc3RhdHVzID0gJ2dlbmVyYXRpbmcnIFdIRVJFIGlkID0gJHtjYWxsSWR9YDsKCiAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyByZXBvcnQ6IHIgfSk7CiAgfSBjYXRjaCAoZXJyOiB1bmtub3duKSB7CiAgICBjb25zdCBtZXNzYWdlID0gZXJyIGluc3RhbmNlb2YgRXJyb3IgPyBlcnIubWVzc2FnZSA6ICdBbmFseXNpcyBmYWlsZWQnOwogICAgYXdhaXQgc3FsYFVQREFURSBjYWxscyBTRVQgc3RhdHVzID0gJ2Vycm9yJywgZXJyb3JfbXNnID0gJHttZXNzYWdlfSBXSEVSRSBpZCA9ICR7Y2FsbElkfWA7CiAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBlcnJvcjogbWVzc2FnZSB9LCB7IHN0YXR1czogNTAwIH0pOwogIH0KfQo="}
+import { NextRequest, NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+import { analyseTranscript } from '@/lib/analyse';
+
+export async function POST(req: NextRequest) {
+  const { callId } = await req.json();
+  const sql = getDb();
+
+  try {
+    const [report] = await sql`SELECT transcript FROM reports WHERE call_id = ${callId}`;
+    if (!report?.transcript) throw new Error('Transcript not found');
+
+    await sql`UPDATE calls SET status = 'analysing' WHERE id = ${callId}`;
+
+    const r = await analyseTranscript(report.transcript);
+
+    await sql`
+      UPDATE reports SET
+        date_extracted    = ${r.date_extracted ?? null},
+        time_extracted    = ${r.time_extracted ?? null},
+        duration          = ${r.duration ?? null},
+        phone             = ${r.phone ?? null},
+        customer_name     = ${r.customer_name ?? null},
+        outcome           = ${r.outcome ?? null},
+        call_quality      = ${r.call_quality ?? null},
+        agent_performance = ${r.agent_performance ?? null},
+        summary           = ${r.summary ?? null},
+        sentiment         = ${JSON.stringify(r.sentiment ?? null)},
+        speaker_breakdown = ${JSON.stringify(r.speaker_breakdown ?? null)},
+        keywords          = ${JSON.stringify(r.keywords ?? [])},
+        topics            = ${JSON.stringify(r.topics ?? [])},
+        compliance        = ${r.compliance ?? null},
+        action_items      = ${JSON.stringify(r.action_items ?? [])},
+        input_tokens      = ${r.input_tokens ?? 0},
+        output_tokens     = ${r.output_tokens ?? 0},
+        claude_latency_ms = ${r.claude_latency_ms ?? null}
+      WHERE call_id = ${callId}
+    `;
+
+    await sql`UPDATE calls SET status = 'generating' WHERE id = ${callId}`;
+
+    return NextResponse.json({ report: r });
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : 'Analysis failed';
+    await sql`UPDATE calls SET status = 'error', error_msg = ${message} WHERE id = ${callId}`;
+    return NextResponse.json({ error: message }, { status: 500 });
+  }
+}

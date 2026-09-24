@@ -1,1 +1,19 @@
-{"data":"J3VzZSBjbGllbnQnOwoKaW1wb3J0IHsgU3VzcGVuc2UgfSBmcm9tICdyZWFjdCc7CmltcG9ydCB7IHVzZVNlYXJjaFBhcmFtcyB9IGZyb20gJ25leHQvbmF2aWdhdGlvbic7CmltcG9ydCBDYWxsTWV0YUZvcm0gZnJvbSAnQC9jb21wb25lbnRzL2NhbGxzL0NhbGxNZXRhRm9ybSc7CgpmdW5jdGlvbiBTaW5nbGVDb250ZW50KCkgewogIGNvbnN0IHNlYXJjaFBhcmFtcyA9IHVzZVNlYXJjaFBhcmFtcygpOwogIGNvbnN0IHJlcEVtYWlsID0gc2VhcmNoUGFyYW1zLmdldCgncmVwJykgPz8gdW5kZWZpbmVkOwogIHJldHVybiA8Q2FsbE1ldGFGb3JtIHJlcEVtYWlsPXtyZXBFbWFpbH0gLz47Cn0KCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFNpbmdsZVBhZ2UoKSB7CiAgcmV0dXJuICgKICAgIDxTdXNwZW5zZSBmYWxsYmFjaz17PGRpdiBzdHlsZT17eyBiYWNrZ3JvdW5kOiAnIzBjMTAyMScsIG1pbkhlaWdodDogJzEwMHZoJyB9fSAvPn0+CiAgICAgIDxTaW5nbGVDb250ZW50IC8+CiAgICA8L1N1c3BlbnNlPgogICk7Cn0K"}
+'use client';
+
+import { Suspense } from 'react';
+import { useSearchParams } from 'next/navigation';
+import CallMetaForm from '@/components/calls/CallMetaForm';
+
+function SingleContent() {
+  const searchParams = useSearchParams();
+  const repEmail = searchParams.get('rep') ?? undefined;
+  return <CallMetaForm repEmail={repEmail} />;
+}
+
+export default function SinglePage() {
+  return (
+    <Suspense fallback={<div style={{ background: '#0c1021', minHeight: '100vh' }} />}>
+      <SingleContent />
+    </Suspense>
+  );
+}

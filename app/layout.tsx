@@ -1,1 +1,21 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgIi4vZ2xvYmFscy5jc3MiOwoKZXhwb3J0IGNvbnN0IG1ldGFkYXRhOiBNZXRhZGF0YSA9IHsKICB0aXRsZTogIlNpZ251cCBDYWxsIEZsb3cg4oCUIEJvbmRTY2FubmVyIFJhZGFyIiwKICBkZXNjcmlwdGlvbjogIkF1dG9tYXRlZCBzaWdudXAgY2FsbCBwcm9jZXNzaW5nIGZvciBCb25kU2Nhbm5lciIsCn07CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBSb290TGF5b3V0KHsKICBjaGlsZHJlbiwKfTogewogIGNoaWxkcmVuOiBSZWFjdC5SZWFjdE5vZGU7Cn0pIHsKICByZXR1cm4gKAogICAgPGh0bWwgbGFuZz0iZW4iPgogICAgICA8Ym9keSBzdHlsZT17eyBtYXJnaW46IDAsIHBhZGRpbmc6IDAsIGJhY2tncm91bmQ6ICcjMGMxMDIxJywgY29sb3I6ICcjZjFmNWY5JyB9fT4KICAgICAgICB7Y2hpbGRyZW59CiAgICAgIDwvYm9keT4KICAgIDwvaHRtbD4KICApOwp9Cg=="}
+import type { Metadata } from "next";
+import "./globals.css";
+
+export const metadata: Metadata = {
+  title: "Signup Call Flow — BondScanner Radar",
+  description: "Automated signup call processing for BondScanner",
+};
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="en">
+      <body style={{ margin: 0, padding: 0, background: '#0c1021', color: '#f1f5f9' }}>
+        {children}
+      </body>
+    </html>
+  );
+}

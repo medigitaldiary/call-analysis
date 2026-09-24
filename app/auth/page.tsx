@@ -1,1 +1,68 @@
-{"data":"J3VzZSBjbGllbnQnOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQXV0aFBhZ2UoKSB7CiAgcmV0dXJuICgKICAgIDxkaXYKICAgICAgc3R5bGU9e3sKICAgICAgICBtaW5IZWlnaHQ6ICcxMDB2aCcsCiAgICAgICAgYmFja2dyb3VuZDogJyMwYzEwMjEnLAogICAgICAgIGRpc3BsYXk6ICdmbGV4JywKICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgICAgIH19CiAgICA+CiAgICAgIDxkaXYKICAgICAgICBzdHlsZT17ewogICAgICAgICAgYmFja2dyb3VuZDogJyMxMzFkMzUnLAogICAgICAgICAgYm9yZGVyOiAnMXB4IHNvbGlkICMxZTMwNTgnLAogICAgICAgICAgYm9yZGVyUmFkaXVzOiAxNCwKICAgICAgICAgIHBhZGRpbmc6ICc0MHB4IDQ4cHgnLAogICAgICAgICAgd2lkdGg6IDM2MCwKICAgICAgICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICAgICAgfX0KICAgICAgPgogICAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogJ2ZsZXgnLCBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsIG1hcmdpbkJvdHRvbTogMjAgfX0+CiAgICAgICAgICA8c3ZnIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDI4IDI4IiBmaWxsPSJub25lIj4KICAgICAgICAgICAgPGNpcmNsZSBjeD0iMTQiIGN5PSIxNCIgcj0iMTMiIHN0cm9rZT0iIzNiODJmNiIgc3Ryb2tlV2lkdGg9IjEuNSIgc3Ryb2tlT3BhY2l0eT0iMC40IiAvPgogICAgICAgICAgICA8Y2lyY2xlIGN4PSIxNCIgY3k9IjE0IiByPSI5IiBzdHJva2U9IiMzYjgyZjYiIHN0cm9rZVdpZHRoPSIxLjUiIHN0cm9rZU9wYWNpdHk9IjAuNiIgLz4KICAgICAgICAgICAgPGNpcmNsZSBjeD0iMTQiIGN5PSIxNCIgcj0iNSIgc3Ryb2tlPSIjM2I4MmY2IiBzdHJva2VXaWR0aD0iMS41IiBzdHJva2VPcGFjaXR5PSIwLjgiIC8+CiAgICAgICAgICAgIDxjaXJjbGUgY3g9IjE0IiBjeT0iMTQiIHI9IjIiIGZpbGw9IiMzYjgyZjYiIC8+CiAgICAgICAgICAgIDxsaW5lIHgxPSIxNCIgeTE9IjEiIHgyPSIxNCIgeTI9IjI3IiBzdHJva2U9IiMzYjgyZjYiIHN0cm9rZVdpZHRoPSIxIiBzdHJva2VPcGFjaXR5PSIwLjMiIC8+CiAgICAgICAgICAgIDxsaW5lIHgxPSIxIiB5MT0iMTQiIHgyPSIyNyIgeTI9IjE0IiBzdHJva2U9IiMzYjgyZjYiIHN0cm9rZVdpZHRoPSIxIiBzdHJva2VPcGFjaXR5PSIwLjMiIC8+CiAgICAgICAgICA8L3N2Zz4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGgxIHN0eWxlPXt7IG1hcmdpbjogJzAgMCA2cHgnLCBmb250U2l6ZTogMjIsIGZvbnRXZWlnaHQ6IDcwMCwgY29sb3I6ICcjZjFmNWY5JyB9fT4KICAgICAgICAgIEJvbmRTY2FubmVyIFJhZGFyCiAgICAgICAgPC9oMT4KICAgICAgICA8cCBzdHlsZT17eyBtYXJnaW46ICcwIDAgMjhweCcsIGZvbnRTaXplOiAxNCwgY29sb3I6ICcjN2U5NWI4JyB9fT4KICAgICAgICAgIFNpZ24gaW4gdG8gYWNjZXNzIENhbGwgQW5hbHlzaXMKICAgICAgICA8L3A+CgogICAgICAgIDxhCiAgICAgICAgICBocmVmPSIvY2FsbHMiCiAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICBkaXNwbGF5OiAnYmxvY2snLAogICAgICAgICAgICB3aWR0aDogJzEwMCUnLAogICAgICAgICAgICBwYWRkaW5nOiAnMTJweCcsCiAgICAgICAgICAgIGJhY2tncm91bmQ6ICcjM2I4MmY2JywKICAgICAgICAgICAgY29sb3I6ICcjZmZmJywKICAgICAgICAgICAgYm9yZGVyOiAnbm9uZScsCiAgICAgICAgICAgIGJvcmRlclJhZGl1czogOCwKICAgICAgICAgICAgZm9udFNpemU6IDE0LAogICAgICAgICAgICBmb250V2VpZ2h0OiA2MDAsCiAgICAgICAgICAgIHRleHREZWNvcmF0aW9uOiAnbm9uZScsCiAgICAgICAgICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICAgICAgICAgIGJveFNpemluZzogJ2JvcmRlci1ib3gnLAogICAgICAgICAgfX0KICAgICAgICA+CiAgICAgICAgICBDb250aW51ZSB0byBSYWRhcgogICAgICAgIDwvYT4KCiAgICAgICAgPHAgc3R5bGU9e3sgbWFyZ2luVG9wOiAyMCwgZm9udFNpemU6IDEyLCBjb2xvcjogJyM0YTYwODAnIH19PgogICAgICAgICAgT25seSBAYm9uZHNjYW5uZXIuaW4gYWNjb3VudHMgYXJlIHBlcm1pdHRlZC4KICAgICAgICA8L3A+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQo="}
+'use client';
+
+export default function AuthPage() {
+  return (
+    <div
+      style={{
+        minHeight: '100vh',
+        background: '#0c1021',
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+      }}
+    >
+      <div
+        style={{
+          background: '#131d35',
+          border: '1px solid #1e3058',
+          borderRadius: 14,
+          padding: '40px 48px',
+          width: 360,
+          textAlign: 'center',
+        }}
+      >
+        <div style={{ display: 'flex', justifyContent: 'center', marginBottom: 20 }}>
+          <svg width="44" height="44" viewBox="0 0 28 28" fill="none">
+            <circle cx="14" cy="14" r="13" stroke="#3b82f6" strokeWidth="1.5" strokeOpacity="0.4" />
+            <circle cx="14" cy="14" r="9" stroke="#3b82f6" strokeWidth="1.5" strokeOpacity="0.6" />
+            <circle cx="14" cy="14" r="5" stroke="#3b82f6" strokeWidth="1.5" strokeOpacity="0.8" />
+            <circle cx="14" cy="14" r="2" fill="#3b82f6" />
+            <line x1="14" y1="1" x2="14" y2="27" stroke="#3b82f6" strokeWidth="1" strokeOpacity="0.3" />
+            <line x1="1" y1="14" x2="27" y2="14" stroke="#3b82f6" strokeWidth="1" strokeOpacity="0.3" />
+          </svg>
+        </div>
+
+        <h1 style={{ margin: '0 0 6px', fontSize: 22, fontWeight: 700, color: '#f1f5f9' }}>
+          BondScanner Radar
+        </h1>
+        <p style={{ margin: '0 0 28px', fontSize: 14, color: '#7e95b8' }}>
+          Sign in to access Call Analysis
+        </p>
+
+        <a
+          href="/calls"
+          style={{
+            display: 'block',
+            width: '100%',
+            padding: '12px',
+            background: '#3b82f6',
+            color: '#fff',
+            border: 'none',
+            borderRadius: 8,
+            fontSize: 14,
+            fontWeight: 600,
+            textDecoration: 'none',
+            textAlign: 'center',
+            boxSizing: 'border-box',
+          }}
+        >
+          Continue to Radar
+        </a>
+
+        <p style={{ marginTop: 20, fontSize: 12, color: '#4a6080' }}>
+          Only @bondscanner.in accounts are permitted.
+        </p>
+      </div>
+    </div>
+  );
+}

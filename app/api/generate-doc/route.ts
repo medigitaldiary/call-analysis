@@ -1,1 +1,29 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgZ2V0RGIgfSBmcm9tICdAL2xpYi9kYic7CmltcG9ydCB7IGdlbmVyYXRlRG9jeCB9IGZyb20gJ0AvbGliL2RvY3gnOwppbXBvcnQgeyBwdXQgfSBmcm9tICdAdmVyY2VsL2Jsb2InOwppbXBvcnQgdHlwZSB7IENhbGwsIFJlcG9ydCB9IGZyb20gJ0AvdHlwZXMnOwoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIFBPU1QocmVxOiBOZXh0UmVxdWVzdCkgewogIGNvbnN0IHsgY2FsbElkIH0gPSBhd2FpdCByZXEuanNvbigpOwogIGNvbnN0IHNxbCA9IGdldERiKCk7CgogIHRyeSB7CiAgICBjb25zdCBbY2FsbF0gPSBhd2FpdCBzcWxgU0VMRUNUICogRlJPTSBjYWxscyBXSEVSRSBpZCA9ICR7Y2FsbElkfWA7CiAgICBjb25zdCBbcmVwb3J0XSA9IGF3YWl0IHNxbGBTRUxFQ1QgKiBGUk9NIHJlcG9ydHMgV0hFUkUgY2FsbF9pZCA9ICR7Y2FsbElkfWA7CiAgICBpZiAoIWNhbGwgfHwgIXJlcG9ydCkgdGhyb3cgbmV3IEVycm9yKCdDYWxsIG9yIHJlcG9ydCBub3QgZm91bmQnKTsKCiAgICBjb25zdCBidWZmZXIgPSBhd2FpdCBnZW5lcmF0ZURvY3goY2FsbCBhcyB1bmtub3duIGFzIENhbGwsIHJlcG9ydCBhcyB1bmtub3duIGFzIFJlcG9ydCk7CiAgICBjb25zdCBibG9iID0gYXdhaXQgcHV0KGByZXBvcnRzLyR7Y2FsbElkfS9yZXBvcnQuZG9jeGAsIGJ1ZmZlciwgewogICAgICBhY2Nlc3M6ICdwcml2YXRlJywKICAgICAgY29udGVudFR5cGU6ICdhcHBsaWNhdGlvbi92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQud29yZHByb2Nlc3NpbmdtbC5kb2N1bWVudCcsCiAgICB9KTsKCiAgICBhd2FpdCBzcWxgVVBEQVRFIHJlcG9ydHMgU0VUIGRvY191cmwgPSAke2Jsb2IudXJsfSBXSEVSRSBjYWxsX2lkID0gJHtjYWxsSWR9YDsKCiAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBkb2NVcmw6IGJsb2IudXJsIH0pOwogIH0gY2F0Y2ggKGVycjogdW5rbm93bikgewogICAgY29uc3QgbWVzc2FnZSA9IGVyciBpbnN0YW5jZW9mIEVycm9yID8gZXJyLm1lc3NhZ2UgOiAnRG9jIGdlbmVyYXRpb24gZmFpbGVkJzsKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IGVycm9yOiBtZXNzYWdlIH0sIHsgc3RhdHVzOiA1MDAgfSk7CiAgfQp9Cg=="}
+import { NextRequest, NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+import { generateDocx } from '@/lib/docx';
+import { put } from '@vercel/blob';
+import type { Call, Report } from '@/types';
+
+export async function POST(req: NextRequest) {
+  const { callId } = await req.json();
+  const sql = getDb();
+
+  try {
+    const [call] = await sql`SELECT * FROM calls WHERE id = ${callId}`;
+    const [report] = await sql`SELECT * FROM reports WHERE call_id = ${callId}`;
+    if (!call || !report) throw new Error('Call or report not found');
+
+    const buffer = await generateDocx(call as unknown as Call, report as unknown as Report);
+    const blob = await put(`reports/${callId}/report.docx`, buffer, {
+      access: 'private',
+      contentType: 'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
+    });
+
+    await sql`UPDATE reports SET doc_url = ${blob.url} WHERE call_id = ${callId}`;
+
+    return NextResponse.json({ docUrl: blob.url });
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : 'Doc generation failed';
+    return NextResponse.json({ error: message }, { status: 500 });
+  }
+}

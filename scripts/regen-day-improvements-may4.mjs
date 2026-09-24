@@ -1,1 +1,131 @@
-{"data":"LyoqCiAqIFJlc3RvcmVzIHRoZSBvcmlnaW5hbCBNYXkgNCBkYXkgcmVwb3J0IGltcHJvdmVtZW50cyAoZnJvbSB0aGUgc2VudCBlbWFpbCkKICogYW5kIGFkZHMgY2FsbF9yZWZzIHRvIGVhY2ggZXhpc3RpbmcgcG9pbnQgd2l0aG91dCBjaGFuZ2luZyB0aGUgdGV4dC4KICogUnVuOiBub2RlIHNjcmlwdHMvcmVnZW4tZGF5LWltcHJvdmVtZW50cy1tYXk0Lm1qcwogKi8KaW1wb3J0IHsgbmVvbiB9IGZyb20gJ0BuZW9uZGF0YWJhc2Uvc2VydmVybGVzcyc7CmltcG9ydCBBbnRocm9waWMgZnJvbSAnQGFudGhyb3BpYy1haS9zZGsnOwppbXBvcnQgeyByZWFkRmlsZVN5bmMgfSBmcm9tICdmcyc7CmltcG9ydCB7IHJlc29sdmUsIGRpcm5hbWUgfSBmcm9tICdwYXRoJzsKaW1wb3J0IHsgZmlsZVVSTFRvUGF0aCB9IGZyb20gJ3VybCc7Cgpjb25zdCBfX2Rpcm5hbWUgPSBkaXJuYW1lKGZpbGVVUkxUb1BhdGgoaW1wb3J0Lm1ldGEudXJsKSk7Cgpjb25zdCBlbnZUZXh0ID0gcmVhZEZpbGVTeW5jKHJlc29sdmUoX19kaXJuYW1lLCAnLi4vLmVudi5sb2NhbCcpLCAndXRmOCcpOwpmb3IgKGNvbnN0IGxpbmUgb2YgZW52VGV4dC5zcGxpdCgnXG4nKSkgewogIGNvbnN0IHRyaW1tZWQgPSBsaW5lLnRyaW0oKTsKICBpZiAoIXRyaW1tZWQgfHwgdHJpbW1lZC5zdGFydHNXaXRoKCcjJykpIGNvbnRpbnVlOwogIGNvbnN0IGVxSWR4ID0gdHJpbW1lZC5pbmRleE9mKCc9Jyk7CiAgaWYgKGVxSWR4ID09PSAtMSkgY29udGludWU7CiAgY29uc3QgayA9IHRyaW1tZWQuc2xpY2UoMCwgZXFJZHgpLnRyaW0oKTsKICBsZXQgdiA9IHRyaW1tZWQuc2xpY2UoZXFJZHggKyAxKS50cmltKCk7CiAgdiA9IHYucmVwbGFjZSgvXiIvLCAnJykucmVwbGFjZSgvIiQvLCAnJykucmVwbGFjZSgvXFxuL2csICcnKTsKICBwcm9jZXNzLmVudltrXSA9IHY7Cn0KCmNvbnN0IHNxbCAgICA9IG5lb24ocHJvY2Vzcy5lbnYuREFUQUJBU0VfVVJMKTsKY29uc3QgY2xhdWRlID0gbmV3IEFudGhyb3BpYyh7IGFwaUtleTogcHJvY2Vzcy5lbnYuQU5USFJPUElDX0FQSV9LRVkgfSk7CgovLyBPcmlnaW5hbCBpbXByb3ZlbWVudCBwb2ludHMgZXhhY3RseSBhcyB0aGV5IGFwcGVhcmVkIGluIHRoZSBzZW50IGVtYWlsCmNvbnN0IE9SSUdJTkFMX1BPSU5UUyA9IFsKICAiSGlnaCB2b2x1bWUgb2Ygc3ViLTYwLXNlY29uZCBjYWxscyAoYXBwcm94aW1hdGVseSA3MCsgY2FsbHMpIHdpdGggbm8gb3V0Y29tZSDigJQgaW1wbGVtZW50IG1hbmRhdG9yeSBtaW5pbXVtIGVuZ2FnZW1lbnQgcHJvdG9jb2xzIGFuZCBwcmUtY2FsbCBTTVMgYWxlcnRzIHRvIGltcHJvdmUgY3VzdG9tZXIgcmVhZGluZXNzIGFuZCBjb25uZWN0aW9uIHJhdGVzIiwKICAiSW5jb25zaXN0ZW50IEtZQyBmb2xsb3ctdXAgcHJvY2VzcyBhY3Jvc3MgYWxsIHJlcHM6IG11bHRpcGxlIGN1c3RvbWVycyByZXBvcnQgdGhlIHNhbWUgdGVjaG5pY2FsIGlzc3VlcyAoQk8gSUQgc3RlcCBtaXNzaW5nLCBBYWRoYWFyIHVwbG9hZCBub3QgY2xpY2thYmxlLCBiYW5rIHZlcmlmaWNhdGlvbiBub3Qgc2hvd2luZykg4oCUIGNvbnNvbGlkYXRlIHRoZXNlIGludG8gYSBrbm93bi1pc3N1ZXMgRkFRIGFuZCBwcm92aWRlIGFnZW50cyB3aXRoIHN0YW5kYXJkaXNlZCByZXNvbHV0aW9uIHNjcmlwdHMgdG8gcmVkdWNlIHJlcGVhdCBlc2NhbGF0aW9ucyIsCiAgIkFnZW50cyBhcmUgcmVndWxhcmx5IG1ha2luZyBhYnNvbHV0ZSBzdGF0ZW1lbnRzIGFib3V0IGludGVyZXN0IHBheW91dCByZWxpYWJpbGl0eSBhbmQgcmV0dXJucyB3aXRob3V0IFNFQkktbWFuZGF0ZWQgcmlzayBkaXNjbGFpbWVycyDigJQgY29uZHVjdCBjb21wbGlhbmNlIHRyYWluaW5nIHNlc3Npb24gd2l0aGluIHRoZSB3ZWVrIGFuZCBhdWRpdCBhbGwgY2FsbHMgZm9yIHJlZ3VsYXRvcnkgYWRoZXJlbmNlIGJlZm9yZSBmdXJ0aGVyIG91dGJvdW5kIGNhbXBhaWducyBhcmUgbGF1bmNoZWQiLAogICJNdWx0aXBsZSBhY2NpZGVudGFsIHNpZ24tdXBzIGFuZCB3cm9uZy1udW1iZXIgbGVhZHMgYXJlIGNvbnN1bWluZyBzaWduaWZpY2FudCBhZ2VudCB0aW1lIChhcHByb3hpbWF0ZWx5IDEwLTEyIGNhbGxzIHBlciBkYXkpIOKAlCByZXZpZXcgdGhlIHNpZ24tdXAgZmxvdywgYWRkIGludGVudCBjb25maXJtYXRpb24gc3RlcHMsIGFuZCBjbGVhbnNlIHRoZSBDUk0gdG8gaW1wcm92ZSBsZWFkIHF1YWxpdHkgYW5kIGNvbnZlcnNpb24gcmF0aW9zIiwKICAiTm8gc3RydWN0dXJlZCBjYWxsYmFjayBzY2hlZHVsaW5nIHRvb2wgYXBwZWFycyB0byBiZSBpbiB1c2Ug4oCUIGFnZW50cyBhcmUgdmVyYmFsbHkgcHJvbWlzaW5nIGNhbGxiYWNrcyB3aXRob3V0IGxvZ2dlZCBjb21taXRtZW50cywgbGVhZGluZyB0byBtaXNzZWQgZm9sbG93LXVwcyAoY2FsbHMgIzEwLCAjNDcsICM1NywgIzg2LCAjMTE2LCAjMTI0KTsgaW1wbGVtZW50IGEgQ1JNLWludGVncmF0ZWQgY2FsbGJhY2sgc2NoZWR1bGVyIGltbWVkaWF0ZWx5IiwKXTsKCmZ1bmN0aW9uIHNhZmVQYXJzZUFycmF5KHRleHQpIHsKICBsZXQgcyA9IHRleHQucmVwbGFjZSgvXmBgYCg/Ompzb24pP1xuPy9pLCAnJykucmVwbGFjZSgvXG4/YGBgJC9pLCAnJykudHJpbSgpOwogIHMgPSBzLnJlcGxhY2UoLywoXHMqW31cXV0pL2csICckMScpOwogIHRyeSB7IHJldHVybiBKU09OLnBhcnNlKHMpOyB9IGNhdGNoIHsKICAgIGNvbnN0IHN0YXJ0ID0gcy5pbmRleE9mKCdbJyksIGVuZCA9IHMubGFzdEluZGV4T2YoJ10nKTsKICAgIGlmIChzdGFydCAhPT0gLTEgJiYgZW5kICE9PSAtMSkgcmV0dXJuIEpTT04ucGFyc2Uocy5zbGljZShzdGFydCwgZW5kICsgMSkpOwogICAgdGhyb3cgbmV3IEVycm9yKCdDb3VsZCBub3QgZXh0cmFjdCBKU09OIGFycmF5Jyk7CiAgfQp9CgovLyBGZXRjaCB0aGUgZGF5IHJlcG9ydApjb25zdCBbZGF5UmVwb3J0XSA9IGF3YWl0IHNxbGBTRUxFQ1QgaWQsIHJlcG9ydCBGUk9NIGRheV9yZXBvcnRzIFdIRVJFIHJlcG9ydF9kYXRlID0gJzIwMjYtMDUtMDQnYDsKaWYgKCFkYXlSZXBvcnQpIHsgY29uc29sZS5sb2coJ05vIGRheSByZXBvcnQgZm91bmQgZm9yIDIwMjYtMDUtMDQnKTsgcHJvY2Vzcy5leGl0KDApOyB9CgovLyBGZXRjaCBhbGwgY2FsbHMgZm9yIE1heSA0CmNvbnN0IHJvd3MgPSBhd2FpdCBzcWxgCiAgU0VMRUNUIGMucmVwX25hbWUsIHIuY3VzdG9tZXJfbmFtZSwgci5waG9uZSwgci5vdXRjb21lLCByLnN1bW1hcnksIHIuY2FsbF9xdWFsaXR5LCByLmFnZW50X3BlcmZvcm1hbmNlCiAgRlJPTSBjYWxscyBjCiAgTEVGVCBKT0lOIHJlcG9ydHMgciBPTiByLmNhbGxfaWQgPSBjLmlkCiAgTEVGVCBKT0lOIGJ1bGtfc2Vzc2lvbnMgYnMgT04gYnMuaWQgPSBjLnNlc3Npb25faWQKICBXSEVSRSBjLnN0YXR1cyBJTiAoJ3JlYWR5JywgJ3NlbnQnKQogICAgQU5EIChjLnNlc3Npb25faWQgSVMgTlVMTCBPUiBicy5hcmNoaXZlZF9hdCBJUyBOVUxMKQogICAgQU5EICgKICAgICAgKGMuc2Vzc2lvbl9pZCBJUyBOT1QgTlVMTCBBTkQgREFURShicy5zZXNzaW9uX2RhdGUpID0gJzIwMjYtMDUtMDQnOjpkYXRlKQogICAgICBPUgogICAgICAoYy5zZXNzaW9uX2lkIElTIE5VTEwgQU5EIERBVEUoYy5jcmVhdGVkX2F0IEFUIFRJTUUgWk9ORSAnQXNpYS9Lb2xrYXRhJykgPSAnMjAyNi0wNS0wNCc6OmRhdGUpCiAgICApCiAgT1JERVIgQlkgYy5jcmVhdGVkX2F0IEFTQwpgOwoKY29uc3QgY2FsbERhdGEgPSByb3dzLm1hcCgoYywgaSkgPT4gKHsKICBjYWxsX251bWJlcjogICBpICsgMSwKICBybV9uYW1lOiAgICAgICBjLnJlcF9uYW1lID8/IG51bGwsCiAgY3VzdG9tZXJfbmFtZTogYy5jdXN0b21lcl9uYW1lID8/IG51bGwsCiAgcGhvbmU6ICAgICAgICAgYy5waG9uZSA/PyBudWxsLAogIG91dGNvbWU6ICAgICAgIGMub3V0Y29tZSA/PyBudWxsLAogIHN1bW1hcnk6ICAgICAgIChjLnN1bW1hcnkgPz8gJycpLnNsaWNlKDAsIDE1MCksIC8vIHRydW5jYXRlIGZvciBwcm9tcHQgc2l6ZQp9KSk7Cgpjb25zb2xlLmxvZyhgJHtjYWxsRGF0YS5sZW5ndGh9IGNhbGxzIGxvYWRlZCBhY3Jvc3MgJHtbLi4ubmV3IFNldChjYWxsRGF0YS5tYXAoYyA9PiBjLnJtX25hbWUpLmZpbHRlcihCb29sZWFuKSldLmpvaW4oJywgJyl9YCk7CgovLyBBc2sgQ2xhdWRlIHRvIGZpbmQgd2hpY2ggY2FsbHMgZXZpZGVuY2UgZWFjaCBvcmlnaW5hbCBwb2ludCAod2l0aG91dCBjaGFuZ2luZyB0aGUgcG9pbnQgdGV4dCkKY29uc3QgcHJvbXB0ID0gYFlvdSBhcmUgZ2l2ZW4gNSBpbXByb3ZlbWVudCBwb2ludHMgYW5kIGEgbGlzdCBvZiBjYWxscy4gRm9yIGVhY2ggaW1wcm92ZW1lbnQgcG9pbnQsIGlkZW50aWZ5IDPigJM2IHNwZWNpZmljIGNhbGxzIGZyb20gdGhlIGRhdGEgdGhhdCBiZXN0IGV2aWRlbmNlIGl0LgoKUmV0dXJuIE9OTFkgYSByYXcgSlNPTiBhcnJheSAobm8gbWFya2Rvd24sIG5vIHRyYWlsaW5nIGNvbW1hcykg4oCUIG9uZSBlbnRyeSBwZXIgaW1wcm92ZW1lbnQgcG9pbnQsIGluIHRoZSBzYW1lIG9yZGVyLCBwcmVzZXJ2aW5nIHRoZSBleGFjdCAicG9pbnQiIHRleHQ6ClsKICB7CiAgICAicG9pbnQiOiAiPGV4YWN0IHRleHQgb2YgaW1wcm92ZW1lbnQgcG9pbnQ+IiwKICAgICJjYWxsX3JlZnMiOiBbeyJybV9uYW1lIjoiPFJNPiIsImNhbGxfbnVtYmVyIjoxLCJjdXN0b21lcl9uYW1lIjoiTmFtZSBvciBudWxsIiwicGhvbmUiOiJwaG9uZSBvciBudWxsIn1dCiAgfQpdCgpJTVBST1ZFTUVOVCBQT0lOVFM6CiR7T1JJR0lOQUxfUE9JTlRTLm1hcCgocCwgaSkgPT4gYCR7aSArIDF9LiAke3B9YCkuam9pbignXG4nKX0KCkNBTEwgREFUQSAoJHtjYWxsRGF0YS5sZW5ndGh9IGNhbGxzKToKJHtKU09OLnN0cmluZ2lmeShjYWxsRGF0YSl9YDsKCmxldCBuZXdJbXByb3ZlbWVudHMgPSBudWxsOwpmb3IgKGxldCBhdHRlbXB0ID0gMTsgYXR0ZW1wdCA8PSAzOyBhdHRlbXB0KyspIHsKICBsZXQgbWVzc2FnZTsKICB0cnkgewogICAgbWVzc2FnZSA9IGF3YWl0IGNsYXVkZS5tZXNzYWdlcy5jcmVhdGUoewogICAgICBtb2RlbDogICAgICAnY2xhdWRlLXNvbm5ldC00LTYnLAogICAgICBtYXhfdG9rZW5zOiAyMDQ4LAogICAgICBtZXNzYWdlczogICBbeyByb2xlOiAndXNlcicsIGNvbnRlbnQ6IHByb21wdCB9XSwKICAgIH0pOwogIH0gY2F0Y2ggKGVycikgewogICAgY29uc29sZS5lcnJvcihgQ2xhdWRlIEFQSSBlcnJvciAoYXR0ZW1wdCAke2F0dGVtcHR9KTogJHtlcnIubWVzc2FnZX1gKTsKICAgIGJyZWFrOwogIH0KICBjb25zdCByYXdUZXh0ID0gbWVzc2FnZS5jb250ZW50WzBdLnR5cGUgPT09ICd0ZXh0JyA/IG1lc3NhZ2UuY29udGVudFswXS50ZXh0IDogJyc7CiAgdHJ5IHsKICAgIG5ld0ltcHJvdmVtZW50cyA9IHNhZmVQYXJzZUFycmF5KHJhd1RleHQpOwogICAgY29uc29sZS5sb2coYFxuQ2xhdWRlIG1hdGNoZWQgY2FsbCByZWZzIGZvciAke25ld0ltcHJvdmVtZW50cy5sZW5ndGh9IHBvaW50cyAoYXR0ZW1wdCAke2F0dGVtcHR9KTpgKTsKICAgIG5ld0ltcHJvdmVtZW50cy5mb3JFYWNoKChpbXAsIGkpID0+IHsKICAgICAgY29uc3QgcmVmcyA9IGltcC5jYWxsX3JlZnMubWFwKHIgPT4gYCR7ci5ybV9uYW1lfSDCtyAke3IucGhvbmUgPz8gci5jdXN0b21lcl9uYW1lID8/IGAjJHtyLmNhbGxfbnVtYmVyfWB9YCkuam9pbignLCAnKTsKICAgICAgY29uc29sZS5sb2coYCAgJHtpICsgMX0uICR7aW1wLnBvaW50LnNsaWNlKDAsIDcwKX3igKZgKTsKICAgICAgY29uc29sZS5sb2coYCAgICAgcmVmczogJHtyZWZzfWApOwogICAgfSk7CiAgICBicmVhazsKICB9IGNhdGNoIChlcnIpIHsKICAgIGNvbnNvbGUuZXJyb3IoYEpTT04gcGFyc2UgZmFpbGVkIChhdHRlbXB0ICR7YXR0ZW1wdH0pOiAke2Vyci5tZXNzYWdlfWApOwogICAgaWYgKGF0dGVtcHQgPT09IDMpIGNvbnNvbGUuZXJyb3IoYFJhdzogJHtyYXdUZXh0LnNsaWNlKDAsIDIwMCl9YCk7CiAgfQp9CgppZiAoIW5ld0ltcHJvdmVtZW50cykgeyBjb25zb2xlLmVycm9yKCdGYWlsZWQgYWZ0ZXIgMyBhdHRlbXB0cycpOyBwcm9jZXNzLmV4aXQoMSk7IH0KCmNvbnN0IHJlcG9ydCA9IGRheVJlcG9ydC5yZXBvcnQ7CnJlcG9ydC5pbXByb3ZlbWVudHMgPSBuZXdJbXByb3ZlbWVudHM7Cgphd2FpdCBzcWxgVVBEQVRFIGRheV9yZXBvcnRzIFNFVCByZXBvcnQgPSAke0pTT04uc3RyaW5naWZ5KHJlcG9ydCl9LCB1cGRhdGVkX2F0ID0gTk9XKCkgV0hFUkUgaWQgPSAke2RheVJlcG9ydC5pZH1gOwpjb25zb2xlLmxvZygnXG5SZXN0b3JlZCBvcmlnaW5hbCBpbXByb3ZlbWVudCB0ZXh0ICsgYWRkZWQgY2FsbCByZWZzLiBPcGVuIERheSBFbmQgUmVwb3J0IOKGkiBNYXkgNCB0byByZXZpZXcuJyk7Cg=="}
+/**
+ * Restores the original May 4 day report improvements (from the sent email)
+ * and adds call_refs to each existing point without changing the text.
+ * Run: node scripts/regen-day-improvements-may4.mjs
+ */
+import { neon } from '@neondatabase/serverless';
+import Anthropic from '@anthropic-ai/sdk';
+import { readFileSync } from 'fs';
+import { resolve, dirname } from 'path';
+import { fileURLToPath } from 'url';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+
+const envText = readFileSync(resolve(__dirname, '../.env.local'), 'utf8');
+for (const line of envText.split('\n')) {
+  const trimmed = line.trim();
+  if (!trimmed || trimmed.startsWith('#')) continue;
+  const eqIdx = trimmed.indexOf('=');
+  if (eqIdx === -1) continue;
+  const k = trimmed.slice(0, eqIdx).trim();
+  let v = trimmed.slice(eqIdx + 1).trim();
+  v = v.replace(/^"/, '').replace(/"$/, '').replace(/\\n/g, '');
+  process.env[k] = v;
+}
+
+const sql    = neon(process.env.DATABASE_URL);
+const claude = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+
+// Original improvement points exactly as they appeared in the sent email
+const ORIGINAL_POINTS = [
+  "High volume of sub-60-second calls (approximately 70+ calls) with no outcome — implement mandatory minimum engagement protocols and pre-call SMS alerts to improve customer readiness and connection rates",
+  "Inconsistent KYC follow-up process across all reps: multiple customers report the same technical issues (BO ID step missing, Aadhaar upload not clickable, bank verification not showing) — consolidate these into a known-issues FAQ and provide agents with standardised resolution scripts to reduce repeat escalations",
+  "Agents are regularly making absolute statements about interest payout reliability and returns without SEBI-mandated risk disclaimers — conduct compliance training session within the week and audit all calls for regulatory adherence before further outbound campaigns are launched",
+  "Multiple accidental sign-ups and wrong-number leads are consuming significant agent time (approximately 10-12 calls per day) — review the sign-up flow, add intent confirmation steps, and cleanse the CRM to improve lead quality and conversion ratios",
+  "No structured callback scheduling tool appears to be in use — agents are verbally promising callbacks without logged commitments, leading to missed follow-ups (calls #10, #47, #57, #86, #116, #124); implement a CRM-integrated callback scheduler immediately",
+];
+
+function safeParseArray(text) {
+  let s = text.replace(/^```(?:json)?\n?/i, '').replace(/\n?```$/i, '').trim();
+  s = s.replace(/,(\s*[}\]])/g, '$1');
+  try { return JSON.parse(s); } catch {
+    const start = s.indexOf('['), end = s.lastIndexOf(']');
+    if (start !== -1 && end !== -1) return JSON.parse(s.slice(start, end + 1));
+    throw new Error('Could not extract JSON array');
+  }
+}
+
+// Fetch the day report
+const [dayReport] = await sql`SELECT id, report FROM day_reports WHERE report_date = '2026-05-04'`;
+if (!dayReport) { console.log('No day report found for 2026-05-04'); process.exit(0); }
+
+// Fetch all calls for May 4
+const rows = await sql`
+  SELECT c.rep_name, r.customer_name, r.phone, r.outcome, r.summary, r.call_quality, r.agent_performance
+  FROM calls c
+  LEFT JOIN reports r ON r.call_id = c.id
+  LEFT JOIN bulk_sessions bs ON bs.id = c.session_id
+  WHERE c.status IN ('ready', 'sent')
+    AND (c.session_id IS NULL OR bs.archived_at IS NULL)
+    AND (
+      (c.session_id IS NOT NULL AND DATE(bs.session_date) = '2026-05-04'::date)
+      OR
+      (c.session_id IS NULL AND DATE(c.created_at AT TIME ZONE 'Asia/Kolkata') = '2026-05-04'::date)
+    )
+  ORDER BY c.created_at ASC
+`;
+
+const callData = rows.map((c, i) => ({
+  call_number:   i + 1,
+  rm_name:       c.rep_name ?? null,
+  customer_name: c.customer_name ?? null,
+  phone:         c.phone ?? null,
+  outcome:       c.outcome ?? null,
+  summary:       (c.summary ?? '').slice(0, 150), // truncate for prompt size
+}));
+
+console.log(`${callData.length} calls loaded across ${[...new Set(callData.map(c => c.rm_name).filter(Boolean))].join(', ')}`);
+
+// Ask Claude to find which calls evidence each original point (without changing the point text)
+const prompt = `You are given 5 improvement points and a list of calls. For each improvement point, identify 3–6 specific calls from the data that best evidence it.
+
+Return ONLY a raw JSON array (no markdown, no trailing commas) — one entry per improvement point, in the same order, preserving the exact "point" text:
+[
+  {
+    "point": "<exact text of improvement point>",
+    "call_refs": [{"rm_name":"<RM>","call_number":1,"customer_name":"Name or null","phone":"phone or null"}]
+  }
+]
+
+IMPROVEMENT POINTS:
+${ORIGINAL_POINTS.map((p, i) => `${i + 1}. ${p}`).join('\n')}
+
+CALL DATA (${callData.length} calls):
+${JSON.stringify(callData)}`;
+
+let newImprovements = null;
+for (let attempt = 1; attempt <= 3; attempt++) {
+  let message;
+  try {
+    message = await claude.messages.create({
+      model:      'claude-sonnet-4-6',
+      max_tokens: 2048,
+      messages:   [{ role: 'user', content: prompt }],
+    });
+  } catch (err) {
+    console.error(`Claude API error (attempt ${attempt}): ${err.message}`);
+    break;
+  }
+  const rawText = message.content[0].type === 'text' ? message.content[0].text : '';
+  try {
+    newImprovements = safeParseArray(rawText);
+    console.log(`\nClaude matched call refs for ${newImprovements.length} points (attempt ${attempt}):`);
+    newImprovements.forEach((imp, i) => {
+      const refs = imp.call_refs.map(r => `${r.rm_name} · ${r.phone ?? r.customer_name ?? `#${r.call_number}`}`).join(', ');
+      console.log(`  ${i + 1}. ${imp.point.slice(0, 70)}…`);
+      console.log(`     refs: ${refs}`);
+    });
+    break;
+  } catch (err) {
+    console.error(`JSON parse failed (attempt ${attempt}): ${err.message}`);
+    if (attempt === 3) console.error(`Raw: ${rawText.slice(0, 200)}`);
+  }
+}
+
+if (!newImprovements) { console.error('Failed after 3 attempts'); process.exit(1); }
+
+const report = dayReport.report;
+report.improvements = newImprovements;
+
+await sql`UPDATE day_reports SET report = ${JSON.stringify(report)}, updated_at = NOW() WHERE id = ${dayReport.id}`;
+console.log('\nRestored original improvement text + added call refs. Open Day End Report → May 4 to review.');

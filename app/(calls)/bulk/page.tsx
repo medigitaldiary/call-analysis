@@ -1,1 +1,10 @@
-{"data":"J3VzZSBjbGllbnQnOwoKLy8gRHJpdmUgdXBsb2FkIGNvbXBvbmVudHMgYXJlIGludGVudGlvbmFsbHkgbm90IHJlbmRlcmVkIGJ1dCBrZXB0IGluIHRoZSBjb2RlYmFzZS4KLy8gaW1wb3J0IEJ1bGtVcGxvYWRGb3JtICAgIGZyb20gJ0AvY29tcG9uZW50cy9jYWxscy9CdWxrVXBsb2FkRm9ybSc7Ci8vIGltcG9ydCBDb21iaW5lZEJ1bGtVcGxvYWQgZnJvbSAnQC9jb21wb25lbnRzL2NhbGxzL0NvbWJpbmVkQnVsa1VwbG9hZCc7CmltcG9ydCBTb25hckltcG9ydCBmcm9tICdAL2NvbXBvbmVudHMvY2FsbHMvU29uYXJJbXBvcnQnOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQnVsa1BhZ2UoKSB7CiAgcmV0dXJuIDxTb25hckltcG9ydCAvPjsKfQo="}
+'use client';
+
+// Drive upload components are intentionally not rendered but kept in the codebase.
+// import BulkUploadForm    from '@/components/calls/BulkUploadForm';
+// import CombinedBulkUpload from '@/components/calls/CombinedBulkUpload';
+import SonarImport from '@/components/calls/SonarImport';
+
+export default function BulkPage() {
+  return <SonarImport />;
+}

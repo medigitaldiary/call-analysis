@@ -1,1 +1,13 @@
-{"data":"aW1wb3J0IHBvc3RncmVzIGZyb20gJ3Bvc3RncmVzJzsKCmxldCBfc3FsOiBSZXR1cm5UeXBlPHR5cGVvZiBwb3N0Z3Jlcz4gfCBudWxsID0gbnVsbDsKCmV4cG9ydCBmdW5jdGlvbiBnZXREYigpIHsKICBpZiAoIV9zcWwpIHsKICAgIF9zcWwgPSBwb3N0Z3Jlcyhwcm9jZXNzLmVudi5EQVRBQkFTRV9VUkwhLCB7CiAgICAgIHNzbDogJ3JlcXVpcmUnLAogICAgICBtYXg6IDMsIC8vIGxpbWl0IGNvbm5lY3Rpb25zIHBlciBzZXJ2ZXJsZXNzIGluc3RhbmNlCiAgICB9KTsKICB9CiAgcmV0dXJuIF9zcWw7Cn0K"}
+import postgres from 'postgres';
+
+let _sql: ReturnType<typeof postgres> | null = null;
+
+export function getDb() {
+  if (!_sql) {
+    _sql = postgres(process.env.DATABASE_URL!, {
+      ssl: 'require',
+      max: 3, // limit connections per serverless instance
+    });
+  }
+  return _sql;
+}

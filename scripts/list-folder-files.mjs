@@ -1,1 +1,32 @@
-{"data":"aW1wb3J0IHsgbmVvbiB9IGZyb20gJ0BuZW9uZGF0YWJhc2Uvc2VydmVybGVzcyc7CmltcG9ydCB7IHJlYWRGaWxlU3luYyB9IGZyb20gJ2ZzJzsKaW1wb3J0IHsgcmVzb2x2ZSwgZGlybmFtZSB9IGZyb20gJ3BhdGgnOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoIH0gZnJvbSAndXJsJzsKCmNvbnN0IF9fZGlybmFtZSA9IGRpcm5hbWUoZmlsZVVSTFRvUGF0aChpbXBvcnQubWV0YS51cmwpKTsKY29uc3QgZW52VGV4dCA9IHJlYWRGaWxlU3luYyhyZXNvbHZlKF9fZGlybmFtZSwgJy4uLy5lbnYubG9jYWwnKSwgJ3V0ZjgnKTsKZm9yIChjb25zdCBsaW5lIG9mIGVudlRleHQuc3BsaXQoJ1xuJykpIHsKICBjb25zdCB0ID0gbGluZS50cmltKCk7IGlmICghdCB8fCB0LnN0YXJ0c1dpdGgoJyMnKSkgY29udGludWU7CiAgY29uc3QgaSA9IHQuaW5kZXhPZignPScpOyBpZiAoaSA8IDApIGNvbnRpbnVlOwogIGNvbnN0IGsgPSB0LnNsaWNlKDAsIGkpLnRyaW0oKTsKICBsZXQgdiA9IHQuc2xpY2UoaSsxKS50cmltKCkucmVwbGFjZSgvXiIvLCcnKS5yZXBsYWNlKC8iJC8sJycpLnJlcGxhY2UoL1xcbi9nLCcnKTsKICBwcm9jZXNzLmVudltrXSA9IHY7Cn0KCmNvbnN0IHNxbCA9IG5lb24ocHJvY2Vzcy5lbnYuREFUQUJBU0VfVVJMKTsKY29uc3QgW3Nlc3Npb25dID0gYXdhaXQgc3FsYFNFTEVDVCAqIEZST00gYnVsa19zZXNzaW9ucyBXSEVSRSBpZCA9ICcyOTgyMTEyNy03ZTgxLTQ0NGQtODkyYS1kOGUxNDUyNzk0YmInYDsKY29uc3QgZm9sZGVySWQgPSBzZXNzaW9uLmZvbGRlcl91cmwubWF0Y2goL1wvZm9sZGVyc1wvKFthLXpBLVowLTlfLV0rKS8pWzFdOwoKY29uc3QgcmVzICA9IGF3YWl0IGZldGNoKGBodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9kcml2ZS92My9maWxlcz9xPScke2ZvbGRlcklkfScraW4rcGFyZW50cyZmaWVsZHM9ZmlsZXMoaWQsbmFtZSxtaW1lVHlwZSkma2V5PSR7cHJvY2Vzcy5lbnYuR09PR0xFX0FQSV9LRVl9JnBhZ2VTaXplPTIwMGApOwpjb25zdCBkYXRhID0gYXdhaXQgcmVzLmpzb24oKTsKY29uc3QgZmlsZXMgPSBkYXRhLmZpbGVzID8/IFtdOwoKY29uc29sZS5sb2coYFxuQWxsICR7ZmlsZXMubGVuZ3RofSBmaWxlcyBpbiBmb2xkZXI6XG5gKTsKZmlsZXMuc29ydCgoYSxiKSA9PiBhLm5hbWUubG9jYWxlQ29tcGFyZShiLm5hbWUpKTsKZmlsZXMuZm9yRWFjaCgoZixpKSA9PiB7CiAgLy8gRXh0cmFjdCBkYXRlIGZyb20gdGltZXN0YW1wIGluIG5hbWU6IF9ZWVlZTU1EREhITU1TUwogIGNvbnN0IGRhdGVNYXRjaCA9IGYubmFtZS5tYXRjaCgvXyhcZHs4fSlcZHs2fS8pOwogIGNvbnN0IGRhdGVTdHIgICA9IGRhdGVNYXRjaCA/IGRhdGVNYXRjaFsxXSA6ICc/Pz8/Pz8/Pyc7CiAgY29uc3QgZmxhZyAgICAgID0gZGF0ZVN0ciAhPT0gJzIwMjYwNDMwJyA/ICcgIOKaoO+4jyAgTk9UIEFQUiAzMCcgOiAnJzsKICBjb25zb2xlLmxvZyhgJHtTdHJpbmcoaSsxKS5wYWRTdGFydCgyKX0uIFske2RhdGVTdHJ9XSAgJHtmLm5hbWV9JHtmbGFnfWApOwp9KTsK"}
+import { neon } from '@neondatabase/serverless';
+import { readFileSync } from 'fs';
+import { resolve, dirname } from 'path';
+import { fileURLToPath } from 'url';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const envText = readFileSync(resolve(__dirname, '../.env.local'), 'utf8');
+for (const line of envText.split('\n')) {
+  const t = line.trim(); if (!t || t.startsWith('#')) continue;
+  const i = t.indexOf('='); if (i < 0) continue;
+  const k = t.slice(0, i).trim();
+  let v = t.slice(i+1).trim().replace(/^"/,'').replace(/"$/,'').replace(/\\n/g,'');
+  process.env[k] = v;
+}
+
+const sql = neon(process.env.DATABASE_URL);
+const [session] = await sql`SELECT * FROM bulk_sessions WHERE id = '29821127-7e81-444d-892a-d8e1452794bb'`;
+const folderId = session.folder_url.match(/\/folders\/([a-zA-Z0-9_-]+)/)[1];
+
+const res  = await fetch(`https://www.googleapis.com/drive/v3/files?q='${folderId}'+in+parents&fields=files(id,name,mimeType)&key=${process.env.GOOGLE_API_KEY}&pageSize=200`);
+const data = await res.json();
+const files = data.files ?? [];
+
+console.log(`\nAll ${files.length} files in folder:\n`);
+files.sort((a,b) => a.name.localeCompare(b.name));
+files.forEach((f,i) => {
+  // Extract date from timestamp in name: _YYYYMMDDHHMMSS
+  const dateMatch = f.name.match(/_(\d{8})\d{6}/);
+  const dateStr   = dateMatch ? dateMatch[1] : '????????';
+  const flag      = dateStr !== '20260430' ? '  ⚠️  NOT APR 30' : '';
+  console.log(`${String(i+1).padStart(2)}. [${dateStr}]  ${f.name}${flag}`);
+});

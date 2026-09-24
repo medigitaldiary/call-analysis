@@ -1,1 +1,82 @@
-{"data":"InVzZSBjbGllbnQiCgppbXBvcnQgeyBUYWJzIGFzIFRhYnNQcmltaXRpdmUgfSBmcm9tICJAYmFzZS11aS9yZWFjdC90YWJzIgppbXBvcnQgeyBjdmEsIHR5cGUgVmFyaWFudFByb3BzIH0gZnJvbSAiY2xhc3MtdmFyaWFuY2UtYXV0aG9yaXR5IgoKaW1wb3J0IHsgY24gfSBmcm9tICJAL2xpYi91dGlscyIKCmZ1bmN0aW9uIFRhYnMoewogIGNsYXNzTmFtZSwKICBvcmllbnRhdGlvbiA9ICJob3Jpem9udGFsIiwKICAuLi5wcm9wcwp9OiBUYWJzUHJpbWl0aXZlLlJvb3QuUHJvcHMpIHsKICByZXR1cm4gKAogICAgPFRhYnNQcmltaXRpdmUuUm9vdAogICAgICBkYXRhLXNsb3Q9InRhYnMiCiAgICAgIGRhdGEtb3JpZW50YXRpb249e29yaWVudGF0aW9ufQogICAgICBjbGFzc05hbWU9e2NuKAogICAgICAgICJncm91cC90YWJzIGZsZXggZ2FwLTIgZGF0YS1ob3Jpem9udGFsOmZsZXgtY29sIiwKICAgICAgICBjbGFzc05hbWUKICAgICAgKX0KICAgICAgey4uLnByb3BzfQogICAgLz4KICApCn0KCmNvbnN0IHRhYnNMaXN0VmFyaWFudHMgPSBjdmEoCiAgImdyb3VwL3RhYnMtbGlzdCBpbmxpbmUtZmxleCB3LWZpdCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgcm91bmRlZC1sZyBwLVszcHhdIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBncm91cC1kYXRhLWhvcml6b250YWwvdGFiczpoLTggZ3JvdXAtZGF0YS12ZXJ0aWNhbC90YWJzOmgtZml0IGdyb3VwLWRhdGEtdmVydGljYWwvdGFiczpmbGV4LWNvbCBkYXRhLVt2YXJpYW50PWxpbmVdOnJvdW5kZWQtbm9uZSIsCiAgewogICAgdmFyaWFudHM6IHsKICAgICAgdmFyaWFudDogewogICAgICAgIGRlZmF1bHQ6ICJiZy1tdXRlZCIsCiAgICAgICAgbGluZTogImdhcC0xIGJnLXRyYW5zcGFyZW50IiwKICAgICAgfSwKICAgIH0sCiAgICBkZWZhdWx0VmFyaWFudHM6IHsKICAgICAgdmFyaWFudDogImRlZmF1bHQiLAogICAgfSwKICB9CikKCmZ1bmN0aW9uIFRhYnNMaXN0KHsKICBjbGFzc05hbWUsCiAgdmFyaWFudCA9ICJkZWZhdWx0IiwKICAuLi5wcm9wcwp9OiBUYWJzUHJpbWl0aXZlLkxpc3QuUHJvcHMgJiBWYXJpYW50UHJvcHM8dHlwZW9mIHRhYnNMaXN0VmFyaWFudHM+KSB7CiAgcmV0dXJuICgKICAgIDxUYWJzUHJpbWl0aXZlLkxpc3QKICAgICAgZGF0YS1zbG90PSJ0YWJzLWxpc3QiCiAgICAgIGRhdGEtdmFyaWFudD17dmFyaWFudH0KICAgICAgY2xhc3NOYW1lPXtjbih0YWJzTGlzdFZhcmlhbnRzKHsgdmFyaWFudCB9KSwgY2xhc3NOYW1lKX0KICAgICAgey4uLnByb3BzfQogICAgLz4KICApCn0KCmZ1bmN0aW9uIFRhYnNUcmlnZ2VyKHsgY2xhc3NOYW1lLCAuLi5wcm9wcyB9OiBUYWJzUHJpbWl0aXZlLlRhYi5Qcm9wcykgewogIHJldHVybiAoCiAgICA8VGFic1ByaW1pdGl2ZS5UYWIKICAgICAgZGF0YS1zbG90PSJ0YWJzLXRyaWdnZXIiCiAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgInJlbGF0aXZlIGlubGluZS1mbGV4IGgtW2NhbGMoMTAwJS0xcHgpXSBmbGV4LTEgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGdhcC0xLjUgcm91bmRlZC1tZCBib3JkZXIgYm9yZGVyLXRyYW5zcGFyZW50IHB4LTEuNSBweS0wLjUgdGV4dC1zbSBmb250LW1lZGl1bSB3aGl0ZXNwYWNlLW5vd3JhcCB0ZXh0LWZvcmVncm91bmQvNjAgdHJhbnNpdGlvbi1hbGwgZ3JvdXAtZGF0YS12ZXJ0aWNhbC90YWJzOnctZnVsbCBncm91cC1kYXRhLXZlcnRpY2FsL3RhYnM6anVzdGlmeS1zdGFydCBob3Zlcjp0ZXh0LWZvcmVncm91bmQgZm9jdXMtdmlzaWJsZTpib3JkZXItcmluZyBmb2N1cy12aXNpYmxlOnJpbmctWzNweF0gZm9jdXMtdmlzaWJsZTpyaW5nLXJpbmcvNTAgZm9jdXMtdmlzaWJsZTpvdXRsaW5lLTEgZm9jdXMtdmlzaWJsZTpvdXRsaW5lLXJpbmcgZGlzYWJsZWQ6cG9pbnRlci1ldmVudHMtbm9uZSBkaXNhYmxlZDpvcGFjaXR5LTUwIGFyaWEtZGlzYWJsZWQ6cG9pbnRlci1ldmVudHMtbm9uZSBhcmlhLWRpc2FibGVkOm9wYWNpdHktNTAgZGFyazp0ZXh0LW11dGVkLWZvcmVncm91bmQgZGFyazpob3Zlcjp0ZXh0LWZvcmVncm91bmQgZ3JvdXAtZGF0YS1bdmFyaWFudD1kZWZhdWx0XS90YWJzLWxpc3Q6ZGF0YS1hY3RpdmU6c2hhZG93LXNtIGdyb3VwLWRhdGEtW3ZhcmlhbnQ9bGluZV0vdGFicy1saXN0OmRhdGEtYWN0aXZlOnNoYWRvdy1ub25lIFsmX3N2Z106cG9pbnRlci1ldmVudHMtbm9uZSBbJl9zdmddOnNocmluay0wIFsmX3N2Zzpub3QoW2NsYXNzKj0nc2l6ZS0nXSldOnNpemUtNCIsCiAgICAgICAgImdyb3VwLWRhdGEtW3ZhcmlhbnQ9bGluZV0vdGFicy1saXN0OmJnLXRyYW5zcGFyZW50IGdyb3VwLWRhdGEtW3ZhcmlhbnQ9bGluZV0vdGFicy1saXN0OmRhdGEtYWN0aXZlOmJnLXRyYW5zcGFyZW50IGRhcms6Z3JvdXAtZGF0YS1bdmFyaWFudD1saW5lXS90YWJzLWxpc3Q6ZGF0YS1hY3RpdmU6Ym9yZGVyLXRyYW5zcGFyZW50IGRhcms6Z3JvdXAtZGF0YS1bdmFyaWFudD1saW5lXS90YWJzLWxpc3Q6ZGF0YS1hY3RpdmU6YmctdHJhbnNwYXJlbnQiLAogICAgICAgICJkYXRhLWFjdGl2ZTpiZy1iYWNrZ3JvdW5kIGRhdGEtYWN0aXZlOnRleHQtZm9yZWdyb3VuZCBkYXJrOmRhdGEtYWN0aXZlOmJvcmRlci1pbnB1dCBkYXJrOmRhdGEtYWN0aXZlOmJnLWlucHV0LzMwIGRhcms6ZGF0YS1hY3RpdmU6dGV4dC1mb3JlZ3JvdW5kIiwKICAgICAgICAiYWZ0ZXI6YWJzb2x1dGUgYWZ0ZXI6YmctZm9yZWdyb3VuZCBhZnRlcjpvcGFjaXR5LTAgYWZ0ZXI6dHJhbnNpdGlvbi1vcGFjaXR5IGdyb3VwLWRhdGEtaG9yaXpvbnRhbC90YWJzOmFmdGVyOmluc2V0LXgtMCBncm91cC1kYXRhLWhvcml6b250YWwvdGFiczphZnRlcjpib3R0b20tWy01cHhdIGdyb3VwLWRhdGEtaG9yaXpvbnRhbC90YWJzOmFmdGVyOmgtMC41IGdyb3VwLWRhdGEtdmVydGljYWwvdGFiczphZnRlcjppbnNldC15LTAgZ3JvdXAtZGF0YS12ZXJ0aWNhbC90YWJzOmFmdGVyOi1yaWdodC0xIGdyb3VwLWRhdGEtdmVydGljYWwvdGFiczphZnRlcjp3LTAuNSBncm91cC1kYXRhLVt2YXJpYW50PWxpbmVdL3RhYnMtbGlzdDpkYXRhLWFjdGl2ZTphZnRlcjpvcGFjaXR5LTEwMCIsCiAgICAgICAgY2xhc3NOYW1lCiAgICAgICl9CiAgICAgIHsuLi5wcm9wc30KICAgIC8+CiAgKQp9CgpmdW5jdGlvbiBUYWJzQ29udGVudCh7IGNsYXNzTmFtZSwgLi4ucHJvcHMgfTogVGFic1ByaW1pdGl2ZS5QYW5lbC5Qcm9wcykgewogIHJldHVybiAoCiAgICA8VGFic1ByaW1pdGl2ZS5QYW5lbAogICAgICBkYXRhLXNsb3Q9InRhYnMtY29udGVudCIKICAgICAgY2xhc3NOYW1lPXtjbigiZmxleC0xIHRleHQtc20gb3V0bGluZS1ub25lIiwgY2xhc3NOYW1lKX0KICAgICAgey4uLnByb3BzfQogICAgLz4KICApCn0KCmV4cG9ydCB7IFRhYnMsIFRhYnNMaXN0LCBUYWJzVHJpZ2dlciwgVGFic0NvbnRlbnQsIHRhYnNMaXN0VmFyaWFudHMgfQo="}
+"use client"
+
+import { Tabs as TabsPrimitive } from "@base-ui/react/tabs"
+import { cva, type VariantProps } from "class-variance-authority"
+
+import { cn } from "@/lib/utils"
+
+function Tabs({
+  className,
+  orientation = "horizontal",
+  ...props
+}: TabsPrimitive.Root.Props) {
+  return (
+    <TabsPrimitive.Root
+      data-slot="tabs"
+      data-orientation={orientation}
+      className={cn(
+        "group/tabs flex gap-2 data-horizontal:flex-col",
+        className
+      )}
+      {...props}
+    />
+  )
+}
+
+const tabsListVariants = cva(
+  "group/tabs-list inline-flex w-fit items-center justify-center rounded-lg p-[3px] text-muted-foreground group-data-horizontal/tabs:h-8 group-data-vertical/tabs:h-fit group-data-vertical/tabs:flex-col data-[variant=line]:rounded-none",
+  {
+    variants: {
+      variant: {
+        default: "bg-muted",
+        line: "gap-1 bg-transparent",
+      },
+    },
+    defaultVariants: {
+      variant: "default",
+    },
+  }
+)
+
+function TabsList({
+  className,
+  variant = "default",
+  ...props
+}: TabsPrimitive.List.Props & VariantProps<typeof tabsListVariants>) {
+  return (
+    <TabsPrimitive.List
+      data-slot="tabs-list"
+      data-variant={variant}
+      className={cn(tabsListVariants({ variant }), className)}
+      {...props}
+    />
+  )
+}
+
+function TabsTrigger({ className, ...props }: TabsPrimitive.Tab.Props) {
+  return (
+    <TabsPrimitive.Tab
+      data-slot="tabs-trigger"
+      className={cn(
+        "relative inline-flex h-[calc(100%-1px)] flex-1 items-center justify-center gap-1.5 rounded-md border border-transparent px-1.5 py-0.5 text-sm font-medium whitespace-nowrap text-foreground/60 transition-all group-data-vertical/tabs:w-full group-data-vertical/tabs:justify-start hover:text-foreground focus-visible:border-ring focus-visible:ring-[3px] focus-visible:ring-ring/50 focus-visible:outline-1 focus-visible:outline-ring disabled:pointer-events-none disabled:opacity-50 aria-disabled:pointer-events-none aria-disabled:opacity-50 dark:text-muted-foreground dark:hover:text-foreground group-data-[variant=default]/tabs-list:data-active:shadow-sm group-data-[variant=line]/tabs-list:data-active:shadow-none [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4",
+        "group-data-[variant=line]/tabs-list:bg-transparent group-data-[variant=line]/tabs-list:data-active:bg-transparent dark:group-data-[variant=line]/tabs-list:data-active:border-transparent dark:group-data-[variant=line]/tabs-list:data-active:bg-transparent",
+        "data-active:bg-background data-active:text-foreground dark:data-active:border-input dark:data-active:bg-input/30 dark:data-active:text-foreground",
+        "after:absolute after:bg-foreground after:opacity-0 after:transition-opacity group-data-horizontal/tabs:after:inset-x-0 group-data-horizontal/tabs:after:bottom-[-5px] group-data-horizontal/tabs:after:h-0.5 group-data-vertical/tabs:after:inset-y-0 group-data-vertical/tabs:after:-right-1 group-data-vertical/tabs:after:w-0.5 group-data-[variant=line]/tabs-list:data-active:after:opacity-100",
+        className
+      )}
+      {...props}
+    />
+  )
+}
+
+function TabsContent({ className, ...props }: TabsPrimitive.Panel.Props) {
+  return (
+    <TabsPrimitive.Panel
+      data-slot="tabs-content"
+      className={cn("flex-1 text-sm outline-none", className)}
+      {...props}
+    />
+  )
+}
+
+export { Tabs, TabsList, TabsTrigger, TabsContent, tabsListVariants }

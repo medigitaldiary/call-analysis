@@ -1,1 +1,154 @@
-{"data":"J3VzZSBjbGllbnQnOwoKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJzsKCmludGVyZmFjZSBBcmNoaXZlZFNlc3Npb24gewogIGlkOiBzdHJpbmc7CiAgcm1fbmFtZTogc3RyaW5nOwogIHNlc3Npb25fZGF0ZTogc3RyaW5nOwogIHN0YXR1czogc3RyaW5nOwogIHRvdGFsX2ZpbGVzOiBudW1iZXI7CiAgYXJjaGl2ZWRfYXQ6IHN0cmluZzsKICBjYWxsX2NvdW50OiBudW1iZXI7Cn0KCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEFyY2hpdmVQYWdlKCkgewogIGNvbnN0IFtzZXNzaW9ucywgc2V0U2Vzc2lvbnNdID0gdXNlU3RhdGU8QXJjaGl2ZWRTZXNzaW9uW10+KFtdKTsKICBjb25zdCBbbG9hZGluZywgc2V0TG9hZGluZ10gPSB1c2VTdGF0ZSh0cnVlKTsKICBjb25zdCBbcmVzdG9yaW5nLCBzZXRSZXN0b3JpbmddID0gdXNlU3RhdGU8c3RyaW5nIHwgbnVsbD4obnVsbCk7CgogIGFzeW5jIGZ1bmN0aW9uIGxvYWQoKSB7CiAgICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaCgnL2FwaS9idWxrL2FyY2hpdmVkJyk7CiAgICBpZiAocmVzLm9rKSB7CiAgICAgIGNvbnN0IGRhdGEgPSBhd2FpdCByZXMuanNvbigpOwogICAgICBzZXRTZXNzaW9ucyhkYXRhLnNlc3Npb25zID8/IFtdKTsKICAgIH0KICAgIHNldExvYWRpbmcoZmFsc2UpOwogIH0KCiAgdXNlRWZmZWN0KCgpID0+IHsgbG9hZCgpOyB9LCBbXSk7CgogIGFzeW5jIGZ1bmN0aW9uIHJlc3RvcmUoc2Vzc2lvbklkOiBzdHJpbmcpIHsKICAgIHNldFJlc3RvcmluZyhzZXNzaW9uSWQpOwogICAgYXdhaXQgZmV0Y2goJy9hcGkvYnVsay9hcmNoaXZlZCcsIHsKICAgICAgbWV0aG9kOiAnREVMRVRFJywKICAgICAgaGVhZGVyczogeyAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0sCiAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsgc2Vzc2lvbklkIH0pLAogICAgfSk7CiAgICBzZXRTZXNzaW9ucyhwcmV2ID0+IHByZXYuZmlsdGVyKHMgPT4gcy5pZCAhPT0gc2Vzc2lvbklkKSk7CiAgICBzZXRSZXN0b3JpbmcobnVsbCk7CiAgfQoKICByZXR1cm4gKAogICAgPGRpdiBzdHlsZT17eyBiYWNrZ3JvdW5kOiAndmFyKC0tY2FyZC1iZyknLCBib3JkZXI6ICcxcHggc29saWQgdmFyKC0tY2FyZC1ib3JkZXIpJywgYm9yZGVyUmFkaXVzOiAxMCwgb3ZlcmZsb3c6ICdjbGlwJyB9fT4KICAgICAgey8qIEhlYWRlciAqL30KICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGFsaWduSXRlbXM6ICdjZW50ZXInLCBqdXN0aWZ5Q29udGVudDogJ3NwYWNlLWJldHdlZW4nLCBwYWRkaW5nOiAnMTJweCAyMHB4JywgYm9yZGVyQm90dG9tOiAnMXB4IHNvbGlkIHZhcigtLWNhcmQtYm9yZGVyKScgfX0+CiAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGFsaWduSXRlbXM6ICdjZW50ZXInLCBnYXA6IDEwIH19PgogICAgICAgICAgPGgyIHN0eWxlPXt7IG1hcmdpbjogMCwgZm9udFNpemU6IDE0LCBmb250V2VpZ2h0OiA2MDAsIGNvbG9yOiAnI2YxZjVmOScgfX0+8J+XhCBBcmNoaXZlPC9oMj4KICAgICAgICAgIHshbG9hZGluZyAmJiAoCiAgICAgICAgICAgIDxzcGFuIHN0eWxlPXt7IGZvbnRTaXplOiAxMiwgY29sb3I6ICd2YXIoLS10ZXh0LW11dGVkKScgfX0+CiAgICAgICAgICAgICAge3Nlc3Npb25zLmxlbmd0aH0gc2Vzc2lvbntzZXNzaW9ucy5sZW5ndGggIT09IDEgPyAncycgOiAnJ30KICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgKX0KICAgICAgICA8L2Rpdj4KICAgICAgICA8TGluayBocmVmPSIvaGlzdG9yeSIgc3R5bGU9e3sKICAgICAgICAgIGRpc3BsYXk6ICdpbmxpbmUtZmxleCcsIGFsaWduSXRlbXM6ICdjZW50ZXInLCBnYXA6IDUsCiAgICAgICAgICBwYWRkaW5nOiAnNXB4IDEycHgnLCBib3JkZXJSYWRpdXM6IDYsIGZvbnRTaXplOiAxMiwgZm9udFdlaWdodDogNTAwLAogICAgICAgICAgYmFja2dyb3VuZDogJ3RyYW5zcGFyZW50JywgYm9yZGVyOiAnMXB4IHNvbGlkIHZhcigtLWNhcmQtYm9yZGVyKScsCiAgICAgICAgICBjb2xvcjogJ3ZhcigtLXRleHQtbXV0ZWQpJywgdGV4dERlY29yYXRpb246ICdub25lJywKICAgICAgICB9fT4KICAgICAgICAgIOKGkCBCYWNrIHRvIEhpc3RvcnkKICAgICAgICA8L0xpbms+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIENvbnRlbnQgKi99CiAgICAgIHtsb2FkaW5nID8gKAogICAgICAgIDxkaXYgc3R5bGU9e3sgdGV4dEFsaWduOiAnY2VudGVyJywgcGFkZGluZzogNDAsIGNvbG9yOiAndmFyKC0tdGV4dC1kaW0pJywgZm9udFNpemU6IDEzIH19PgogICAgICAgICAgTG9hZGluZyBhcmNoaXZl4oCmCiAgICAgICAgPC9kaXY+CiAgICAgICkgOiBzZXNzaW9ucy5sZW5ndGggPT09IDAgPyAoCiAgICAgICAgPGRpdiBzdHlsZT17eyB0ZXh0QWxpZ246ICdjZW50ZXInLCBwYWRkaW5nOiA2MCwgY29sb3I6ICd2YXIoLS10ZXh0LWRpbSknIH19PgogICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMzIsIG1hcmdpbkJvdHRvbTogMTIgfX0+8J+XhDwvZGl2PgogICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMTQgfX0+Tm8gYXJjaGl2ZWQgc2Vzc2lvbnMgeWV0LjwvZGl2PgogICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMTIsIGNvbG9yOiAndmFyKC0tdGV4dC1kaW0pJywgbWFyZ2luVG9wOiA2IH19PgogICAgICAgICAgICBVc2UgdGhlIPCfl5EgYmluIGljb24gb24gYW55IHNlc3Npb24gaW4gQ2FsbCBIaXN0b3J5IHRvIGFyY2hpdmUgaXQuCiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgKSA6ICgKICAgICAgICA8ZGl2IHN0eWxlPXt7IG92ZXJmbG93WDogJ2F1dG8nIH19PgogICAgICAgICAgPHRhYmxlIHN0eWxlPXt7IHdpZHRoOiAnMTAwJScsIGJvcmRlckNvbGxhcHNlOiAnY29sbGFwc2UnLCBmb250U2l6ZTogMTMgfX0+CiAgICAgICAgICAgIDx0aGVhZD4KICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICB7WydTZXNzaW9uJywgJ1JlcCcsICdEYXRlJywgJ0NhbGxzJywgJ0FyY2hpdmVkIE9uJywgJyddLm1hcChoID0+ICgKICAgICAgICAgICAgICAgICAgPHRoIGtleT17aH0gc3R5bGU9e3RoU3R5bGV9PntofTwvdGg+CiAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICA8L3RoZWFkPgogICAgICAgICAgICA8dGJvZHk+CiAgICAgICAgICAgICAge3Nlc3Npb25zLm1hcCgocywgaWR4KSA9PiB7CiAgICAgICAgICAgICAgICBjb25zdCBzZXNzaW9uRGF0ZSA9IG5ldyBEYXRlKHMuc2Vzc2lvbl9kYXRlKS50b0xvY2FsZURhdGVTdHJpbmcoJ2VuLUdCJywgewogICAgICAgICAgICAgICAgICBkYXk6ICcyLWRpZ2l0JywgbW9udGg6ICdzaG9ydCcsIHllYXI6ICcyLWRpZ2l0JywKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgY29uc3QgYXJjaGl2ZWREYXRlID0gbmV3IERhdGUocy5hcmNoaXZlZF9hdCkudG9Mb2NhbGVEYXRlU3RyaW5nKCdlbi1HQicsIHsKICAgICAgICAgICAgICAgICAgZGF5OiAnMi1kaWdpdCcsIG1vbnRoOiAnc2hvcnQnLCB5ZWFyOiAnMi1kaWdpdCcsCiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIGNvbnN0IGFyY2hpdmVkVGltZSA9IG5ldyBEYXRlKHMuYXJjaGl2ZWRfYXQpLnRvTG9jYWxlVGltZVN0cmluZygnZW4tR0InLCB7CiAgICAgICAgICAgICAgICAgIGhvdXI6ICcyLWRpZ2l0JywgbWludXRlOiAnMi1kaWdpdCcsCiAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgICAgICA8dHIga2V5PXtzLmlkfSBzdHlsZT17eyBiYWNrZ3JvdW5kOiBpZHggJSAyID09PSAwID8gJ3RyYW5zcGFyZW50JyA6ICcjMTMxZDM1JyB9fT4KICAgICAgICAgICAgICAgICAgICA8dGQgc3R5bGU9e3sgLi4udGRTdHlsZSwgZm9udFdlaWdodDogNjAwLCBjb2xvcjogJyNmMWY1ZjknIH19PgogICAgICAgICAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3sgZGlzcGxheTogJ2lubGluZS1mbGV4JywgYWxpZ25JdGVtczogJ2NlbnRlcicsIGdhcDogOCB9fT4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3sgZm9udFNpemU6IDE0IH19PvCfk4E8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIHtzLnJtX25hbWV9IOKAlCB7c2Vzc2lvbkRhdGV9CiAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQgc3R5bGU9e3sgLi4udGRTdHlsZSwgY29sb3I6ICd2YXIoLS10ZXh0LW11dGVkKScgfX0+e3Mucm1fbmFtZX08L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZCBzdHlsZT17eyAuLi50ZFN0eWxlLCBjb2xvcjogJ3ZhcigtLXRleHQtZGltKScgfX0+e3Nlc3Npb25EYXRlfTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkIHN0eWxlPXt0ZFN0eWxlfT4KICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnRTaXplOiAxMSwgcGFkZGluZzogJzJweCA4cHgnLAogICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kOiAnIzNiODJmNjIwJywgY29sb3I6ICcjM2I4MmY2JywKICAgICAgICAgICAgICAgICAgICAgICAgYm9yZGVyUmFkaXVzOiAyMCwgYm9yZGVyOiAnMXB4IHNvbGlkICMzYjgyZjYzMCcsCiAgICAgICAgICAgICAgICAgICAgICB9fT4KICAgICAgICAgICAgICAgICAgICAgICAge3MuY2FsbF9jb3VudH0gY2FsbHtOdW1iZXIocy5jYWxsX2NvdW50KSAhPT0gMSA/ICdzJyA6ICcnfQogICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkIHN0eWxlPXt7IC4uLnRkU3R5bGUsIGNvbG9yOiAndmFyKC0tdGV4dC1kaW0pJyB9fT4KICAgICAgICAgICAgICAgICAgICAgIHthcmNoaXZlZERhdGV9IMK3IHthcmNoaXZlZFRpbWV9CiAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQgc3R5bGU9e3RkU3R5bGV9PgogICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiByZXN0b3JlKHMuaWQpfQogICAgICAgICAgICAgICAgICAgICAgICBkaXNhYmxlZD17cmVzdG9yaW5nID09PSBzLmlkfQogICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmc6ICc0cHggMTBweCcsIGJhY2tncm91bmQ6ICcjM2I4MmY2MTgnLAogICAgICAgICAgICAgICAgICAgICAgICAgIGJvcmRlcjogJzFweCBzb2xpZCAjM2I4MmY2NDAnLCBib3JkZXJSYWRpdXM6IDYsCiAgICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6ICcjM2I4MmY2JywgZm9udFNpemU6IDEyLCBmb250V2VpZ2h0OiA1MDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgY3Vyc29yOiAncG9pbnRlcicsIHdoaXRlU3BhY2U6ICdub3dyYXAnLAogICAgICAgICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICB7cmVzdG9yaW5nID09PSBzLmlkID8gJ+KApicgOiAn4oapIFJlc3RvcmUnfQogICAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgfSl9CiAgICAgICAgICAgIDwvdGJvZHk+CiAgICAgICAgICA8L3RhYmxlPgogICAgICAgIDwvZGl2PgogICAgICApfQogICAgPC9kaXY+CiAgKTsKfQoKY29uc3QgdGhTdHlsZTogUmVhY3QuQ1NTUHJvcGVydGllcyA9IHsKICBwYWRkaW5nOiAnMTBweCAxNHB4JywgdGV4dEFsaWduOiAnbGVmdCcsIGNvbG9yOiAndmFyKC0tdGV4dC1kaW0pJywgZm9udFdlaWdodDogNjAwLAogIGZvbnRTaXplOiAxMSwgdGV4dFRyYW5zZm9ybTogJ3VwcGVyY2FzZScsIGxldHRlclNwYWNpbmc6IDAuNSwKICBib3JkZXJCb3R0b206ICcxcHggc29saWQgdmFyKC0tY2FyZC1ib3JkZXIpJywgYmFja2dyb3VuZDogJyMxMzFkMzUnLCB3aGl0ZVNwYWNlOiAnbm93cmFwJywKfTsKY29uc3QgdGRTdHlsZTogUmVhY3QuQ1NTUHJvcGVydGllcyA9IHsKICBwYWRkaW5nOiAnMTJweCAxNHB4JywgY29sb3I6ICcjZjFmNWY5JywgYm9yZGVyQm90dG9tOiAnMXB4IHNvbGlkIHZhcigtLWNhcmQtYm9yZGVyKScsCn07Cg=="}
+'use client';
+
+import { useEffect, useState } from 'react';
+import Link from 'next/link';
+
+interface ArchivedSession {
+  id: string;
+  rm_name: string;
+  session_date: string;
+  status: string;
+  total_files: number;
+  archived_at: string;
+  call_count: number;
+}
+
+export default function ArchivePage() {
+  const [sessions, setSessions] = useState<ArchivedSession[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [restoring, setRestoring] = useState<string | null>(null);
+
+  async function load() {
+    const res = await fetch('/api/bulk/archived');
+    if (res.ok) {
+      const data = await res.json();
+      setSessions(data.sessions ?? []);
+    }
+    setLoading(false);
+  }
+
+  useEffect(() => { load(); }, []);
+
+  async function restore(sessionId: string) {
+    setRestoring(sessionId);
+    await fetch('/api/bulk/archived', {
+      method: 'DELETE',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ sessionId }),
+    });
+    setSessions(prev => prev.filter(s => s.id !== sessionId));
+    setRestoring(null);
+  }
+
+  return (
+    <div style={{ background: 'var(--card-bg)', border: '1px solid var(--card-border)', borderRadius: 10, overflow: 'clip' }}>
+      {/* Header */}
+      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '12px 20px', borderBottom: '1px solid var(--card-border)' }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+          <h2 style={{ margin: 0, fontSize: 14, fontWeight: 600, color: '#f1f5f9' }}>🗄 Archive</h2>
+          {!loading && (
+            <span style={{ fontSize: 12, color: 'var(--text-muted)' }}>
+              {sessions.length} session{sessions.length !== 1 ? 's' : ''}
+            </span>
+          )}
+        </div>
+        <Link href="/history" style={{
+          display: 'inline-flex', alignItems: 'center', gap: 5,
+          padding: '5px 12px', borderRadius: 6, fontSize: 12, fontWeight: 500,
+          background: 'transparent', border: '1px solid var(--card-border)',
+          color: 'var(--text-muted)', textDecoration: 'none',
+        }}>
+          ← Back to History
+        </Link>
+      </div>
+
+      {/* Content */}
+      {loading ? (
+        <div style={{ textAlign: 'center', padding: 40, color: 'var(--text-dim)', fontSize: 13 }}>
+          Loading archive…
+        </div>
+      ) : sessions.length === 0 ? (
+        <div style={{ textAlign: 'center', padding: 60, color: 'var(--text-dim)' }}>
+          <div style={{ fontSize: 32, marginBottom: 12 }}>🗄</div>
+          <div style={{ fontSize: 14 }}>No archived sessions yet.</div>
+          <div style={{ fontSize: 12, color: 'var(--text-dim)', marginTop: 6 }}>
+            Use the 🗑 bin icon on any session in Call History to archive it.
+          </div>
+        </div>
+      ) : (
+        <div style={{ overflowX: 'auto' }}>
+          <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: 13 }}>
+            <thead>
+              <tr>
+                {['Session', 'Rep', 'Date', 'Calls', 'Archived On', ''].map(h => (
+                  <th key={h} style={thStyle}>{h}</th>
+                ))}
+              </tr>
+            </thead>
+            <tbody>
+              {sessions.map((s, idx) => {
+                const sessionDate = new Date(s.session_date).toLocaleDateString('en-GB', {
+                  day: '2-digit', month: 'short', year: '2-digit',
+                });
+                const archivedDate = new Date(s.archived_at).toLocaleDateString('en-GB', {
+                  day: '2-digit', month: 'short', year: '2-digit',
+                });
+                const archivedTime = new Date(s.archived_at).toLocaleTimeString('en-GB', {
+                  hour: '2-digit', minute: '2-digit',
+                });
+
+                return (
+                  <tr key={s.id} style={{ background: idx % 2 === 0 ? 'transparent' : '#131d35' }}>
+                    <td style={{ ...tdStyle, fontWeight: 600, color: '#f1f5f9' }}>
+                      <span style={{ display: 'inline-flex', alignItems: 'center', gap: 8 }}>
+                        <span style={{ fontSize: 14 }}>📁</span>
+                        {s.rm_name} — {sessionDate}
+                      </span>
+                    </td>
+                    <td style={{ ...tdStyle, color: 'var(--text-muted)' }}>{s.rm_name}</td>
+                    <td style={{ ...tdStyle, color: 'var(--text-dim)' }}>{sessionDate}</td>
+                    <td style={tdStyle}>
+                      <span style={{
+                        fontSize: 11, padding: '2px 8px',
+                        background: '#3b82f620', color: '#3b82f6',
+                        borderRadius: 20, border: '1px solid #3b82f630',
+                      }}>
+                        {s.call_count} call{Number(s.call_count) !== 1 ? 's' : ''}
+                      </span>
+                    </td>
+                    <td style={{ ...tdStyle, color: 'var(--text-dim)' }}>
+                      {archivedDate} · {archivedTime}
+                    </td>
+                    <td style={tdStyle}>
+                      <button
+                        onClick={() => restore(s.id)}
+                        disabled={restoring === s.id}
+                        style={{
+                          padding: '4px 10px', background: '#3b82f618',
+                          border: '1px solid #3b82f640', borderRadius: 6,
+                          color: '#3b82f6', fontSize: 12, fontWeight: 500,
+                          cursor: 'pointer', whiteSpace: 'nowrap',
+                        }}
+                      >
+                        {restoring === s.id ? '…' : '↩ Restore'}
+                      </button>
+                    </td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+        </div>
+      )}
+    </div>
+  );
+}
+
+const thStyle: React.CSSProperties = {
+  padding: '10px 14px', textAlign: 'left', color: 'var(--text-dim)', fontWeight: 600,
+  fontSize: 11, textTransform: 'uppercase', letterSpacing: 0.5,
+  borderBottom: '1px solid var(--card-border)', background: '#131d35', whiteSpace: 'nowrap',
+};
+const tdStyle: React.CSSProperties = {
+  padding: '12px 14px', color: '#f1f5f9', borderBottom: '1px solid var(--card-border)',
+};

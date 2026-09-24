@@ -1,1 +1,48 @@
-{"data":"LS0gUnVuIHRoaXMgaW4geW91ciBOZW9uIFNRTCBlZGl0b3IgKGh0dHBzOi8vY29uc29sZS5uZW9uLnRlY2gpCgotLSBDYWxscyB0YWJsZQpDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBjYWxscyAoCiAgaWQgICAgICAgICAgICBVVUlEIERFRkFVTFQgZ2VuX3JhbmRvbV91dWlkKCkgUFJJTUFSWSBLRVksCiAgY3JlYXRlZF9hdCAgICBUSU1FU1RBTVBUWiBERUZBVUxUIE5PVygpLAogIHByb3NwZWN0X25hbWUgVEVYVCBOT1QgTlVMTCwKICBjb21wYW55ICAgICAgIFRFWFQgTk9UIE5VTEwsCiAgcmVwX25hbWUgICAgICBURVhUIE5PVCBOVUxMLAogIGNhbGxfdHlwZSAgICAgVEVYVCwKICByZWNvcmRpbmdfdXJsIFRFWFQsCiAgZHJpdmVfdXJsICAgICBURVhULAogIGR1cmF0aW9uX3NlYyAgSU5ULAogIHN0YWtlaG9sZGVycyAgVEVYVFtdLCAgICAgICAgICAtLSBhcnJheSBvZiBlbWFpbCBhZGRyZXNzZXMKICBzdGF0dXMgICAgICAgIFRFWFQgREVGQVVMVCAndXBsb2FkZWQnCiAgICAgICAgICAgICAgICBDSEVDSyAoc3RhdHVzIElOICgndXBsb2FkZWQnLCd0cmFuc2NyaWJpbmcnLCdhbmFseXNpbmcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dlbmVyYXRpbmcnLCdyZWFkeScsJ3NlbnQnLCdlcnJvcicpKSwKICBlcnJvcl9tc2cgICAgIFRFWFQKKTsKCi0tIFJlcG9ydHMgdGFibGUKQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgcmVwb3J0cyAoCiAgaWQgICAgICAgICAgICAgICAgVVVJRCBERUZBVUxUIGdlbl9yYW5kb21fdXVpZCgpIFBSSU1BUlkgS0VZLAogIGNhbGxfaWQgICAgICAgICAgIFVVSUQgUkVGRVJFTkNFUyBjYWxscyhpZCkgT04gREVMRVRFIENBU0NBREUsCiAgY3JlYXRlZF9hdCAgICAgICAgVElNRVNUQU1QVFogREVGQVVMVCBOT1coKSwKICB0cmFuc2NyaXB0ICAgICAgICBURVhULAogIC0tIEFJLWV4dHJhY3RlZCBtZXRhZGF0YQogIGRhdGVfZXh0cmFjdGVkICAgIFRFWFQsCiAgdGltZV9leHRyYWN0ZWQgICAgVEVYVCwKICBkdXJhdGlvbiAgICAgICAgICBURVhULAogIHBob25lICAgICAgICAgICAgIFRFWFQsCiAgY3VzdG9tZXJfbmFtZSAgICAgVEVYVCwKICBvdXRjb21lICAgICAgICAgICBURVhULAogIGNhbGxfcXVhbGl0eSAgICAgIFRFWFQsCiAgYWdlbnRfcGVyZm9ybWFuY2UgVEVYVCwKICBzdW1tYXJ5ICAgICAgICAgICBURVhULAogIHNlbnRpbWVudCAgICAgICAgIEpTT05CLCAgICAgICAgIC0tIHsgb3ZlcmFsbCwgYWdlbnQsIGN1c3RvbWVyIH0KICBzcGVha2VyX2JyZWFrZG93biBKU09OQiwgICAgICAgICAtLSB7IGRlc2NyaXB0aW9uLCBsYW5ndWFnZSwgYWdlbnRfcGVyY2VudGFnZSwgY3VzdG9tZXJfcGVyY2VudGFnZSB9CiAga2V5d29yZHMgICAgICAgICAgSlNPTkIsICAgICAgICAgLS0gc3RyaW5nW10KICB0b3BpY3MgICAgICAgICAgICBKU09OQiwgICAgICAgICAtLSBzdHJpbmdbXQogIGNvbXBsaWFuY2UgICAgICAgIFRFWFQsCiAgYWN0aW9uX2l0ZW1zICAgICAgSlNPTkIsICAgICAgICAgLS0gYXJyYXkgb2YgeyBwcmlvcml0eSwgdGFzaywgb3duZXIsIGRlYWRsaW5lIH0KICAtLSBzdG9yYWdlCiAgZG9jX3VybCAgICAgICAgICAgVEVYVCwgICAgICAgICAgLS0gVmVyY2VsIEJsb2IgVVJMIGZvciAuZG9jeAogIHNoZWV0X3VybCAgICAgICAgIFRFWFQsICAgICAgICAgIC0tIFZlcmNlbCBCbG9iIFVSTCBmb3IgLnhsc3gKICBlbWFpbF9zZW50X2F0ICAgICBUSU1FU1RBTVBUWiwKICBlbWFpbF9yZWNpcGllbnRzICBURVhUW10KKTsK"}
+-- Run this in your Neon SQL editor (https://console.neon.tech)
+
+-- Calls table
+CREATE TABLE IF NOT EXISTS calls (
+  id            UUID DEFAULT gen_random_uuid() PRIMARY KEY,
+  created_at    TIMESTAMPTZ DEFAULT NOW(),
+  prospect_name TEXT NOT NULL,
+  company       TEXT NOT NULL,
+  rep_name      TEXT NOT NULL,
+  call_type     TEXT,
+  recording_url TEXT,
+  drive_url     TEXT,
+  duration_sec  INT,
+  stakeholders  TEXT[],          -- array of email addresses
+  status        TEXT DEFAULT 'uploaded'
+                CHECK (status IN ('uploaded','transcribing','analysing',
+                                  'generating','ready','sent','error')),
+  error_msg     TEXT
+);
+
+-- Reports table
+CREATE TABLE IF NOT EXISTS reports (
+  id                UUID DEFAULT gen_random_uuid() PRIMARY KEY,
+  call_id           UUID REFERENCES calls(id) ON DELETE CASCADE,
+  created_at        TIMESTAMPTZ DEFAULT NOW(),
+  transcript        TEXT,
+  -- AI-extracted metadata
+  date_extracted    TEXT,
+  time_extracted    TEXT,
+  duration          TEXT,
+  phone             TEXT,
+  customer_name     TEXT,
+  outcome           TEXT,
+  call_quality      TEXT,
+  agent_performance TEXT,
+  summary           TEXT,
+  sentiment         JSONB,         -- { overall, agent, customer }
+  speaker_breakdown JSONB,         -- { description, language, agent_percentage, customer_percentage }
+  keywords          JSONB,         -- string[]
+  topics            JSONB,         -- string[]
+  compliance        TEXT,
+  action_items      JSONB,         -- array of { priority, task, owner, deadline }
+  -- storage
+  doc_url           TEXT,          -- Vercel Blob URL for .docx
+  sheet_url         TEXT,          -- Vercel Blob URL for .xlsx
+  email_sent_at     TIMESTAMPTZ,
+  email_recipients  TEXT[]
+);

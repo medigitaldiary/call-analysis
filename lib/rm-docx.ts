@@ -1,1 +1,176 @@
-{"data":"aW1wb3J0IHsgRG9jdW1lbnQsIFBhY2tlciwgUGFyYWdyYXBoLCBUZXh0UnVuLCBIZWFkaW5nTGV2ZWwsIFRhYmxlLCBUYWJsZVJvdywgVGFibGVDZWxsLCBXaWR0aFR5cGUsIEJvcmRlclN0eWxlLCBBbGlnbm1lbnRUeXBlLCBTaGFkaW5nVHlwZSB9IGZyb20gJ2RvY3gnOwppbXBvcnQgdHlwZSB7IFJNUmVwb3J0IH0gZnJvbSAnQC90eXBlcyc7Cgpjb25zdCBQUklPUklUWV9DT0xPUjogUmVjb3JkPHN0cmluZywgc3RyaW5nPiA9IHsgSElHSDogJ2VmNDQ0NCcsIE1FRElVTTogJ2Y1OWUwYicsIExPVzogJzIyYzU1ZScgfTsKdm9pZCBQUklPUklUWV9DT0xPUjsKCmZ1bmN0aW9uIGhlYWRpbmcodGV4dDogc3RyaW5nLCBsZXZlbDogMSB8IDIgPSAyKSB7CiAgcmV0dXJuIG5ldyBQYXJhZ3JhcGgoewogICAgY2hpbGRyZW46IFtuZXcgVGV4dFJ1bih7IHRleHQsIGJvbGQ6IHRydWUsIHNpemU6IGxldmVsID09PSAxID8gMjggOiAyNCwgY29sb3I6IGxldmVsID09PSAxID8gJzNiODJmNicgOiAnMWIyNzQ4JyB9KV0sCiAgICBzcGFjaW5nOiB7IGJlZm9yZTogMzAwLCBhZnRlcjogMTIwIH0sCiAgfSk7Cn0KCmZ1bmN0aW9uIHRhYmxlUm93KGNlbGxzOiBzdHJpbmdbXSwgaXNIZWFkZXIgPSBmYWxzZSkgewogIHJldHVybiBuZXcgVGFibGVSb3coewogICAgY2hpbGRyZW46IGNlbGxzLm1hcCh0ZXh0ID0+CiAgICAgIG5ldyBUYWJsZUNlbGwoewogICAgICAgIGNoaWxkcmVuOiBbbmV3IFBhcmFncmFwaCh7IGNoaWxkcmVuOiBbbmV3IFRleHRSdW4oeyB0ZXh0LCBib2xkOiBpc0hlYWRlciwgc2l6ZTogaXNIZWFkZXIgPyAyMCA6IDE4IH0pXSB9KV0sCiAgICAgICAgc2hhZGluZzogaXNIZWFkZXIgPyB7IGZpbGw6ICcxYjI3NDgnLCB0eXBlOiBTaGFkaW5nVHlwZS5TT0xJRCB9IDogdW5kZWZpbmVkLAogICAgICB9KQogICAgKSwKICB9KTsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGdlbmVyYXRlUk1Eb2N4KHJtTmFtZTogc3RyaW5nLCBzZXNzaW9uRGF0ZTogc3RyaW5nLCByZXBvcnQ6IFJNUmVwb3J0KTogUHJvbWlzZTxCdWZmZXI+IHsKICBjb25zdCBjaGlsZHJlbjogKFBhcmFncmFwaCB8IFRhYmxlKVtdID0gW107CgogIC8vIFRpdGxlCiAgY2hpbGRyZW4ucHVzaChuZXcgUGFyYWdyYXBoKHsKICAgIGNoaWxkcmVuOiBbbmV3IFRleHRSdW4oeyB0ZXh0OiAnQk9ORFNDQU5ORVInLCBib2xkOiB0cnVlLCBzaXplOiAzMiwgY29sb3I6ICczYjgyZjYnIH0pXSwKICAgIGFsaWdubWVudDogQWxpZ25tZW50VHlwZS5DRU5URVIsCiAgICBzcGFjaW5nOiB7IGFmdGVyOiAxMDAgfSwKICB9KSk7CiAgY2hpbGRyZW4ucHVzaChuZXcgUGFyYWdyYXBoKHsKICAgIGNoaWxkcmVuOiBbbmV3IFRleHRSdW4oeyB0ZXh0OiBgUk0gRGFpbHkgQ2FsbCBSZXBvcnQg4oCUICR7cm1OYW1lfSDigJQgJHtzZXNzaW9uRGF0ZX1gLCBib2xkOiB0cnVlLCBzaXplOiAyNiB9KV0sCiAgICBoZWFkaW5nOiBIZWFkaW5nTGV2ZWwuSEVBRElOR18xLAogICAgYWxpZ25tZW50OiBBbGlnbm1lbnRUeXBlLkNFTlRFUiwKICAgIHNwYWNpbmc6IHsgYWZ0ZXI6IDMwMCB9LAogICAgYm9yZGVyOiB7IGJvdHRvbTogeyBzdHlsZTogQm9yZGVyU3R5bGUuU0lOR0xFLCBzaXplOiAxLCBjb2xvcjogJzFlMzA1OCcgfSB9LAogIH0pKTsKCiAgLy8gMS4gT3ZlcnZpZXcKICBjaGlsZHJlbi5wdXNoKGhlYWRpbmcoJzEuIE92ZXJ2aWV3JykpOwogIGNoaWxkcmVuLnB1c2gobmV3IFRhYmxlKHsKICAgIHdpZHRoOiB7IHNpemU6IDEwMCwgdHlwZTogV2lkdGhUeXBlLlBFUkNFTlRBR0UgfSwKICAgIHJvd3M6IFsKICAgICAgdGFibGVSb3coWydNZXRyaWMnLCAnVmFsdWUnLCAnTm90ZXMnXSwgdHJ1ZSksCiAgICAgIHRhYmxlUm93KFsnVG90YWwgQ2FsbHMgUHJvY2Vzc2VkJywgU3RyaW5nKHJlcG9ydC5vdmVydmlldy50b3RhbF9jYWxscyksICdBbGwgYXVkaW8gZmlsZXMgaW5jbHVkZWQnXSksCiAgICAgIHRhYmxlUm93KFsnVW5pcXVlIEN1c3RvbWVycycsIFN0cmluZyhyZXBvcnQub3ZlcnZpZXcudW5pcXVlX2N1c3RvbWVycyksICdVbmlxdWUgcGhvbmUgbnVtYmVycyddKSwKICAgICAgdGFibGVSb3coWydUb3RhbCBUYWxrIFRpbWUnLCByZXBvcnQub3ZlcnZpZXcudG90YWxfdGFsa190aW1lLCAnRXhjbHVkaW5nIGRyb3BwZWQvdm9pY2VtYWlsJ10pLAogICAgICB0YWJsZVJvdyhbJ1JlcCBvbiBEdXR5JywgcmVwb3J0Lm92ZXJ2aWV3LnJlcF9vbl9kdXR5LCAnU29sZSBhZ2VudCBmb3IgdGhlIGRheSddKSwKICAgICAgdGFibGVSb3coWydEZWFscyBEaXNjdXNzZWQnLCByZXBvcnQub3ZlcnZpZXcuZGVhbHNfZGlzY3Vzc2VkLCAnQm9uZHMveWllbGRzL3Byb2R1Y3RzIG1lYW5pbmdmdWxseSBkaXNjdXNzZWQnXSksCiAgICBdLAogIH0pKTsKCiAgLy8gMi4gQ2FsbCBPdXRjb21lcwogIGNoaWxkcmVuLnB1c2goaGVhZGluZygnMi4gQ2FsbCBPdXRjb21lcycpKTsKICBjaGlsZHJlbi5wdXNoKG5ldyBUYWJsZSh7CiAgICB3aWR0aDogeyBzaXplOiAxMDAsIHR5cGU6IFdpZHRoVHlwZS5QRVJDRU5UQUdFIH0sCiAgICByb3dzOiBbCiAgICAgIHRhYmxlUm93KFsnT3V0Y29tZScsICdDb3VudCcsICdQZXJjZW50YWdlJ10sIHRydWUpLAogICAgICAuLi5yZXBvcnQub3V0Y29tZXMubWFwKG8gPT4gdGFibGVSb3coW28ub3V0Y29tZSwgU3RyaW5nKG8uY291bnQpLCBvLnBlcmNlbnRhZ2VdKSksCiAgICBdLAogIH0pKTsKCiAgLy8gMy4gRGVhbHMgRGlzY3Vzc2VkCiAgY2hpbGRyZW4ucHVzaChoZWFkaW5nKCczLiBEZWFscyBEaXNjdXNzZWQnKSk7CiAgY2hpbGRyZW4ucHVzaChuZXcgUGFyYWdyYXBoKHsKICAgIGNoaWxkcmVuOiBbbmV3IFRleHRSdW4oeyB0ZXh0OiAnRGVhbHMgRGlzY3Vzc2VkIGNhcHR1cmVzIGNhbGxzIHdoZXJlIGJvbmRzLCBpbnZlc3RtZW50IHByb2R1Y3RzLCB5aWVsZHMsIG9yIHRyYW5zYWN0aW9uIGRldGFpbHMgd2VyZSBtZWFuaW5nZnVsbHkgZGlzY3Vzc2VkLicsIGl0YWxpY3M6IHRydWUsIHNpemU6IDE4IH0pXSwKICAgIHNwYWNpbmc6IHsgYWZ0ZXI6IDEyMCB9LAogIH0pKTsKICBjaGlsZHJlbi5wdXNoKG5ldyBUYWJsZSh7CiAgICB3aWR0aDogeyBzaXplOiAxMDAsIHR5cGU6IFdpZHRoVHlwZS5QRVJDRU5UQUdFIH0sCiAgICByb3dzOiBbCiAgICAgIHRhYmxlUm93KFsnTWV0cmljJywgJ0NvdW50JywgJyUgb2YgVG90YWwgQ2FsbHMnXSwgdHJ1ZSksCiAgICAgIHRhYmxlUm93KFsnQ2FsbHMgd2l0aCBEZWFscyBEaXNjdXNzZWQnLCBTdHJpbmcocmVwb3J0LmRlYWxzX2Rpc2N1c3NlZC53aXRoX2RlYWxzKSwgYCR7TWF0aC5yb3VuZChyZXBvcnQuZGVhbHNfZGlzY3Vzc2VkLndpdGhfZGVhbHMgLyByZXBvcnQub3ZlcnZpZXcudG90YWxfY2FsbHMgKiAxMDApfSVgXSksCiAgICAgIHRhYmxlUm93KFsnQ2FsbHMgd2l0aG91dCBEZWFscyBEaXNjdXNzZWQnLCBTdHJpbmcocmVwb3J0LmRlYWxzX2Rpc2N1c3NlZC53aXRob3V0X2RlYWxzKSwgYCR7TWF0aC5yb3VuZChyZXBvcnQuZGVhbHNfZGlzY3Vzc2VkLndpdGhvdXRfZGVhbHMgLyByZXBvcnQub3ZlcnZpZXcudG90YWxfY2FsbHMgKiAxMDApfSVgXSksCiAgICBdLAogIH0pKTsKICBjaGlsZHJlbi5wdXNoKG5ldyBQYXJhZ3JhcGgoewogICAgY2hpbGRyZW46IFtuZXcgVGV4dFJ1bih7IHRleHQ6IGBDYWxscyB3aXRoIGRlYWxzIGRpc2N1c3NlZDogJHtyZXBvcnQuZGVhbHNfZGlzY3Vzc2VkLmRlYWxfY2FsbHN9YCwgc2l6ZTogMTggfSldLAogICAgc3BhY2luZzogeyBiZWZvcmU6IDEyMCwgYWZ0ZXI6IDEyMCB9LAogIH0pKTsKCiAgLy8gNC4gVG9wIEhpZ2hsaWdodHMKICBjaGlsZHJlbi5wdXNoKGhlYWRpbmcoJzQuIFRvcCBIaWdobGlnaHRzJykpOwogIGZvciAoY29uc3QgaCBvZiByZXBvcnQuaGlnaGxpZ2h0cykgewogICAgY2hpbGRyZW4ucHVzaChuZXcgUGFyYWdyYXBoKHsKICAgICAgY2hpbGRyZW46IFtuZXcgVGV4dFJ1bih7IHRleHQ6IGAke2gucmFua30g4oCUICMke2guY2FsbF9udW1iZXJ9IHwgJHtoLmN1c3RvbWVyX25hbWV9IHwgJHtoLnBob25lfSB8ICR7aC5kdXJhdGlvbn1gLCBib2xkOiB0cnVlLCBzaXplOiAyMCB9KV0sCiAgICAgIHNwYWNpbmc6IHsgYmVmb3JlOiAxNjAsIGFmdGVyOiA2MCB9LAogICAgfSkpOwogICAgY2hpbGRyZW4ucHVzaChuZXcgUGFyYWdyYXBoKHsKICAgICAgY2hpbGRyZW46IFtuZXcgVGV4dFJ1bih7IHRleHQ6IGguZGVzY3JpcHRpb24sIHNpemU6IDE4IH0pXSwKICAgICAgc3BhY2luZzogeyBhZnRlcjogMTIwIH0sCiAgICB9KSk7CiAgfQoKICAvLyA1LiBVcmdlbnQgQWN0aW9uIEl0ZW1zCiAgY2hpbGRyZW4ucHVzaChoZWFkaW5nKCc1LiBVcmdlbnQgQWN0aW9uIEl0ZW1zJykpOwogIGNoaWxkcmVuLnB1c2gobmV3IFRhYmxlKHsKICAgIHdpZHRoOiB7IHNpemU6IDEwMCwgdHlwZTogV2lkdGhUeXBlLlBFUkNFTlRBR0UgfSwKICAgIHJvd3M6IFsKICAgICAgdGFibGVSb3coWydQcmlvcml0eScsICdBY3Rpb24nLCAnT3duZXInLCAnRGVhZGxpbmUnXSwgdHJ1ZSksCiAgICAgIC4uLnJlcG9ydC5hY3Rpb25faXRlbXMubWFwKGEgPT4gdGFibGVSb3coW2EucHJpb3JpdHksIGEuYWN0aW9uLCBhLm93bmVyLCBhLmRlYWRsaW5lXSkpLAogICAgXSwKICB9KSk7CgogIC8vIDYuIEFyZWFzIGZvciBJbXByb3ZlbWVudAogIGNoaWxkcmVuLnB1c2goaGVhZGluZygnNi4gQXJlYXMgZm9yIEltcHJvdmVtZW50JykpOwogIGZvciAoY29uc3QgaW1wIG9mIHJlcG9ydC5pbXByb3ZlbWVudHMpIHsKICAgIGNoaWxkcmVuLnB1c2gobmV3IFBhcmFncmFwaCh7CiAgICAgIGNoaWxkcmVuOiBbbmV3IFRleHRSdW4oeyB0ZXh0OiBg4oCiICR7aW1wLnBvaW50fWAsIHNpemU6IDE4IH0pXSwKICAgICAgc3BhY2luZzogeyBhZnRlcjogNDAgfSwKICAgIH0pKTsKICAgIGlmIChpbXAuY2FsbF9yZWZzICYmIGltcC5jYWxsX3JlZnMubGVuZ3RoID4gMCkgewogICAgICBjb25zdCByZWZzID0gaW1wLmNhbGxfcmVmcy5tYXAociA9PgogICAgICAgIGAjJHtyLmNhbGxfbnVtYmVyfSR7ci5jdXN0b21lcl9uYW1lID8gYCAoJHtyLmN1c3RvbWVyX25hbWV9KWAgOiAnJ30ke3IucGhvbmUgPyBgIMK3ICR7ci5waG9uZX1gIDogJyd9YAogICAgICApLmpvaW4oJywgJyk7CiAgICAgIGNoaWxkcmVuLnB1c2gobmV3IFBhcmFncmFwaCh7CiAgICAgICAgY2hpbGRyZW46IFtuZXcgVGV4dFJ1bih7IHRleHQ6IGAgIFJlZjogJHtyZWZzfWAsIHNpemU6IDE2LCBjb2xvcjogJzNiODJmNicsIGl0YWxpY3M6IHRydWUgfSldLAogICAgICAgIHNwYWNpbmc6IHsgYWZ0ZXI6IDgwIH0sCiAgICAgIH0pKTsKICAgIH0KICB9CgogIC8vIDcuIEFnZW50IFBlcmZvcm1hbmNlCiAgY2hpbGRyZW4ucHVzaChoZWFkaW5nKCc3LiBBZ2VudCBQZXJmb3JtYW5jZScpKTsKICBjaGlsZHJlbi5wdXNoKG5ldyBUYWJsZSh7CiAgICB3aWR0aDogeyBzaXplOiAxMDAsIHR5cGU6IFdpZHRoVHlwZS5QRVJDRU5UQUdFIH0sCiAgICByb3dzOiBbCiAgICAgIHRhYmxlUm93KFsnQWdlbnQnLCAnVG90YWwgQ2FsbHMnLCAnRm9sbG93LXVwcycsICdBdmcgUGVyZm9ybWFuY2UnLCAnQmVzdCBDYWxsJ10sIHRydWUpLAogICAgICB0YWJsZVJvdyhbCiAgICAgICAgcmVwb3J0LmFnZW50X3BlcmZvcm1hbmNlLmFnZW50LAogICAgICAgIFN0cmluZyhyZXBvcnQuYWdlbnRfcGVyZm9ybWFuY2UudG90YWxfY2FsbHMpLAogICAgICAgIFN0cmluZyhyZXBvcnQuYWdlbnRfcGVyZm9ybWFuY2UuZm9sbG93X3VwcyksCiAgICAgICAgcmVwb3J0LmFnZW50X3BlcmZvcm1hbmNlLmF2Z19wZXJmb3JtYW5jZSwKICAgICAgICByZXBvcnQuYWdlbnRfcGVyZm9ybWFuY2UuYmVzdF9jYWxsLAogICAgICBdKSwKICAgIF0sCiAgfSkpOwogIGNoaWxkcmVuLnB1c2gobmV3IFBhcmFncmFwaCh7CiAgICBjaGlsZHJlbjogW25ldyBUZXh0UnVuKHsgdGV4dDogcmVwb3J0LmFnZW50X3BlcmZvcm1hbmNlLnN1bW1hcnksIHNpemU6IDE4IH0pXSwKICAgIHNwYWNpbmc6IHsgYmVmb3JlOiAxMjAsIGFmdGVyOiAxMjAgfSwKICB9KSk7CgogIC8vIDguIFRvcCBCb25kcyAmIFByb2R1Y3RzIERpc2N1c3NlZAogIGNoaWxkcmVuLnB1c2goaGVhZGluZygnOC4gVG9wIEJvbmRzICYgUHJvZHVjdHMgRGlzY3Vzc2VkJykpOwogIGNoaWxkcmVuLnB1c2gobmV3IFRhYmxlKHsKICAgIHdpZHRoOiB7IHNpemU6IDEwMCwgdHlwZTogV2lkdGhUeXBlLlBFUkNFTlRBR0UgfSwKICAgIHJvd3M6IFsKICAgICAgdGFibGVSb3coWydCb25kIC8gSXNzdWVyJywgJ1lpZWxkJywgJ0NvbnRleHQnXSwgdHJ1ZSksCiAgICAgIC4uLnJlcG9ydC5wcm9kdWN0cy5tYXAocCA9PiB0YWJsZVJvdyhbcC5ib25kX2lzc3VlciwgcC55aWVsZCwgcC5jb250ZXh0XSkpLAogICAgXSwKICB9KSk7CgogIC8vIDkuIExhbmd1YWdlIERpc3RyaWJ1dGlvbgogIGNoaWxkcmVuLnB1c2goaGVhZGluZygnOS4gTGFuZ3VhZ2UgRGlzdHJpYnV0aW9uJykpOwogIGNoaWxkcmVuLnB1c2gobmV3IFRhYmxlKHsKICAgIHdpZHRoOiB7IHNpemU6IDEwMCwgdHlwZTogV2lkdGhUeXBlLlBFUkNFTlRBR0UgfSwKICAgIHJvd3M6IFsKICAgICAgdGFibGVSb3coWydMYW5ndWFnZScsICdDYWxscycsICclIG9mIFRvdGFsJ10sIHRydWUpLAogICAgICAuLi5yZXBvcnQubGFuZ3VhZ2VzLm1hcChsID0+IHRhYmxlUm93KFtsLmxhbmd1YWdlLCBTdHJpbmcobC5jYWxscyksIGwucGVyY2VudGFnZV0pKSwKICAgIF0sCiAgfSkpOwoKICAvLyBGb290ZXIKICBjaGlsZHJlbi5wdXNoKG5ldyBQYXJhZ3JhcGgoewogICAgY2hpbGRyZW46IFtuZXcgVGV4dFJ1bih7IHRleHQ6IGBHZW5lcmF0ZWQgYnkgUmFkYXIgwrcgQm9uZFNjYW5uZXIgwrcgJHtuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCl9YCwgY29sb3I6ICc3ZTk1YjgnLCBzaXplOiAxNiB9KV0sCiAgICBhbGlnbm1lbnQ6IEFsaWdubWVudFR5cGUuQ0VOVEVSLAogICAgc3BhY2luZzogeyBiZWZvcmU6IDQwMCB9LAogICAgYm9yZGVyOiB7IHRvcDogeyBzdHlsZTogQm9yZGVyU3R5bGUuU0lOR0xFLCBzaXplOiAxLCBjb2xvcjogJzFlMzA1OCcgfSB9LAogIH0pKTsKCiAgY29uc3QgZG9jID0gbmV3IERvY3VtZW50KHsgc2VjdGlvbnM6IFt7IGNoaWxkcmVuIH1dIH0pOwogIHJldHVybiBCdWZmZXIuZnJvbShhd2FpdCBQYWNrZXIudG9CdWZmZXIoZG9jKSk7Cn0K"}
+import { Document, Packer, Paragraph, TextRun, HeadingLevel, Table, TableRow, TableCell, WidthType, BorderStyle, AlignmentType, ShadingType } from 'docx';
+import type { RMReport } from '@/types';
+
+const PRIORITY_COLOR: Record<string, string> = { HIGH: 'ef4444', MEDIUM: 'f59e0b', LOW: '22c55e' };
+void PRIORITY_COLOR;
+
+function heading(text: string, level: 1 | 2 = 2) {
+  return new Paragraph({
+    children: [new TextRun({ text, bold: true, size: level === 1 ? 28 : 24, color: level === 1 ? '3b82f6' : '1b2748' })],
+    spacing: { before: 300, after: 120 },
+  });
+}
+
+function tableRow(cells: string[], isHeader = false) {
+  return new TableRow({
+    children: cells.map(text =>
+      new TableCell({
+        children: [new Paragraph({ children: [new TextRun({ text, bold: isHeader, size: isHeader ? 20 : 18 })] })],
+        shading: isHeader ? { fill: '1b2748', type: ShadingType.SOLID } : undefined,
+      })
+    ),
+  });
+}
+
+export async function generateRMDocx(rmName: string, sessionDate: string, report: RMReport): Promise<Buffer> {
+  const children: (Paragraph | Table)[] = [];
+
+  // Title
+  children.push(new Paragraph({
+    children: [new TextRun({ text: 'BONDSCANNER', bold: true, size: 32, color: '3b82f6' })],
+    alignment: AlignmentType.CENTER,
+    spacing: { after: 100 },
+  }));
+  children.push(new Paragraph({
+    children: [new TextRun({ text: `RM Daily Call Report — ${rmName} — ${sessionDate}`, bold: true, size: 26 })],
+    heading: HeadingLevel.HEADING_1,
+    alignment: AlignmentType.CENTER,
+    spacing: { after: 300 },
+    border: { bottom: { style: BorderStyle.SINGLE, size: 1, color: '1e3058' } },
+  }));
+
+  // 1. Overview
+  children.push(heading('1. Overview'));
+  children.push(new Table({
+    width: { size: 100, type: WidthType.PERCENTAGE },
+    rows: [
+      tableRow(['Metric', 'Value', 'Notes'], true),
+      tableRow(['Total Calls Processed', String(report.overview.total_calls), 'All audio files included']),
+      tableRow(['Unique Customers', String(report.overview.unique_customers), 'Unique phone numbers']),
+      tableRow(['Total Talk Time', report.overview.total_talk_time, 'Excluding dropped/voicemail']),
+      tableRow(['Rep on Duty', report.overview.rep_on_duty, 'Sole agent for the day']),
+      tableRow(['Deals Discussed', report.overview.deals_discussed, 'Bonds/yields/products meaningfully discussed']),
+    ],
+  }));
+
+  // 2. Call Outcomes
+  children.push(heading('2. Call Outcomes'));
+  children.push(new Table({
+    width: { size: 100, type: WidthType.PERCENTAGE },
+    rows: [
+      tableRow(['Outcome', 'Count', 'Percentage'], true),
+      ...report.outcomes.map(o => tableRow([o.outcome, String(o.count), o.percentage])),
+    ],
+  }));
+
+  // 3. Deals Discussed
+  children.push(heading('3. Deals Discussed'));
+  children.push(new Paragraph({
+    children: [new TextRun({ text: 'Deals Discussed captures calls where bonds, investment products, yields, or transaction details were meaningfully discussed.', italics: true, size: 18 })],
+    spacing: { after: 120 },
+  }));
+  children.push(new Table({
+    width: { size: 100, type: WidthType.PERCENTAGE },
+    rows: [
+      tableRow(['Metric', 'Count', '% of Total Calls'], true),
+      tableRow(['Calls with Deals Discussed', String(report.deals_discussed.with_deals), `${Math.round(report.deals_discussed.with_deals / report.overview.total_calls * 100)}%`]),
+      tableRow(['Calls without Deals Discussed', String(report.deals_discussed.without_deals), `${Math.round(report.deals_discussed.without_deals / report.overview.total_calls * 100)}%`]),
+    ],
+  }));
+  children.push(new Paragraph({
+    children: [new TextRun({ text: `Calls with deals discussed: ${report.deals_discussed.deal_calls}`, size: 18 })],
+    spacing: { before: 120, after: 120 },
+  }));
+
+  // 4. Top Highlights
+  children.push(heading('4. Top Highlights'));
+  for (const h of report.highlights) {
+    children.push(new Paragraph({
+      children: [new TextRun({ text: `${h.rank} — #${h.call_number} | ${h.customer_name} | ${h.phone} | ${h.duration}`, bold: true, size: 20 })],
+      spacing: { before: 160, after: 60 },
+    }));
+    children.push(new Paragraph({
+      children: [new TextRun({ text: h.description, size: 18 })],
+      spacing: { after: 120 },
+    }));
+  }
+
+  // 5. Urgent Action Items
+  children.push(heading('5. Urgent Action Items'));
+  children.push(new Table({
+    width: { size: 100, type: WidthType.PERCENTAGE },
+    rows: [
+      tableRow(['Priority', 'Action', 'Owner', 'Deadline'], true),
+      ...report.action_items.map(a => tableRow([a.priority, a.action, a.owner, a.deadline])),
+    ],
+  }));
+
+  // 6. Areas for Improvement
+  children.push(heading('6. Areas for Improvement'));
+  for (const imp of report.improvements) {
+    children.push(new Paragraph({
+      children: [new TextRun({ text: `• ${imp.point}`, size: 18 })],
+      spacing: { after: 40 },
+    }));
+    if (imp.call_refs && imp.call_refs.length > 0) {
+      const refs = imp.call_refs.map(r =>
+        `#${r.call_number}${r.customer_name ? ` (${r.customer_name})` : ''}${r.phone ? ` · ${r.phone}` : ''}`
+      ).join(', ');
+      children.push(new Paragraph({
+        children: [new TextRun({ text: `  Ref: ${refs}`, size: 16, color: '3b82f6', italics: true })],
+        spacing: { after: 80 },
+      }));
+    }
+  }
+
+  // 7. Agent Performance
+  children.push(heading('7. Agent Performance'));
+  children.push(new Table({
+    width: { size: 100, type: WidthType.PERCENTAGE },
+    rows: [
+      tableRow(['Agent', 'Total Calls', 'Follow-ups', 'Avg Performance', 'Best Call'], true),
+      tableRow([
+        report.agent_performance.agent,
+        String(report.agent_performance.total_calls),
+        String(report.agent_performance.follow_ups),
+        report.agent_performance.avg_performance,
+        report.agent_performance.best_call,
+      ]),
+    ],
+  }));
+  children.push(new Paragraph({
+    children: [new TextRun({ text: report.agent_performance.summary, size: 18 })],
+    spacing: { before: 120, after: 120 },
+  }));
+
+  // 8. Top Bonds & Products Discussed
+  children.push(heading('8. Top Bonds & Products Discussed'));
+  children.push(new Table({
+    width: { size: 100, type: WidthType.PERCENTAGE },
+    rows: [
+      tableRow(['Bond / Issuer', 'Yield', 'Context'], true),
+      ...report.products.map(p => tableRow([p.bond_issuer, p.yield, p.context])),
+    ],
+  }));
+
+  // 9. Language Distribution
+  children.push(heading('9. Language Distribution'));
+  children.push(new Table({
+    width: { size: 100, type: WidthType.PERCENTAGE },
+    rows: [
+      tableRow(['Language', 'Calls', '% of Total'], true),
+      ...report.languages.map(l => tableRow([l.language, String(l.calls), l.percentage])),
+    ],
+  }));
+
+  // Footer
+  children.push(new Paragraph({
+    children: [new TextRun({ text: `Generated by Radar · BondScanner · ${new Date().toISOString()}`, color: '7e95b8', size: 16 })],
+    alignment: AlignmentType.CENTER,
+    spacing: { before: 400 },
+    border: { top: { style: BorderStyle.SINGLE, size: 1, color: '1e3058' } },
+  }));
+
+  const doc = new Document({ sections: [{ children }] });
+  return Buffer.from(await Packer.toBuffer(doc));
+}

@@ -1,1 +1,32 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlc3BvbnNlIH0gZnJvbSAnbmV4dC9zZXJ2ZXInOwppbXBvcnQgeyBnZXREYiB9IGZyb20gJ0AvbGliL2RiJzsKCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBHRVQoKSB7CiAgY29uc3Qgc3FsID0gZ2V0RGIoKTsKICBjb25zdCBzZXNzaW9ucyA9IGF3YWl0IHNxbGAKICAgIFNFTEVDVAogICAgICBicy5pZCwKICAgICAgYnMucm1fbmFtZSwKICAgICAgYnMuc2Vzc2lvbl9kYXRlLAogICAgICBicy5zdGF0dXMsCiAgICAgIGJzLnRvdGFsX2ZpbGVzLAogICAgICBicy5hcmNoaXZlZF9hdCwKICAgICAgQ09VTlQoYy5pZCkgQVMgY2FsbF9jb3VudAogICAgRlJPTSBidWxrX3Nlc3Npb25zIGJzCiAgICBMRUZUIEpPSU4gY2FsbHMgYyBPTiBjLnNlc3Npb25faWQgPSBicy5pZAogICAgV0hFUkUgYnMuYXJjaGl2ZWRfYXQgSVMgTk9UIE5VTEwKICAgIEdST1VQIEJZIGJzLmlkCiAgICBPUkRFUiBCWSBicy5hcmNoaXZlZF9hdCBERVNDCiAgYDsKICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBzZXNzaW9ucyB9KTsKfQoKLy8gUmVzdG9yZSBhIHNlc3Npb24gZnJvbSBhcmNoaXZlCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBERUxFVEUocmVxOiBSZXF1ZXN0KSB7CiAgY29uc3QgeyBzZXNzaW9uSWQgfSA9IGF3YWl0IHJlcS5qc29uKCk7CiAgaWYgKCFzZXNzaW9uSWQpIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IGVycm9yOiAnc2Vzc2lvbklkIHJlcXVpcmVkJyB9LCB7IHN0YXR1czogNDAwIH0pOwoKICBjb25zdCBzcWwgPSBnZXREYigpOwogIGF3YWl0IHNxbGBVUERBVEUgYnVsa19zZXNzaW9ucyBTRVQgYXJjaGl2ZWRfYXQgPSBOVUxMIFdIRVJFIGlkID0gJHtzZXNzaW9uSWR9YDsKICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBvazogdHJ1ZSB9KTsKfQo="}
+import { NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+
+export async function GET() {
+  const sql = getDb();
+  const sessions = await sql`
+    SELECT
+      bs.id,
+      bs.rm_name,
+      bs.session_date,
+      bs.status,
+      bs.total_files,
+      bs.archived_at,
+      COUNT(c.id) AS call_count
+    FROM bulk_sessions bs
+    LEFT JOIN calls c ON c.session_id = bs.id
+    WHERE bs.archived_at IS NOT NULL
+    GROUP BY bs.id
+    ORDER BY bs.archived_at DESC
+  `;
+  return NextResponse.json({ sessions });
+}
+
+// Restore a session from archive
+export async function DELETE(req: Request) {
+  const { sessionId } = await req.json();
+  if (!sessionId) return NextResponse.json({ error: 'sessionId required' }, { status: 400 });
+
+  const sql = getDb();
+  await sql`UPDATE bulk_sessions SET archived_at = NULL WHERE id = ${sessionId}`;
+  return NextResponse.json({ ok: true });
+}

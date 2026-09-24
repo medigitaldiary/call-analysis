@@ -1,1 +1,48 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgZ2V0RGIgfSBmcm9tICdAL2xpYi9kYic7CmltcG9ydCB7IHB1dCB9IGZyb20gJ0B2ZXJjZWwvYmxvYic7CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gUE9TVChyZXE6IE5leHRSZXF1ZXN0KSB7CiAgdHJ5IHsKICAgIGNvbnN0IHNxbCA9IGdldERiKCk7CiAgICBjb25zdCBmb3JtRGF0YSA9IGF3YWl0IHJlcS5mb3JtRGF0YSgpOwoKICAgIGNvbnN0IHByb3NwZWN0TmFtZSA9IGZvcm1EYXRhLmdldCgncHJvc3BlY3RfbmFtZScpIGFzIHN0cmluZzsKICAgIGNvbnN0IGNvbXBhbnkgPSBmb3JtRGF0YS5nZXQoJ2NvbXBhbnknKSBhcyBzdHJpbmc7CiAgICBjb25zdCByZXBOYW1lID0gZm9ybURhdGEuZ2V0KCdyZXBfbmFtZScpIGFzIHN0cmluZzsKICAgIGNvbnN0IGNhbGxUeXBlID0gZm9ybURhdGEuZ2V0KCdjYWxsX3R5cGUnKSBhcyBzdHJpbmc7CiAgICBjb25zdCBzdGFrZWhvbGRlcnNSYXcgPSBmb3JtRGF0YS5nZXQoJ3N0YWtlaG9sZGVycycpIGFzIHN0cmluZzsKICAgIGNvbnN0IGRyaXZlVXJsID0gZm9ybURhdGEuZ2V0KCdkcml2ZV91cmwnKSBhcyBzdHJpbmcgfCBudWxsOwogICAgY29uc3QgZmlsZSA9IGZvcm1EYXRhLmdldCgnZmlsZScpIGFzIEZpbGUgfCBudWxsOwoKICAgIGNvbnN0IHN0YWtlaG9sZGVycyA9IHN0YWtlaG9sZGVyc1JhdwogICAgICA/IHN0YWtlaG9sZGVyc1Jhdy5zcGxpdCgnLCcpLm1hcCgocykgPT4gcy50cmltKCkpLmZpbHRlcihCb29sZWFuKQogICAgICA6IFtdOwoKICAgIGNvbnN0IFtjYWxsXSA9IGF3YWl0IHNxbGAKICAgICAgSU5TRVJUIElOVE8gY2FsbHMgKHByb3NwZWN0X25hbWUsIGNvbXBhbnksIHJlcF9uYW1lLCBjYWxsX3R5cGUsIHN0YWtlaG9sZGVycywgZHJpdmVfdXJsLCBzdGF0dXMpCiAgICAgIFZBTFVFUyAoJHtwcm9zcGVjdE5hbWV9LCAke2NvbXBhbnl9LCAke3JlcE5hbWV9LCAke2NhbGxUeXBlfSwgJHtzdGFrZWhvbGRlcnN9LCAke2RyaXZlVXJsID8/IG51bGx9LCAndXBsb2FkZWQnKQogICAgICBSRVRVUk5JTkcgKgogICAgYDsKCiAgICBsZXQgcmVjb3JkaW5nVXJsID0gZHJpdmVVcmwgPz8gbnVsbDsKCiAgICBpZiAoZmlsZSkgewogICAgICBjb25zdCBhcnJheUJ1ZmZlciA9IGF3YWl0IGZpbGUuYXJyYXlCdWZmZXIoKTsKICAgICAgY29uc3QgYnVmZmVyID0gQnVmZmVyLmZyb20oYXJyYXlCdWZmZXIpOwogICAgICBjb25zdCBibG9iID0gYXdhaXQgcHV0KGByZWNvcmRpbmdzLyR7Y2FsbC5pZH0vJHtmaWxlLm5hbWV9YCwgYnVmZmVyLCB7CiAgICAgICAgYWNjZXNzOiAncHJpdmF0ZScsCiAgICAgICAgY29udGVudFR5cGU6IGZpbGUudHlwZSwKICAgICAgfSk7CiAgICAgIHJlY29yZGluZ1VybCA9IGJsb2IudXJsOwogICAgICBhd2FpdCBzcWxgVVBEQVRFIGNhbGxzIFNFVCByZWNvcmRpbmdfdXJsID0gJHtyZWNvcmRpbmdVcmx9IFdIRVJFIGlkID0gJHtjYWxsLmlkfWA7CiAgICB9CgogICAgYXdhaXQgc3FsYElOU0VSVCBJTlRPIHJlcG9ydHMgKGNhbGxfaWQpIFZBTFVFUyAoJHtjYWxsLmlkfSlgOwoKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IGNhbGxJZDogY2FsbC5pZCwgcmVjb3JkaW5nVXJsIH0pOwogIH0gY2F0Y2ggKGVycjogdW5rbm93bikgewogICAgY29uc3QgbWVzc2FnZSA9IGVyciBpbnN0YW5jZW9mIEVycm9yID8gZXJyLm1lc3NhZ2UgOiAnVXBsb2FkIGZhaWxlZCc7CiAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBlcnJvcjogbWVzc2FnZSB9LCB7IHN0YXR1czogNTAwIH0pOwogIH0KfQo="}
+import { NextRequest, NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+import { put } from '@vercel/blob';
+
+export async function POST(req: NextRequest) {
+  try {
+    const sql = getDb();
+    const formData = await req.formData();
+
+    const prospectName = formData.get('prospect_name') as string;
+    const company = formData.get('company') as string;
+    const repName = formData.get('rep_name') as string;
+    const callType = formData.get('call_type') as string;
+    const stakeholdersRaw = formData.get('stakeholders') as string;
+    const driveUrl = formData.get('drive_url') as string | null;
+    const file = formData.get('file') as File | null;
+
+    const stakeholders = stakeholdersRaw
+      ? stakeholdersRaw.split(',').map((s) => s.trim()).filter(Boolean)
+      : [];
+
+    const [call] = await sql`
+      INSERT INTO calls (prospect_name, company, rep_name, call_type, stakeholders, drive_url, status)
+      VALUES (${prospectName}, ${company}, ${repName}, ${callType}, ${stakeholders}, ${driveUrl ?? null}, 'uploaded')
+      RETURNING *
+    `;
+
+    let recordingUrl = driveUrl ?? null;
+
+    if (file) {
+      const arrayBuffer = await file.arrayBuffer();
+      const buffer = Buffer.from(arrayBuffer);
+      const blob = await put(`recordings/${call.id}/${file.name}`, buffer, {
+        access: 'private',
+        contentType: file.type,
+      });
+      recordingUrl = blob.url;
+      await sql`UPDATE calls SET recording_url = ${recordingUrl} WHERE id = ${call.id}`;
+    }
+
+    await sql`INSERT INTO reports (call_id) VALUES (${call.id})`;
+
+    return NextResponse.json({ callId: call.id, recordingUrl });
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : 'Upload failed';
+    return NextResponse.json({ error: message }, { status: 500 });
+  }
+}

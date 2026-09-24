@@ -1,1 +1,103 @@
-{"data":"aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAicmVhY3QiCgppbXBvcnQgeyBjbiB9IGZyb20gIkAvbGliL3V0aWxzIgoKZnVuY3Rpb24gQ2FyZCh7CiAgY2xhc3NOYW1lLAogIHNpemUgPSAiZGVmYXVsdCIsCiAgLi4ucHJvcHMKfTogUmVhY3QuQ29tcG9uZW50UHJvcHM8ImRpdiI+ICYgeyBzaXplPzogImRlZmF1bHQiIHwgInNtIiB9KSB7CiAgcmV0dXJuICgKICAgIDxkaXYKICAgICAgZGF0YS1zbG90PSJjYXJkIgogICAgICBkYXRhLXNpemU9e3NpemV9CiAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgImdyb3VwL2NhcmQgZmxleCBmbGV4LWNvbCBnYXAtNCBvdmVyZmxvdy1oaWRkZW4gcm91bmRlZC14bCBiZy1jYXJkIHB5LTQgdGV4dC1zbSB0ZXh0LWNhcmQtZm9yZWdyb3VuZCByaW5nLTEgcmluZy1mb3JlZ3JvdW5kLzEwIGhhcy1kYXRhLVtzbG90PWNhcmQtZm9vdGVyXTpwYi0wIGhhcy1bPmltZzpmaXJzdC1jaGlsZF06cHQtMCBkYXRhLVtzaXplPXNtXTpnYXAtMyBkYXRhLVtzaXplPXNtXTpweS0zIGRhdGEtW3NpemU9c21dOmhhcy1kYXRhLVtzbG90PWNhcmQtZm9vdGVyXTpwYi0wICo6W2ltZzpmaXJzdC1jaGlsZF06cm91bmRlZC10LXhsICo6W2ltZzpsYXN0LWNoaWxkXTpyb3VuZGVkLWIteGwiLAogICAgICAgIGNsYXNzTmFtZQogICAgICApfQogICAgICB7Li4ucHJvcHN9CiAgICAvPgogICkKfQoKZnVuY3Rpb24gQ2FyZEhlYWRlcih7IGNsYXNzTmFtZSwgLi4ucHJvcHMgfTogUmVhY3QuQ29tcG9uZW50UHJvcHM8ImRpdiI+KSB7CiAgcmV0dXJuICgKICAgIDxkaXYKICAgICAgZGF0YS1zbG90PSJjYXJkLWhlYWRlciIKICAgICAgY2xhc3NOYW1lPXtjbigKICAgICAgICAiZ3JvdXAvY2FyZC1oZWFkZXIgQGNvbnRhaW5lci9jYXJkLWhlYWRlciBncmlkIGF1dG8tcm93cy1taW4gaXRlbXMtc3RhcnQgZ2FwLTEgcm91bmRlZC10LXhsIHB4LTQgZ3JvdXAtZGF0YS1bc2l6ZT1zbV0vY2FyZDpweC0zIGhhcy1kYXRhLVtzbG90PWNhcmQtYWN0aW9uXTpncmlkLWNvbHMtWzFmcl9hdXRvXSBoYXMtZGF0YS1bc2xvdD1jYXJkLWRlc2NyaXB0aW9uXTpncmlkLXJvd3MtW2F1dG9fYXV0b10gWy5ib3JkZXItYl06cGItNCBncm91cC1kYXRhLVtzaXplPXNtXS9jYXJkOlsuYm9yZGVyLWJdOnBiLTMiLAogICAgICAgIGNsYXNzTmFtZQogICAgICApfQogICAgICB7Li4ucHJvcHN9CiAgICAvPgogICkKfQoKZnVuY3Rpb24gQ2FyZFRpdGxlKHsgY2xhc3NOYW1lLCAuLi5wcm9wcyB9OiBSZWFjdC5Db21wb25lbnRQcm9wczwiZGl2Ij4pIHsKICByZXR1cm4gKAogICAgPGRpdgogICAgICBkYXRhLXNsb3Q9ImNhcmQtdGl0bGUiCiAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgImZvbnQtaGVhZGluZyB0ZXh0LWJhc2UgbGVhZGluZy1zbnVnIGZvbnQtbWVkaXVtIGdyb3VwLWRhdGEtW3NpemU9c21dL2NhcmQ6dGV4dC1zbSIsCiAgICAgICAgY2xhc3NOYW1lCiAgICAgICl9CiAgICAgIHsuLi5wcm9wc30KICAgIC8+CiAgKQp9CgpmdW5jdGlvbiBDYXJkRGVzY3JpcHRpb24oeyBjbGFzc05hbWUsIC4uLnByb3BzIH06IFJlYWN0LkNvbXBvbmVudFByb3BzPCJkaXYiPikgewogIHJldHVybiAoCiAgICA8ZGl2CiAgICAgIGRhdGEtc2xvdD0iY2FyZC1kZXNjcmlwdGlvbiIKICAgICAgY2xhc3NOYW1lPXtjbigidGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQiLCBjbGFzc05hbWUpfQogICAgICB7Li4ucHJvcHN9CiAgICAvPgogICkKfQoKZnVuY3Rpb24gQ2FyZEFjdGlvbih7IGNsYXNzTmFtZSwgLi4ucHJvcHMgfTogUmVhY3QuQ29tcG9uZW50UHJvcHM8ImRpdiI+KSB7CiAgcmV0dXJuICgKICAgIDxkaXYKICAgICAgZGF0YS1zbG90PSJjYXJkLWFjdGlvbiIKICAgICAgY2xhc3NOYW1lPXtjbigKICAgICAgICAiY29sLXN0YXJ0LTIgcm93LXNwYW4tMiByb3ctc3RhcnQtMSBzZWxmLXN0YXJ0IGp1c3RpZnktc2VsZi1lbmQiLAogICAgICAgIGNsYXNzTmFtZQogICAgICApfQogICAgICB7Li4ucHJvcHN9CiAgICAvPgogICkKfQoKZnVuY3Rpb24gQ2FyZENvbnRlbnQoeyBjbGFzc05hbWUsIC4uLnByb3BzIH06IFJlYWN0LkNvbXBvbmVudFByb3BzPCJkaXYiPikgewogIHJldHVybiAoCiAgICA8ZGl2CiAgICAgIGRhdGEtc2xvdD0iY2FyZC1jb250ZW50IgogICAgICBjbGFzc05hbWU9e2NuKCJweC00IGdyb3VwLWRhdGEtW3NpemU9c21dL2NhcmQ6cHgtMyIsIGNsYXNzTmFtZSl9CiAgICAgIHsuLi5wcm9wc30KICAgIC8+CiAgKQp9CgpmdW5jdGlvbiBDYXJkRm9vdGVyKHsgY2xhc3NOYW1lLCAuLi5wcm9wcyB9OiBSZWFjdC5Db21wb25lbnRQcm9wczwiZGl2Ij4pIHsKICByZXR1cm4gKAogICAgPGRpdgogICAgICBkYXRhLXNsb3Q9ImNhcmQtZm9vdGVyIgogICAgICBjbGFzc05hbWU9e2NuKAogICAgICAgICJmbGV4IGl0ZW1zLWNlbnRlciByb3VuZGVkLWIteGwgYm9yZGVyLXQgYmctbXV0ZWQvNTAgcC00IGdyb3VwLWRhdGEtW3NpemU9c21dL2NhcmQ6cC0zIiwKICAgICAgICBjbGFzc05hbWUKICAgICAgKX0KICAgICAgey4uLnByb3BzfQogICAgLz4KICApCn0KCmV4cG9ydCB7CiAgQ2FyZCwKICBDYXJkSGVhZGVyLAogIENhcmRGb290ZXIsCiAgQ2FyZFRpdGxlLAogIENhcmRBY3Rpb24sCiAgQ2FyZERlc2NyaXB0aW9uLAogIENhcmRDb250ZW50LAp9Cg=="}
+import * as React from "react"
+
+import { cn } from "@/lib/utils"
+
+function Card({
+  className,
+  size = "default",
+  ...props
+}: React.ComponentProps<"div"> & { size?: "default" | "sm" }) {
+  return (
+    <div
+      data-slot="card"
+      data-size={size}
+      className={cn(
+        "group/card flex flex-col gap-4 overflow-hidden rounded-xl bg-card py-4 text-sm text-card-foreground ring-1 ring-foreground/10 has-data-[slot=card-footer]:pb-0 has-[>img:first-child]:pt-0 data-[size=sm]:gap-3 data-[size=sm]:py-3 data-[size=sm]:has-data-[slot=card-footer]:pb-0 *:[img:first-child]:rounded-t-xl *:[img:last-child]:rounded-b-xl",
+        className
+      )}
+      {...props}
+    />
+  )
+}
+
+function CardHeader({ className, ...props }: React.ComponentProps<"div">) {
+  return (
+    <div
+      data-slot="card-header"
+      className={cn(
+        "group/card-header @container/card-header grid auto-rows-min items-start gap-1 rounded-t-xl px-4 group-data-[size=sm]/card:px-3 has-data-[slot=card-action]:grid-cols-[1fr_auto] has-data-[slot=card-description]:grid-rows-[auto_auto] [.border-b]:pb-4 group-data-[size=sm]/card:[.border-b]:pb-3",
+        className
+      )}
+      {...props}
+    />
+  )
+}
+
+function CardTitle({ className, ...props }: React.ComponentProps<"div">) {
+  return (
+    <div
+      data-slot="card-title"
+      className={cn(
+        "font-heading text-base leading-snug font-medium group-data-[size=sm]/card:text-sm",
+        className
+      )}
+      {...props}
+    />
+  )
+}
+
+function CardDescription({ className, ...props }: React.ComponentProps<"div">) {
+  return (
+    <div
+      data-slot="card-description"
+      className={cn("text-sm text-muted-foreground", className)}
+      {...props}
+    />
+  )
+}
+
+function CardAction({ className, ...props }: React.ComponentProps<"div">) {
+  return (
+    <div
+      data-slot="card-action"
+      className={cn(
+        "col-start-2 row-span-2 row-start-1 self-start justify-self-end",
+        className
+      )}
+      {...props}
+    />
+  )
+}
+
+function CardContent({ className, ...props }: React.ComponentProps<"div">) {
+  return (
+    <div
+      data-slot="card-content"
+      className={cn("px-4 group-data-[size=sm]/card:px-3", className)}
+      {...props}
+    />
+  )
+}
+
+function CardFooter({ className, ...props }: React.ComponentProps<"div">) {
+  return (
+    <div
+      data-slot="card-footer"
+      className={cn(
+        "flex items-center rounded-b-xl border-t bg-muted/50 p-4 group-data-[size=sm]/card:p-3",
+        className
+      )}
+      {...props}
+    />
+  )
+}
+
+export {
+  Card,
+  CardHeader,
+  CardFooter,
+  CardTitle,
+  CardAction,
+  CardDescription,
+  CardContent,
+}

@@ -1,1 +1,64 @@
-{"data":"aW1wb3J0ICogYXMgWExTWCBmcm9tICd4bHN4JzsKaW1wb3J0IHR5cGUgeyBSTVJlcG9ydCB9IGZyb20gJ0AvdHlwZXMnOwoKZXhwb3J0IGZ1bmN0aW9uIGdlbmVyYXRlUk1YbHN4KAogIHJtTmFtZTogc3RyaW5nLAogIHNlc3Npb25EYXRlOiBzdHJpbmcsCiAgcmVwb3J0OiBSTVJlcG9ydCwKICBjYWxsczogQXJyYXk8eyBjYWxsX251bWJlcjogbnVtYmVyOyBjdXN0b21lcl9uYW1lOiBzdHJpbmcgfCBudWxsOyBwaG9uZTogc3RyaW5nIHwgbnVsbDsgZHVyYXRpb246IHN0cmluZyB8IG51bGw7IG91dGNvbWU6IHN0cmluZyB8IG51bGw7IGNhbGxfcXVhbGl0eTogc3RyaW5nIHwgbnVsbDsgYWdlbnRfcGVyZm9ybWFuY2U6IHN0cmluZyB8IG51bGw7IHN1bW1hcnk6IHN0cmluZyB8IG51bGw7IGNvbXBsaWFuY2U6IHN0cmluZyB8IG51bGw7IH0+Cik6IEJ1ZmZlciB7CiAgY29uc3Qgd2IgPSBYTFNYLnV0aWxzLmJvb2tfbmV3KCk7CgogIC8vIFNoZWV0IDE6IFN1bW1hcnkKICBjb25zdCBzdW1tYXJ5RGF0YSA9IFsKICAgIFsnUk0gRGFpbHkgQ2FsbCBSZXBvcnQnLCBgJHtybU5hbWV9IOKAlCAke3Nlc3Npb25EYXRlfWBdLAogICAgW10sCiAgICBbJ09WRVJWSUVXJ10sCiAgICBbJ1RvdGFsIENhbGxzJywgcmVwb3J0Lm92ZXJ2aWV3LnRvdGFsX2NhbGxzXSwKICAgIFsnVW5pcXVlIEN1c3RvbWVycycsIHJlcG9ydC5vdmVydmlldy51bmlxdWVfY3VzdG9tZXJzXSwKICAgIFsnVG90YWwgVGFsayBUaW1lJywgcmVwb3J0Lm92ZXJ2aWV3LnRvdGFsX3RhbGtfdGltZV0sCiAgICBbJ0RlYWxzIERpc2N1c3NlZCcsIHJlcG9ydC5vdmVydmlldy5kZWFsc19kaXNjdXNzZWRdLAogICAgW10sCiAgICBbJ0NBTEwgT1VUQ09NRVMnXSwKICAgIFsnT3V0Y29tZScsICdDb3VudCcsICdQZXJjZW50YWdlJ10sCiAgICAuLi5yZXBvcnQub3V0Y29tZXMubWFwKG8gPT4gW28ub3V0Y29tZSwgby5jb3VudCwgby5wZXJjZW50YWdlXSksCiAgICBbXSwKICAgIFsnQUdFTlQgUEVSRk9STUFOQ0UnXSwKICAgIFsnQWdlbnQnLCAnVG90YWwgQ2FsbHMnLCAnRm9sbG93LXVwcycsICdBdmcgUGVyZm9ybWFuY2UnLCAnQmVzdCBDYWxsJ10sCiAgICBbcmVwb3J0LmFnZW50X3BlcmZvcm1hbmNlLmFnZW50LCByZXBvcnQuYWdlbnRfcGVyZm9ybWFuY2UudG90YWxfY2FsbHMsIHJlcG9ydC5hZ2VudF9wZXJmb3JtYW5jZS5mb2xsb3dfdXBzLCByZXBvcnQuYWdlbnRfcGVyZm9ybWFuY2UuYXZnX3BlcmZvcm1hbmNlLCByZXBvcnQuYWdlbnRfcGVyZm9ybWFuY2UuYmVzdF9jYWxsXSwKICAgIFtdLAogICAgWydMQU5HVUFHRSBESVNUUklCVVRJT04nXSwKICAgIFsnTGFuZ3VhZ2UnLCAnQ2FsbHMnLCAnJSBvZiBUb3RhbCddLAogICAgLi4ucmVwb3J0Lmxhbmd1YWdlcy5tYXAobCA9PiBbbC5sYW5ndWFnZSwgbC5jYWxscywgbC5wZXJjZW50YWdlXSksCiAgXTsKICBjb25zdCB3c1N1bW1hcnkgPSBYTFNYLnV0aWxzLmFvYV90b19zaGVldChzdW1tYXJ5RGF0YSk7CiAgWExTWC51dGlscy5ib29rX2FwcGVuZF9zaGVldCh3Yiwgd3NTdW1tYXJ5LCAnU3VtbWFyeScpOwoKICAvLyBTaGVldCAyOiBBbGwgQ2FsbHMKICBjb25zdCBjYWxsc0RhdGEgPSBjYWxscy5tYXAoYyA9PiAoewogICAgJyMnOiBjLmNhbGxfbnVtYmVyLAogICAgJ0N1c3RvbWVyJzogYy5jdXN0b21lcl9uYW1lID8/ICcnLAogICAgJ1Bob25lJzogYy5waG9uZSA/PyAnJywKICAgICdEdXJhdGlvbic6IGMuZHVyYXRpb24gPz8gJycsCiAgICAnT3V0Y29tZSc6IGMub3V0Y29tZSA/PyAnJywKICAgICdDYWxsIFF1YWxpdHknOiBjLmNhbGxfcXVhbGl0eSA/PyAnJywKICAgICdBZ2VudCBQZXJmb3JtYW5jZSc6IGMuYWdlbnRfcGVyZm9ybWFuY2UgPz8gJycsCiAgICAnQ29tcGxpYW5jZSc6IGMuY29tcGxpYW5jZSA/PyAnTm9uZScsCiAgICAnU3VtbWFyeSc6IGMuc3VtbWFyeSA/PyAnJywKICB9KSk7CiAgY29uc3Qgd3NDYWxscyA9IFhMU1gudXRpbHMuanNvbl90b19zaGVldChjYWxsc0RhdGEpOwogIFhMU1gudXRpbHMuYm9va19hcHBlbmRfc2hlZXQod2IsIHdzQ2FsbHMsICdBbGwgQ2FsbHMnKTsKCiAgLy8gU2hlZXQgMzogQWN0aW9uIEl0ZW1zCiAgY29uc3QgYWN0aW9uc0RhdGEgPSByZXBvcnQuYWN0aW9uX2l0ZW1zLm1hcChhID0+ICh7CiAgICAnUHJpb3JpdHknOiBhLnByaW9yaXR5LAogICAgJ0FjdGlvbic6IGEuYWN0aW9uLAogICAgJ093bmVyJzogYS5vd25lciwKICAgICdEZWFkbGluZSc6IGEuZGVhZGxpbmUsCiAgfSkpOwogIGNvbnN0IHdzQWN0aW9ucyA9IFhMU1gudXRpbHMuanNvbl90b19zaGVldChhY3Rpb25zRGF0YS5sZW5ndGggPyBhY3Rpb25zRGF0YSA6IFt7ICdQcmlvcml0eSc6ICcnLCAnQWN0aW9uJzogJ05vIGFjdGlvbiBpdGVtcycsICdPd25lcic6ICcnLCAnRGVhZGxpbmUnOiAnJyB9XSk7CiAgWExTWC51dGlscy5ib29rX2FwcGVuZF9zaGVldCh3Yiwgd3NBY3Rpb25zLCAnQWN0aW9uIEl0ZW1zJyk7CgogIGNvbnN0IGJ1ZiA9IFhMU1gud3JpdGUod2IsIHsgdHlwZTogJ2J1ZmZlcicsIGJvb2tUeXBlOiAneGxzeCcgfSk7CiAgcmV0dXJuIEJ1ZmZlci5mcm9tKGJ1Zik7Cn0K"}
+import * as XLSX from 'xlsx';
+import type { RMReport } from '@/types';
+
+export function generateRMXlsx(
+  rmName: string,
+  sessionDate: string,
+  report: RMReport,
+  calls: Array<{ call_number: number; customer_name: string | null; phone: string | null; duration: string | null; outcome: string | null; call_quality: string | null; agent_performance: string | null; summary: string | null; compliance: string | null; }>
+): Buffer {
+  const wb = XLSX.utils.book_new();
+
+  // Sheet 1: Summary
+  const summaryData = [
+    ['RM Daily Call Report', `${rmName} — ${sessionDate}`],
+    [],
+    ['OVERVIEW'],
+    ['Total Calls', report.overview.total_calls],
+    ['Unique Customers', report.overview.unique_customers],
+    ['Total Talk Time', report.overview.total_talk_time],
+    ['Deals Discussed', report.overview.deals_discussed],
+    [],
+    ['CALL OUTCOMES'],
+    ['Outcome', 'Count', 'Percentage'],
+    ...report.outcomes.map(o => [o.outcome, o.count, o.percentage]),
+    [],
+    ['AGENT PERFORMANCE'],
+    ['Agent', 'Total Calls', 'Follow-ups', 'Avg Performance', 'Best Call'],
+    [report.agent_performance.agent, report.agent_performance.total_calls, report.agent_performance.follow_ups, report.agent_performance.avg_performance, report.agent_performance.best_call],
+    [],
+    ['LANGUAGE DISTRIBUTION'],
+    ['Language', 'Calls', '% of Total'],
+    ...report.languages.map(l => [l.language, l.calls, l.percentage]),
+  ];
+  const wsSummary = XLSX.utils.aoa_to_sheet(summaryData);
+  XLSX.utils.book_append_sheet(wb, wsSummary, 'Summary');
+
+  // Sheet 2: All Calls
+  const callsData = calls.map(c => ({
+    '#': c.call_number,
+    'Customer': c.customer_name ?? '',
+    'Phone': c.phone ?? '',
+    'Duration': c.duration ?? '',
+    'Outcome': c.outcome ?? '',
+    'Call Quality': c.call_quality ?? '',
+    'Agent Performance': c.agent_performance ?? '',
+    'Compliance': c.compliance ?? 'None',
+    'Summary': c.summary ?? '',
+  }));
+  const wsCalls = XLSX.utils.json_to_sheet(callsData);
+  XLSX.utils.book_append_sheet(wb, wsCalls, 'All Calls');
+
+  // Sheet 3: Action Items
+  const actionsData = report.action_items.map(a => ({
+    'Priority': a.priority,
+    'Action': a.action,
+    'Owner': a.owner,
+    'Deadline': a.deadline,
+  }));
+  const wsActions = XLSX.utils.json_to_sheet(actionsData.length ? actionsData : [{ 'Priority': '', 'Action': 'No action items', 'Owner': '', 'Deadline': '' }]);
+  XLSX.utils.book_append_sheet(wb, wsActions, 'Action Items');
+
+  const buf = XLSX.write(wb, { type: 'buffer', bookType: 'xlsx' });
+  return Buffer.from(buf);
+}

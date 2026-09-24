@@ -1,1 +1,78 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgZ2V0RGIgfSBmcm9tICdAL2xpYi9kYic7CgppbnRlcmZhY2UgU29uYXJSZWNvcmRpbmdQYXlsb2FkIHsKICBzb25hckNhbGxJZDogc3RyaW5nOwogIHNvbmFyVGFza0lkOiBzdHJpbmc7CiAgc29uYXJUYXNrTmFtZTogc3RyaW5nOwogIHNpZ25lZFVybDogc3RyaW5nOwogIGR1cmF0aW9uU2VjczogbnVtYmVyOwogIGRpcmVjdGlvbjogc3RyaW5nOwogIHN0YXJ0ZWRBdDogc3RyaW5nOwogIGFuc3dlcmVkQXQ6IHN0cmluZyB8IG51bGw7CiAgY3VzdG9tZXJQaG9uZTogc3RyaW5nIHwgbnVsbDsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIFBPU1QocmVxOiBOZXh0UmVxdWVzdCkgewogIGNvbnN0IHsgcm1OYW1lLCBzZXNzaW9uRGF0ZSwgcmVjb3JkaW5ncywgc3Rha2Vob2xkZXJzIH0gPSBhd2FpdCByZXEuanNvbigpIGFzIHsKICAgIHJtTmFtZTogc3RyaW5nOwogICAgc2Vzc2lvbkRhdGU6IHN0cmluZzsKICAgIHJlY29yZGluZ3M6IFNvbmFyUmVjb3JkaW5nUGF5bG9hZFtdOwogICAgc3Rha2Vob2xkZXJzPzogc3RyaW5nW107CiAgfTsKCiAgY29uc3Qgc3FsID0gZ2V0RGIoKTsKCiAgaWYgKCFyZWNvcmRpbmdzIHx8IHJlY29yZGluZ3MubGVuZ3RoID09PSAwKQogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgZXJyb3I6ICdObyByZWNvcmRpbmdzIHByb3ZpZGVkJyB9LCB7IHN0YXR1czogNDAwIH0pOwoKICB0cnkgewogICAgY29uc3QgW3Nlc3Npb25dID0gYXdhaXQgc3FsYAogICAgICBJTlNFUlQgSU5UTyBidWxrX3Nlc3Npb25zIChybV9uYW1lLCBzZXNzaW9uX2RhdGUsIGZvbGRlcl91cmwsIHRvdGFsX2ZpbGVzLCBzdGFrZWhvbGRlcnMsIHNvdXJjZSkKICAgICAgVkFMVUVTICgKICAgICAgICAke3JtTmFtZX0sCiAgICAgICAgJHtzZXNzaW9uRGF0ZX0sCiAgICAgICAgJHsnc29uYXI6Ly8nICsgcm1OYW1lfSwKICAgICAgICAke3JlY29yZGluZ3MubGVuZ3RofSwKICAgICAgICAke3N0YWtlaG9sZGVycyA/PyBbXX0sCiAgICAgICAgJ3NvbmFyJwogICAgICApCiAgICAgIFJFVFVSTklORyAqCiAgICBgOwoKICAgIGNvbnN0IGNhbGxJZHM6IHN0cmluZ1tdID0gW107CgogICAgZm9yIChjb25zdCByZWMgb2YgcmVjb3JkaW5ncykgewogICAgICBjb25zdCBwcm9zcGVjdExhYmVsID0gcmVjLmN1c3RvbWVyUGhvbmUgPz8gcmVjLnNvbmFyVGFza05hbWU7CgogICAgICBjb25zdCBbY2FsbF0gPSBhd2FpdCBzcWxgCiAgICAgICAgSU5TRVJUIElOVE8gY2FsbHMgKAogICAgICAgICAgcHJvc3BlY3RfbmFtZSwgY29tcGFueSwgcmVwX25hbWUsIGNhbGxfdHlwZSwKICAgICAgICAgIHJlY29yZGluZ191cmwsIHN0YWtlaG9sZGVycywgc3RhdHVzLCBzZXNzaW9uX2lkLAogICAgICAgICAgc29uYXJfdGFza19pZCwgc29uYXJfdGFza19uYW1lCiAgICAgICAgKQogICAgICAgIFZBTFVFUyAoCiAgICAgICAgICAke3Byb3NwZWN0TGFiZWx9LAogICAgICAgICAgJ1NvbmFyIFNlc3Npb24nLAogICAgICAgICAgJHtybU5hbWV9LAogICAgICAgICAgJ1NvbmFyIENhbGwnLAogICAgICAgICAgJHtyZWMuc2lnbmVkVXJsfSwKICAgICAgICAgICR7c3Rha2Vob2xkZXJzID8/IFtdfSwKICAgICAgICAgICd1cGxvYWRlZCcsCiAgICAgICAgICAke3Nlc3Npb24uaWR9LAogICAgICAgICAgJHtyZWMuc29uYXJUYXNrSWR9LAogICAgICAgICAgJHtyZWMuc29uYXJUYXNrTmFtZX0KICAgICAgICApCiAgICAgICAgUkVUVVJOSU5HIGlkCiAgICAgIGA7CgogICAgICBhd2FpdCBzcWxgSU5TRVJUIElOVE8gcmVwb3J0cyAoY2FsbF9pZCwgcGhvbmUpIFZBTFVFUyAoJHtjYWxsLmlkfSwgJHtyZWMuY3VzdG9tZXJQaG9uZSA/PyBudWxsfSlgOwogICAgICBjYWxsSWRzLnB1c2goY2FsbC5pZCk7CiAgICB9CgogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgc2Vzc2lvbklkOiBzZXNzaW9uLmlkLCBjYWxsSWRzLCB0b3RhbEZpbGVzOiByZWNvcmRpbmdzLmxlbmd0aCB9KTsKICB9IGNhdGNoIChlcnI6IHVua25vd24pIHsKICAgIGNvbnN0IG1lc3NhZ2UgPSBlcnIgaW5zdGFuY2VvZiBFcnJvciA/IGVyci5tZXNzYWdlIDogJ0ZhaWxlZCB0byBzdGFydCBTb25hciBzZXNzaW9uJzsKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IGVycm9yOiBtZXNzYWdlIH0sIHsgc3RhdHVzOiA1MDAgfSk7CiAgfQp9Cg=="}
+import { NextRequest, NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+
+interface SonarRecordingPayload {
+  sonarCallId: string;
+  sonarTaskId: string;
+  sonarTaskName: string;
+  signedUrl: string;
+  durationSecs: number;
+  direction: string;
+  startedAt: string;
+  answeredAt: string | null;
+  customerPhone: string | null;
+}
+
+export async function POST(req: NextRequest) {
+  const { rmName, sessionDate, recordings, stakeholders } = await req.json() as {
+    rmName: string;
+    sessionDate: string;
+    recordings: SonarRecordingPayload[];
+    stakeholders?: string[];
+  };
+
+  const sql = getDb();
+
+  if (!recordings || recordings.length === 0)
+    return NextResponse.json({ error: 'No recordings provided' }, { status: 400 });
+
+  try {
+    const [session] = await sql`
+      INSERT INTO bulk_sessions (rm_name, session_date, folder_url, total_files, stakeholders, source)
+      VALUES (
+        ${rmName},
+        ${sessionDate},
+        ${'sonar://' + rmName},
+        ${recordings.length},
+        ${stakeholders ?? []},
+        'sonar'
+      )
+      RETURNING *
+    `;
+
+    const callIds: string[] = [];
+
+    for (const rec of recordings) {
+      const prospectLabel = rec.customerPhone ?? rec.sonarTaskName;
+
+      const [call] = await sql`
+        INSERT INTO calls (
+          prospect_name, company, rep_name, call_type,
+          recording_url, stakeholders, status, session_id,
+          sonar_task_id, sonar_task_name
+        )
+        VALUES (
+          ${prospectLabel},
+          'Sonar Session',
+          ${rmName},
+          'Sonar Call',
+          ${rec.signedUrl},
+          ${stakeholders ?? []},
+          'uploaded',
+          ${session.id},
+          ${rec.sonarTaskId},
+          ${rec.sonarTaskName}
+        )
+        RETURNING id
+      `;
+
+      await sql`INSERT INTO reports (call_id, phone) VALUES (${call.id}, ${rec.customerPhone ?? null})`;
+      callIds.push(call.id);
+    }
+
+    return NextResponse.json({ sessionId: session.id, callIds, totalFiles: recordings.length });
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : 'Failed to start Sonar session';
+    return NextResponse.json({ error: message }, { status: 500 });
+  }
+}

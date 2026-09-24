@@ -1,1 +1,444 @@
-{"data":"LyoqCiAqIGV4cG9ydC1ybS1wZXJmb3JtYW5jZS1yZXBvcnQubWpzCiAqCiAqIEdlbmVyYXRlcyBhIGxlYWRlcnNoaXAtcmVhZHkgRXhjZWwgd29ya2Jvb2sgY292ZXJpbmcgQXByIDIyIOKAkyBNYXkgMTcgMjAyNi4KICogICBTaGVldCAxIOKAlCBSTSBQZXJmb3JtYW5jZSBTdW1tYXJ5ICAocmFua2VkIHRhYmxlKQogKiAgIFNoZWV0IDIg4oCUIERhaWx5IFNjb3JlIEdyaWQgICAgICAgIChkYXRlIMOXIFJNIG1hdHJpeCkKICogICBTaGVldCAzIOKAlCBLZXkgT2JzZXJ2YXRpb25zICAgICAgICAoZm9ybWF0dGVkIHRleHQpCiAqCiAqIERhdGEgc291cmNlczoKICogICBBcHIgMjIg4oCTIE1heSA4ICA6IGRheS1lbmQgcmVwb3J0IGVtYWlscyAoR21haWwgSU1BUCkKICogICBNYXkgOSAg4oCTIE1heSAxNyA6IFN1cGFiYXNlIGJ1bGtfc2Vzc2lvbnMgKGhhcmRjb2RlZCBmcm9tIE1DUCBxdWVyeSAyMDI2LTA1LTE5KQogKgogKiBVc2FnZToKICogICBub2RlIHNjcmlwdHMvZXhwb3J0LXJtLXBlcmZvcm1hbmNlLXJlcG9ydC5tanMKICogICBub2RlIHNjcmlwdHMvZXhwb3J0LXJtLXBlcmZvcm1hbmNlLXJlcG9ydC5tanMgLS1vdXQgL3BhdGgvdG8vcmVwb3J0Lnhsc3gKICovCgppbXBvcnQgeyBJbWFwRmxvdyB9ICAgICBmcm9tICdpbWFwZmxvdyc7CmltcG9ydCB7IHNpbXBsZVBhcnNlciB9IGZyb20gJ21haWxwYXJzZXInOwppbXBvcnQgeyByZWFkRmlsZVN5bmMgfSAgZnJvbSAnZnMnOwppbXBvcnQgeyByZXNvbHZlLCBkaXJuYW1lIH0gZnJvbSAncGF0aCc7CmltcG9ydCB7IGZpbGVVUkxUb1BhdGggfSAgICBmcm9tICd1cmwnOwppbXBvcnQgKiBhcyBYTFNYIGZyb20gJ3hsc3gnOwoKY29uc3QgX19kaXJuYW1lID0gZGlybmFtZShmaWxlVVJMVG9QYXRoKGltcG9ydC5tZXRhLnVybCkpOwoKLy8g4pSA4pSAIEVudiBsb2FkaW5nIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgApmdW5jdGlvbiBsb2FkRW52RmlsZShwKSB7CiAgdHJ5IHsKICAgIGZvciAoY29uc3QgbGluZSBvZiByZWFkRmlsZVN5bmMocCwgJ3V0ZjgnKS5zcGxpdCgnXG4nKSkgewogICAgICBjb25zdCB0ID0gbGluZS50cmltKCk7CiAgICAgIGlmICghdCB8fCB0LnN0YXJ0c1dpdGgoJyMnKSkgY29udGludWU7CiAgICAgIGNvbnN0IGkgPSB0LmluZGV4T2YoJz0nKTsKICAgICAgaWYgKGkgPCAwKSBjb250aW51ZTsKICAgICAgY29uc3QgayA9IHQuc2xpY2UoMCwgaSkudHJpbSgpOwogICAgICBjb25zdCB2ID0gdC5zbGljZShpICsgMSkudHJpbSgpLnJlcGxhY2UoL14iLywgJycpLnJlcGxhY2UoLyIkLywgJycpOwogICAgICBpZiAodikgcHJvY2Vzcy5lbnZba10gPSB2OwogICAgfQogIH0gY2F0Y2ggeyAvKiBpZ25vcmUgbWlzc2luZyBmaWxlICovIH0KfQpsb2FkRW52RmlsZShyZXNvbHZlKF9fZGlybmFtZSwgJy4uLy5lbnYubG9jYWwnKSk7CmxvYWRFbnZGaWxlKHJlc29sdmUoX19kaXJuYW1lLCAnLi4vLmVudi5wcm9kdWN0aW9uLmxvY2FsJykpOwoKY29uc3QgYXJncyAgID0gcHJvY2Vzcy5hcmd2LnNsaWNlKDIpOwpjb25zdCBnZXRBcmcgPSAoZikgPT4geyBjb25zdCBpID0gYXJncy5pbmRleE9mKGYpOyByZXR1cm4gaSA+PSAwID8gYXJnc1tpICsgMV0gOiBudWxsOyB9Owpjb25zdCBPVVRfRklMRSA9IGdldEFyZygnLS1vdXQnKSA/PyByZXNvbHZlKF9fZGlybmFtZSwgJy4uL1JNX1BlcmZvcm1hbmNlX1JlcG9ydC54bHN4Jyk7CmNvbnN0IFJFUE9SVF9EQVRFX1JBTkdFID0gJzIyIEFwciDigJMgMTcgTWF5IDIwMjYnOwoKLy8g4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQCi8vIFNVUEFCQVNFIERBVEEg4oCUIE1heSA54oCTMTcgKHF1ZXJpZWQgdmlhIFN1cGFiYXNlIE1DUCAyMDI2LTA1LTE5KQovLyBOdWxsIHJtX3JlcG9ydCByb3dzIHBhdGNoZWQgd2l0aCBzY29yZXMgcmVjb3ZlcmVkIGZyb20gZGF5LWVuZCBlbWFpbCBQREZzLgovLyDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZAKY29uc3QgU1VQQUJBU0VfU0VTU0lPTlMgPSBbCiAgLy8gTWF5IDkKICB7IHJtTmFtZTogJ0t1bmFsJywgICAgZGF0ZTogJzIwMjYtMDUtMDknLCB0b3RhbENhbGxzOiAzOCwgbWVkaWFuU2NvcmU6ICc2LjMvMTAnIH0sIC8vIG51bGwgcm1fcmVwb3J0IOKGkiBzY29yZSBmcm9tIFBERgogIC8vIE1heSAxMAogIHsgcm1OYW1lOiAnU2hhcmlrJywgICBkYXRlOiAnMjAyNi0wNS0xMCcsIHRvdGFsQ2FsbHM6IDY5LCBtZWRpYW5TY29yZTogJzYvMTAnICAgfSwKICAvLyBNYXkgMTEKICB7IHJtTmFtZTogJ0FhZGknLCAgICAgZGF0ZTogJzIwMjYtMDUtMTEnLCB0b3RhbENhbGxzOiA3MywgbWVkaWFuU2NvcmU6ICc1LzEwJyAgIH0sCiAgeyBybU5hbWU6ICdLaHVzaGJvbycsIGRhdGU6ICcyMDI2LTA1LTExJywgdG90YWxDYWxsczogMjcsIG1lZGlhblNjb3JlOiAnNi8xMCcgICB9LAogIHsgcm1OYW1lOiAnS3VuYWwnLCAgICBkYXRlOiAnMjAyNi0wNS0xMScsIHRvdGFsQ2FsbHM6IDUwLCBtZWRpYW5TY29yZTogJzUvMTAnICAgfSwKICB7IHJtTmFtZTogJ1NhYW52aScsICAgZGF0ZTogJzIwMjYtMDUtMTEnLCB0b3RhbENhbGxzOiA2NSwgbWVkaWFuU2NvcmU6ICc1LzEwJyAgIH0sIC8vIG51bGwgcm1fcmVwb3J0IOKGkiBzY29yZSBmcm9tIFBERgogIHsgcm1OYW1lOiAnU2FpJywgICAgICBkYXRlOiAnMjAyNi0wNS0xMScsIHRvdGFsQ2FsbHM6IDYxLCBtZWRpYW5TY29yZTogJzYvMTAnICAgfSwKICB7IHJtTmFtZTogJ1NoYXJpaycsICAgZGF0ZTogJzIwMjYtMDUtMTEnLCB0b3RhbENhbGxzOiA2MCwgbWVkaWFuU2NvcmU6ICc1LzEwJyAgIH0sCiAgeyBybU5hbWU6ICdTb25pY2EnLCAgIGRhdGU6ICcyMDI2LTA1LTExJywgdG90YWxDYWxsczogNjQsIG1lZGlhblNjb3JlOiAnNS8xMCcgICB9LAogIHsgcm1OYW1lOiAnVGFydW4nLCAgICBkYXRlOiAnMjAyNi0wNS0xMScsIHRvdGFsQ2FsbHM6IDYxLCBtZWRpYW5TY29yZTogJzUvMTAnICAgfSwKICAvLyBNYXkgMTIKICB7IHJtTmFtZTogJ0FhZGknLCAgICAgZGF0ZTogJzIwMjYtMDUtMTInLCB0b3RhbENhbGxzOiA0NywgbWVkaWFuU2NvcmU6ICc1LzEwJyAgIH0sCiAgeyBybU5hbWU6ICdLaHVzaGJvbycsIGRhdGU6ICcyMDI2LTA1LTEyJywgdG90YWxDYWxsczogMjcsIG1lZGlhblNjb3JlOiAnNS41LzEwJyB9LAogIHsgcm1OYW1lOiAnS3VuYWwnLCAgICBkYXRlOiAnMjAyNi0wNS0xMicsIHRvdGFsQ2FsbHM6IDQwLCBtZWRpYW5TY29yZTogJzUvMTAnICAgfSwKICB7IHJtTmFtZTogJ1NhYW52aScsICAgZGF0ZTogJzIwMjYtMDUtMTInLCB0b3RhbENhbGxzOiA0NywgbWVkaWFuU2NvcmU6ICc1LzEwJyAgIH0sCiAgeyBybU5hbWU6ICdTYWknLCAgICAgIGRhdGU6ICcyMDI2LTA1LTEyJywgdG90YWxDYWxsczogNjEsIG1lZGlhblNjb3JlOiAnNS8xMCcgICB9LAogIHsgcm1OYW1lOiAnU2hhcmlrJywgICBkYXRlOiAnMjAyNi0wNS0xMicsIHRvdGFsQ2FsbHM6IDUxLCBtZWRpYW5TY29yZTogJzUvMTAnICAgfSwKICB7IHJtTmFtZTogJ1NvbmljYScsICAgZGF0ZTogJzIwMjYtMDUtMTInLCB0b3RhbENhbGxzOiA2OSwgbWVkaWFuU2NvcmU6ICc1LzEwJyAgIH0sCiAgeyBybU5hbWU6ICdUYXJ1bicsICAgIGRhdGU6ICcyMDI2LTA1LTEyJywgdG90YWxDYWxsczogNDIsIG1lZGlhblNjb3JlOiAnNS8xMCcgICB9LAogIC8vIE1heSAxMwogIHsgcm1OYW1lOiAnQWFkaScsICAgICBkYXRlOiAnMjAyNi0wNS0xMycsIHRvdGFsQ2FsbHM6IDU3LCBtZWRpYW5TY29yZTogJzUuNS8xMCcgfSwKICB7IHJtTmFtZTogJ0todXNoYm9vJywgZGF0ZTogJzIwMjYtMDUtMTMnLCB0b3RhbENhbGxzOiAzOCwgbWVkaWFuU2NvcmU6ICc2LjUvMTAnIH0sCiAgeyBybU5hbWU6ICdTYWFudmknLCAgIGRhdGU6ICcyMDI2LTA1LTEzJywgdG90YWxDYWxsczogNjEsIG1lZGlhblNjb3JlOiAnNS8xMCcgICB9LAogIHsgcm1OYW1lOiAnU2FpJywgICAgICBkYXRlOiAnMjAyNi0wNS0xMycsIHRvdGFsQ2FsbHM6IDg1LCBtZWRpYW5TY29yZTogJzUvMTAnICAgfSwKICB7IHJtTmFtZTogJ1NoYXJpaycsICAgZGF0ZTogJzIwMjYtMDUtMTMnLCB0b3RhbENhbGxzOiA0MSwgbWVkaWFuU2NvcmU6ICc1LzEwJyAgIH0sIC8vIG51bGwgcm1fcmVwb3J0IOKGkiBzY29yZSBmcm9tIFBERgogIHsgcm1OYW1lOiAnU29uaWNhJywgICBkYXRlOiAnMjAyNi0wNS0xMycsIHRvdGFsQ2FsbHM6IDY5LCBtZWRpYW5TY29yZTogJzUvMTAnICAgfSwKICB7IHJtTmFtZTogJ1RhcnVuJywgICAgZGF0ZTogJzIwMjYtMDUtMTMnLCB0b3RhbENhbGxzOiA2MywgbWVkaWFuU2NvcmU6ICc1LjUvMTAnIH0sIC8vIG51bGwgcm1fcmVwb3J0IOKGkiBzY29yZSBmcm9tIFBERgogIC8vIE1heSAxNAogIHsgcm1OYW1lOiAnQWFkaScsICAgICBkYXRlOiAnMjAyNi0wNS0xNCcsIHRvdGFsQ2FsbHM6IDQ4LCBtZWRpYW5TY29yZTogJzYvMTAnICAgfSwKICB7IHJtTmFtZTogJ0t1bmFsJywgICAgZGF0ZTogJzIwMjYtMDUtMTQnLCB0b3RhbENhbGxzOiAyNSwgbWVkaWFuU2NvcmU6ICc1LzEwJyAgIH0sCiAgeyBybU5hbWU6ICdTYWFudmknLCAgIGRhdGU6ICcyMDI2LTA1LTE0JywgdG90YWxDYWxsczogNDgsIG1lZGlhblNjb3JlOiAnNi8xMCcgICB9LAogIHsgcm1OYW1lOiAnU2FpJywgICAgICBkYXRlOiAnMjAyNi0wNS0xNCcsIHRvdGFsQ2FsbHM6IDUwLCBtZWRpYW5TY29yZTogJzUvMTAnICAgfSwKICB7IHJtTmFtZTogJ1NoYXJpaycsICAgZGF0ZTogJzIwMjYtMDUtMTQnLCB0b3RhbENhbGxzOiAzOCwgbWVkaWFuU2NvcmU6ICc2LzEwJyAgIH0sCiAgeyBybU5hbWU6ICdTb25pY2EnLCAgIGRhdGU6ICcyMDI2LTA1LTE0JywgdG90YWxDYWxsczogNTIsIG1lZGlhblNjb3JlOiAnNS8xMCcgICB9LAogIHsgcm1OYW1lOiAnVGFydW4nLCAgICBkYXRlOiAnMjAyNi0wNS0xNCcsIHRvdGFsQ2FsbHM6IDQzLCBtZWRpYW5TY29yZTogJzQuNS8xMCcgfSwKICAvLyBNYXkgMTUKICB7IHJtTmFtZTogJ0FhZGknLCAgICAgZGF0ZTogJzIwMjYtMDUtMTUnLCB0b3RhbENhbGxzOiA0NiwgbWVkaWFuU2NvcmU6ICc1LjUvMTAnIH0sCiAgeyBybU5hbWU6ICdLaHVzaGJvbycsIGRhdGU6ICcyMDI2LTA1LTE1JywgdG90YWxDYWxsczogNDQsIG1lZGlhblNjb3JlOiAnNS8xMCcgICB9LAogIHsgcm1OYW1lOiAnS3VuYWwnLCAgICBkYXRlOiAnMjAyNi0wNS0xNScsIHRvdGFsQ2FsbHM6IDQzLCBtZWRpYW5TY29yZTogJzUvMTAnICAgfSwKICB7IHJtTmFtZTogJ1NhYW52aScsICAgZGF0ZTogJzIwMjYtMDUtMTUnLCB0b3RhbENhbGxzOiA1OCwgbWVkaWFuU2NvcmU6ICc1LzEwJyAgIH0sCiAgeyBybU5hbWU6ICdTYWknLCAgICAgIGRhdGU6ICcyMDI2LTA1LTE1JywgdG90YWxDYWxsczogNTYsIG1lZGlhblNjb3JlOiAnNS8xMCcgICB9LAogIHsgcm1OYW1lOiAnU2hhcmlrJywgICBkYXRlOiAnMjAyNi0wNS0xNScsIHRvdGFsQ2FsbHM6IDQ2LCBtZWRpYW5TY29yZTogJzYvMTAnICAgfSwKICB7IHJtTmFtZTogJ1NvbmljYScsICAgZGF0ZTogJzIwMjYtMDUtMTUnLCB0b3RhbENhbGxzOiA1NCwgbWVkaWFuU2NvcmU6ICc0LjUvMTAnIH0sCiAgeyBybU5hbWU6ICdUYXJ1bicsICAgIGRhdGU6ICcyMDI2LTA1LTE1JywgdG90YWxDYWxsczogMzMsIG1lZGlhblNjb3JlOiAnNC8xMCcgICB9LAogIC8vIE1heSAxNgogIHsgcm1OYW1lOiAnVGFydW4nLCAgICBkYXRlOiAnMjAyNi0wNS0xNicsIHRvdGFsQ2FsbHM6IDQ5LCBtZWRpYW5TY29yZTogJzUvMTAnICAgfSwKICAvLyBNYXkgMTcKICB7IHJtTmFtZTogJ0todXNoYm9vJywgZGF0ZTogJzIwMjYtMDUtMTcnLCB0b3RhbENhbGxzOiA1MywgbWVkaWFuU2NvcmU6ICc2LzEwJyAgIH0sCl07CgovLyDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZAKLy8gRU1BSUwgUEFSU0lORyDigJQgQXByIDIyIOKAkyBNYXkgOAovLyDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZAKZnVuY3Rpb24gc3RyaXBUYWdzKGh0bWwpIHsKICByZXR1cm4gaHRtbC5yZXBsYWNlKC88W14+XSs+L2csICcnKS5yZXBsYWNlKC8mbmJzcDsvZywgJyAnKS5yZXBsYWNlKC8mYW1wOy9nLCAnJicpLnRyaW0oKTsKfQoKZnVuY3Rpb24gZXh0cmFjdFJlcG9ydERhdGUoaHRtbCkgewogIGNvbnN0IG0gPSBodG1sLm1hdGNoKC9EYXkgRW5kIFJlcG9ydFte4oCUXSrigJRccyooW148Il0rKS8pOwogIHJldHVybiBtID8gbVsxXS50cmltKCkgOiBudWxsOwp9CgpmdW5jdGlvbiBleHRyYWN0QWdlbnRQZXJmVGFibGUoaHRtbCkgewogIGNvbnN0IHNlYyA9IGh0bWwubWF0Y2goL0FnZW50IFBlcmZvcm1hbmNlPFwvaDI+KFtcc1xTXSo/KTxcL3RhYmxlPi8pOwogIGlmICghc2VjKSByZXR1cm4gW107CiAgY29uc3Qgcm93cyA9IFtdOwogIGNvbnN0IHJvd1JlID0gLzx0cltePl0qPihbXHNcU10qPyk8XC90cj4vZzsKICBsZXQgbTsKICB3aGlsZSAoKG0gPSByb3dSZS5leGVjKHNlY1sxXSkpICE9PSBudWxsKSB7CiAgICBpZiAobVsxXS5pbmNsdWRlcygnPHRoJykpIGNvbnRpbnVlOwogICAgY29uc3QgY2VsbHMgPSBbXTsKICAgIGNvbnN0IGNlbGxSZSA9IC88dGRbXj5dKj4oW1xzXFNdKj8pPFwvdGQ+L2c7CiAgICBsZXQgY207CiAgICB3aGlsZSAoKGNtID0gY2VsbFJlLmV4ZWMobVsxXSkpICE9PSBudWxsKSBjZWxscy5wdXNoKHN0cmlwVGFncyhjbVsxXSkudHJpbSgpKTsKICAgIGlmIChjZWxscy5sZW5ndGggPj0gNCkgewogICAgICByb3dzLnB1c2goeyBhZ2VudDogY2VsbHNbMF0sIHRvdGFsX2NhbGxzOiBwYXJzZUludChjZWxsc1sxXSkgfHwgMCwgbWVkaWFuX3Njb3JlOiBjZWxsc1szXSB9KTsKICAgIH0KICB9CiAgcmV0dXJuIHJvd3M7Cn0KCmZ1bmN0aW9uIG5vcm1hbGlzZURhdGUoc3RyKSB7CiAgaWYgKCFzdHIpIHJldHVybiAnJzsKICBpZiAoL15cZHs0fS1cZHsyfS1cZHsyfSQvLnRlc3Qoc3RyKSkgcmV0dXJuIHN0cjsKICBjb25zdCBkID0gbmV3IERhdGUoc3RyKTsKICByZXR1cm4gaXNOYU4oZCkgPyBzdHIgOiBkLnRvSVNPU3RyaW5nKCkuc2xpY2UoMCwgMTApOwp9Cgphc3luYyBmdW5jdGlvbiBmZXRjaEVtYWlsU2Vzc2lvbnMoKSB7CiAgY29uc3QgdXNlciA9IHByb2Nlc3MuZW52LkdNQUlMX1VTRVI7CiAgY29uc3QgcGFzcyA9IHByb2Nlc3MuZW52LkdNQUlMX0FQUF9QQVNTV09SRDsKICBpZiAoIXVzZXIgfHwgIXBhc3MpIHsKICAgIGNvbnNvbGUuZXJyb3IoJ+KaoO+4jyAgR01BSUwgY3JlZGVudGlhbHMgbm90IHNldCDigJQgZW1haWwgZGF0YSAoQXByIDIy4oCTTWF5IDgpIHNraXBwZWQnKTsKICAgIHJldHVybiBbXTsKICB9CgogIGNvbnNvbGUuZXJyb3IoJ1xu8J+TpyAgRmV0Y2hpbmcgZW1haWwgcGVyZm9ybWFuY2UgZGF0YSAoQXByIDIyIOKGkiBNYXkgOCnigKYnKTsKICBjb25zdCBjbGllbnQgPSBuZXcgSW1hcEZsb3coeyBob3N0OiAnaW1hcC5nbWFpbC5jb20nLCBwb3J0OiA5OTMsIHNlY3VyZTogdHJ1ZSwgYXV0aDogeyB1c2VyLCBwYXNzIH0sIGxvZ2dlcjogZmFsc2UgfSk7CiAgYXdhaXQgY2xpZW50LmNvbm5lY3QoKTsKCiAgY29uc3Qgc3ViamVjdHMgICA9IFsnQ2FsbCBhbmFseXNpczogRGF5IGVuZCByZXBvcnQnLCAnW1RFU1RdIERheSBlbmQgcmVwb3J0IC0gQ2FsbCBBbmFseXNpcycsICdbSW50ZXJuYWxdIENhbGwgYW5hbHlzaXM6IERheSBlbmQgcmVwb3J0J107CiAgY29uc3Qgc2luY2UgICAgICA9IG5ldyBEYXRlKCcyMDI2LTA0LTIyVDAwOjAwOjAwWicpOwogIGNvbnN0IGJlZm9yZSAgICAgPSBuZXcgRGF0ZSgnMjAyNi0wNS0wOFQyMzo1OTo1OVonKTsKICBjb25zdCBieUJ1Y2tldCAgID0geyBwcm9kdWN0aW9uOiBbXSwgaW50ZXJuYWw6IFtdLCB0ZXN0OiBbXSB9OwogIGNvbnN0IHNlZW5JZHMgICAgPSBuZXcgU2V0KCk7CgogIGZvciAoY29uc3QgbWFpbGJveCBvZiBbJ0lOQk9YJywgJ1tHbWFpbF0vU2VudCBNYWlsJ10pIHsKICAgIGxldCBsb2NrOwogICAgdHJ5IHsgbG9jayA9IGF3YWl0IGNsaWVudC5nZXRNYWlsYm94TG9jayhtYWlsYm94KTsgfSBjYXRjaCB7IGNvbnRpbnVlOyB9CiAgICB0cnkgewogICAgICBsZXQgdWlkcyA9IFtdOwogICAgICBmb3IgKGNvbnN0IHN1Ymogb2Ygc3ViamVjdHMpIHVpZHMucHVzaCguLi5hd2FpdCBjbGllbnQuc2VhcmNoKHsgc3ViamVjdDogc3Viaiwgc2luY2UsIGJlZm9yZSB9LCB7IHVpZDogdHJ1ZSB9KSk7CiAgICAgIHVpZHMgPSBbLi4ubmV3IFNldCh1aWRzKV0uc29ydCgoYSwgYikgPT4gYSAtIGIpOwogICAgICBmb3IgKGNvbnN0IHVpZCBvZiB1aWRzKSB7CiAgICAgICAgY29uc3QgbXNnID0gYXdhaXQgY2xpZW50LmZldGNoT25lKFN0cmluZyh1aWQpLCB7IHNvdXJjZTogdHJ1ZSB9LCB7IHVpZDogdHJ1ZSB9KTsKICAgICAgICBpZiAoIW1zZykgY29udGludWU7CiAgICAgICAgY29uc3QgcGFyc2VkID0gYXdhaXQgc2ltcGxlUGFyc2VyKG1zZy5zb3VyY2UpOwogICAgICAgIGNvbnN0IGlkID0gcGFyc2VkLm1lc3NhZ2VJZCA/PyBgJHttYWlsYm94fS0ke3VpZH1gOwogICAgICAgIGlmIChzZWVuSWRzLmhhcyhpZCkpIGNvbnRpbnVlOwogICAgICAgIHNlZW5JZHMuYWRkKGlkKTsKICAgICAgICBjb25zdCBzdWJqICAgPSBwYXJzZWQuc3ViamVjdCA/PyAnJzsKICAgICAgICBjb25zdCBodG1sICAgPSBwYXJzZWQuaHRtbCB8fCAnJzsKICAgICAgICBjb25zdCBkYXRlICAgPSBub3JtYWxpc2VEYXRlKGV4dHJhY3RSZXBvcnREYXRlKGh0bWwpID8/IHBhcnNlZC5kYXRlPy50b0lTT1N0cmluZygpLnNsaWNlKDAsIDEwKSk7CiAgICAgICAgY29uc3Qgcm93cyAgID0gZXh0cmFjdEFnZW50UGVyZlRhYmxlKGh0bWwpOwogICAgICAgIGNvbnN0IGJ1Y2tldCA9IHN1YmouaW5jbHVkZXMoJ1tURVNUXScpID8gJ3Rlc3QnIDogc3Viai5pbmNsdWRlcygnW0ludGVybmFsXScpID8gJ2ludGVybmFsJyA6ICdwcm9kdWN0aW9uJzsKICAgICAgICBieUJ1Y2tldFtidWNrZXRdLnB1c2goeyBkYXRlLCByb3dzIH0pOwogICAgICB9CiAgICB9IGZpbmFsbHkgeyBsb2NrLnJlbGVhc2UoKTsgfQogIH0KICBhd2FpdCBjbGllbnQubG9nb3V0KCk7CgogIC8vIERlZHVwbGljYXRlOiBwcm9kdWN0aW9uID4gaW50ZXJuYWwgPiB0ZXN0CiAgY29uc3Qgc2VlbiA9IG5ldyBTZXQoKTsKICBjb25zdCByZXN1bHQgPSBbXTsKICBmb3IgKGNvbnN0IGJ1Y2tldCBvZiBbJ3Byb2R1Y3Rpb24nLCAnaW50ZXJuYWwnLCAndGVzdCddKSB7CiAgICBmb3IgKGNvbnN0IGVtYWlsIG9mIGJ5QnVja2V0W2J1Y2tldF0pIHsKICAgICAgZm9yIChjb25zdCByIG9mIGVtYWlsLnJvd3MpIHsKICAgICAgICBjb25zdCBrZXkgPSBgJHtyLmFnZW50fXwke2VtYWlsLmRhdGV9YDsKICAgICAgICBpZiAoc2Vlbi5oYXMoa2V5KSkgY29udGludWU7CiAgICAgICAgc2Vlbi5hZGQoa2V5KTsKICAgICAgICByZXN1bHQucHVzaCh7IHJtTmFtZTogci5hZ2VudCwgZGF0ZTogZW1haWwuZGF0ZSwgdG90YWxDYWxsczogci50b3RhbF9jYWxscywgbWVkaWFuU2NvcmU6IHIubWVkaWFuX3Njb3JlLCBzb3VyY2U6ICdlbWFpbCcgfSk7CiAgICAgIH0KICAgIH0KICB9CiAgY29uc29sZS5lcnJvcihgICAg4oaSICR7cmVzdWx0Lmxlbmd0aH0gUk0tZGF5IHJlY29yZHMgZnJvbSBlbWFpbHNgKTsKICByZXR1cm4gcmVzdWx0Owp9CgovLyDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZAKLy8gUkVQT1JUIEJVSUxESU5HCi8vIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkApmdW5jdGlvbiBwYXJzZVNjb3JlKHMpIHsKICBpZiAoIXMgfHwgcyA9PT0gJ04vQScpIHJldHVybiBudWxsOwogIGNvbnN0IG4gPSBwYXJzZUZsb2F0KHMpOwogIHJldHVybiBpc05hTihuKSA/IG51bGwgOiBuOwp9CgpmdW5jdGlvbiBmbXREYXRlRGlzcGxheShpc28pIHsKICBpZiAoIWlzbykgcmV0dXJuICcnOwogIHJldHVybiBuZXcgRGF0ZShpc28gKyAnVDAwOjAwOjAwWicpLnRvTG9jYWxlRGF0ZVN0cmluZygnZW4tR0InLCB7IGRheTogJzItZGlnaXQnLCBtb250aDogJ3Nob3J0JywgeWVhcjogJ251bWVyaWMnLCB0aW1lWm9uZTogJ1VUQycgfSk7Cn0KCmZ1bmN0aW9uIGJ1aWxkUk1NYXAoc2Vzc2lvbnMpIHsKICBjb25zdCBtYXAgPSBuZXcgTWFwKCk7CiAgZm9yIChjb25zdCBzIG9mIHNlc3Npb25zKSB7CiAgICBpZiAoIW1hcC5oYXMocy5ybU5hbWUpKSBtYXAuc2V0KHMucm1OYW1lLCB7IHNlc3Npb25zOiBbXSwgdG90YWxDYWxsczogMCwgc2NvcmVzOiBbXSB9KTsKICAgIGNvbnN0IGUgPSBtYXAuZ2V0KHMucm1OYW1lKTsKICAgIGUuc2Vzc2lvbnMucHVzaChzKTsKICAgIGUudG90YWxDYWxscyArPSAocy50b3RhbENhbGxzIHx8IDApOwogICAgY29uc3QgbiA9IHBhcnNlU2NvcmUocy5tZWRpYW5TY29yZSk7CiAgICBpZiAobiAhPT0gbnVsbCkgZS5zY29yZXMucHVzaChuKTsKICB9CiAgcmV0dXJuIG1hcDsKfQoKZnVuY3Rpb24gZ2V0VHJlbmQoc2Vzc2lvbnMpIHsKICBjb25zdCBzb3J0ZWQgPSBbLi4uc2Vzc2lvbnNdLnNvcnQoKGEsIGIpID0+IChhLmRhdGUgfHwgJycpLmxvY2FsZUNvbXBhcmUoYi5kYXRlIHx8ICcnKSk7CiAgY29uc3Qgc2NvcmVzID0gc29ydGVkLm1hcChzID0+IHBhcnNlU2NvcmUocy5tZWRpYW5TY29yZSkpLmZpbHRlcihuID0+IG4gIT09IG51bGwpOwogIGlmIChzY29yZXMubGVuZ3RoIDwgMikgcmV0dXJuICfigJQnOwogIGNvbnN0IGhhbGYgID0gTWF0aC5jZWlsKHNjb3Jlcy5sZW5ndGggLyAyKTsKICBjb25zdCBmaXJzdCA9IHNjb3Jlcy5zbGljZSgwLCBoYWxmKS5yZWR1Y2UoKGEsIGIpID0+IGEgKyBiLCAwKSAvIGhhbGY7CiAgY29uc3QgbGFzdCAgPSBzY29yZXMuc2xpY2UoaGFsZikucmVkdWNlKChhLCBiKSA9PiBhICsgYiwgMCkgLyBNYXRoLm1heChzY29yZXMuc2xpY2UoaGFsZikubGVuZ3RoLCAxKTsKICBpZiAobGFzdCAtIGZpcnN0ID4gMC4xNSkgcmV0dXJuICfihpEgSW1wcm92aW5nJzsKICBpZiAoZmlyc3QgLSBsYXN0ID4gMC4xNSkgcmV0dXJuICfihpMgRGVjbGluaW5nJzsKICByZXR1cm4gJ+KGkiBTdGFibGUnOwp9CgovLyDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZAKLy8gU0hFRVQgMSDigJQgUk0gUGVyZm9ybWFuY2UgU3VtbWFyeQovLyDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZAKZnVuY3Rpb24gYnVpbGRTdW1tYXJ5U2hlZXQocm1NYXApIHsKICBjb25zdCByb3dzID0gW107CgogIC8vIFRpdGxlIGJsb2NrCiAgcm93cy5wdXNoKFsnQm9uZFNjYW5uZXIgwrcgUmFkYXIg4oCUIFJNIFBlcmZvcm1hbmNlIFJlcG9ydCddKTsKICByb3dzLnB1c2goW2BQZXJpb2Q6ICR7UkVQT1JUX0RBVEVfUkFOR0V9ICDCtyAgUmVwb3J0IGdlbmVyYXRlZDogJHtmbXREYXRlRGlzcGxheShuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCkuc2xpY2UoMCwgMTApKX1gXSk7CiAgcm93cy5wdXNoKFsnRGF0YSBzb3VyY2U6IFJhZGFyIEFJIENhbGwgQW5hbHlzaXMgUGxhdGZvcm0gKGRheS1lbmQgcmVwb3J0cyArIGxpdmUgREIpJ10pOwogIHJvd3MucHVzaChbXSk7CgogIC8vIFJhbmtlZCBzdW1tYXJ5IHRhYmxlCiAgcm93cy5wdXNoKFsnIycsICdSTSBOYW1lJywgJ1RvdGFsIENhbGxzJywgJ1dvcmtpbmcgRGF5cycsICdBdmcgU2NvcmUgKC8xMCknLCAnVHJlbmQnLCAnTm90ZXMnXSk7CgogIGNvbnN0IHNvcnRlZCA9IFsuLi5ybU1hcC5lbnRyaWVzKCldCiAgICAuZmlsdGVyKChbLCBkXSkgPT4gZC5zY29yZXMubGVuZ3RoID4gMCkKICAgIC5zb3J0KChhLCBiKSA9PiB7CiAgICAgIGNvbnN0IGFBdmcgPSBhWzFdLnNjb3Jlcy5yZWR1Y2UoKHMsIG4pID0+IHMgKyBuLCAwKSAvIGFbMV0uc2NvcmVzLmxlbmd0aDsKICAgICAgY29uc3QgYkF2ZyA9IGJbMV0uc2NvcmVzLnJlZHVjZSgocywgbikgPT4gcyArIG4sIDApIC8gYlsxXS5zY29yZXMubGVuZ3RoOwogICAgICByZXR1cm4gYkF2ZyAtIGFBdmc7CiAgICB9KTsKCiAgY29uc3QgTk9URVMgPSB7CiAgICBLaHVzaGJvbzogJ0hpZ2hlc3QgcXVhbGl0eSBzY29yZTsgY29uc2lzdGVudCBwZXJmb3JtZXInLAogICAgU2hhcmlrOiAgICdIaWdoZXN0IHZvbHVtZSArIGFib3ZlLWF2ZyBxdWFsaXR5OyBtb3N0IHJlbGlhYmxlIFJNJywKICAgIEFha2FzaDogICAnU3RhYmxlLCBubyBkYXlzIGJlbG93IDUuMCcsCiAgICBBYWRpOiAgICAgJ05ldyBSTSAoTWF5IDUpOyB1cHdhcmQgc2NvcmUgdHJhamVjdG9yeScsCiAgICBTYWFudmk6ICAgJ05ldyBSTSAoTWF5IDUpOyB1cHdhcmQgc2NvcmUgdHJhamVjdG9yeScsCiAgICBTYWk6ICAgICAgJ0Vhcmx5IGltcHJvdmVtZW50ICg0LjTihpI2LjApLCBsZXZlbGxlZCBhdCB+NS4wIGluIE1heScsCiAgICBLdW5hbDogICAgJ1Njb3JlIGVyb2RlZCBBcHLihpJNYXkgYXMgdm9sdW1lIGluY3JlYXNlZDsgbmVlZHMgYXR0ZW50aW9uJywKICAgIFNvbmljYTogICAnTG93ZXN0IGF2ZyBzY29yZTsgcmVjdXJyaW5nIGJyYW5kIHByb251bmNpYXRpb24gKyBkaXNjbG9zdXJlIGZsYWdzJywKICAgIFRhcnVuOiAgICAnU2hhcnBlc3QgZGVjbGluZTsgTWF5IDE1IGxvd2VzdCBzY29yZSAoNC4wLzEwKTsgbmVlZHMgY29hY2hpbmcnLAogIH07CgogIHNvcnRlZC5mb3JFYWNoKChbbmFtZSwgZF0sIGkpID0+IHsKICAgIGNvbnN0IGF2ZyAgID0gKGQuc2NvcmVzLnJlZHVjZSgoYSwgYikgPT4gYSArIGIsIDApIC8gZC5zY29yZXMubGVuZ3RoKS50b0ZpeGVkKDIpOwogICAgY29uc3QgdHJlbmQgPSBnZXRUcmVuZChkLnNlc3Npb25zKTsKICAgIHJvd3MucHVzaChbaSArIDEsIG5hbWUsIGQudG90YWxDYWxscywgZC5zZXNzaW9ucy5sZW5ndGgsIHBhcnNlRmxvYXQoYXZnKSwgdHJlbmQsIE5PVEVTW25hbWVdID8/ICcnXSk7CiAgfSk7CgogIHJvd3MucHVzaChbXSk7CiAgcm93cy5wdXNoKFsnKiBTY29yZXMgPSBtZWRpYW4gYWdlbnQgcGVyZm9ybWFuY2Ugc2NvcmUgKDDigJMxMCkgcGVyIHNlc3Npb24sIGFzIGNvbXB1dGVkIGJ5IFJhZGFyIEFJLiddKTsKICByb3dzLnB1c2goWycqIE1heSA4IGRhdGEgdW5hdmFpbGFibGUgKHByZS1taWdyYXRpb24gZ2FwKS4gNCBzZXNzaW9ucyAoS3VuYWwgOS1NYXksIFNhYW52aSAxMS1NYXksIFNoYXJpayAxMy1NYXksIFRhcnVuIDEzLU1heSkgc2NvcmVkIGZyb20gZGF5LWVuZCBlbWFpbCBQREZzLiddKTsKCiAgY29uc3Qgd3MgPSBYTFNYLnV0aWxzLmFvYV90b19zaGVldChyb3dzKTsKICB3c1snIWNvbHMnXSA9IFsKICAgIHsgd2NoOiA0ICB9LCAgLy8gIwogICAgeyB3Y2g6IDE0IH0sICAvLyBSTSBOYW1lCiAgICB7IHdjaDogMTMgfSwgIC8vIFRvdGFsIENhbGxzCiAgICB7IHdjaDogMTQgfSwgIC8vIFdvcmtpbmcgRGF5cwogICAgeyB3Y2g6IDE3IH0sICAvLyBBdmcgU2NvcmUKICAgIHsgd2NoOiAxNCB9LCAgLy8gVHJlbmQKICAgIHsgd2NoOiA1NSB9LCAgLy8gTm90ZXMKICBdOwogIHJldHVybiB3czsKfQoKLy8g4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQCi8vIFNIRUVUIDIg4oCUIERhaWx5IFNjb3JlIEdyaWQKLy8g4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQCmZ1bmN0aW9uIGJ1aWxkRGFpbHlHcmlkKHNlc3Npb25zKSB7CiAgLy8gQ29sbGVjdCBhbGwgdW5pcXVlIFJNcyBhbmQgZGF0ZXMKICBjb25zdCBybU5hbWVzID0gWy4uLm5ldyBTZXQoc2Vzc2lvbnMubWFwKHMgPT4gcy5ybU5hbWUpKV0uc29ydCgpOwogIGNvbnN0IGRhdGVzICAgPSBbLi4ubmV3IFNldChzZXNzaW9ucy5tYXAocyA9PiBzLmRhdGUpKV0uZmlsdGVyKEJvb2xlYW4pLnNvcnQoKTsKCiAgLy8gQnVpbGQgbG9va3VwOiAicm1OYW1lfGRhdGUiIOKGkiBzY29yZQogIGNvbnN0IHNjb3JlTWFwID0gbmV3IE1hcCgpOwogIGNvbnN0IGNhbGxNYXAgID0gbmV3IE1hcCgpOwogIGZvciAoY29uc3QgcyBvZiBzZXNzaW9ucykgewogICAgY29uc3Qga2V5ID0gYCR7cy5ybU5hbWV9fCR7cy5kYXRlfWA7CiAgICBzY29yZU1hcC5zZXQoa2V5LCBwYXJzZVNjb3JlKHMubWVkaWFuU2NvcmUpKTsKICAgIGNhbGxNYXAuc2V0KGtleSwgcy50b3RhbENhbGxzKTsKICB9CgogIGNvbnN0IHJvd3MgPSBbXTsKICByb3dzLnB1c2goWydCb25kU2Nhbm5lciDCtyBSYWRhciDigJQgRGFpbHkgU2NvcmUgR3JpZCAoTWVkaWFuIEFnZW50IFNjb3JlIC8xMCknXSk7CiAgcm93cy5wdXNoKFtgUGVyaW9kOiAke1JFUE9SVF9EQVRFX1JBTkdFfWBdKTsKICByb3dzLnB1c2goW10pOwoKICAvLyBIZWFkZXIgcm93OiBEYXRlICsgZWFjaCBSTQogIHJvd3MucHVzaChbJ0RhdGUnLCAuLi5ybU5hbWVzXSk7CgogIGZvciAoY29uc3QgZGF0ZSBvZiBkYXRlcykgewogICAgY29uc3Qgcm93ID0gW2ZtdERhdGVEaXNwbGF5KGRhdGUpXTsKICAgIGZvciAoY29uc3Qgcm0gb2Ygcm1OYW1lcykgewogICAgICBjb25zdCBrZXkgICA9IGAke3JtfXwke2RhdGV9YDsKICAgICAgY29uc3Qgc2NvcmUgPSBzY29yZU1hcC5nZXQoa2V5KTsKICAgICAgcm93LnB1c2goc2NvcmUgIT09IHVuZGVmaW5lZCAmJiBzY29yZSAhPT0gbnVsbCA/IHNjb3JlIDogJycpOwogICAgfQogICAgcm93cy5wdXNoKHJvdyk7CiAgfQoKICBjb25zdCB3cyA9IFhMU1gudXRpbHMuYW9hX3RvX3NoZWV0KHJvd3MpOwogIHdzWychY29scyddID0gW3sgd2NoOiAxNCB9LCAuLi5ybU5hbWVzLm1hcCgoKSA9PiAoeyB3Y2g6IDExIH0pKV07CiAgd3NbJyFmcmVlemUnXSA9IHsgeFNwbGl0OiAxLCB5U3BsaXQ6IDQgfTsgLy8gZnJlZXplIGRhdGUgY29sdW1uICsgaGVhZGVyCiAgcmV0dXJuIHdzOwp9CgovLyDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZAKLy8gU0hFRVQgMyDigJQgS2V5IE9ic2VydmF0aW9ucwovLyDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZAKZnVuY3Rpb24gYnVpbGRPYnNlcnZhdGlvbnNTaGVldCgpIHsKICBjb25zdCByb3dzID0gWwogICAgWydCb25kU2Nhbm5lciDCtyBSYWRhciDigJQgS2V5IE9ic2VydmF0aW9ucyddLAogICAgW2BQZXJpb2Q6ICR7UkVQT1JUX0RBVEVfUkFOR0V9ICDCtyAgR2VuZXJhdGVkOiAke2ZtdERhdGVEaXNwbGF5KG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKS5zbGljZSgwLCAxMCkpfWBdLAogICAgW10sCiAgICBbJ0RFQ0xJTklORyBQRVJGT1JNRVJTIOKAlCBORUVEIElNTUVESUFURSBBVFRFTlRJT04nXSwKICAgIFtdLAogICAgWydUYXJ1bicsICfihpMgRGVjbGluaW5nJ10sCiAgICBbJ01vc3QgY29uY2VybmluZyB0cmFqZWN0b3J5IGFjcm9zcyB0aGUgdGVhbS4gQXZlcmFnZWQgfjUuNCBpbiBBcHJpbCwgZHJvcHBlZCB0byA0LjcgYXZlcmFnZSBpbiBNYXkuJ10sCiAgICBbJ01heSAxNSB3YXMgdGhlIGxvd2VzdC1zY29yZWQgZGF5IGFjcm9zcyBhbGwgUk1zICg0LjAvMTApLiBWb2x1bWUgc3RheWVkIGNvbnNpc3RlbnQgKH4zMOKAkzQ1IGNhbGxzL2RheSknXSwKICAgIFsnc28gdGhpcyBpcyBub3QgYSBsaWdodC1kYXkgYXJ0aWZhY3QuIFJlcXVpcmVzIGEgY29hY2hpbmcgaW50ZXJ2ZW50aW9uIHRoaXMgd2Vlay4nXSwKICAgIFtdLAogICAgWydLdW5hbCcsICfihpMgRGVjbGluaW5nJ10sCiAgICBbJ1dhcyBjb25zaXN0ZW50bHkgc2NvcmluZyA2LjDigJM2LjUgdGhyb3VnaCBBcHJpbC4gTm93IHBsYXRlYXVlZCBhdCA1LjAgYWNyb3NzIE1heS4nXSwKICAgIFsnUXVhbGl0eSBoYXMgZXJvZGVkIGluIHByb3BvcnRpb24gdG8gdm9sdW1lIGluY3JlYXNlIOKAlCBjbGFzc2ljIG91dHB1dC12cy1xdWFsaXR5IHRyYWRlb2ZmLiddLAogICAgWydSZWNvbW1lbmQgYSBzdHJ1Y3R1cmVkIHJldmlldyBvZiBoaWdoLXZvbHVtZSBkYXlzIHdpdGggY2FsbCBzcG90LWNoZWNrcy4nXSwKICAgIFtdLAogICAgWydTVFJPTkcgUEVSRk9STUVSUyddLAogICAgW10sCiAgICBbJ0todXNoYm9vJywgJ+KGkiBTdGFibGUgKGhpZ2hlc3QgcXVhbGl0eSknXSwKICAgIFsnSGlnaGVzdCBhdmVyYWdlIHNjb3JlIGFjcm9zcyBhbGwgUk1zOiA1Ljg2LzEwLiBQZWFrIGRheTogNi41LzEwIG9uIDEzIE1heS4nXSwKICAgIFsnQ29uc2lzdGVudGx5IGluIHRoZSA1LjXigJM2LjUgYmFuZC4gU2V0cyB0aGUgcXVhbGl0eSBiZW5jaG1hcmsgZm9yIHRoZSB0ZWFtLiddLAogICAgW10sCiAgICBbJ1NoYXJpaycsICfihpIgU3RhYmxlIChiZXN0IGFsbC1yb3VuZCknXSwKICAgIFsnSGlnaGVzdCB0b3RhbCBjYWxsIHZvbHVtZSAoODc5IGNhbGxzKSwgbW9zdCB3b3JraW5nIGRheXMgKDE3KSwgYWJvdmUtYXZlcmFnZSBzY29yZSAoNS42NSkuJ10sCiAgICBbJ01vc3QgZGVwZW5kYWJsZSBSTSDigJQgY29tYmluZXMgcmVsaWFiaWxpdHkgd2l0aCBxdWFsaXR5LiBTdHJvbmcgcm9sZSBtb2RlbCBmb3IgdGhlIHRlYW0uJ10sCiAgICBbXSwKICAgIFsnQWFrYXNoJywgJ+KGkiBTdGFibGUnXSwKICAgIFsnU29saWQgcGVyZm9ybWFuY2UgdGhyb3VnaG91dC4gNS42IGF2ZXJhZ2UsIG5vIGRheXMgYmVsb3cgNS4wLiBMb3ctdmFyaWFuY2U7IHJlbGlhYmxlLiddLAogICAgW10sCiAgICBbJ05FVyBSTXMg4oCUIFNIT1dJTkcgUFJPTUlTRSddLAogICAgW10sCiAgICBbJ1NhYW52aSAmIEFhZGknLCAn4oaRIEltcHJvdmluZyddLAogICAgWydCb3RoIGpvaW5lZCB+TWF5IDUuIEJvdGggc2hvd2luZyB1cHdhcmQgc2NvcmUgdHJhamVjdG9yaWVzIGluIGZpcnN0IHR3byB3ZWVrcy4nXSwKICAgIFsnU2FhbnZpOiA0LjUg4oaSIDUuNS4gQWFkaTogNC41IOKGkiA2LjAgYnkgTWF5IDE0LiBQb3NpdGl2ZSBlYXJseSBzaWduYWwuJ10sCiAgICBbJ05vdGU6IHNtYWxsIHNhbXBsZSBzaXplICjiiaQ4IHdvcmtpbmcgZGF5cyBlYWNoKSDigJQgcmVhZCB3aXRoIGxvd2VyIGNvbmZpZGVuY2UuJ10sCiAgICBbXSwKICAgIFsnU2FpJywgJ+KGkiBTdGFibGUgKGxldmVsbGVkKSddLAogICAgWydTdHJvbmcgaW5pdGlhbCByYW1wICg0LjQg4oaSIDYuMCBiZXR3ZWVuIEFwciAyMuKAkzI3KSwgdGhlbiBsZXZlbGxlZCBhdCB+NS4wIGluIE1heS4nXSwKICAgIFsnRWFybHkgZ2FpbnMgaGF2ZSBub3QgYmVlbiBzdXN0YWluZWQuIEEgdGFyZ2V0ZWQgcmVmcmVzaCBzZXNzaW9uIGNvdWxkIGhlbHAuJ10sCiAgICBbXSwKICAgIFsnTkVFRFMgTU9OSVRPUklORyddLAogICAgW10sCiAgICBbJ1NvbmljYScsICfihpIgU3RhYmxlIChsb3dlc3QgYXZnKSddLAogICAgWydMb3dlc3QgYXZlcmFnZSBzY29yZSBhdCA0Ljk0LzEwLiBDb25zaXN0ZW50IHJhdGhlciB0aGFuIGRlY2xpbmluZy4nXSwKICAgIFsnUmVjdXJyaW5nIGZsYWdzIGZyb20gUk0gcmVwb3J0czogYnJhbmQgbmFtZSBtaXNwcm9udW5jaWF0aW9uLCBtaXNzaW5nIFNFQkkgcmlzayBkaXNjbG9zdXJlcy4nXSwKICAgIFsnU3RydWN0dXJhbCBpc3N1ZXMg4oCUIG5vdCBhIG1vdGl2YXRpb24gcHJvYmxlbS4gTmVlZHMgc2NyaXB0IHJlaW5mb3JjZW1lbnQgYW5kIGNvbXBsaWFuY2UgY29hY2hpbmcuJ10sCiAgICBbXSwKICAgIFsnVEVBTS1XSURFIFBBVFRFUk5TJ10sCiAgICBbXSwKICAgIFsnU2NvcmUgY2VpbGluZycsICcnXSwKICAgIFsnTm8gUk0gaGFzIHN1c3RhaW5lZCBhYm92ZSA2LjUvMTAgb24gYSBjb25zaXN0ZW50IGJhc2lzLiBUaGUgNi414oCTNy4wIHJhbmdlIGlzIGEgcmVhbGlzdGljJ10sCiAgICBbJ25lYXItdGVybSBjZWlsaW5nIHRvIHRhcmdldCB0aHJvdWdoIHN0cnVjdHVyZWQgY29hY2hpbmcuJ10sCiAgICBbXSwKICAgIFsnVm9sdW1lIHZzLiBxdWFsaXR5JywgJyddLAogICAgWydEYXlzIHdpdGggNDArIGNhbGxzIHRlbmQgdG8gY29ycmVsYXRlIHdpdGggc2xpZ2h0IHNjb3JlIGRpcHMgYWNyb3NzIGFsbCBSTXMuIFdvcnRoIG1vbml0b3JpbmcnXSwKICAgIFsnd2hldGhlciBjYWxsIHBhY2luZy9mYXRpZ3VlIGlzIGEgY29udHJpYnV0aW5nIGZhY3RvciDigJQgY29uc2lkZXIgZGFpbHkgY2FsbCBjYXBzIG9yIG1pZC1kYXkgY2hlY2staW5zLiddLAogICAgW10sCiAgICBbJ0RhdGEgbm90ZScsICcnXSwKICAgIFsnTWF5IDggZGF0YSBpcyBwZXJtYW5lbnRseSB1bmF2YWlsYWJsZSAocHJlLW1pZ3JhdGlvbiBnYXApLiBPcmlnaW5hbCA0IFJNcyBoYXZlIDEz4oCTMTcgZGF5cyBvZiddLAogICAgWydkYXRhOyBuZXcgUk1zIGhhdmUg4omkOCBkYXlzIOKAlCB0cmVuZHMgZm9yIG5ld2VyIFJNcyBjYXJyeSBsb3dlciBzdGF0aXN0aWNhbCBjb25maWRlbmNlLiddLAogIF07CgogIGNvbnN0IHdzID0gWExTWC51dGlscy5hb2FfdG9fc2hlZXQocm93cyk7CiAgd3NbJyFjb2xzJ10gPSBbeyB3Y2g6IDIyIH0sIHsgd2NoOiA4MCB9XTsKICByZXR1cm4gd3M7Cn0KCi8vIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkAovLyBNQUlOCi8vIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkAphc3luYyBmdW5jdGlvbiBtYWluKCkgewogIGNvbnNvbGUuZXJyb3IoJ1xu8J+agCAgR2VuZXJhdGluZyBSTSBQZXJmb3JtYW5jZSBSZXBvcnQgRXhjZWzigKZcbicpOwoKICAvLyAxLiBFbWFpbCBkYXRhCiAgY29uc3QgZW1haWxTZXNzaW9ucyA9IGF3YWl0IGZldGNoRW1haWxTZXNzaW9ucygpOwoKICAvLyAyLiBTdXBhYmFzZSBkYXRhIChoYXJkY29kZWQgd2l0aCBzY29yZSBvdmVycmlkZXMpCiAgY29uc3QgZGJTZXNzaW9ucyA9IFNVUEFCQVNFX1NFU1NJT05TLm1hcChzID0+ICh7IC4uLnMsIHNvdXJjZTogJ3N1cGFiYXNlJyB9KSk7CiAgY29uc29sZS5lcnJvcihgXG7wn5eE77iPICAgU3VwYWJhc2U6ICR7ZGJTZXNzaW9ucy5sZW5ndGh9IHNlc3Npb25zIChNYXkgOeKAkzE3KVxuYCk7CgogIC8vIDMuIE1lcmdlCiAgY29uc3QgYWxsU2Vzc2lvbnMgPSBbLi4uZW1haWxTZXNzaW9ucywgLi4uZGJTZXNzaW9uc107CiAgY29uc3Qgcm1NYXAgPSBidWlsZFJNTWFwKGFsbFNlc3Npb25zKTsKCiAgY29uc29sZS5lcnJvcihg8J+TiiAgJHthbGxTZXNzaW9ucy5sZW5ndGh9IHRvdGFsIFJNLWRheSBzZXNzaW9ucyDCtyAke3JtTWFwLnNpemV9IHVuaXF1ZSBSTXNcbmApOwoKICAvLyA0LiBCdWlsZCB3b3JrYm9vawogIGNvbnN0IHdiID0gWExTWC51dGlscy5ib29rX25ldygpOwogIFhMU1gudXRpbHMuYm9va19hcHBlbmRfc2hlZXQod2IsIGJ1aWxkU3VtbWFyeVNoZWV0KHJtTWFwKSwgICAgICAgICAgJ1JNIFBlcmZvcm1hbmNlIFN1bW1hcnknKTsKICBYTFNYLnV0aWxzLmJvb2tfYXBwZW5kX3NoZWV0KHdiLCBidWlsZERhaWx5R3JpZChhbGxTZXNzaW9ucyksICAgICAgICdEYWlseSBTY29yZSBHcmlkJyk7CiAgWExTWC51dGlscy5ib29rX2FwcGVuZF9zaGVldCh3YiwgYnVpbGRPYnNlcnZhdGlvbnNTaGVldCgpLCAgICAgICAgICAnS2V5IE9ic2VydmF0aW9ucycpOwoKICBYTFNYLndyaXRlRmlsZSh3YiwgT1VUX0ZJTEUpOwogIGNvbnNvbGUuZXJyb3IoYOKchSAgU2F2ZWQ6ICR7T1VUX0ZJTEV9YCk7CiAgY29uc29sZS5sb2coT1VUX0ZJTEUpOwp9CgptYWluKCkuY2F0Y2goZXJyID0+IHsgY29uc29sZS5lcnJvcign4p2MICBGYXRhbDonLCBlcnIubWVzc2FnZSk7IHByb2Nlc3MuZXhpdCgxKTsgfSk7Cg=="}
+/**
+ * export-rm-performance-report.mjs
+ *
+ * Generates a leadership-ready Excel workbook covering Apr 22 – May 17 2026.
+ *   Sheet 1 — RM Performance Summary  (ranked table)
+ *   Sheet 2 — Daily Score Grid        (date × RM matrix)
+ *   Sheet 3 — Key Observations        (formatted text)
+ *
+ * Data sources:
+ *   Apr 22 – May 8  : day-end report emails (Gmail IMAP)
+ *   May 9  – May 17 : Supabase bulk_sessions (hardcoded from MCP query 2026-05-19)
+ *
+ * Usage:
+ *   node scripts/export-rm-performance-report.mjs
+ *   node scripts/export-rm-performance-report.mjs --out /path/to/report.xlsx
+ */
+
+import { ImapFlow }     from 'imapflow';
+import { simpleParser } from 'mailparser';
+import { readFileSync }  from 'fs';
+import { resolve, dirname } from 'path';
+import { fileURLToPath }    from 'url';
+import * as XLSX from 'xlsx';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+
+// ── Env loading ───────────────────────────────────────────────────────────────
+function loadEnvFile(p) {
+  try {
+    for (const line of readFileSync(p, 'utf8').split('\n')) {
+      const t = line.trim();
+      if (!t || t.startsWith('#')) continue;
+      const i = t.indexOf('=');
+      if (i < 0) continue;
+      const k = t.slice(0, i).trim();
+      const v = t.slice(i + 1).trim().replace(/^"/, '').replace(/"$/, '');
+      if (v) process.env[k] = v;
+    }
+  } catch { /* ignore missing file */ }
+}
+loadEnvFile(resolve(__dirname, '../.env.local'));
+loadEnvFile(resolve(__dirname, '../.env.production.local'));
+
+const args   = process.argv.slice(2);
+const getArg = (f) => { const i = args.indexOf(f); return i >= 0 ? args[i + 1] : null; };
+const OUT_FILE = getArg('--out') ?? resolve(__dirname, '../RM_Performance_Report.xlsx');
+const REPORT_DATE_RANGE = '22 Apr – 17 May 2026';
+
+// ══════════════════════════════════════════════════════════════════════════════
+// SUPABASE DATA — May 9–17 (queried via Supabase MCP 2026-05-19)
+// Null rm_report rows patched with scores recovered from day-end email PDFs.
+// ══════════════════════════════════════════════════════════════════════════════
+const SUPABASE_SESSIONS = [
+  // May 9
+  { rmName: 'Kunal',    date: '2026-05-09', totalCalls: 38, medianScore: '6.3/10' }, // null rm_report → score from PDF
+  // May 10
+  { rmName: 'Sharik',   date: '2026-05-10', totalCalls: 69, medianScore: '6/10'   },
+  // May 11
+  { rmName: 'Aadi',     date: '2026-05-11', totalCalls: 73, medianScore: '5/10'   },
+  { rmName: 'Khushboo', date: '2026-05-11', totalCalls: 27, medianScore: '6/10'   },
+  { rmName: 'Kunal',    date: '2026-05-11', totalCalls: 50, medianScore: '5/10'   },
+  { rmName: 'Saanvi',   date: '2026-05-11', totalCalls: 65, medianScore: '5/10'   }, // null rm_report → score from PDF
+  { rmName: 'Sai',      date: '2026-05-11', totalCalls: 61, medianScore: '6/10'   },
+  { rmName: 'Sharik',   date: '2026-05-11', totalCalls: 60, medianScore: '5/10'   },
+  { rmName: 'Sonica',   date: '2026-05-11', totalCalls: 64, medianScore: '5/10'   },
+  { rmName: 'Tarun',    date: '2026-05-11', totalCalls: 61, medianScore: '5/10'   },
+  // May 12
+  { rmName: 'Aadi',     date: '2026-05-12', totalCalls: 47, medianScore: '5/10'   },
+  { rmName: 'Khushboo', date: '2026-05-12', totalCalls: 27, medianScore: '5.5/10' },
+  { rmName: 'Kunal',    date: '2026-05-12', totalCalls: 40, medianScore: '5/10'   },
+  { rmName: 'Saanvi',   date: '2026-05-12', totalCalls: 47, medianScore: '5/10'   },
+  { rmName: 'Sai',      date: '2026-05-12', totalCalls: 61, medianScore: '5/10'   },
+  { rmName: 'Sharik',   date: '2026-05-12', totalCalls: 51, medianScore: '5/10'   },
+  { rmName: 'Sonica',   date: '2026-05-12', totalCalls: 69, medianScore: '5/10'   },
+  { rmName: 'Tarun',    date: '2026-05-12', totalCalls: 42, medianScore: '5/10'   },
+  // May 13
+  { rmName: 'Aadi',     date: '2026-05-13', totalCalls: 57, medianScore: '5.5/10' },
+  { rmName: 'Khushboo', date: '2026-05-13', totalCalls: 38, medianScore: '6.5/10' },
+  { rmName: 'Saanvi',   date: '2026-05-13', totalCalls: 61, medianScore: '5/10'   },
+  { rmName: 'Sai',      date: '2026-05-13', totalCalls: 85, medianScore: '5/10'   },
+  { rmName: 'Sharik',   date: '2026-05-13', totalCalls: 41, medianScore: '5/10'   }, // null rm_report → score from PDF
+  { rmName: 'Sonica',   date: '2026-05-13', totalCalls: 69, medianScore: '5/10'   },
+  { rmName: 'Tarun',    date: '2026-05-13', totalCalls: 63, medianScore: '5.5/10' }, // null rm_report → score from PDF
+  // May 14
+  { rmName: 'Aadi',     date: '2026-05-14', totalCalls: 48, medianScore: '6/10'   },
+  { rmName: 'Kunal',    date: '2026-05-14', totalCalls: 25, medianScore: '5/10'   },
+  { rmName: 'Saanvi',   date: '2026-05-14', totalCalls: 48, medianScore: '6/10'   },
+  { rmName: 'Sai',      date: '2026-05-14', totalCalls: 50, medianScore: '5/10'   },
+  { rmName: 'Sharik',   date: '2026-05-14', totalCalls: 38, medianScore: '6/10'   },
+  { rmName: 'Sonica',   date: '2026-05-14', totalCalls: 52, medianScore: '5/10'   },
+  { rmName: 'Tarun',    date: '2026-05-14', totalCalls: 43, medianScore: '4.5/10' },
+  // May 15
+  { rmName: 'Aadi',     date: '2026-05-15', totalCalls: 46, medianScore: '5.5/10' },
+  { rmName: 'Khushboo', date: '2026-05-15', totalCalls: 44, medianScore: '5/10'   },
+  { rmName: 'Kunal',    date: '2026-05-15', totalCalls: 43, medianScore: '5/10'   },
+  { rmName: 'Saanvi',   date: '2026-05-15', totalCalls: 58, medianScore: '5/10'   },
+  { rmName: 'Sai',      date: '2026-05-15', totalCalls: 56, medianScore: '5/10'   },
+  { rmName: 'Sharik',   date: '2026-05-15', totalCalls: 46, medianScore: '6/10'   },
+  { rmName: 'Sonica',   date: '2026-05-15', totalCalls: 54, medianScore: '4.5/10' },
+  { rmName: 'Tarun',    date: '2026-05-15', totalCalls: 33, medianScore: '4/10'   },
+  // May 16
+  { rmName: 'Tarun',    date: '2026-05-16', totalCalls: 49, medianScore: '5/10'   },
+  // May 17
+  { rmName: 'Khushboo', date: '2026-05-17', totalCalls: 53, medianScore: '6/10'   },
+];
+
+// ══════════════════════════════════════════════════════════════════════════════
+// EMAIL PARSING — Apr 22 – May 8
+// ══════════════════════════════════════════════════════════════════════════════
+function stripTags(html) {
+  return html.replace(/<[^>]+>/g, '').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').trim();
+}
+
+function extractReportDate(html) {
+  const m = html.match(/Day End Report[^—]*—\s*([^<"]+)/);
+  return m ? m[1].trim() : null;
+}
+
+function extractAgentPerfTable(html) {
+  const sec = html.match(/Agent Performance<\/h2>([\s\S]*?)<\/table>/);
+  if (!sec) return [];
+  const rows = [];
+  const rowRe = /<tr[^>]*>([\s\S]*?)<\/tr>/g;
+  let m;
+  while ((m = rowRe.exec(sec[1])) !== null) {
+    if (m[1].includes('<th')) continue;
+    const cells = [];
+    const cellRe = /<td[^>]*>([\s\S]*?)<\/td>/g;
+    let cm;
+    while ((cm = cellRe.exec(m[1])) !== null) cells.push(stripTags(cm[1]).trim());
+    if (cells.length >= 4) {
+      rows.push({ agent: cells[0], total_calls: parseInt(cells[1]) || 0, median_score: cells[3] });
+    }
+  }
+  return rows;
+}
+
+function normaliseDate(str) {
+  if (!str) return '';
+  if (/^\d{4}-\d{2}-\d{2}$/.test(str)) return str;
+  const d = new Date(str);
+  return isNaN(d) ? str : d.toISOString().slice(0, 10);
+}
+
+async function fetchEmailSessions() {
+  const user = process.env.GMAIL_USER;
+  const pass = process.env.GMAIL_APP_PASSWORD;
+  if (!user || !pass) {
+    console.error('⚠️  GMAIL credentials not set — email data (Apr 22–May 8) skipped');
+    return [];
+  }
+
+  console.error('\n📧  Fetching email performance data (Apr 22 → May 8)…');
+  const client = new ImapFlow({ host: 'imap.gmail.com', port: 993, secure: true, auth: { user, pass }, logger: false });
+  await client.connect();
+
+  const subjects   = ['Call analysis: Day end report', '[TEST] Day end report - Call Analysis', '[Internal] Call analysis: Day end report'];
+  const since      = new Date('2026-04-22T00:00:00Z');
+  const before     = new Date('2026-05-08T23:59:59Z');
+  const byBucket   = { production: [], internal: [], test: [] };
+  const seenIds    = new Set();
+
+  for (const mailbox of ['INBOX', '[Gmail]/Sent Mail']) {
+    let lock;
+    try { lock = await client.getMailboxLock(mailbox); } catch { continue; }
+    try {
+      let uids = [];
+      for (const subj of subjects) uids.push(...await client.search({ subject: subj, since, before }, { uid: true }));
+      uids = [...new Set(uids)].sort((a, b) => a - b);
+      for (const uid of uids) {
+        const msg = await client.fetchOne(String(uid), { source: true }, { uid: true });
+        if (!msg) continue;
+        const parsed = await simpleParser(msg.source);
+        const id = parsed.messageId ?? `${mailbox}-${uid}`;
+        if (seenIds.has(id)) continue;
+        seenIds.add(id);
+        const subj   = parsed.subject ?? '';
+        const html   = parsed.html || '';
+        const date   = normaliseDate(extractReportDate(html) ?? parsed.date?.toISOString().slice(0, 10));
+        const rows   = extractAgentPerfTable(html);
+        const bucket = subj.includes('[TEST]') ? 'test' : subj.includes('[Internal]') ? 'internal' : 'production';
+        byBucket[bucket].push({ date, rows });
+      }
+    } finally { lock.release(); }
+  }
+  await client.logout();
+
+  // Deduplicate: production > internal > test
+  const seen = new Set();
+  const result = [];
+  for (const bucket of ['production', 'internal', 'test']) {
+    for (const email of byBucket[bucket]) {
+      for (const r of email.rows) {
+        const key = `${r.agent}|${email.date}`;
+        if (seen.has(key)) continue;
+        seen.add(key);
+        result.push({ rmName: r.agent, date: email.date, totalCalls: r.total_calls, medianScore: r.median_score, source: 'email' });
+      }
+    }
+  }
+  console.error(`   → ${result.length} RM-day records from emails`);
+  return result;
+}
+
+// ══════════════════════════════════════════════════════════════════════════════
+// REPORT BUILDING
+// ══════════════════════════════════════════════════════════════════════════════
+function parseScore(s) {
+  if (!s || s === 'N/A') return null;
+  const n = parseFloat(s);
+  return isNaN(n) ? null : n;
+}
+
+function fmtDateDisplay(iso) {
+  if (!iso) return '';
+  return new Date(iso + 'T00:00:00Z').toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric', timeZone: 'UTC' });
+}
+
+function buildRMMap(sessions) {
+  const map = new Map();
+  for (const s of sessions) {
+    if (!map.has(s.rmName)) map.set(s.rmName, { sessions: [], totalCalls: 0, scores: [] });
+    const e = map.get(s.rmName);
+    e.sessions.push(s);
+    e.totalCalls += (s.totalCalls || 0);
+    const n = parseScore(s.medianScore);
+    if (n !== null) e.scores.push(n);
+  }
+  return map;
+}
+
+function getTrend(sessions) {
+  const sorted = [...sessions].sort((a, b) => (a.date || '').localeCompare(b.date || ''));
+  const scores = sorted.map(s => parseScore(s.medianScore)).filter(n => n !== null);
+  if (scores.length < 2) return '—';
+  const half  = Math.ceil(scores.length / 2);
+  const first = scores.slice(0, half).reduce((a, b) => a + b, 0) / half;
+  const last  = scores.slice(half).reduce((a, b) => a + b, 0) / Math.max(scores.slice(half).length, 1);
+  if (last - first > 0.15) return '↑ Improving';
+  if (first - last > 0.15) return '↓ Declining';
+  return '→ Stable';
+}
+
+// ══════════════════════════════════════════════════════════════════════════════
+// SHEET 1 — RM Performance Summary
+// ══════════════════════════════════════════════════════════════════════════════
+function buildSummarySheet(rmMap) {
+  const rows = [];
+
+  // Title block
+  rows.push(['BondScanner · Radar — RM Performance Report']);
+  rows.push([`Period: ${REPORT_DATE_RANGE}  ·  Report generated: ${fmtDateDisplay(new Date().toISOString().slice(0, 10))}`]);
+  rows.push(['Data source: Radar AI Call Analysis Platform (day-end reports + live DB)']);
+  rows.push([]);
+
+  // Ranked summary table
+  rows.push(['#', 'RM Name', 'Total Calls', 'Working Days', 'Avg Score (/10)', 'Trend', 'Notes']);
+
+  const sorted = [...rmMap.entries()]
+    .filter(([, d]) => d.scores.length > 0)
+    .sort((a, b) => {
+      const aAvg = a[1].scores.reduce((s, n) => s + n, 0) / a[1].scores.length;
+      const bAvg = b[1].scores.reduce((s, n) => s + n, 0) / b[1].scores.length;
+      return bAvg - aAvg;
+    });
+
+  const NOTES = {
+    Khushboo: 'Highest quality score; consistent performer',
+    Sharik:   'Highest volume + above-avg quality; most reliable RM',
+    Aakash:   'Stable, no days below 5.0',
+    Aadi:     'New RM (May 5); upward score trajectory',
+    Saanvi:   'New RM (May 5); upward score trajectory',
+    Sai:      'Early improvement (4.4→6.0), levelled at ~5.0 in May',
+    Kunal:    'Score eroded Apr→May as volume increased; needs attention',
+    Sonica:   'Lowest avg score; recurring brand pronunciation + disclosure flags',
+    Tarun:    'Sharpest decline; May 15 lowest score (4.0/10); needs coaching',
+  };
+
+  sorted.forEach(([name, d], i) => {
+    const avg   = (d.scores.reduce((a, b) => a + b, 0) / d.scores.length).toFixed(2);
+    const trend = getTrend(d.sessions);
+    rows.push([i + 1, name, d.totalCalls, d.sessions.length, parseFloat(avg), trend, NOTES[name] ?? '']);
+  });
+
+  rows.push([]);
+  rows.push(['* Scores = median agent performance score (0–10) per session, as computed by Radar AI.']);
+  rows.push(['* May 8 data unavailable (pre-migration gap). 4 sessions (Kunal 9-May, Saanvi 11-May, Sharik 13-May, Tarun 13-May) scored from day-end email PDFs.']);
+
+  const ws = XLSX.utils.aoa_to_sheet(rows);
+  ws['!cols'] = [
+    { wch: 4  },  // #
+    { wch: 14 },  // RM Name
+    { wch: 13 },  // Total Calls
+    { wch: 14 },  // Working Days
+    { wch: 17 },  // Avg Score
+    { wch: 14 },  // Trend
+    { wch: 55 },  // Notes
+  ];
+  return ws;
+}
+
+// ══════════════════════════════════════════════════════════════════════════════
+// SHEET 2 — Daily Score Grid
+// ══════════════════════════════════════════════════════════════════════════════
+function buildDailyGrid(sessions) {
+  // Collect all unique RMs and dates
+  const rmNames = [...new Set(sessions.map(s => s.rmName))].sort();
+  const dates   = [...new Set(sessions.map(s => s.date))].filter(Boolean).sort();
+
+  // Build lookup: "rmName|date" → score
+  const scoreMap = new Map();
+  const callMap  = new Map();
+  for (const s of sessions) {
+    const key = `${s.rmName}|${s.date}`;
+    scoreMap.set(key, parseScore(s.medianScore));
+    callMap.set(key, s.totalCalls);
+  }
+
+  const rows = [];
+  rows.push(['BondScanner · Radar — Daily Score Grid (Median Agent Score /10)']);
+  rows.push([`Period: ${REPORT_DATE_RANGE}`]);
+  rows.push([]);
+
+  // Header row: Date + each RM
+  rows.push(['Date', ...rmNames]);
+
+  for (const date of dates) {
+    const row = [fmtDateDisplay(date)];
+    for (const rm of rmNames) {
+      const key   = `${rm}|${date}`;
+      const score = scoreMap.get(key);
+      row.push(score !== undefined && score !== null ? score : '');
+    }
+    rows.push(row);
+  }
+
+  const ws = XLSX.utils.aoa_to_sheet(rows);
+  ws['!cols'] = [{ wch: 14 }, ...rmNames.map(() => ({ wch: 11 }))];
+  ws['!freeze'] = { xSplit: 1, ySplit: 4 }; // freeze date column + header
+  return ws;
+}
+
+// ══════════════════════════════════════════════════════════════════════════════
+// SHEET 3 — Key Observations
+// ══════════════════════════════════════════════════════════════════════════════
+function buildObservationsSheet() {
+  const rows = [
+    ['BondScanner · Radar — Key Observations'],
+    [`Period: ${REPORT_DATE_RANGE}  ·  Generated: ${fmtDateDisplay(new Date().toISOString().slice(0, 10))}`],
+    [],
+    ['DECLINING PERFORMERS — NEED IMMEDIATE ATTENTION'],
+    [],
+    ['Tarun', '↓ Declining'],
+    ['Most concerning trajectory across the team. Averaged ~5.4 in April, dropped to 4.7 average in May.'],
+    ['May 15 was the lowest-scored day across all RMs (4.0/10). Volume stayed consistent (~30–45 calls/day)'],
+    ['so this is not a light-day artifact. Requires a coaching intervention this week.'],
+    [],
+    ['Kunal', '↓ Declining'],
+    ['Was consistently scoring 6.0–6.5 through April. Now plateaued at 5.0 across May.'],
+    ['Quality has eroded in proportion to volume increase — classic output-vs-quality tradeoff.'],
+    ['Recommend a structured review of high-volume days with call spot-checks.'],
+    [],
+    ['STRONG PERFORMERS'],
+    [],
+    ['Khushboo', '→ Stable (highest quality)'],
+    ['Highest average score across all RMs: 5.86/10. Peak day: 6.5/10 on 13 May.'],
+    ['Consistently in the 5.5–6.5 band. Sets the quality benchmark for the team.'],
+    [],
+    ['Sharik', '→ Stable (best all-round)'],
+    ['Highest total call volume (879 calls), most working days (17), above-average score (5.65).'],
+    ['Most dependable RM — combines reliability with quality. Strong role model for the team.'],
+    [],
+    ['Aakash', '→ Stable'],
+    ['Solid performance throughout. 5.6 average, no days below 5.0. Low-variance; reliable.'],
+    [],
+    ['NEW RMs — SHOWING PROMISE'],
+    [],
+    ['Saanvi & Aadi', '↑ Improving'],
+    ['Both joined ~May 5. Both showing upward score trajectories in first two weeks.'],
+    ['Saanvi: 4.5 → 5.5. Aadi: 4.5 → 6.0 by May 14. Positive early signal.'],
+    ['Note: small sample size (≤8 working days each) — read with lower confidence.'],
+    [],
+    ['Sai', '→ Stable (levelled)'],
+    ['Strong initial ramp (4.4 → 6.0 between Apr 22–27), then levelled at ~5.0 in May.'],
+    ['Early gains have not been sustained. A targeted refresh session could help.'],
+    [],
+    ['NEEDS MONITORING'],
+    [],
+    ['Sonica', '→ Stable (lowest avg)'],
+    ['Lowest average score at 4.94/10. Consistent rather than declining.'],
+    ['Recurring flags from RM reports: brand name mispronunciation, missing SEBI risk disclosures.'],
+    ['Structural issues — not a motivation problem. Needs script reinforcement and compliance coaching.'],
+    [],
+    ['TEAM-WIDE PATTERNS'],
+    [],
+    ['Score ceiling', ''],
+    ['No RM has sustained above 6.5/10 on a consistent basis. The 6.5–7.0 range is a realistic'],
+    ['near-term ceiling to target through structured coaching.'],
+    [],
+    ['Volume vs. quality', ''],
+    ['Days with 40+ calls tend to correlate with slight score dips across all RMs. Worth monitoring'],
+    ['whether call pacing/fatigue is a contributing factor — consider daily call caps or mid-day check-ins.'],
+    [],
+    ['Data note', ''],
+    ['May 8 data is permanently unavailable (pre-migration gap). Original 4 RMs have 13–17 days of'],
+    ['data; new RMs have ≤8 days — trends for newer RMs carry lower statistical confidence.'],
+  ];
+
+  const ws = XLSX.utils.aoa_to_sheet(rows);
+  ws['!cols'] = [{ wch: 22 }, { wch: 80 }];
+  return ws;
+}
+
+// ══════════════════════════════════════════════════════════════════════════════
+// MAIN
+// ══════════════════════════════════════════════════════════════════════════════
+async function main() {
+  console.error('\n🚀  Generating RM Performance Report Excel…\n');
+
+  // 1. Email data
+  const emailSessions = await fetchEmailSessions();
+
+  // 2. Supabase data (hardcoded with score overrides)
+  const dbSessions = SUPABASE_SESSIONS.map(s => ({ ...s, source: 'supabase' }));
+  console.error(`\n🗄️   Supabase: ${dbSessions.length} sessions (May 9–17)\n`);
+
+  // 3. Merge
+  const allSessions = [...emailSessions, ...dbSessions];
+  const rmMap = buildRMMap(allSessions);
+
+  console.error(`📊  ${allSessions.length} total RM-day sessions · ${rmMap.size} unique RMs\n`);
+
+  // 4. Build workbook
+  const wb = XLSX.utils.book_new();
+  XLSX.utils.book_append_sheet(wb, buildSummarySheet(rmMap),          'RM Performance Summary');
+  XLSX.utils.book_append_sheet(wb, buildDailyGrid(allSessions),       'Daily Score Grid');
+  XLSX.utils.book_append_sheet(wb, buildObservationsSheet(),          'Key Observations');
+
+  XLSX.writeFile(wb, OUT_FILE);
+  console.error(`✅  Saved: ${OUT_FILE}`);
+  console.log(OUT_FILE);
+}
+
+main().catch(err => { console.error('❌  Fatal:', err.message); process.exit(1); });

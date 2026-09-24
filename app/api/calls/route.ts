@@ -1,1 +1,34 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlc3BvbnNlIH0gZnJvbSAnbmV4dC9zZXJ2ZXInOwppbXBvcnQgeyBnZXREYiB9IGZyb20gJ0AvbGliL2RiJzsKCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBHRVQoKSB7CiAgdHJ5IHsKICAgIGNvbnN0IHNxbCA9IGdldERiKCk7CiAgICBjb25zdCBbY2FsbHMsIHNlc3Npb25zXSA9IGF3YWl0IFByb21pc2UuYWxsKFsKICAgICAgc3FsYAogICAgICAgIFNFTEVDVCBjLiosCiAgICAgICAgICAoci50cmFuc2NyaXB0IElTIE5PVCBOVUxMIEFORCByLnRyYW5zY3JpcHQgPD4gJycpIEFTIGhhc190cmFuc2NyaXB0LAogICAgICAgICAgKAogICAgICAgICAgICBTRUxFQ1QgY3AudXNlcl9pZCBGUk9NIGN1c3RvbWVyX3Byb2ZpbGVzIGNwCiAgICAgICAgICAgIFdIRVJFIGNwLnBob25lID0gQ09BTEVTQ0Uoci5waG9uZSwgYy5wcm9zcGVjdF9uYW1lKQogICAgICAgICAgICBMSU1JVCAxCiAgICAgICAgICApIEFTIHVzZXJfaWQKICAgICAgICBGUk9NIGNhbGxzIGMKICAgICAgICBMRUZUIEpPSU4gcmVwb3J0cyByIE9OIHIuY2FsbF9pZCA9IGMuaWQKICAgICAgICBMRUZUIEpPSU4gYnVsa19zZXNzaW9ucyBicyBPTiBicy5pZCA9IGMuc2Vzc2lvbl9pZAogICAgICAgIFdIRVJFIChjLnNlc3Npb25faWQgSVMgTlVMTCBPUiBicy5hcmNoaXZlZF9hdCBJUyBOVUxMKQogICAgICAgIE9SREVSIEJZIGMuY3JlYXRlZF9hdCBERVNDCiAgICAgIGAsCiAgICAgIHNxbGAKICAgICAgICBTRUxFQ1QgaWQsIHJtX25hbWUsIHNlc3Npb25fZGF0ZSwgc3RhdHVzLCBkb2NfdXJsLCBzaGVldF91cmwsIGNyZWF0ZWRfYXQKICAgICAgICBGUk9NIGJ1bGtfc2Vzc2lvbnMKICAgICAgICBXSEVSRSBhcmNoaXZlZF9hdCBJUyBOVUxMCiAgICAgICAgT1JERVIgQlkgY3JlYXRlZF9hdCBERVNDCiAgICAgIGAsCiAgICBdKTsKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IGNhbGxzLCBzZXNzaW9ucyB9KTsKICB9IGNhdGNoIChlcnI6IHVua25vd24pIHsKICAgIGNvbnN0IG1lc3NhZ2UgPSBlcnIgaW5zdGFuY2VvZiBFcnJvciA/IGVyci5tZXNzYWdlIDogJ0ZhaWxlZCB0byBmZXRjaCBjYWxscyc7CiAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBlcnJvcjogbWVzc2FnZSB9LCB7IHN0YXR1czogNTAwIH0pOwogIH0KfQo="}
+import { NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+
+export async function GET() {
+  try {
+    const sql = getDb();
+    const [calls, sessions] = await Promise.all([
+      sql`
+        SELECT c.*,
+          (r.transcript IS NOT NULL AND r.transcript <> '') AS has_transcript,
+          (
+            SELECT cp.user_id FROM customer_profiles cp
+            WHERE cp.phone = COALESCE(r.phone, c.prospect_name)
+            LIMIT 1
+          ) AS user_id
+        FROM calls c
+        LEFT JOIN reports r ON r.call_id = c.id
+        LEFT JOIN bulk_sessions bs ON bs.id = c.session_id
+        WHERE (c.session_id IS NULL OR bs.archived_at IS NULL)
+        ORDER BY c.created_at DESC
+      `,
+      sql`
+        SELECT id, rm_name, session_date, status, doc_url, sheet_url, created_at
+        FROM bulk_sessions
+        WHERE archived_at IS NULL
+        ORDER BY created_at DESC
+      `,
+    ]);
+    return NextResponse.json({ calls, sessions });
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : 'Failed to fetch calls';
+    return NextResponse.json({ error: message }, { status: 500 });
+  }
+}

@@ -1,1 +1,206 @@
-{"data":"Ly8gQnJvd3Nlci1vbmx5IFNvbmFyIEFQSSBjbGllbnQg4oCUIGRvIG5vdCBpbXBvcnQgaW4gc2VydmVyLXNpZGUgY29kZS4KLy8gU29uYXIgaXMgb24gYSBwcml2YXRlIG5ldHdvcms7IG9ubHkgcmVhY2hhYmxlIGZyb20gYnJvd3NlcnMgb24gdGhlIGNvbXBhbnkgVlBOLgoKY29uc3QgU09OQVJfQkFTRSA9ICdodHRwczovL3NvbmFyLnN1c3R2ZXN0LmluL2FwaS92MSc7CmNvbnN0IFRPS0VOX0tFWSA9ICdzb25hcl9hdXRoX3Rva2VuJzsKCmV4cG9ydCBjb25zdCBnZXRTb25hclRva2VuID0gKCk6IHN0cmluZyB8IG51bGwgPT4KICB0eXBlb2Ygd2luZG93ICE9PSAndW5kZWZpbmVkJyA/IGxvY2FsU3RvcmFnZS5nZXRJdGVtKFRPS0VOX0tFWSkgOiBudWxsOwoKZXhwb3J0IGNvbnN0IHNldFNvbmFyVG9rZW4gPSAodG9rZW46IHN0cmluZyk6IHZvaWQgPT4KICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbShUT0tFTl9LRVksIHRva2VuLnRyaW0oKSk7CgpleHBvcnQgZnVuY3Rpb24gZGVjb2RlVG9rZW5FeHBpcnkodG9rZW46IHN0cmluZyk6IERhdGUgfCBudWxsIHsKICB0cnkgewogICAgY29uc3QgcGF5bG9hZCA9IEpTT04ucGFyc2UoYXRvYih0b2tlbi5zcGxpdCgnLicpWzFdKSk7CiAgICByZXR1cm4gcGF5bG9hZC5leHAgPyBuZXcgRGF0ZShwYXlsb2FkLmV4cCAqIDEwMDApIDogbnVsbDsKICB9IGNhdGNoIHsKICAgIHJldHVybiBudWxsOwogIH0KfQoKLy8gQWxsIGNhbGwgcmVjb3JkaW5ncyBoYXBwZW4gaW4gSVNULiBDb252ZXJ0IGEgIllZWVktTU0tREQiIGRhdGUgc3RyaW5nCi8vIChJU1QpIGludG8gVVRDIGJvdW5kYXJpZXMgc28gU29uYXIncyBjcmVhdGVkX2F0IGZpbHRlcnMgYXJlIGFjY3VyYXRlLgpmdW5jdGlvbiBpc3REYXlCb3VuZHMoZGF0ZTogc3RyaW5nKTogeyBzdGFydDogc3RyaW5nOyBlbmQ6IHN0cmluZyB9IHsKICByZXR1cm4gewogICAgc3RhcnQ6IG5ldyBEYXRlKGAke2RhdGV9VDAwOjAwOjAwKzA1OjMwYCkudG9JU09TdHJpbmcoKSwKICAgIGVuZDogICBuZXcgRGF0ZShgJHtkYXRlfVQyMzo1OTo1OSswNTozMGApLnRvSVNPU3RyaW5nKCksCiAgfTsKfQoKZXhwb3J0IGNvbnN0IFRBU0tfVElUTEVTID0gWwogICdLWUNfRFJPUF9PRkYnLAogICdQQVlNRU5UX0RST1BfT0ZGJywKICAnS1JBX01PRElGSUNBVElPTlMnLAogICdLWUNfVkVSSUZJQ0FUSU9OJywKICAnVVNFUl9DQUxMQkFDS19SRVFVRVNURUQnLAogICdVU0VSX1NJR05FRF9VUCcsCiAgJ1VTRVJfQ0FMTEVEJywKICAnTlNFX1VTRVJfQ1JFQVRJT04nLAogICdQQV9GVU5EX1BBWUlOR19QRU5ESU5HJywKICAnSU5JVElBVEVfUkZRX1NFQ1VSSVRZX1BBWUlORycsCiAgJ1JGUV9TRUNVUklUWV9QQVlJTkdfUEVORElORycsCl0gYXMgY29uc3Q7CgpleHBvcnQgdHlwZSBUYXNrVGl0bGUgPSB0eXBlb2YgVEFTS19USVRMRVNbbnVtYmVyXTsKCmV4cG9ydCBpbnRlcmZhY2UgU29uYXJPd25lciB7CiAgaWQ6IHN0cmluZzsKICBuYW1lOiBzdHJpbmc7CiAgZW1haWw6IHN0cmluZzsKfQoKZXhwb3J0IGludGVyZmFjZSBTb25hclRhc2sgewogIGlkOiBzdHJpbmc7CiAgdGl0bGU6IHN0cmluZzsKICBwaG9uZU51bWJlcj86IHN0cmluZzsKICB0YXNrX293bmVySWQ/OiBzdHJpbmc7CiAgdGFza19vd25lck5hbWU/OiBzdHJpbmc7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgU29uYXJSZWNvcmRpbmcgewogIGNhbGxJZDogc3RyaW5nOwogIGFnZW50TmFtZTogc3RyaW5nOwogIGRpcmVjdGlvbjogJ0lOQk9VTkQnIHwgJ09VVEJPVU5EJzsKICBzdGFydGVkQXQ6IHN0cmluZzsKICBhbnN3ZXJlZEF0OiBzdHJpbmcgfCBudWxsOwogIGVuZGVkQXQ6IHN0cmluZzsKICBkdXJhdGlvblNlY3M6IG51bWJlcjsKICBzaWduZWRVcmw6IHN0cmluZzsKfQoKLy8gRW5yaWNoZWQgcmVjb3JkaW5nIOKAlCByZWNvcmRpbmcgZGF0YSBtZXJnZWQgd2l0aCBwYXJlbnQgdGFzayBjb250ZXh0CmV4cG9ydCBpbnRlcmZhY2UgU2NhblJlY29yZGluZyB7CiAgc29uYXJDYWxsSWQ6IHN0cmluZzsKICBzb25hclRhc2tJZDogc3RyaW5nOwogIHNvbmFyVGFza05hbWU6IHN0cmluZzsKICBzaWduZWRVcmw6IHN0cmluZzsKICBkdXJhdGlvblNlY3M6IG51bWJlcjsKICBkaXJlY3Rpb246ICdJTkJPVU5EJyB8ICdPVVRCT1VORCc7CiAgc3RhcnRlZEF0OiBzdHJpbmc7CiAgYW5zd2VyZWRBdDogc3RyaW5nIHwgbnVsbDsKICBjdXN0b21lclBob25lOiBzdHJpbmcgfCBudWxsOwp9CgpmdW5jdGlvbiBoZWFkZXJzKHRva2VuOiBzdHJpbmcpOiBSZWNvcmQ8c3RyaW5nLCBzdHJpbmc+IHsKICByZXR1cm4geyAnQXV0aG9yaXphdGlvbic6IGBCZWFyZXIgJHt0b2tlbn1gLCAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH07Cn0KCmFzeW5jIGZ1bmN0aW9uIHBhZ2luYXRlVGFza3MoCiAgdG9rZW46IHN0cmluZywKICBmaWx0ZXJzOiBvYmplY3RbXSwKKTogUHJvbWlzZTxTb25hclRhc2tbXT4gewogIGNvbnN0IGFsbDogU29uYXJUYXNrW10gPSBbXTsKICBsZXQgcGFnZSA9IDA7CiAgd2hpbGUgKHRydWUpIHsKICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKGAke1NPTkFSX0JBU0V9L2dldC1hbGwtdGFza3NgLCB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICBoZWFkZXJzOiBoZWFkZXJzKHRva2VuKSwKICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoewogICAgICAgIGN1cnJlbnRQYWdlOiBwYWdlLAogICAgICAgIHBhZ2VTaXplOiA1MCwKICAgICAgICBzb3J0Qnk6ICdjcmVhdGVkX2F0JywKICAgICAgICBzb3J0RGlyOiAnREVTQycsCiAgICAgICAgZmlsdGVycywKICAgICAgfSksCiAgICB9KTsKICAgIGlmIChyZXMuc3RhdHVzID09PSA0MDEpIHRocm93IG5ldyBFcnJvcignNDAxJyk7CiAgICBpZiAoIXJlcy5vaykgdGhyb3cgbmV3IEVycm9yKGBTb25hciB0YXNrcyBmYWlsZWQ6ICR7cmVzLnN0YXR1c31gKTsKICAgIGNvbnN0IGRhdGEgPSBhd2FpdCByZXMuanNvbigpOwogICAgY29uc3QgcmVzdWx0czogU29uYXJUYXNrW10gPSBkYXRhLmRhdGE/LnJlc3VsdHMgPz8gW107CiAgICBhbGwucHVzaCguLi5yZXN1bHRzKTsKICAgIGlmIChyZXN1bHRzLmxlbmd0aCA8IDUwKSBicmVhazsKICAgIHBhZ2UrKzsKICB9CiAgcmV0dXJuIGFsbDsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGZldGNoT3duZXJzKHRva2VuOiBzdHJpbmcpOiBQcm9taXNlPFNvbmFyT3duZXJbXT4gewogIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKGAke1NPTkFSX0JBU0V9L2dldC1hbGwtb3duZXJzYCwgewogICAgbWV0aG9kOiAnUE9TVCcsCiAgICBoZWFkZXJzOiBoZWFkZXJzKHRva2VuKSwKICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsgcGFnZVNpemU6IDEwMCwgc2VhcmNoUGhyYXNlOiAnJyB9KSwKICB9KTsKICBpZiAocmVzLnN0YXR1cyA9PT0gNDAxKSB0aHJvdyBuZXcgRXJyb3IoJzQwMScpOwogIGlmICghcmVzLm9rKSB0aHJvdyBuZXcgRXJyb3IoYFNvbmFyIG93bmVycyBmYWlsZWQ6ICR7cmVzLnN0YXR1c31gKTsKICBjb25zdCBkYXRhID0gYXdhaXQgcmVzLmpzb24oKTsKICByZXR1cm4gZGF0YS5kYXRhPy5yZXN1bHRzID8/IFtdOwp9CgovLyBGZXRjaCBhbGwgdGFza3MgYXNzaWduZWQgdG8gYSBzcGVjaWZpYyBSTSBvbiBhIGdpdmVuIElTVCBkYXRlLgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gZmV0Y2hUYXNrc0Zvck93bmVyT25EYXRlKAogIHRva2VuOiBzdHJpbmcsCiAgb3duZXJJZDogc3RyaW5nLAogIGRhdGU6IHN0cmluZywKKTogUHJvbWlzZTxTb25hclRhc2tbXT4gewogIGNvbnN0IHsgc3RhcnQsIGVuZCB9ID0gaXN0RGF5Qm91bmRzKGRhdGUpOwogIHJldHVybiBwYWdpbmF0ZVRhc2tzKHRva2VuLCBbCiAgICB7IGZpZWxkOiAndGFza19vd25lcl9pZCcsIG9wZXJhdGlvbjogJ0VRVUFMUycsICAgICAgICAgICAgICAgICB2YWx1ZTogb3duZXJJZCB9LAogICAgeyBmaWVsZDogJ2NyZWF0ZWRfYXQnLCAgIG9wZXJhdGlvbjogJ0dSRUFURVJfVEhBTl9PUl9FUVVBTFMnLCB2YWx1ZTogc3RhcnQgfSwKICAgIHsgZmllbGQ6ICdjcmVhdGVkX2F0JywgICBvcGVyYXRpb246ICdMRVNTRVJfVEhBTl9PUl9FUVVBTFMnLCAgdmFsdWU6IGVuZCB9LAogIF0pOwp9CgovLyBGZXRjaCBhbGwgdGFza3MgbWF0Y2hpbmcgb25lIG9yIG1vcmUgdGFzayB0eXBlcyBvbiBhIGdpdmVuIElTVCBkYXRlLgovLyBSZXR1cm5zIHRhc2tzIGFjcm9zcyBhbGwgUk1zIOKAlCBncm91cCBieSB0YXNrX293bmVySWQgdG8gc3BsaXQgcGVyIFJNLgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gZmV0Y2hUYXNrc0J5VHlwZU9uRGF0ZSgKICB0b2tlbjogc3RyaW5nLAogIHRhc2tOYW1lczogc3RyaW5nW10sCiAgZGF0ZTogc3RyaW5nLAopOiBQcm9taXNlPFNvbmFyVGFza1tdPiB7CiAgY29uc3QgeyBzdGFydCwgZW5kIH0gPSBpc3REYXlCb3VuZHMoZGF0ZSk7CiAgcmV0dXJuIHBhZ2luYXRlVGFza3ModG9rZW4sIFsKICAgIHsgZmllbGQ6ICd0YXNrX25hbWUnLCAgb3BlcmF0aW9uOiAnSU4nLCAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6IHRhc2tOYW1lcyB9LAogICAgeyBmaWVsZDogJ2NyZWF0ZWRfYXQnLCBvcGVyYXRpb246ICdHUkVBVEVSX1RIQU5fT1JfRVFVQUxTJywgICB2YWx1ZTogc3RhcnQgfSwKICAgIHsgZmllbGQ6ICdjcmVhdGVkX2F0Jywgb3BlcmF0aW9uOiAnTEVTU0VSX1RIQU5fT1JfRVFVQUxTJywgICAgdmFsdWU6IGVuZCB9LAogIF0pOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gZmV0Y2hSZWNvcmRpbmdzRm9yVGFzaygKICB0b2tlbjogc3RyaW5nLAogIHRhc2tJZDogc3RyaW5nLAopOiBQcm9taXNlPFNvbmFyUmVjb3JkaW5nW10+IHsKICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChgJHtTT05BUl9CQVNFfS9jYWxsL3Rhc2svJHt0YXNrSWR9L3JlY29yZGluZ3NgLCB7CiAgICBoZWFkZXJzOiB7ICdBdXRob3JpemF0aW9uJzogYEJlYXJlciAke3Rva2VufWAgfSwKICB9KTsKICBpZiAocmVzLnN0YXR1cyA9PT0gNDA0KSByZXR1cm4gW107CiAgaWYgKHJlcy5zdGF0dXMgPT09IDQwMSkgdGhyb3cgbmV3IEVycm9yKCc0MDEnKTsKICBpZiAoIXJlcy5vaykgcmV0dXJuIFtdOwogIGNvbnN0IGRhdGEgPSBhd2FpdCByZXMuanNvbigpOwogIHJldHVybiBBcnJheS5pc0FycmF5KGRhdGEpID8gZGF0YSA6IChkYXRhLmRhdGEgPz8gW10pOwp9CgovLyBTaGFyZWQgaGVscGVyOiBnaXZlbiBhIGxpc3Qgb2YgdGFza3MsIGZldGNoIGFsbCB0aGVpciByZWNvcmRpbmdzIGluIHBhcmFsbGVsCi8vIGJhdGNoZXMgb2YgNSBhbmQgcmV0dXJuIGVucmljaGVkIFNjYW5SZWNvcmRpbmcgb2JqZWN0cy4KZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGZldGNoUmVjb3JkaW5nc0ZvclRhc2tzKAogIHRva2VuOiBzdHJpbmcsCiAgdGFza3M6IFNvbmFyVGFza1tdLAogIG9uUHJvZ3Jlc3M/OiAoZmV0Y2hlZDogbnVtYmVyLCB0b3RhbDogbnVtYmVyKSA9PiB2b2lkLAopOiBQcm9taXNlPFNjYW5SZWNvcmRpbmdbXT4gewogIGNvbnN0IGFsbDogU2NhblJlY29yZGluZ1tdID0gW107CiAgY29uc3QgQkFUQ0ggPSA1OwoKICBmb3IgKGxldCBpID0gMDsgaSA8IHRhc2tzLmxlbmd0aDsgaSArPSBCQVRDSCkgewogICAgY29uc3QgYmF0Y2ggPSB0YXNrcy5zbGljZShpLCBpICsgQkFUQ0gpOwogICAgY29uc3QgcmVzdWx0cyA9IGF3YWl0IFByb21pc2UuYWxsKAogICAgICBiYXRjaC5tYXAodGFzayA9PgogICAgICAgIGZldGNoUmVjb3JkaW5nc0ZvclRhc2sodG9rZW4sIHRhc2suaWQpLnRoZW4ocmVjcyA9PgogICAgICAgICAgcmVjcy5tYXAoKHIpOiBTY2FuUmVjb3JkaW5nID0+ICh7CiAgICAgICAgICAgIHNvbmFyQ2FsbElkOiAgIHIuY2FsbElkLAogICAgICAgICAgICBzb25hclRhc2tJZDogICB0YXNrLmlkLAogICAgICAgICAgICBzb25hclRhc2tOYW1lOiB0YXNrLnRpdGxlLAogICAgICAgICAgICBzaWduZWRVcmw6ICAgICByLnNpZ25lZFVybCwKICAgICAgICAgICAgZHVyYXRpb25TZWNzOiAgci5kdXJhdGlvblNlY3MsCiAgICAgICAgICAgIGRpcmVjdGlvbjogICAgIHIuZGlyZWN0aW9uLAogICAgICAgICAgICBzdGFydGVkQXQ6ICAgICByLnN0YXJ0ZWRBdCwKICAgICAgICAgICAgYW5zd2VyZWRBdDogICAgci5hbnN3ZXJlZEF0LAogICAgICAgICAgICBjdXN0b21lclBob25lOiB0YXNrLnBob25lTnVtYmVyID8/IG51bGwsCiAgICAgICAgICB9KSkKICAgICAgICApCiAgICAgICkKICAgICk7CiAgICBhbGwucHVzaCguLi5yZXN1bHRzLmZsYXQoKSk7CiAgICBvblByb2dyZXNzPy4oTWF0aC5taW4oaSArIEJBVENILCB0YXNrcy5sZW5ndGgpLCB0YXNrcy5sZW5ndGgpOwogIH0KICByZXR1cm4gYWxsOwp9Cg=="}
+// Browser-only Sonar API client — do not import in server-side code.
+// Sonar is on a private network; only reachable from browsers on the company VPN.
+
+const SONAR_BASE = 'https://sonar.sustvest.in/api/v1';
+const TOKEN_KEY = 'sonar_auth_token';
+
+export const getSonarToken = (): string | null =>
+  typeof window !== 'undefined' ? localStorage.getItem(TOKEN_KEY) : null;
+
+export const setSonarToken = (token: string): void =>
+  localStorage.setItem(TOKEN_KEY, token.trim());
+
+export function decodeTokenExpiry(token: string): Date | null {
+  try {
+    const payload = JSON.parse(atob(token.split('.')[1]));
+    return payload.exp ? new Date(payload.exp * 1000) : null;
+  } catch {
+    return null;
+  }
+}
+
+// All call recordings happen in IST. Convert a "YYYY-MM-DD" date string
+// (IST) into UTC boundaries so Sonar's created_at filters are accurate.
+function istDayBounds(date: string): { start: string; end: string } {
+  return {
+    start: new Date(`${date}T00:00:00+05:30`).toISOString(),
+    end:   new Date(`${date}T23:59:59+05:30`).toISOString(),
+  };
+}
+
+export const TASK_TITLES = [
+  'KYC_DROP_OFF',
+  'PAYMENT_DROP_OFF',
+  'KRA_MODIFICATIONS',
+  'KYC_VERIFICATION',
+  'USER_CALLBACK_REQUESTED',
+  'USER_SIGNED_UP',
+  'USER_CALLED',
+  'NSE_USER_CREATION',
+  'PA_FUND_PAYING_PENDING',
+  'INITIATE_RFQ_SECURITY_PAYING',
+  'RFQ_SECURITY_PAYING_PENDING',
+] as const;
+
+export type TaskTitle = typeof TASK_TITLES[number];
+
+export interface SonarOwner {
+  id: string;
+  name: string;
+  email: string;
+}
+
+export interface SonarTask {
+  id: string;
+  title: string;
+  phoneNumber?: string;
+  task_ownerId?: string;
+  task_ownerName?: string;
+}
+
+export interface SonarRecording {
+  callId: string;
+  agentName: string;
+  direction: 'INBOUND' | 'OUTBOUND';
+  startedAt: string;
+  answeredAt: string | null;
+  endedAt: string;
+  durationSecs: number;
+  signedUrl: string;
+}
+
+// Enriched recording — recording data merged with parent task context
+export interface ScanRecording {
+  sonarCallId: string;
+  sonarTaskId: string;
+  sonarTaskName: string;
+  signedUrl: string;
+  durationSecs: number;
+  direction: 'INBOUND' | 'OUTBOUND';
+  startedAt: string;
+  answeredAt: string | null;
+  customerPhone: string | null;
+}
+
+function headers(token: string): Record<string, string> {
+  return { 'Authorization': `Bearer ${token}`, 'Content-Type': 'application/json' };
+}
+
+async function paginateTasks(
+  token: string,
+  filters: object[],
+): Promise<SonarTask[]> {
+  const all: SonarTask[] = [];
+  let page = 0;
+  while (true) {
+    const res = await fetch(`${SONAR_BASE}/get-all-tasks`, {
+      method: 'POST',
+      headers: headers(token),
+      body: JSON.stringify({
+        currentPage: page,
+        pageSize: 50,
+        sortBy: 'created_at',
+        sortDir: 'DESC',
+        filters,
+      }),
+    });
+    if (res.status === 401) throw new Error('401');
+    if (!res.ok) throw new Error(`Sonar tasks failed: ${res.status}`);
+    const data = await res.json();
+    const results: SonarTask[] = data.data?.results ?? [];
+    all.push(...results);
+    if (results.length < 50) break;
+    page++;
+  }
+  return all;
+}
+
+export async function fetchOwners(token: string): Promise<SonarOwner[]> {
+  const res = await fetch(`${SONAR_BASE}/get-all-owners`, {
+    method: 'POST',
+    headers: headers(token),
+    body: JSON.stringify({ pageSize: 100, searchPhrase: '' }),
+  });
+  if (res.status === 401) throw new Error('401');
+  if (!res.ok) throw new Error(`Sonar owners failed: ${res.status}`);
+  const data = await res.json();
+  return data.data?.results ?? [];
+}
+
+// Fetch all tasks assigned to a specific RM on a given IST date.
+export async function fetchTasksForOwnerOnDate(
+  token: string,
+  ownerId: string,
+  date: string,
+): Promise<SonarTask[]> {
+  const { start, end } = istDayBounds(date);
+  return paginateTasks(token, [
+    { field: 'task_owner_id', operation: 'EQUALS',                 value: ownerId },
+    { field: 'created_at',   operation: 'GREATER_THAN_OR_EQUALS', value: start },
+    { field: 'created_at',   operation: 'LESSER_THAN_OR_EQUALS',  value: end },
+  ]);
+}
+
+// Fetch all tasks matching one or more task types on a given IST date.
+// Returns tasks across all RMs — group by task_ownerId to split per RM.
+export async function fetchTasksByTypeOnDate(
+  token: string,
+  taskNames: string[],
+  date: string,
+): Promise<SonarTask[]> {
+  const { start, end } = istDayBounds(date);
+  return paginateTasks(token, [
+    { field: 'task_name',  operation: 'IN',                       value: taskNames },
+    { field: 'created_at', operation: 'GREATER_THAN_OR_EQUALS',   value: start },
+    { field: 'created_at', operation: 'LESSER_THAN_OR_EQUALS',    value: end },
+  ]);
+}
+
+export async function fetchRecordingsForTask(
+  token: string,
+  taskId: string,
+): Promise<SonarRecording[]> {
+  const res = await fetch(`${SONAR_BASE}/call/task/${taskId}/recordings`, {
+    headers: { 'Authorization': `Bearer ${token}` },
+  });
+  if (res.status === 404) return [];
+  if (res.status === 401) throw new Error('401');
+  if (!res.ok) return [];
+  const data = await res.json();
+  return Array.isArray(data) ? data : (data.data ?? []);
+}
+
+// Shared helper: given a list of tasks, fetch all their recordings in parallel
+// batches of 5 and return enriched ScanRecording objects.
+export async function fetchRecordingsForTasks(
+  token: string,
+  tasks: SonarTask[],
+  onProgress?: (fetched: number, total: number) => void,
+): Promise<ScanRecording[]> {
+  const all: ScanRecording[] = [];
+  const BATCH = 5;
+
+  for (let i = 0; i < tasks.length; i += BATCH) {
+    const batch = tasks.slice(i, i + BATCH);
+    const results = await Promise.all(
+      batch.map(task =>
+        fetchRecordingsForTask(token, task.id).then(recs =>
+          recs.map((r): ScanRecording => ({
+            sonarCallId:   r.callId,
+            sonarTaskId:   task.id,
+            sonarTaskName: task.title,
+            signedUrl:     r.signedUrl,
+            durationSecs:  r.durationSecs,
+            direction:     r.direction,
+            startedAt:     r.startedAt,
+            answeredAt:    r.answeredAt,
+            customerPhone: task.phoneNumber ?? null,
+          }))
+        )
+      )
+    );
+    all.push(...results.flat());
+    onProgress?.(Math.min(i + BATCH, tasks.length), tasks.length);
+  }
+  return all;
+}

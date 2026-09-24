@@ -1,1 +1,79 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgZ2V0RGIgfSBmcm9tICdAL2xpYi9kYic7CgpleHBvcnQgY29uc3QgbWF4RHVyYXRpb24gPSA2MDsgLy8gUmVzZXR0aW5nIDYwKyBjYWxscyBjYW4gdGFrZSBhIG1vbWVudAoKLy8gRXh0cmFjdHMgRHJpdmUgZmlsZSBJRCBmcm9tIGFueSBEcml2ZSBVUkwgZm9ybWF0CmZ1bmN0aW9uIGV4dHJhY3REcml2ZUZpbGVJZCh1cmw6IHN0cmluZyk6IHN0cmluZyB8IG51bGwgewogIC8vIGdvb2dsZWFwaXMuY29tL2RyaXZlL3YzL2ZpbGVzL3tpZH0/YWx0PW1lZGlhCiAgY29uc3QgYXBpTWF0Y2ggPSB1cmwubWF0Y2goL1wvZmlsZXNcLyhbYS16QS1aMC05Xy1dKykvKTsKICBpZiAoYXBpTWF0Y2gpIHJldHVybiBhcGlNYXRjaFsxXTsKICAvLyBkcml2ZS5nb29nbGUuY29tL3VjP2lkPXtpZH0KICBjb25zdCB1Y01hdGNoID0gdXJsLm1hdGNoKC9bPyZdaWQ9KFthLXpBLVowLTlfLV0rKS8pOwogIGlmICh1Y01hdGNoKSByZXR1cm4gdWNNYXRjaFsxXTsKICByZXR1cm4gbnVsbDsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIFBPU1QocmVxOiBOZXh0UmVxdWVzdCkgewogIGNvbnN0IHsgc2Vzc2lvbklkIH0gPSBhd2FpdCByZXEuanNvbigpOwogIGlmICghc2Vzc2lvbklkKSByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBlcnJvcjogJ3Nlc3Npb25JZCByZXF1aXJlZCcgfSwgeyBzdGF0dXM6IDQwMCB9KTsKCiAgY29uc3Qgc3FsID0gZ2V0RGIoKTsKCiAgLy8gRmluZCBhbGwgY2FsbHMgaW4gc2Vzc2lvbiB0aGF0IG5lZWQgcmV0cnlpbmc6CiAgLy8gLSBzdGF0dXMgPSAnZXJyb3InCiAgLy8gLSBzdGF0dXMgPSAndXBsb2FkZWQnIOKAlCBuZXZlciBwcm9jZXNzZWQgKGJyb3dzZXIgbG9vcCBkaWVkIGJlZm9yZSByZWFjaGluZyB0aGVtKQogIC8vIC0gc3RhdHVzIHN0dWNrIGluIGludGVybWVkaWF0ZSBzdGF0ZSAodHJhbnNjcmliaW5nL2FuYWx5c2luZy9nZW5lcmF0aW5nKSDigJQgYnJvd3NlciBsb29wIGRpZWQgbWlkLWNhbGwKICAvLyAtIHN0YXR1cyA9ICdyZWFkeScgYnV0IHRyYW5zY3JpcHQgaXMgZW1wdHkKICBjb25zdCBzdGFsZSA9IGF3YWl0IHNxbGAKICAgIFNFTEVDVCBjLmlkLCBjLmRyaXZlX3VybAogICAgRlJPTSBjYWxscyBjCiAgICBMRUZUIEpPSU4gcmVwb3J0cyByIE9OIHIuY2FsbF9pZCA9IGMuaWQKICAgIFdIRVJFIGMuc2Vzc2lvbl9pZCA9ICR7c2Vzc2lvbklkfQogICAgICBBTkQgKAogICAgICAgIGMuc3RhdHVzIElOICgnZXJyb3InLCAndXBsb2FkZWQnLCAndHJhbnNjcmliaW5nJywgJ2FuYWx5c2luZycsICdnZW5lcmF0aW5nJykKICAgICAgICBPUiAoYy5zdGF0dXMgPSAncmVhZHknIEFORCAoci50cmFuc2NyaXB0IElTIE5VTEwgT1Igci50cmFuc2NyaXB0ID0gJycpKQogICAgICApCiAgYDsKCiAgaWYgKHN0YWxlLmxlbmd0aCA9PT0gMCkgewogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgbWVzc2FnZTogJ05vIGNhbGxzIG5lZWQgcmV0cnlpbmcnLCBjYWxsSWRzOiBbXSB9KTsKICB9CgogIGNvbnN0IGNhbGxJZHM6IHN0cmluZ1tdID0gW107CgogIGZvciAoY29uc3QgY2FsbCBvZiBzdGFsZSkgewogICAgY29uc3QgcmF3VXJsID0gU3RyaW5nKGNhbGwuZHJpdmVfdXJsID8/ICcnKS50cmltKCk7CiAgICBjb25zdCBmaWxlSWQgPSBleHRyYWN0RHJpdmVGaWxlSWQocmF3VXJsKTsKCiAgICAvLyBGaXggVVJMIHRvIHB1YmxpYyBleHBvcnQgZm9ybWF0IChhdm9pZHMgNDAzIGZyb20gQVBJIGtleSBkb3dubG9hZCkKICAgIGNvbnN0IGZpeGVkVXJsID0gZmlsZUlkCiAgICAgID8gYGh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS91Yz9leHBvcnQ9ZG93bmxvYWQmaWQ9JHtmaWxlSWR9JmNvbmZpcm09MWAKICAgICAgOiByYXdVcmw7CgogICAgLy8gUmVzZXQgY2FsbCB0byAndXBsb2FkZWQnIHdpdGggZml4ZWQgVVJMCiAgICBhd2FpdCBzcWxgCiAgICAgIFVQREFURSBjYWxscwogICAgICBTRVQgc3RhdHVzID0gJ3VwbG9hZGVkJywgZXJyb3JfbXNnID0gTlVMTCwgZHJpdmVfdXJsID0gJHtmaXhlZFVybH0KICAgICAgV0hFUkUgaWQgPSAke2NhbGwuaWR9CiAgICBgOwoKICAgIC8vIENsZWFyIHN0YWxlIHJlcG9ydCBkYXRhIGJ1dCBrZWVwIHBob25lCiAgICBhd2FpdCBzcWxgCiAgICAgIFVQREFURSByZXBvcnRzCiAgICAgIFNFVCB0cmFuc2NyaXB0ID0gTlVMTCwgc3VtbWFyeSA9IE5VTEwsIG91dGNvbWUgPSBOVUxMLAogICAgICAgICAgY3VzdG9tZXJfbmFtZSA9IE5VTEwsIGR1cmF0aW9uID0gTlVMTCwgY2FsbF9xdWFsaXR5ID0gTlVMTCwKICAgICAgICAgIGFnZW50X3BlcmZvcm1hbmNlID0gTlVMTCwgc2VudGltZW50ID0gTlVMTCwgc3BlYWtlcl9icmVha2Rvd24gPSBOVUxMLAogICAgICAgICAga2V5d29yZHMgPSBOVUxMLCB0b3BpY3MgPSBOVUxMLCBjb21wbGlhbmNlID0gTlVMTCwgYWN0aW9uX2l0ZW1zID0gTlVMTCwKICAgICAgICAgIGlucHV0X3Rva2VucyA9IDAsIG91dHB1dF90b2tlbnMgPSAwLCBjbGF1ZGVfbGF0ZW5jeV9tcyA9IE5VTEwKICAgICAgV0hFUkUgY2FsbF9pZCA9ICR7Y2FsbC5pZH0KICAgIGA7CgogICAgY2FsbElkcy5wdXNoKGNhbGwuaWQpOwogIH0KCiAgLy8gUmVzZXQgc2Vzc2lvbiBzdGF0dXMgc28gUk0gcmVwb3J0IGNhbiBiZSByZWdlbmVyYXRlZCBhZnRlciByZXRyeQogIGF3YWl0IHNxbGBVUERBVEUgYnVsa19zZXNzaW9ucyBTRVQgc3RhdHVzID0gJ3Byb2Nlc3NpbmcnIFdIRVJFIGlkID0gJHtzZXNzaW9uSWR9YDsKCiAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgY2FsbElkcywgdG90YWw6IGNhbGxJZHMubGVuZ3RoIH0pOwp9Cg=="}
+import { NextRequest, NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+
+export const maxDuration = 60; // Resetting 60+ calls can take a moment
+
+// Extracts Drive file ID from any Drive URL format
+function extractDriveFileId(url: string): string | null {
+  // googleapis.com/drive/v3/files/{id}?alt=media
+  const apiMatch = url.match(/\/files\/([a-zA-Z0-9_-]+)/);
+  if (apiMatch) return apiMatch[1];
+  // drive.google.com/uc?id={id}
+  const ucMatch = url.match(/[?&]id=([a-zA-Z0-9_-]+)/);
+  if (ucMatch) return ucMatch[1];
+  return null;
+}
+
+export async function POST(req: NextRequest) {
+  const { sessionId } = await req.json();
+  if (!sessionId) return NextResponse.json({ error: 'sessionId required' }, { status: 400 });
+
+  const sql = getDb();
+
+  // Find all calls in session that need retrying:
+  // - status = 'error'
+  // - status = 'uploaded' — never processed (browser loop died before reaching them)
+  // - status stuck in intermediate state (transcribing/analysing/generating) — browser loop died mid-call
+  // - status = 'ready' but transcript is empty
+  const stale = await sql`
+    SELECT c.id, c.drive_url
+    FROM calls c
+    LEFT JOIN reports r ON r.call_id = c.id
+    WHERE c.session_id = ${sessionId}
+      AND (
+        c.status IN ('error', 'uploaded', 'transcribing', 'analysing', 'generating')
+        OR (c.status = 'ready' AND (r.transcript IS NULL OR r.transcript = ''))
+      )
+  `;
+
+  if (stale.length === 0) {
+    return NextResponse.json({ message: 'No calls need retrying', callIds: [] });
+  }
+
+  const callIds: string[] = [];
+
+  for (const call of stale) {
+    const rawUrl = String(call.drive_url ?? '').trim();
+    const fileId = extractDriveFileId(rawUrl);
+
+    // Fix URL to public export format (avoids 403 from API key download)
+    const fixedUrl = fileId
+      ? `https://drive.google.com/uc?export=download&id=${fileId}&confirm=1`
+      : rawUrl;
+
+    // Reset call to 'uploaded' with fixed URL
+    await sql`
+      UPDATE calls
+      SET status = 'uploaded', error_msg = NULL, drive_url = ${fixedUrl}
+      WHERE id = ${call.id}
+    `;
+
+    // Clear stale report data but keep phone
+    await sql`
+      UPDATE reports
+      SET transcript = NULL, summary = NULL, outcome = NULL,
+          customer_name = NULL, duration = NULL, call_quality = NULL,
+          agent_performance = NULL, sentiment = NULL, speaker_breakdown = NULL,
+          keywords = NULL, topics = NULL, compliance = NULL, action_items = NULL,
+          input_tokens = 0, output_tokens = 0, claude_latency_ms = NULL
+      WHERE call_id = ${call.id}
+    `;
+
+    callIds.push(call.id);
+  }
+
+  // Reset session status so RM report can be regenerated after retry
+  await sql`UPDATE bulk_sessions SET status = 'processing' WHERE id = ${sessionId}`;
+
+  return NextResponse.json({ callIds, total: callIds.length });
+}

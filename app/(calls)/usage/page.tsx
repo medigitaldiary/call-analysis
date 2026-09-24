@@ -1,1 +1,9 @@
-{"data":"aW1wb3J0IFVzYWdlRGFzaGJvYXJkIGZyb20gJ0AvY29tcG9uZW50cy9jYWxscy9Vc2FnZURhc2hib2FyZCc7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBVc2FnZVBhZ2UoKSB7CiAgcmV0dXJuICgKICAgIDxkaXYgc3R5bGU9e3sgYmFja2dyb3VuZDogJ3ZhcigtLWNhcmQtYmcpJywgYm9yZGVyOiAnMXB4IHNvbGlkIHZhcigtLWNhcmQtYm9yZGVyKScsIGJvcmRlclJhZGl1czogMTAsIG92ZXJmbG93OiAnY2xpcCcgfX0+CiAgICAgIDxVc2FnZURhc2hib2FyZCAvPgogICAgPC9kaXY+CiAgKTsKfQo="}
+import UsageDashboard from '@/components/calls/UsageDashboard';
+
+export default function UsagePage() {
+  return (
+    <div style={{ background: 'var(--card-bg)', border: '1px solid var(--card-border)', borderRadius: 10, overflow: 'clip' }}>
+      <UsageDashboard />
+    </div>
+  );
+}

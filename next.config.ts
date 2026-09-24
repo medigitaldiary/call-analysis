@@ -1,1 +1,29 @@
-{"data":"aW1wb3J0IHR5cGUgeyBOZXh0Q29uZmlnIH0gZnJvbSAibmV4dCI7CmltcG9ydCAqIGFzIGZzIGZyb20gImZzIjsKaW1wb3J0ICogYXMgcGF0aCBmcm9tICJwYXRoIjsKCi8vIE1hbnVhbGx5IGxvYWQgLmVudi5sb2NhbCBzbyBUdXJib3BhY2sgZXhwb3NlcyB2YXJzIHRvIEFQSSByb3V0ZXMKZnVuY3Rpb24gbG9hZEVudkxvY2FsKCkgewogIGNvbnN0IGVudlBhdGggPSBwYXRoLmpvaW4ocHJvY2Vzcy5jd2QoKSwgIi5lbnYubG9jYWwiKTsKICBpZiAoIWZzLmV4aXN0c1N5bmMoZW52UGF0aCkpIHJldHVybiB7fTsKICBjb25zdCByZXN1bHQ6IFJlY29yZDxzdHJpbmcsIHN0cmluZz4gPSB7fTsKICBjb25zdCBsaW5lcyA9IGZzLnJlYWRGaWxlU3luYyhlbnZQYXRoLCAidXRmOCIpLnNwbGl0KCJcbiIpOwogIGZvciAoY29uc3QgbGluZSBvZiBsaW5lcykgewogICAgY29uc3QgdHJpbW1lZCA9IGxpbmUudHJpbSgpOwogICAgaWYgKCF0cmltbWVkIHx8IHRyaW1tZWQuc3RhcnRzV2l0aCgiIyIpKSBjb250aW51ZTsKICAgIGNvbnN0IGVxSWR4ID0gdHJpbW1lZC5pbmRleE9mKCI9Iik7CiAgICBpZiAoZXFJZHggPCAwKSBjb250aW51ZTsKICAgIGNvbnN0IGtleSA9IHRyaW1tZWQuc2xpY2UoMCwgZXFJZHgpLnRyaW0oKTsKICAgIGNvbnN0IHZhbCA9IHRyaW1tZWQuc2xpY2UoZXFJZHggKyAxKS50cmltKCkucmVwbGFjZSgvXlsiJ118WyInXSQvZywgIiIpOwogICAgcmVzdWx0W2tleV0gPSB2YWw7CiAgfQogIHJldHVybiByZXN1bHQ7Cn0KCmNvbnN0IGVudlZhcnMgPSBsb2FkRW52TG9jYWwoKTsKCmNvbnN0IG5leHRDb25maWc6IE5leHRDb25maWcgPSB7CiAgZW52OiBlbnZWYXJzLAp9OwoKZXhwb3J0IGRlZmF1bHQgbmV4dENvbmZpZzsK"}
+import type { NextConfig } from "next";
+import * as fs from "fs";
+import * as path from "path";
+
+// Manually load .env.local so Turbopack exposes vars to API routes
+function loadEnvLocal() {
+  const envPath = path.join(process.cwd(), ".env.local");
+  if (!fs.existsSync(envPath)) return {};
+  const result: Record<string, string> = {};
+  const lines = fs.readFileSync(envPath, "utf8").split("\n");
+  for (const line of lines) {
+    const trimmed = line.trim();
+    if (!trimmed || trimmed.startsWith("#")) continue;
+    const eqIdx = trimmed.indexOf("=");
+    if (eqIdx < 0) continue;
+    const key = trimmed.slice(0, eqIdx).trim();
+    const val = trimmed.slice(eqIdx + 1).trim().replace(/^["']|["']$/g, "");
+    result[key] = val;
+  }
+  return result;
+}
+
+const envVars = loadEnvLocal();
+
+const nextConfig: NextConfig = {
+  env: envVars,
+};
+
+export default nextConfig;

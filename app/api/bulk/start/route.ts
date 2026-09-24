@@ -1,1 +1,110 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgZ2V0RGIgfSBmcm9tICdAL2xpYi9kYic7CmltcG9ydCB7IHBhcnNlRm9sZGVySWRGcm9tVXJsLCBsaXN0RHJpdmVGaWxlcyB9IGZyb20gJ0AvbGliL2RyaXZlJzsKCmZ1bmN0aW9uIHN0cmlwSW50ZXJuYXRpb25hbFByZWZpeChkaWdpdHM6IHN0cmluZyk6IHN0cmluZyB8IG51bGwgewogIC8vIDAwICsgY291bnRyeSBjb2RlIDkxICsgMTAtZGlnaXQgbnVtYmVyID0gMTQgZGlnaXRzIHRvdGFsCiAgLy8gU3RyaXAgdGhlIGxlYWRpbmcgMDA5MSAoNCBjaGFycykgdG8gZ2V0IHRoZSAxMC1kaWdpdCBudW1iZXIKICBpZiAoZGlnaXRzLnN0YXJ0c1dpdGgoJzAwJykgJiYgZGlnaXRzLmxlbmd0aCA9PT0gMTQpIHsKICAgIHJldHVybiBkaWdpdHMuc2xpY2UoNCk7IC8vIHJlbW92ZXMgJzAwOTEnCiAgfQogIHJldHVybiBudWxsOwp9CgpmdW5jdGlvbiBleHRyYWN0UGhvbmVGcm9tRmlsZW5hbWUoZmlsZW5hbWU6IHN0cmluZyk6IHN0cmluZyB8IG51bGwgewogIGNvbnN0IG5hbWUgPSBmaWxlbmFtZS5yZXBsYWNlKC9cLlteLl0rJC8sICcnKTsgLy8gc3RyaXAgZXh0ZW5zaW9uCgogIGlmICgvXlxkLy50ZXN0KG5hbWUpKSB7CiAgICAvLyBTdGFydHMgd2l0aCBkaWdpdHMg4oCUIGdyYWIgdGhlIGxlYWRpbmcgZGlnaXQgc2VxdWVuY2UKICAgIGNvbnN0IHJhdyA9IG5hbWUubWF0Y2goL14oXGQrKS8pPy5bMV0gPz8gJyc7CiAgICBpZiAocmF3LnN0YXJ0c1dpdGgoJzAwJykpIHsKICAgICAgcmV0dXJuIHN0cmlwSW50ZXJuYXRpb25hbFByZWZpeChyYXcpOwogICAgfQogICAgLy8gUGxhaW4gMTAtZGlnaXQgbnVtYmVyIGF0IHRoZSBzdGFydAogICAgcmV0dXJuIHJhdy5sZW5ndGggPj0gMTAgPyByYXcuc2xpY2UoMCwgMTApIDogbnVsbDsKICB9IGVsc2UgewogICAgLy8gU3RhcnRzIHdpdGggbGV0dGVycyDigJQgZXh0cmFjdCBudW1iZXIgZnJvbSBsYXN0ICguLi4pIGJlZm9yZSB1bmRlcnNjb3JlCiAgICBjb25zdCByYXcgPSBuYW1lLm1hdGNoKC9cKChcZCspXCkoPz1bXihdKiQpLyk/LlsxXSA/PyAnJzsKICAgIGlmICghcmF3KSByZXR1cm4gbnVsbDsKICAgIGlmIChyYXcuc3RhcnRzV2l0aCgnMDAnKSkgewogICAgICByZXR1cm4gc3RyaXBJbnRlcm5hdGlvbmFsUHJlZml4KHJhdyk7CiAgICB9CiAgICByZXR1cm4gcmF3Lmxlbmd0aCA9PT0gMTAgPyByYXcgOiBudWxsOwogIH0KfQoKY29uc3QgREFJTFlfQ0FQID0gTnVtYmVyKHByb2Nlc3MuZW52LkRBSUxZX0NBTExfTElNSVQgPz8gMTAwKTsKCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBQT1NUKHJlcTogTmV4dFJlcXVlc3QpIHsKICBjb25zdCB7IHJtTmFtZSwgc2Vzc2lvbkRhdGUsIGZvbGRlclVybCwgc3Rha2Vob2xkZXJzLCBmaWxlSWRzIH0gPSBhd2FpdCByZXEuanNvbigpOwogIGNvbnN0IHNxbCA9IGdldERiKCk7CgogIHRyeSB7CiAgICBjb25zdCBmb2xkZXJJZCAgPSBwYXJzZUZvbGRlcklkRnJvbVVybChmb2xkZXJVcmwpOwogICAgY29uc3QgYWxsRmlsZXMgID0gYXdhaXQgbGlzdERyaXZlRmlsZXMoZm9sZGVySWQpOwoKICAgIC8vIFdoZW4gY2FsbGVkIGZyb20gY29tYmluZWQgdXBsb2FkLCBmaWxlSWRzIGZpbHRlcnMgdG8ganVzdCB0aGlzIFJNJ3MgZmlsZXMKICAgIGNvbnN0IGZpbGVJZFNldCA9IGZpbGVJZHMgJiYgZmlsZUlkcy5sZW5ndGggPiAwID8gbmV3IFNldDxzdHJpbmc+KGZpbGVJZHMpIDogbnVsbDsKICAgIGNvbnN0IGZpbGVzICAgICA9IGZpbGVJZFNldCA/IGFsbEZpbGVzLmZpbHRlcihmID0+IGZpbGVJZFNldC5oYXMoZi5pZCkpIDogYWxsRmlsZXM7CgogICAgaWYgKGZpbGVzLmxlbmd0aCA9PT0gMCkgewogICAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBlcnJvcjogJ05vIGF1ZGlvIGZpbGVzIGZvdW5kIGluIHRoZSBmb2xkZXIuIE1ha2Ugc3VyZSB0aGUgZm9sZGVyIGNvbnRhaW5zIGF1ZGlvIGZpbGVzIGFuZCBpcyBzaGFyZWQgcHVibGljbHkuJyB9LCB7IHN0YXR1czogNDAwIH0pOwogICAgfQoKICAgIC8vIOKUgOKUgCBEYWlseSBjYXAgY2hlY2sg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACiAgICBjb25zdCBbeyB0b2RheV9jb3VudCB9XSA9IGF3YWl0IHNxbGAKICAgICAgU0VMRUNUIENPVU5UKCopIEFTIHRvZGF5X2NvdW50IEZST00gY2FsbHMKICAgICAgV0hFUkUgREFURShjcmVhdGVkX2F0IEFUIFRJTUUgWk9ORSAnQXNpYS9Lb2xrYXRhJykgPSBDVVJSRU5UX0RBVEUgQVQgVElNRSBaT05FICdBc2lhL0tvbGthdGEnCiAgICBgOwogICAgY29uc3QgdXNlZFRvZGF5ICA9IE51bWJlcih0b2RheV9jb3VudCk7CiAgICBjb25zdCByZW1haW5pbmcgID0gREFJTFlfQ0FQIC0gdXNlZFRvZGF5OwoKICAgIGlmIChyZW1haW5pbmcgPD0gMCkgewogICAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oewogICAgICAgIGVycm9yOiBgRGFpbHkgbGltaXQgb2YgJHtEQUlMWV9DQVB9IGNhbGxzIHJlYWNoZWQgZm9yIHRvZGF5LiBVc2VkOiAke3VzZWRUb2RheX0vJHtEQUlMWV9DQVB9LiBUcnkgYWdhaW4gdG9tb3Jyb3cuYCwKICAgICAgfSwgeyBzdGF0dXM6IDQyOSB9KTsKICAgIH0KCiAgICBpZiAoZmlsZXMubGVuZ3RoID4gcmVtYWluaW5nKSB7CiAgICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7CiAgICAgICAgZXJyb3I6IGBUaGlzIGZvbGRlciBoYXMgJHtmaWxlcy5sZW5ndGh9IGZpbGVzIGJ1dCBvbmx5ICR7cmVtYWluaW5nfSBjYWxscyByZW1haW4gaW4gdG9kYXkncyBsaW1pdCAoJHt1c2VkVG9kYXl9LyR7REFJTFlfQ0FQfSB1c2VkKS4gUGxlYXNlIHJlZHVjZSB0aGUgZm9sZGVyIHRvICR7cmVtYWluaW5nfSBmaWxlcyBvciBmZXdlci5gLAogICAgICB9LCB7IHN0YXR1czogNDI5IH0pOwogICAgfQoKICAgIC8vIENyZWF0ZSBidWxrIHNlc3Npb24KICAgIGNvbnN0IFtzZXNzaW9uXSA9IGF3YWl0IHNxbGAKICAgICAgSU5TRVJUIElOVE8gYnVsa19zZXNzaW9ucyAocm1fbmFtZSwgc2Vzc2lvbl9kYXRlLCBmb2xkZXJfdXJsLCB0b3RhbF9maWxlcywgc3Rha2Vob2xkZXJzKQogICAgICBWQUxVRVMgKCR7cm1OYW1lfSwgJHtzZXNzaW9uRGF0ZX0sICR7Zm9sZGVyVXJsfSwgJHtmaWxlcy5sZW5ndGh9LCAke3N0YWtlaG9sZGVycyA/PyBbXX0pCiAgICAgIFJFVFVSTklORyAqCiAgICBgOwoKICAgIC8vIENyZWF0ZSBhIGNhbGwgcmVjb3JkIGZvciBlYWNoIGZpbGUKICAgIGNvbnN0IGNhbGxJZHM6IHN0cmluZ1tdID0gW107CiAgICBmb3IgKGNvbnN0IGZpbGUgb2YgZmlsZXMpIHsKICAgICAgLy8gVXNlIGRpcmVjdCBleHBvcnQgVVJMIOKAlCBBUEkga2V5IGRvd25sb2FkICg/YWx0PW1lZGlhKSByZXR1cm5zIDQwMyBmb3Igc29tZSBmaWxlcwogICAgICBjb25zdCBkcml2ZURvd25sb2FkVXJsID0gYGh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS91Yz9leHBvcnQ9ZG93bmxvYWQmaWQ9JHtmaWxlLmlkfSZjb25maXJtPTFgOwoKICAgICAgLy8gRXh0cmFjdCBwaG9uZSBudW1iZXIgZnJvbSBmaWxlbmFtZSDigJQgZm91ciBwb3NzaWJsZSBmb3JtYXRzOgogICAgICAvLyAxLiA5NjM0NzcyOTYxKDk2MzQ3NzI5NjEpX3RzLm1wMyAgICAgICAg4oaSIHN0YXJ0cyB3aXRoIGRpZ2l0cywgdGFrZSBmaXJzdCAxMAogICAgICAvLyAyLiAwMDkxNzAwNDMwNDUxMSguLi4pX3RzLm1wMyAgICAgICAgICAgIOKGkiBzdGFydHMgd2l0aCAwMCwgc3RyaXAgMDArOTEg4oaSIGxhc3QgMTAKICAgICAgLy8gMy4gTmFtZSgwMDkxOTIzMjQ4NTAzNSlfdHMubXAzICAgICAgICAgICDihpIgc3RhcnRzIHdpdGggbGV0dGVyLCBicmFja2V0IGhhcyAwMCs5MSsxMCwgc3RyaXAgMDArOTEKICAgICAgLy8gNC4gTmFtZSg3OTA3MTYzMTI1KV90cy5tcDMgICAgICAgICAgICAgIOKGkiBzdGFydHMgd2l0aCBsZXR0ZXIsIGJyYWNrZXQgaGFzIDEwIGRpZ2l0cywgdXNlIGFzLWlzCiAgICAgIGNvbnN0IHBob25lTnVtYmVyID0gZXh0cmFjdFBob25lRnJvbUZpbGVuYW1lKGZpbGUubmFtZSk7CiAgICAgIGNvbnN0IHByb3NwZWN0TGFiZWwgPSBwaG9uZU51bWJlciA/PyBmaWxlLm5hbWU7CgogICAgICBjb25zdCBbY2FsbF0gPSBhd2FpdCBzcWxgCiAgICAgICAgSU5TRVJUIElOVE8gY2FsbHMgKHByb3NwZWN0X25hbWUsIGNvbXBhbnksIHJlcF9uYW1lLCBjYWxsX3R5cGUsIGRyaXZlX3VybCwgc3Rha2Vob2xkZXJzLCBzdGF0dXMsIHNlc3Npb25faWQpCiAgICAgICAgVkFMVUVTICgke3Byb3NwZWN0TGFiZWx9LCAnQnVsayBTZXNzaW9uJywgJHtybU5hbWV9LCAnQnVsayBDYWxsJywgJHtkcml2ZURvd25sb2FkVXJsfSwgJHtzdGFrZWhvbGRlcnMgPz8gW119LCAndXBsb2FkZWQnLCAke3Nlc3Npb24uaWR9KQogICAgICAgIFJFVFVSTklORyBpZAogICAgICBgOwogICAgICAvLyBQcmUtcG9wdWxhdGUgcGhvbmUgaW4gcmVwb3J0cyByb3cgc28gVXNlciBWaWV3IGdyb3VwaW5nIHdvcmtzIGltbWVkaWF0ZWx5CiAgICAgIGF3YWl0IHNxbGBJTlNFUlQgSU5UTyByZXBvcnRzIChjYWxsX2lkLCBwaG9uZSkgVkFMVUVTICgke2NhbGwuaWR9LCAke3Bob25lTnVtYmVyfSlgOwogICAgICBjYWxsSWRzLnB1c2goY2FsbC5pZCk7CiAgICB9CgogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgc2Vzc2lvbklkOiBzZXNzaW9uLmlkLCBjYWxsSWRzLCB0b3RhbEZpbGVzOiBmaWxlcy5sZW5ndGgsIGZpbGVzIH0pOwogIH0gY2F0Y2ggKGVycjogdW5rbm93bikgewogICAgY29uc3QgbWVzc2FnZSA9IGVyciBpbnN0YW5jZW9mIEVycm9yID8gZXJyLm1lc3NhZ2UgOiAnRmFpbGVkIHRvIHN0YXJ0IGJ1bGsgc2Vzc2lvbic7CiAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBlcnJvcjogbWVzc2FnZSB9LCB7IHN0YXR1czogNTAwIH0pOwogIH0KfQo="}
+import { NextRequest, NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+import { parseFolderIdFromUrl, listDriveFiles } from '@/lib/drive';
+
+function stripInternationalPrefix(digits: string): string | null {
+  // 00 + country code 91 + 10-digit number = 14 digits total
+  // Strip the leading 0091 (4 chars) to get the 10-digit number
+  if (digits.startsWith('00') && digits.length === 14) {
+    return digits.slice(4); // removes '0091'
+  }
+  return null;
+}
+
+function extractPhoneFromFilename(filename: string): string | null {
+  const name = filename.replace(/\.[^.]+$/, ''); // strip extension
+
+  if (/^\d/.test(name)) {
+    // Starts with digits — grab the leading digit sequence
+    const raw = name.match(/^(\d+)/)?.[1] ?? '';
+    if (raw.startsWith('00')) {
+      return stripInternationalPrefix(raw);
+    }
+    // Plain 10-digit number at the start
+    return raw.length >= 10 ? raw.slice(0, 10) : null;
+  } else {
+    // Starts with letters — extract number from last (...) before underscore
+    const raw = name.match(/\((\d+)\)(?=[^(]*$)/)?.[1] ?? '';
+    if (!raw) return null;
+    if (raw.startsWith('00')) {
+      return stripInternationalPrefix(raw);
+    }
+    return raw.length === 10 ? raw : null;
+  }
+}
+
+const DAILY_CAP = Number(process.env.DAILY_CALL_LIMIT ?? 100);
+
+export async function POST(req: NextRequest) {
+  const { rmName, sessionDate, folderUrl, stakeholders, fileIds } = await req.json();
+  const sql = getDb();
+
+  try {
+    const folderId  = parseFolderIdFromUrl(folderUrl);
+    const allFiles  = await listDriveFiles(folderId);
+
+    // When called from combined upload, fileIds filters to just this RM's files
+    const fileIdSet = fileIds && fileIds.length > 0 ? new Set<string>(fileIds) : null;
+    const files     = fileIdSet ? allFiles.filter(f => fileIdSet.has(f.id)) : allFiles;
+
+    if (files.length === 0) {
+      return NextResponse.json({ error: 'No audio files found in the folder. Make sure the folder contains audio files and is shared publicly.' }, { status: 400 });
+    }
+
+    // ── Daily cap check ───────────────────────────────────────────────────
+    const [{ today_count }] = await sql`
+      SELECT COUNT(*) AS today_count FROM calls
+      WHERE DATE(created_at AT TIME ZONE 'Asia/Kolkata') = CURRENT_DATE AT TIME ZONE 'Asia/Kolkata'
+    `;
+    const usedToday  = Number(today_count);
+    const remaining  = DAILY_CAP - usedToday;
+
+    if (remaining <= 0) {
+      return NextResponse.json({
+        error: `Daily limit of ${DAILY_CAP} calls reached for today. Used: ${usedToday}/${DAILY_CAP}. Try again tomorrow.`,
+      }, { status: 429 });
+    }
+
+    if (files.length > remaining) {
+      return NextResponse.json({
+        error: `This folder has ${files.length} files but only ${remaining} calls remain in today's limit (${usedToday}/${DAILY_CAP} used). Please reduce the folder to ${remaining} files or fewer.`,
+      }, { status: 429 });
+    }
+
+    // Create bulk session
+    const [session] = await sql`
+      INSERT INTO bulk_sessions (rm_name, session_date, folder_url, total_files, stakeholders)
+      VALUES (${rmName}, ${sessionDate}, ${folderUrl}, ${files.length}, ${stakeholders ?? []})
+      RETURNING *
+    `;
+
+    // Create a call record for each file
+    const callIds: string[] = [];
+    for (const file of files) {
+      // Use direct export URL — API key download (?alt=media) returns 403 for some files
+      const driveDownloadUrl = `https://drive.google.com/uc?export=download&id=${file.id}&confirm=1`;
+
+      // Extract phone number from filename — four possible formats:
+      // 1. 9634772961(9634772961)_ts.mp3        → starts with digits, take first 10
+      // 2. 00917004304511(...)_ts.mp3            → starts with 00, strip 00+91 → last 10
+      // 3. Name(00919232485035)_ts.mp3           → starts with letter, bracket has 00+91+10, strip 00+91
+      // 4. Name(7907163125)_ts.mp3              → starts with letter, bracket has 10 digits, use as-is
+      const phoneNumber = extractPhoneFromFilename(file.name);
+      const prospectLabel = phoneNumber ?? file.name;
+
+      const [call] = await sql`
+        INSERT INTO calls (prospect_name, company, rep_name, call_type, drive_url, stakeholders, status, session_id)
+        VALUES (${prospectLabel}, 'Bulk Session', ${rmName}, 'Bulk Call', ${driveDownloadUrl}, ${stakeholders ?? []}, 'uploaded', ${session.id})
+        RETURNING id
+      `;
+      // Pre-populate phone in reports row so User View grouping works immediately
+      await sql`INSERT INTO reports (call_id, phone) VALUES (${call.id}, ${phoneNumber})`;
+      callIds.push(call.id);
+    }
+
+    return NextResponse.json({ sessionId: session.id, callIds, totalFiles: files.length, files });
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : 'Failed to start bulk session';
+    return NextResponse.json({ error: message }, { status: 500 });
+  }
+}

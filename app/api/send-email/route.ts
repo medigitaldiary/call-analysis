@@ -1,1 +1,52 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgZ2V0RGIgfSBmcm9tICdAL2xpYi9kYic7CmltcG9ydCB7IHNlbmRTdGFrZWhvbGRlckVtYWlsIH0gZnJvbSAnQC9saWIvZW1haWwnOwppbXBvcnQgdHlwZSB7IENhbGwsIFJlcG9ydCB9IGZyb20gJ0AvdHlwZXMnOwoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIFBPU1QocmVxOiBOZXh0UmVxdWVzdCkgewogIGNvbnN0IHsgY2FsbElkLCBzdGFrZWhvbGRlcnM6IGJvZHlTdGFrZWhvbGRlcnMgfSA9IGF3YWl0IHJlcS5qc29uKCk7CiAgY29uc3Qgc3FsID0gZ2V0RGIoKTsKCiAgdHJ5IHsKICAgIGNvbnN0IFtjYWxsXSA9IGF3YWl0IHNxbGBTRUxFQ1QgKiBGUk9NIGNhbGxzIFdIRVJFIGlkID0gJHtjYWxsSWR9YDsKICAgIGNvbnN0IFtyZXBvcnRdID0gYXdhaXQgc3FsYFNFTEVDVCAqIEZST00gcmVwb3J0cyBXSEVSRSBjYWxsX2lkID0gJHtjYWxsSWR9YDsKICAgIGlmICghY2FsbCB8fCAhcmVwb3J0KSB0aHJvdyBuZXcgRXJyb3IoJ0NhbGwgb3IgcmVwb3J0IG5vdCBmb3VuZCcpOwoKICAgIC8vIFVzZSBzdGFrZWhvbGRlcnMgZnJvbSByZXF1ZXN0IGJvZHkgaWYgcHJvdmlkZWQsIGVsc2UgZmFsbCBiYWNrIHRvIHNhdmVkIG9uZXMKICAgIGNvbnN0IHN0YWtlaG9sZGVyczogc3RyaW5nW10gPSBib2R5U3Rha2Vob2xkZXJzPy5sZW5ndGgKICAgICAgPyBib2R5U3Rha2Vob2xkZXJzCiAgICAgIDogY2FsbC5zdGFrZWhvbGRlcnMgPz8gW107CgogICAgaWYgKCFzdGFrZWhvbGRlcnMubGVuZ3RoKSB0aHJvdyBuZXcgRXJyb3IoJ05vIHN0YWtlaG9sZGVycyBkZWZpbmVkIGZvciB0aGlzIGNhbGwnKTsKCiAgICAvLyBQZXJzaXN0IHRoZSBzdGFrZWhvbGRlcnMgYmFjayB0byB0aGUgY2FsbCByZWNvcmQKICAgIGF3YWl0IHNxbGBVUERBVEUgY2FsbHMgU0VUIHN0YWtlaG9sZGVycyA9ICR7c3Rha2Vob2xkZXJzfSBXSEVSRSBpZCA9ICR7Y2FsbElkfWA7CiAgICBjYWxsLnN0YWtlaG9sZGVycyA9IHN0YWtlaG9sZGVyczsKCiAgICBsZXQgZG9jQnVmZmVyOiBCdWZmZXIgfCB1bmRlZmluZWQ7CiAgICBsZXQgc2hlZXRCdWZmZXI6IEJ1ZmZlciB8IHVuZGVmaW5lZDsKCiAgICBpZiAocmVwb3J0LmRvY191cmwpIHsKICAgICAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2gocmVwb3J0LmRvY191cmwpOwogICAgICBpZiAocmVzLm9rKSBkb2NCdWZmZXIgPSBCdWZmZXIuZnJvbShhd2FpdCByZXMuYXJyYXlCdWZmZXIoKSk7CiAgICB9CiAgICBpZiAocmVwb3J0LnNoZWV0X3VybCkgewogICAgICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChyZXBvcnQuc2hlZXRfdXJsKTsKICAgICAgaWYgKHJlcy5vaykgc2hlZXRCdWZmZXIgPSBCdWZmZXIuZnJvbShhd2FpdCByZXMuYXJyYXlCdWZmZXIoKSk7CiAgICB9CgogICAgY29uc3QgbWVzc2FnZUlkID0gYXdhaXQgc2VuZFN0YWtlaG9sZGVyRW1haWwoY2FsbCBhcyB1bmtub3duIGFzIENhbGwsIHJlcG9ydCBhcyB1bmtub3duIGFzIFJlcG9ydCwgZG9jQnVmZmVyLCBzaGVldEJ1ZmZlcik7CgogICAgYXdhaXQgc3FsYAogICAgICBVUERBVEUgcmVwb3J0cwogICAgICBTRVQgZW1haWxfc2VudF9hdCA9IE5PVygpLCBlbWFpbF9yZWNpcGllbnRzID0gJHtjYWxsLnN0YWtlaG9sZGVyc30KICAgICAgV0hFUkUgY2FsbF9pZCA9ICR7Y2FsbElkfQogICAgYDsKICAgIGF3YWl0IHNxbGBVUERBVEUgY2FsbHMgU0VUIHN0YXR1cyA9ICdzZW50JyBXSEVSRSBpZCA9ICR7Y2FsbElkfWA7CgogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgbWVzc2FnZUlkIH0pOwogIH0gY2F0Y2ggKGVycjogdW5rbm93bikgewogICAgY29uc3QgbWVzc2FnZSA9IGVyciBpbnN0YW5jZW9mIEVycm9yID8gZXJyLm1lc3NhZ2UgOiAnRW1haWwgc2VuZCBmYWlsZWQnOwogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgZXJyb3I6IG1lc3NhZ2UgfSwgeyBzdGF0dXM6IDUwMCB9KTsKICB9Cn0K"}
+import { NextRequest, NextResponse } from 'next/server';
+import { getDb } from '@/lib/db';
+import { sendStakeholderEmail } from '@/lib/email';
+import type { Call, Report } from '@/types';
+
+export async function POST(req: NextRequest) {
+  const { callId, stakeholders: bodyStakeholders } = await req.json();
+  const sql = getDb();
+
+  try {
+    const [call] = await sql`SELECT * FROM calls WHERE id = ${callId}`;
+    const [report] = await sql`SELECT * FROM reports WHERE call_id = ${callId}`;
+    if (!call || !report) throw new Error('Call or report not found');
+
+    // Use stakeholders from request body if provided, else fall back to saved ones
+    const stakeholders: string[] = bodyStakeholders?.length
+      ? bodyStakeholders
+      : call.stakeholders ?? [];
+
+    if (!stakeholders.length) throw new Error('No stakeholders defined for this call');
+
+    // Persist the stakeholders back to the call record
+    await sql`UPDATE calls SET stakeholders = ${stakeholders} WHERE id = ${callId}`;
+    call.stakeholders = stakeholders;
+
+    let docBuffer: Buffer | undefined;
+    let sheetBuffer: Buffer | undefined;
+
+    if (report.doc_url) {
+      const res = await fetch(report.doc_url);
+      if (res.ok) docBuffer = Buffer.from(await res.arrayBuffer());
+    }
+    if (report.sheet_url) {
+      const res = await fetch(report.sheet_url);
+      if (res.ok) sheetBuffer = Buffer.from(await res.arrayBuffer());
+    }
+
+    const messageId = await sendStakeholderEmail(call as unknown as Call, report as unknown as Report, docBuffer, sheetBuffer);
+
+    await sql`
+      UPDATE reports
+      SET email_sent_at = NOW(), email_recipients = ${call.stakeholders}
+      WHERE call_id = ${callId}
+    `;
+    await sql`UPDATE calls SET status = 'sent' WHERE id = ${callId}`;
+
+    return NextResponse.json({ messageId });
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : 'Email send failed';
+    return NextResponse.json({ error: message }, { status: 500 });
+  }
+}

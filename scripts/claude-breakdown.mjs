@@ -1,1 +1,175 @@
-{"data":"aW1wb3J0IHsgbmVvbiB9IGZyb20gJ0BuZW9uZGF0YWJhc2Uvc2VydmVybGVzcyc7CmltcG9ydCB7IHJlYWRGaWxlU3luYyB9IGZyb20gJ2ZzJzsKaW1wb3J0IHsgcmVzb2x2ZSwgZGlybmFtZSB9IGZyb20gJ3BhdGgnOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoIH0gZnJvbSAndXJsJzsKCmNvbnN0IF9fZGlybmFtZSA9IGRpcm5hbWUoZmlsZVVSTFRvUGF0aChpbXBvcnQubWV0YS51cmwpKTsKY29uc3QgZW52VGV4dCA9IHJlYWRGaWxlU3luYyhyZXNvbHZlKF9fZGlybmFtZSwgJy4uLy5lbnYubG9jYWwnKSwgJ3V0ZjgnKTsKZm9yIChjb25zdCBsaW5lIG9mIGVudlRleHQuc3BsaXQoJ1xuJykpIHsKICBjb25zdCB0ID0gbGluZS50cmltKCk7IGlmICghdCB8fCB0LnN0YXJ0c1dpdGgoJyMnKSkgY29udGludWU7CiAgY29uc3QgaSA9IHQuaW5kZXhPZignPScpOyBpZiAoaSA8IDApIGNvbnRpbnVlOwogIGNvbnN0IGsgPSB0LnNsaWNlKDAsIGkpLnRyaW0oKTsKICBsZXQgdiA9IHQuc2xpY2UoaSsxKS50cmltKCkucmVwbGFjZSgvXiIvLCcnKS5yZXBsYWNlKC8iJC8sJycpLnJlcGxhY2UoL1xcbi9nLCcnKTsKICBwcm9jZXNzLmVudltrXSA9IHY7Cn0KCmNvbnN0IHNxbCA9IG5lb24ocHJvY2Vzcy5lbnYuREFUQUJBU0VfVVJMKTsKCi8vIFByaWNpbmcKY29uc3QgUFJJQ0VfSU4gID0gMy4wICAvIDFfMDAwXzAwMDsgICAvLyAkMy4wMCBwZXIgMU0gaW5wdXQgdG9rZW5zCmNvbnN0IFBSSUNFX09VVCA9IDE1LjAgLyAxXzAwMF8wMDA7ICAgLy8gJDE1LjAwIHBlciAxTSBvdXRwdXQgdG9rZW5zCmNvbnN0IFVTRF9UT19JTlIgPSA4NDsgICAgICAgICAgICAgICAgIC8vIGFwcHJveCBleGNoYW5nZSByYXRlCgpmdW5jdGlvbiBjb3N0KGlucCwgb3V0KSB7IHJldHVybiBpbnAgKiBQUklDRV9JTiArIG91dCAqIFBSSUNFX09VVDsgfQpmdW5jdGlvbiBmbXQobikgeyByZXR1cm4gYCQke24udG9GaXhlZCg0KX1gOyB9CmZ1bmN0aW9uIGZtdElucihuKSB7IHJldHVybiBg4oK5JHsobiAqIFVTRF9UT19JTlIpLnRvRml4ZWQoMil9YDsgfQpmdW5jdGlvbiBmbXRUb2sobikgeyByZXR1cm4gYCR7KG4vMTAwMCkudG9GaXhlZCgxKX1LYDsgfQoKLy8g4pSA4pSAIDEuIFBlci1kYXk6IFRyYW5zY3JpcHQgYW5hbHlzaXMgKHJlcG9ydHMgdGFibGUpIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgApjb25zdCB0cmFuc2NyaXB0RGFpbHkgPSBhd2FpdCBzcWxgCiAgU0VMRUNUCiAgICBDT0FMRVNDRShEQVRFKGJzLnNlc3Npb25fZGF0ZSksIERBVEUoYy5jcmVhdGVkX2F0IEFUIFRJTUUgWk9ORSAnQXNpYS9Lb2xrYXRhJykpIEFTIGRheSwKICAgIENPVU5UKCopICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBjYWxscywKICAgIFNVTShyLmlucHV0X3Rva2VucykgICAgICAgICAgICAgICBBUyBpbnAsCiAgICBTVU0oci5vdXRwdXRfdG9rZW5zKSAgICAgICAgICAgICAgQVMgb3V0LAogICAgU1VNKGMuZHVyYXRpb25fc2VjKSAgICAgICAgICAgICAgIEFTIGF1ZGlvX3NlYwogIEZST00gcmVwb3J0cyByCiAgSk9JTiBjYWxscyBjIE9OIGMuaWQgPSByLmNhbGxfaWQKICBMRUZUIEpPSU4gYnVsa19zZXNzaW9ucyBicyBPTiBicy5pZCA9IGMuc2Vzc2lvbl9pZAogIFdIRVJFIChyLmlucHV0X3Rva2VucyA+IDAgT1Igci5vdXRwdXRfdG9rZW5zID4gMCkKICBHUk9VUCBCWSAxCiAgT1JERVIgQlkgMSBBU0MKYDsKCi8vIOKUgOKUgCAyLiBQZXItZGF5OiBSTSByZXBvcnQgZ2VuZXJhdGlvbiBkZWx0YSAoYnVsa19zZXNzaW9ucyBtaW51cyBwZXItY2FsbCkg4pSA4pSACmNvbnN0IHJtRGFpbHkgPSBhd2FpdCBzcWxgCiAgU0VMRUNUCiAgICBEQVRFKGJzLnNlc3Npb25fZGF0ZSkgQVMgZGF5LAogICAgU1VNKGJzLmlucHV0X3Rva2VucyAgLSBDT0FMRVNDRShyX2FnZy50b3RhbF9pbiwgIDApKSBBUyBpbnAsCiAgICBTVU0oYnMub3V0cHV0X3Rva2VucyAtIENPQUxFU0NFKHJfYWdnLnRvdGFsX291dCwgMCkpIEFTIG91dAogIEZST00gYnVsa19zZXNzaW9ucyBicwogIExFRlQgSk9JTiAoCiAgICBTRUxFQ1QgYy5zZXNzaW9uX2lkLAogICAgICBDT0FMRVNDRShTVU0oci5pbnB1dF90b2tlbnMpLCAgMCkgQVMgdG90YWxfaW4sCiAgICAgIENPQUxFU0NFKFNVTShyLm91dHB1dF90b2tlbnMpLCAwKSBBUyB0b3RhbF9vdXQKICAgIEZST00gY2FsbHMgYyBKT0lOIHJlcG9ydHMgciBPTiByLmNhbGxfaWQgPSBjLmlkCiAgICBHUk9VUCBCWSBjLnNlc3Npb25faWQKICApIHJfYWdnIE9OIHJfYWdnLnNlc3Npb25faWQgPSBicy5pZAogIFdIRVJFIChicy5pbnB1dF90b2tlbnMgPiAwIE9SIGJzLm91dHB1dF90b2tlbnMgPiAwKQogIEdST1VQIEJZIDEKICBPUkRFUiBCWSAxIEFTQwpgOwoKLy8g4pSA4pSAIDMuIFBlci1kYXk6IERheS1lbmQgcmVwb3J0IOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgApjb25zdCBkYXlScHREYWlseSA9IGF3YWl0IHNxbGAKICBTRUxFQ1QKICAgIHJlcG9ydF9kYXRlOjpkYXRlIEFTIGRheSwKICAgIGlucHV0X3Rva2VucyAgICAgIEFTIGlucCwKICAgIG91dHB1dF90b2tlbnMgICAgIEFTIG91dAogIEZST00gZGF5X3JlcG9ydHMKICBXSEVSRSBpbnB1dF90b2tlbnMgPiAwIE9SIG91dHB1dF90b2tlbnMgPiAwCiAgT1JERVIgQlkgMSBBU0MKYDsKCi8vIOKUgOKUgCBCdWlsZCB1bmlmaWVkIHRhYmxlIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgApjb25zdCBhbGxEYXlzID0gbmV3IFNldChbCiAgLi4udHJhbnNjcmlwdERhaWx5Lm1hcChyID0+IFN0cmluZyhyLmRheSkuc2xpY2UoMCwxMCkpLAogIC4uLnJtRGFpbHkubWFwKHIgPT4gU3RyaW5nKHIuZGF5KS5zbGljZSgwLDEwKSksCiAgLi4uZGF5UnB0RGFpbHkubWFwKHIgPT4gU3RyaW5nKHIuZGF5KS5zbGljZSgwLDEwKSksCl0pOwoKY29uc3QgdE1hcCAgPSBPYmplY3QuZnJvbUVudHJpZXModHJhbnNjcmlwdERhaWx5Lm1hcChyID0+IFtTdHJpbmcoci5kYXkpLnNsaWNlKDAsMTApLCByXSkpOwpjb25zdCByTWFwICA9IE9iamVjdC5mcm9tRW50cmllcyhybURhaWx5Lm1hcChyID0+IFtTdHJpbmcoci5kYXkpLnNsaWNlKDAsMTApLCByXSkpOwpjb25zdCBkTWFwICA9IE9iamVjdC5mcm9tRW50cmllcyhkYXlScHREYWlseS5tYXAociA9PiBbU3RyaW5nKHIuZGF5KS5zbGljZSgwLDEwKSwgcl0pKTsKCmNvbnNvbGUubG9nKCdcbuKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkCcpOwpjb25zb2xlLmxvZygnICAgICAgICAgICAgICAgICAgIENMQVVERSBBUEkg4oCUIEZVTEwgQ09TVCBCUkVBS0RPV04gICAgICAgICAgICAgICAgICAgICcpOwpjb25zb2xlLmxvZygn4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQXG4nKTsKY29uc29sZS5sb2coJ1ByaWNpbmc6ICQzLjAwLzFNIGlucHV0IHRva2VucyDCtyAkMTUuMDAvMU0gb3V0cHV0IHRva2Vuc1xuJyk7CgpsZXQgZ3JhbmRUb3RJbnAgPSAwLCBncmFuZFRvdE91dCA9IDAsIGdyYW5kVG90Q2FsbHMgPSAwLCBncmFuZFRvdEF1ZGlvID0gMDsKCmNvbnN0IHJvd3MgPSBbXTsKCmZvciAoY29uc3QgZGF5IG9mIFsuLi5hbGxEYXlzXS5zb3J0KCkpIHsKICBjb25zdCB0ICA9IHRNYXBbZGF5XSAgfHwgeyBjYWxsczogMCwgaW5wOiAwLCBvdXQ6IDAsIGF1ZGlvX3NlYzogMCB9OwogIGNvbnN0IHIgID0gck1hcFtkYXldICB8fCB7IGlucDogMCwgb3V0OiAwIH07CiAgY29uc3QgZCAgPSBkTWFwW2RheV0gIHx8IHsgaW5wOiAwLCBvdXQ6IDAgfTsKCiAgY29uc3QgdElucCAgPSBOdW1iZXIodC5pbnAgIHx8IDApLCB0T3V0ICA9IE51bWJlcih0Lm91dCAgfHwgMCk7CiAgY29uc3QgcklucCAgPSBOdW1iZXIoci5pbnAgIHx8IDApLCByT3V0ICA9IE51bWJlcihyLm91dCAgfHwgMCk7CiAgY29uc3QgZElucCAgPSBOdW1iZXIoZC5pbnAgIHx8IDApLCBkT3V0ICA9IE51bWJlcihkLm91dCAgfHwgMCk7CgogIGNvbnN0IHRvdGFsSW5wID0gdElucCArIHJJbnAgKyBkSW5wOwogIGNvbnN0IHRvdGFsT3V0ID0gdE91dCArIHJPdXQgKyBkT3V0OwogIGNvbnN0IHRvdGFsQ29zdCA9IGNvc3QodG90YWxJbnAsIHRvdGFsT3V0KTsKCiAgZ3JhbmRUb3RJbnAgICArPSB0b3RhbElucDsKICBncmFuZFRvdE91dCAgICs9IHRvdGFsT3V0OwogIGdyYW5kVG90Q2FsbHMgKz0gTnVtYmVyKHQuY2FsbHMgfHwgMCk7CiAgZ3JhbmRUb3RBdWRpbyArPSBOdW1iZXIodC5hdWRpb19zZWMgfHwgMCk7CgogIHJvd3MucHVzaCh7CiAgICBEYXRlOiAgICAgICAgICBkYXksCiAgICBDYWxsczogICAgICAgICBOdW1iZXIodC5jYWxscyB8fCAwKSwKICAgICdUYWxrIFRpbWUnOiAgIHQuYXVkaW9fc2VjID8gYCR7KE51bWJlcih0LmF1ZGlvX3NlYykvMzYwMCkudG9GaXhlZCgxKX1oYCA6ICfigJQnLAogICAgLy8gVHJhbnNjcmlwdAogICAgJ1TCt0lucHV0JzogICAgIGZtdFRvayh0SW5wKSwKICAgICdUwrdPdXRwdXQnOiAgICBmbXRUb2sodE91dCksCiAgICAnVMK3Q29zdCc6ICAgICAgZm10KGNvc3QodElucCwgdE91dCkpLAogICAgLy8gUk0gcmVwb3J0CiAgICAnUk3Ct0lucHV0JzogICAgcklucCA+IDAgPyBmbXRUb2socklucCkgOiAn4oCUJywKICAgICdSTcK3T3V0cHV0JzogICByT3V0ID4gMCA/IGZtdFRvayhyT3V0KSA6ICfigJQnLAogICAgJ1JNwrdDb3N0JzogICAgIHJJbnAgKyByT3V0ID4gMCA/IGZtdChjb3N0KHJJbnAsIHJPdXQpKSA6ICfigJQnLAogICAgLy8gRGF5LWVuZCByZXBvcnQKICAgICdEUsK3SW5wdXQnOiAgICBkSW5wID4gMCA/IGZtdFRvayhkSW5wKSA6ICfigJQnLAogICAgJ0RSwrdPdXRwdXQnOiAgIGRPdXQgPiAwID8gZm10VG9rKGRPdXQpIDogJ+KAlCcsCiAgICAnRFLCt0Nvc3QnOiAgICAgZElucCArIGRPdXQgPiAwID8gZm10KGNvc3QoZElucCwgZE91dCkpIDogJ+KAlCcsCiAgICAvLyBUb3RhbAogICAgJ1RPVEFMIFVTRCc6ICAgZm10KHRvdGFsQ29zdCksCiAgICAnVE9UQUwgSU5SJzogICBmbXRJbnIodG90YWxDb3N0KSwKICB9KTsKfQoKY29uc29sZS50YWJsZShyb3dzKTsKCmNvbnN0IGdyYW5kQ29zdCA9IGNvc3QoZ3JhbmRUb3RJbnAsIGdyYW5kVG90T3V0KTsKY29uc3QgZ3JhbmRIcnMgID0gZ3JhbmRUb3RBdWRpbyAvIDM2MDA7Cgpjb25zb2xlLmxvZygnXG5HUkFORCBUT1RBTFMgKG91ciBEQiknKTsKY29uc29sZS5sb2coYCAgQ2FsbHMgYW5hbHlzZWQgICA6ICR7Z3JhbmRUb3RDYWxsc31gKTsKY29uc29sZS5sb2coYCAgQXVkaW8gcHJvY2Vzc2VkICA6ICR7Z3JhbmRIcnMudG9GaXhlZCgxKX1oYCk7CmNvbnNvbGUubG9nKGAgIElucHV0IHRva2VucyAgICAgOiAke2ZtdFRvayhncmFuZFRvdElucCl9ICgkeyhncmFuZFRvdElucC8xXzAwMF8wMDApLnRvRml4ZWQoMyl9TSlgKTsKY29uc29sZS5sb2coYCAgT3V0cHV0IHRva2VucyAgICA6ICR7Zm10VG9rKGdyYW5kVG90T3V0KX0gKCR7KGdyYW5kVG90T3V0LzFfMDAwXzAwMCkudG9GaXhlZCgzKX1NKWApOwpjb25zb2xlLmxvZyhgICBUb3RhbCBjb3N0ICAgICAgIDogJHtmbXQoZ3JhbmRDb3N0KX0gIOKJiCAgJHtmbXRJbnIoZ3JhbmRDb3N0KX0gKEAg4oK5JHtVU0RfVE9fSU5SfS9VU0QpYCk7CmNvbnNvbGUubG9nKGAgIEF2ZyBjb3N0L2NhbGwgICAgOiAkJHsoZ3JhbmRDb3N0L2dyYW5kVG90Q2FsbHMpLnRvRml4ZWQoNCl9YCk7CmNvbnNvbGUubG9nKGAgIEF2ZyBpbnB1dC9jYWxsICAgOiAke2ZtdFRvayhncmFuZFRvdElucC9ncmFuZFRvdENhbGxzKX1gKTsKY29uc29sZS5sb2coYCAgQXZnIG91dHB1dC9jYWxsICA6ICR7Zm10VG9rKGdyYW5kVG90T3V0L2dyYW5kVG90Q2FsbHMpfWApOwoKLy8g4pSA4pSAIENsYXVkZSBkYXNoYm9hcmQgdG90YWxzIChyZWFkIGZyb20gc2NyZWVuc2hvdCkg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACi8vIEFudGhyb3BpYyBkYXNoYm9hcmQgQ1NWIChBcHIgMjMg4oCTIE1heSA0LCBjYWxsLWFuYWx5c2lzIGtleSBvbmx5KToKY29uc3QgYW50aHJvcGljRGFzaGJvYXJkID0gWwogIHsgZGF0ZTogJzIwMjYtMDQtMjMnLCBpbnA6IDAuOTAsICBvdXQ6IDEuMzMgfSwKICB7IGRhdGU6ICcyMDI2LTA0LTI0JywgaW5wOiAwLjQyLCAgb3V0OiAwLjIzIH0sCiAgeyBkYXRlOiAnMjAyNi0wNC0yNycsIGlucDogMi4yNywgIG91dDogMy4yOSB9LAogIHsgZGF0ZTogJzIwMjYtMDQtMjgnLCBpbnA6IDEuNzgsICBvdXQ6IDAuMTUgKyAxLjQwIH0sCiAgeyBkYXRlOiAnMjAyNi0wNC0yOScsIGlucDogMS4xMCwgIG91dDogMS40NiB9LAogIHsgZGF0ZTogJzIwMjYtMDQtMzAnLCBpbnA6IDAuNzMsICBvdXQ6IDEuMjYgfSwKICB7IGRhdGU6ICcyMDI2LTA1LTA0JywgaW5wOiAwLjkxLCAgb3V0OiAxLjExIH0sCl07CmNvbnN0IGRhc2hUb3RhbCA9IGFudGhyb3BpY0Rhc2hib2FyZC5yZWR1Y2UoKHMsIHIpID0+IHMgKyByLmlucCArIHIub3V0LCAwKTsKCmNvbnNvbGUubG9nKCdcblxuQU5USFJPUElDIERBU0hCT0FSRCB2cyBPVVIgREIgKGNyb3NzLWNoZWNrKScpOwpjb25zb2xlLmxvZygn4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSAJyk7CmNvbnNvbGUubG9nKCdBbnRocm9waWMgZGFzaGJvYXJkIHNob3dzIChBcHIgMjMg4oCTIE1heSA0LCBjb3N0X3VzZCBjb2x1bW4pOicpOwpjb25zb2xlLnRhYmxlKGFudGhyb3BpY0Rhc2hib2FyZC5tYXAociA9PiAoewogIERhdGU6IHIuZGF0ZSwKICAnSW5wdXQgJCc6IHIuaW5wLnRvRml4ZWQoMiksCiAgJ091dHB1dCAkJzogci5vdXQudG9GaXhlZCgyKSwKICAnVG90YWwgJCc6IChyLmlucCArIHIub3V0KS50b0ZpeGVkKDIpLAp9KSkpOwpjb25zb2xlLmxvZyhgICBEYXNoYm9hcmQgdG90YWwgIDogJCR7ZGFzaFRvdGFsLnRvRml4ZWQoMil9YCk7CmNvbnNvbGUubG9nKGAgIE91ciBEQiB0b3RhbCAgICAgOiAke2ZtdChncmFuZENvc3QpfWApOwpjb25zb2xlLmxvZyhgICBHYXAgICAgICAgICAgICAgIDogJCR7TWF0aC5hYnMoZ3JhbmRDb3N0IC0gZGFzaFRvdGFsKS50b0ZpeGVkKDIpfWApOwpjb25zb2xlLmxvZygnXG5Ob3RlOiBHYXAgZHVlIHRvIEFwciAyMiBkYXRhIGluIG91ciBEQiBidXQgbm90IGluIENsYXVkZSBkYXNoYm9hcmQgZXhwb3J0LCcpOwpjb25zb2xlLmxvZygnYW5kIE1heSAxLTMgaW4gb3VyIERCIGJ1dCBzaG93biBhcyBNYXkgNCBpbiBDbGF1ZGUgKFVUQyB2cyBJU1QgdGltZXpvbmUgb2Zmc2V0KS4nKTsK"}
+import { neon } from '@neondatabase/serverless';
+import { readFileSync } from 'fs';
+import { resolve, dirname } from 'path';
+import { fileURLToPath } from 'url';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const envText = readFileSync(resolve(__dirname, '../.env.local'), 'utf8');
+for (const line of envText.split('\n')) {
+  const t = line.trim(); if (!t || t.startsWith('#')) continue;
+  const i = t.indexOf('='); if (i < 0) continue;
+  const k = t.slice(0, i).trim();
+  let v = t.slice(i+1).trim().replace(/^"/,'').replace(/"$/,'').replace(/\\n/g,'');
+  process.env[k] = v;
+}
+
+const sql = neon(process.env.DATABASE_URL);
+
+// Pricing
+const PRICE_IN  = 3.0  / 1_000_000;   // $3.00 per 1M input tokens
+const PRICE_OUT = 15.0 / 1_000_000;   // $15.00 per 1M output tokens
+const USD_TO_INR = 84;                 // approx exchange rate
+
+function cost(inp, out) { return inp * PRICE_IN + out * PRICE_OUT; }
+function fmt(n) { return `$${n.toFixed(4)}`; }
+function fmtInr(n) { return `₹${(n * USD_TO_INR).toFixed(2)}`; }
+function fmtTok(n) { return `${(n/1000).toFixed(1)}K`; }
+
+// ── 1. Per-day: Transcript analysis (reports table) ───────────────────────
+const transcriptDaily = await sql`
+  SELECT
+    COALESCE(DATE(bs.session_date), DATE(c.created_at AT TIME ZONE 'Asia/Kolkata')) AS day,
+    COUNT(*)                          AS calls,
+    SUM(r.input_tokens)               AS inp,
+    SUM(r.output_tokens)              AS out,
+    SUM(c.duration_sec)               AS audio_sec
+  FROM reports r
+  JOIN calls c ON c.id = r.call_id
+  LEFT JOIN bulk_sessions bs ON bs.id = c.session_id
+  WHERE (r.input_tokens > 0 OR r.output_tokens > 0)
+  GROUP BY 1
+  ORDER BY 1 ASC
+`;
+
+// ── 2. Per-day: RM report generation delta (bulk_sessions minus per-call) ──
+const rmDaily = await sql`
+  SELECT
+    DATE(bs.session_date) AS day,
+    SUM(bs.input_tokens  - COALESCE(r_agg.total_in,  0)) AS inp,
+    SUM(bs.output_tokens - COALESCE(r_agg.total_out, 0)) AS out
+  FROM bulk_sessions bs
+  LEFT JOIN (
+    SELECT c.session_id,
+      COALESCE(SUM(r.input_tokens),  0) AS total_in,
+      COALESCE(SUM(r.output_tokens), 0) AS total_out
+    FROM calls c JOIN reports r ON r.call_id = c.id
+    GROUP BY c.session_id
+  ) r_agg ON r_agg.session_id = bs.id
+  WHERE (bs.input_tokens > 0 OR bs.output_tokens > 0)
+  GROUP BY 1
+  ORDER BY 1 ASC
+`;
+
+// ── 3. Per-day: Day-end report ─────────────────────────────────────────────
+const dayRptDaily = await sql`
+  SELECT
+    report_date::date AS day,
+    input_tokens      AS inp,
+    output_tokens     AS out
+  FROM day_reports
+  WHERE input_tokens > 0 OR output_tokens > 0
+  ORDER BY 1 ASC
+`;
+
+// ── Build unified table ────────────────────────────────────────────────────
+const allDays = new Set([
+  ...transcriptDaily.map(r => String(r.day).slice(0,10)),
+  ...rmDaily.map(r => String(r.day).slice(0,10)),
+  ...dayRptDaily.map(r => String(r.day).slice(0,10)),
+]);
+
+const tMap  = Object.fromEntries(transcriptDaily.map(r => [String(r.day).slice(0,10), r]));
+const rMap  = Object.fromEntries(rmDaily.map(r => [String(r.day).slice(0,10), r]));
+const dMap  = Object.fromEntries(dayRptDaily.map(r => [String(r.day).slice(0,10), r]));
+
+console.log('\n═══════════════════════════════════════════════════════════════════════');
+console.log('                   CLAUDE API — FULL COST BREAKDOWN                    ');
+console.log('═══════════════════════════════════════════════════════════════════════\n');
+console.log('Pricing: $3.00/1M input tokens · $15.00/1M output tokens\n');
+
+let grandTotInp = 0, grandTotOut = 0, grandTotCalls = 0, grandTotAudio = 0;
+
+const rows = [];
+
+for (const day of [...allDays].sort()) {
+  const t  = tMap[day]  || { calls: 0, inp: 0, out: 0, audio_sec: 0 };
+  const r  = rMap[day]  || { inp: 0, out: 0 };
+  const d  = dMap[day]  || { inp: 0, out: 0 };
+
+  const tInp  = Number(t.inp  || 0), tOut  = Number(t.out  || 0);
+  const rInp  = Number(r.inp  || 0), rOut  = Number(r.out  || 0);
+  const dInp  = Number(d.inp  || 0), dOut  = Number(d.out  || 0);
+
+  const totalInp = tInp + rInp + dInp;
+  const totalOut = tOut + rOut + dOut;
+  const totalCost = cost(totalInp, totalOut);
+
+  grandTotInp   += totalInp;
+  grandTotOut   += totalOut;
+  grandTotCalls += Number(t.calls || 0);
+  grandTotAudio += Number(t.audio_sec || 0);
+
+  rows.push({
+    Date:          day,
+    Calls:         Number(t.calls || 0),
+    'Talk Time':   t.audio_sec ? `${(Number(t.audio_sec)/3600).toFixed(1)}h` : '—',
+    // Transcript
+    'T·Input':     fmtTok(tInp),
+    'T·Output':    fmtTok(tOut),
+    'T·Cost':      fmt(cost(tInp, tOut)),
+    // RM report
+    'RM·Input':    rInp > 0 ? fmtTok(rInp) : '—',
+    'RM·Output':   rOut > 0 ? fmtTok(rOut) : '—',
+    'RM·Cost':     rInp + rOut > 0 ? fmt(cost(rInp, rOut)) : '—',
+    // Day-end report
+    'DR·Input':    dInp > 0 ? fmtTok(dInp) : '—',
+    'DR·Output':   dOut > 0 ? fmtTok(dOut) : '—',
+    'DR·Cost':     dInp + dOut > 0 ? fmt(cost(dInp, dOut)) : '—',
+    // Total
+    'TOTAL USD':   fmt(totalCost),
+    'TOTAL INR':   fmtInr(totalCost),
+  });
+}
+
+console.table(rows);
+
+const grandCost = cost(grandTotInp, grandTotOut);
+const grandHrs  = grandTotAudio / 3600;
+
+console.log('\nGRAND TOTALS (our DB)');
+console.log(`  Calls analysed   : ${grandTotCalls}`);
+console.log(`  Audio processed  : ${grandHrs.toFixed(1)}h`);
+console.log(`  Input tokens     : ${fmtTok(grandTotInp)} (${(grandTotInp/1_000_000).toFixed(3)}M)`);
+console.log(`  Output tokens    : ${fmtTok(grandTotOut)} (${(grandTotOut/1_000_000).toFixed(3)}M)`);
+console.log(`  Total cost       : ${fmt(grandCost)}  ≈  ${fmtInr(grandCost)} (@ ₹${USD_TO_INR}/USD)`);
+console.log(`  Avg cost/call    : $${(grandCost/grandTotCalls).toFixed(4)}`);
+console.log(`  Avg input/call   : ${fmtTok(grandTotInp/grandTotCalls)}`);
+console.log(`  Avg output/call  : ${fmtTok(grandTotOut/grandTotCalls)}`);
+
+// ── Claude dashboard totals (read from screenshot) ─────────────────────────
+// Anthropic dashboard CSV (Apr 23 – May 4, call-analysis key only):
+const anthropicDashboard = [
+  { date: '2026-04-23', inp: 0.90,  out: 1.33 },
+  { date: '2026-04-24', inp: 0.42,  out: 0.23 },
+  { date: '2026-04-27', inp: 2.27,  out: 3.29 },
+  { date: '2026-04-28', inp: 1.78,  out: 0.15 + 1.40 },
+  { date: '2026-04-29', inp: 1.10,  out: 1.46 },
+  { date: '2026-04-30', inp: 0.73,  out: 1.26 },
+  { date: '2026-05-04', inp: 0.91,  out: 1.11 },
+];
+const dashTotal = anthropicDashboard.reduce((s, r) => s + r.inp + r.out, 0);
+
+console.log('\n\nANTHROPIC DASHBOARD vs OUR DB (cross-check)');
+console.log('─────────────────────────────────────────────────────────────────');
+console.log('Anthropic dashboard shows (Apr 23 – May 4, cost_usd column):');
+console.table(anthropicDashboard.map(r => ({
+  Date: r.date,
+  'Input $': r.inp.toFixed(2),
+  'Output $': r.out.toFixed(2),
+  'Total $': (r.inp + r.out).toFixed(2),
+})));
+console.log(`  Dashboard total  : $${dashTotal.toFixed(2)}`);
+console.log(`  Our DB total     : ${fmt(grandCost)}`);
+console.log(`  Gap              : $${Math.abs(grandCost - dashTotal).toFixed(2)}`);
+console.log('\nNote: Gap due to Apr 22 data in our DB but not in Claude dashboard export,');
+console.log('and May 1-3 in our DB but shown as May 4 in Claude (UTC vs IST timezone offset).');
