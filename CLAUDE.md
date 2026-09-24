@@ -59,7 +59,7 @@ Commit format: <type>(<scope>): <summary>
 | BLOB_READ_WRITE_TOKEN | Vercel Blob | all |
 | ANTHROPIC_API_KEY | Claude | all |
 | SARVAM_API_KEY | Sarvam STT | all |
-| GOOGLE_API_KEY | Google/Sonar helpers | all |
+| GOOGLE_API_KEY | Google helpers | all |
 | RESEND_API_KEY + RESEND_FROM_EMAIL + RESEND_TO_EMAIL | Transactional | all |
 | GMAIL_USER + GMAIL_APP_PASSWORD | Daily digest SMTP | prod |
 | DAILY_CALL_LIMIT | Per-RM rate limit | prod |
